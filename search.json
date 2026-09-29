@@ -1,0 +1,355 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sources & maintenance",
+    "section": "",
+    "text": "This public portal brings together Council research resources: assessment links, formatting tools, catch analyses, risk-table evidence, and SSC records. The topic pages link to existing public project websites and source repositories. Selected BSAI annual-catch products and the Tier 3 schematic are hosted here.",
+    "crumbs": [
+      "Sources & maintenance"
+    ]
+  },
+  {
+    "objectID": "about.html#scope-and-status",
+    "href": "about.html#scope-and-status",
+    "title": "Sources & maintenance",
+    "section": "Scope and status",
+    "text": "Scope and status\nThe original wiki was assembled on 24 September 2026. This public portal was prepared on 28 September 2026. Each linked analysis keeps its own date and scientific status. The ABC / TAC page explains the annual BSAI catch figure, its methods, and its data sources.\nExploratory analyses and schematic assumptions retain the descriptions supplied with each topic. Council decisions and assessment results should be traced to the cited source documents. The public resource directory lists the material shared here.",
+    "crumbs": [
+      "Sources & maintenance"
+    ]
+  },
+  {
+    "objectID": "about.html#internal-collaboration",
+    "href": "about.html#internal-collaboration",
+    "title": "Sources & maintenance",
+    "section": "Internal collaboration",
+    "text": "Internal collaboration\nInternal workspace (sign-in)\nInternal review material remains in the private workspace. Access requires an authorized GitHub account.",
+    "crumbs": [
+      "Sources & maintenance"
+    ]
+  },
+  {
+    "objectID": "about.html#use-and-maintain-the-portal",
+    "href": "about.html#use-and-maintain-the-portal",
+    "title": "Sources & maintenance",
+    "section": "Use and maintain the portal",
+    "text": "Use and maintain the portal\nUse sidebar search to find public topics and the resource directory to open reports, tools, data, or figure source. The SSC comments app links comments to the original public report pages.\nThe portal is generated from a selected public profile of the Council wiki. Updates are rendered and checked before publication. The public site repository contains the published website. The linked project repositories maintain their own analyses, code, releases, and update instructions.",
+    "crumbs": [
+      "Sources & maintenance"
+    ]
+  },
+  {
+    "objectID": "tier-3.html",
+    "href": "tier-3.html",
+    "title": "Tier 3 control rule",
+    "section": "",
+    "text": "This figure shows how ABC and OFL fishing-mortality limits change with biomass. The axes express biomass and fishing mortality relative to MSY reference points, the values associated with maximum sustainable yield. The illustration uses the assumptions listed below.",
+    "crumbs": [
+      "Catch & management",
+      "Tier 3 control rule"
+    ]
+  },
+  {
+    "objectID": "tier-3.html#assumptions-in-this-figure",
+    "href": "tier-3.html#assumptions-in-this-figure",
+    "title": "Tier 3 control rule",
+    "section": "Assumptions in this figure",
+    "text": "Assumptions in this figure\nThe script uses BMSY = B35, substitutes FMSY for F35, and assumes F40/FMSY = 0.75. The 0.75 ratio is an illustrative assumption; stock-specific Tier 3 ratios can differ. The script also assumes B35/B40 = 35/40 = 0.875 and sets alpha to 0.05 on the B/B40 scale.\nWith x = B/BMSY on the horizontal axis, both lines use this multiplier:\nh(x) = max(0, min(1, (0.875*x - 0.05) / 0.95))\nOFL line: F/FMSY = h(x)\nABC line: F/FMSY = 0.75*h(x)\nThe lines level off at x = 1/0.875, approximately 1.143. Fishing mortality reaches zero at x = 0.05/0.875, approximately 0.0571.",
+    "crumbs": [
+      "Catch & management",
+      "Tier 3 control rule"
+    ]
+  },
+  {
+    "objectID": "tier-3.html#interpretation",
+    "href": "tier-3.html#interpretation",
+    "title": "Tier 3 control rule",
+    "section": "Interpretation",
+    "text": "Interpretation\nThe shaded regions carry the labels overfished, below BMSY, and overfishing under this figure’s assumptions. When applying a control rule, use reference points from the stock assessment and the applicable management specification.\nRunning the R script creates the PNG and PDF at 8.5 × 5.75 inches. The wiki displays that figure with its original assumptions.",
+    "crumbs": [
+      "Catch & management",
+      "Tier 3 control rule"
+    ]
+  },
+  {
+    "objectID": "abc-reduction.html",
+    "href": "abc-reduction.html",
+    "title": "ABC reduction",
+    "section": "",
+    "text": "The main report compares BSAI and GOA groundfish risk-table scores with SSC reductions below maximum permissible ABC (maxABC) during 2018 to 2024. It explores the relationship through regressions and examples that translate risk scores into probabilities.",
+    "crumbs": [
+      "Catch & management",
+      "ABC reduction"
+    ]
+  },
+  {
+    "objectID": "abc-reduction.html#evidence-and-interpretation",
+    "href": "abc-reduction.html#evidence-and-interpretation",
+    "title": "ABC reduction",
+    "section": "Evidence and interpretation",
+    "text": "Evidence and interpretation\nThe risk-table data file contains 302 stock-year rows across 45 distinct stock labels. Completed risk tables account for part of this collection. The report’s regression analysis uses 21 quantified stock-year ABC reductions, entered by hand. It excludes years carried forward from previous advice and reductions without a stated amount.\nScoring conventions changed in 2019, 2023, and 2024. The report’s sensitivity analysis checks results after putting scores on a common scale. Consult this comparison when interpreting changes across years. The fitted relationships describe historical SSC behavior and remain exploratory.\nThe main report explores a proposal from the 2020 EBS Pacific cod assessment using assumed values for CV (coefficient of variation, a measure of relative uncertainty) and delta (position within the probability range assigned to a risk level). These scenarios are exploratory examples of a proposed decision rule.",
+    "crumbs": [
+      "Catch & management",
+      "ABC reduction"
+    ]
+  },
+  {
+    "objectID": "abc-reduction.html#sources-and-analysis-files",
+    "href": "abc-reduction.html#sources-and-analysis-files",
+    "title": "ABC reduction",
+    "section": "Sources and analysis files",
+    "text": "Sources and analysis files\n\n\n\nResource\nPurpose\n\n\n\n\nPublic report source\nRead or edit the analysis, hand-entered data, and assumptions\n\n\nRisk-table scores\nData copied from the source tables by stock and year\n\n\nRisk-table summary\nSummary of the source-table data\n\n\nTable extraction script\nRepeat the data extraction from the source tables\n\n\nThompson bibliography\nSource references\n\n\n\nUse SSC minutes to read the original comments about reductions, buffers, and model choices.\nThe linked public repository and report retain their own versions and dates.",
+    "crumbs": [
+      "Catch & management",
+      "ABC reduction"
+    ]
+  },
+  {
+    "objectID": "safe-audit.html",
+    "href": "safe-audit.html",
+    "title": "SAFE audit",
+    "section": "",
+    "text": "The SAFE audit collects assessment links from NPFMC and NOAA sources. Its tables help locate documents, examine stock coverage inferred from link details, and check inconsistent year labels or repeated filenames.",
+    "crumbs": [
+      "Assessment resources",
+      "SAFE audit"
+    ]
+  },
+  {
+    "objectID": "safe-audit.html#what-is-available",
+    "href": "safe-audit.html#what-is-available",
+    "title": "SAFE audit",
+    "section": "What is available",
+    "text": "What is available\nThe saved catalog contains 1,326 records, 41 inferred stocks, and 32 effective years spanning 1984 to 2026, with gaps. Effective years are inferred from document labels and page context. Each record describes a link and inferred document details. Counting distinct, verified assessments would require a separate check. The saved anomaly table contains three records.\n\n\n\nResource\nPurpose\n\n\n\n\nFull catalog\nInspect source web addresses, document links, and inferred document details\n\n\nStock inventory\nReview stock coverage\n\n\nYear/source counts\nCompare coverage across source collections\n\n\nAnomalies\nReview document details flagged for checking\n\n\nRepeated filenames\nCheck ambiguous or repeated filenames\n\n\nResolved NOAA links\nTrace cover-page links to downloadable documents",
+    "crumbs": [
+      "Assessment resources",
+      "SAFE audit"
+    ]
+  },
+  {
+    "objectID": "safe-audit.html#source-and-updates",
+    "href": "safe-audit.html#source-and-updates",
+    "title": "SAFE audit",
+    "section": "Source and updates",
+    "text": "Source and updates\nThe editable Quarto report, R link collection script, and audit instructions describe how to build and update the catalog.\nRebuilding the report reuses the saved catalog when it exists. To check external links again, run the link collection script as described in the instructions. Inspect the new tables before replacing the report.",
+    "crumbs": [
+      "Assessment resources",
+      "SAFE audit"
+    ]
+  },
+  {
+    "objectID": "safe-audit.html#related-resources",
+    "href": "safe-audit.html#related-resources",
+    "title": "SAFE audit",
+    "section": "Related resources",
+    "text": "Related resources\nUse the SAFE PDF Formatter for chapter headers and footers.",
+    "crumbs": [
+      "Assessment resources",
+      "SAFE audit"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Council wiki",
+    "section": "",
+    "text": "Research • assessment • management\n\n\nReports, tools, and source documents in one place.\n\nExplore public Council resources and follow the results back to their data and code. The wiki also includes an updated figure of annual BSAI groundfish catches.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#explore-the-projects",
+    "href": "index.html#explore-the-projects",
+    "title": "Council wiki",
+    "section": "Explore the projects",
+    "text": "Explore the projects\n\n\n\nAssessment archive\n\n\nSAFE audit\nFind assessment reports by stock and year, and review entries that need checking.\nOpen audit report\n\n\n\n\nDocument tool\n\n\nSAFE PDF Formatter\nFind the public Windows release, source code, and chapter formatting instructions.\nDownloads and instructions\n\n\n\n\nRisk-table evidence\n\n\nABC reduction\nReview past SSC reductions below maximum permissible ABC and their relationship to risk-table scores.\nOpen analysis\n\n\n\n\nCatch limits\n\n\nABC / TAC\nCompare catch limits and view annual BSAI groundfish catches through 2025.\nAnnual catch figure and data\n\n\n\n\nSources and status\n\n\nAbout this portal\nRead the scope of the public collection and find the source projects.\nSources and maintenance\n\n\n\n\nSearchable meeting records\n\n\nSSC minutes\nFind comments on stocks, ABC buffers and reductions, and assessment model choices in reports from 2000 to 2024.\nOpen SSC search app\n\n\n\n\nControl-rule illustration\n\n\nTier 3 control rule\nView the control-rule figure, read its assumptions, and open the R code used to draw it.\nView figure\n\n\n\n\nFiles and sources\n\n\nPublic resources\nFind public reports, tools, data tables, and selected figure downloads.\nBrowse public resources",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#bsai-total-catches-by-year",
+    "href": "index.html#bsai-total-catches-by-year",
+    "title": "Council wiki",
+    "section": "BSAI total catches by year",
+    "text": "BSAI total catches by year\n\n\n\n\n\n\nFigure 1: Annual BSAI groundfish catch reported by NOAA for 2013 to 2025, including CDQ. Catches range from approximately 1.61 to 1.95 million metric tons; the 2025 total is 1.774 million metric tons.\n\n\n\nThe figure covers 2013 to 2025 in the Bering Sea and Aleutian Islands (BSAI), including Community Development Quota (CDQ) catch. The 2025 total is 1,774,231 metric tons. Each value comes from the total-catch row in NOAA’s report through 31 December. The species included in those totals changed over time; the catch page explains those changes.\nView methods, source reports, and downloadable data\n\nAssembled 24 September 2026; public portal prepared 28 September 2026. Each linked report keeps its own date and review status. Sources and upkeep",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "safe-pdf-formatter.html",
+    "href": "safe-pdf-formatter.html",
+    "title": "SAFE PDF Formatter",
+    "section": "",
+    "text": "The formatter adds SAFE chapter headers, footers, draft text, and page numbers to PDFs. The chapter catalog and layout settings are editable.",
+    "crumbs": [
+      "Assessment resources",
+      "SAFE PDF Formatter"
+    ]
+  },
+  {
+    "objectID": "safe-pdf-formatter.html#start-here",
+    "href": "safe-pdf-formatter.html#start-here",
+    "title": "SAFE PDF Formatter",
+    "section": "Start here",
+    "text": "Start here\n\nDownload and unpack the complete Windows package, or follow the public repository’s instructions to run the Python source.\nKeep the settings and supporting files beside the application.\nSelect the PDFs, review the chapter names and settings assigned to each file, and create the formatted PDFs.\nInspect the output PDFs, including pages with landscape layouts or content near the margins.\n\nThe formatter preserves the original files and saves the formatted PDFs in a dated folder with a processing record. The added text requires enough free space in the original page margins.",
+    "crumbs": [
+      "Assessment resources",
+      "SAFE PDF Formatter"
+    ]
+  },
+  {
+    "objectID": "safe-pdf-formatter.html#editable-settings-and-code",
+    "href": "safe-pdf-formatter.html#editable-settings-and-code",
+    "title": "SAFE PDF Formatter",
+    "section": "Editable settings and code",
+    "text": "Editable settings and code\n\n\n\nPublic resource\nPurpose\n\n\n\n\nChapter catalog\nFilename, chapter heading, and region for each PDF\n\n\nLayout settings\nText placement and formatting settings\n\n\nApplication code\nEditable Python program\n\n\nWindows test record\nSaved checks of the packaged application\n\n\nWindows file check\nValues for checking the downloaded ZIP file",
+    "crumbs": [
+      "Assessment resources",
+      "SAFE PDF Formatter"
+    ]
+  },
+  {
+    "objectID": "safe-pdf-formatter.html#status",
+    "href": "safe-pdf-formatter.html#status",
+    "title": "SAFE PDF Formatter",
+    "section": "Status",
+    "text": "Status\nThe download points to the public v0.1.0 Windows release. The saved Windows test record reports 28 passing tests and a check of the application window after unpacking. These are the release’s saved results. The public repository supplies the current source and configuration, with their own version history.",
+    "crumbs": [
+      "Assessment resources",
+      "SAFE PDF Formatter"
+    ]
+  },
+  {
+    "objectID": "abc-tac.html",
+    "href": "abc-tac.html",
+    "title": "ABC / TAC and BSAI catches",
+    "section": "",
+    "text": "ABC_TAC compares the overfishing limit (OFL), acceptable biological catch (ABC), and total allowable catch (TAC) for groundfish in the Bering Sea and Aleutian Islands (BSAI) and Gulf of Alaska (GOA). The analysis examines changes from year to year, compares two-year projections with carrying forward the previous year’s value, and models how TAC varies with ABC.",
+    "crumbs": [
+      "Catch & management",
+      "ABC / TAC & catches"
+    ]
+  },
+  {
+    "objectID": "abc-tac.html#bsai-total-catches-by-year",
+    "href": "abc-tac.html#bsai-total-catches-by-year",
+    "title": "ABC / TAC and BSAI catches",
+    "section": "BSAI total catches by year",
+    "text": "BSAI total catches by year\n\n\n\n\n\n\nFigure 1: Annual BSAI groundfish catch reported by NOAA from 2013 through 2025, including Community Development Quota (CDQ) catch. The vertical axis measures million metric tons and starts at zero. The total is highest in 2016 at 1.952 million metric tons, lowest in 2022 at 1.607 million metric tons, and 1.774 million metric tons in 2025.\n\n\n\nThe figure uses NOAA’s annual BSAI groundfish catch reports including Community Development Quota (CDQ) catch, from 2013 through 2025. Each value comes from the Total Catch column in the report’s Total row and covers the year through 31 December. The 2025 total is 1,774,231 metric tons. Fishing continues in 2026, so the series ends with the complete 2025 year.\nABC_TAC keeps separate files for pollock catch and total BSAI groundfish catch. The figure uses the total groundfish series.\n\nDownload PNG Download SVG Download annual data",
+    "crumbs": [
+      "Catch & management",
+      "ABC / TAC & catches"
+    ]
+  },
+  {
+    "objectID": "abc-tac.html#coverage-and-source-checks",
+    "href": "abc-tac.html#coverage-and-source-checks",
+    "title": "ABC / TAC and BSAI catches",
+    "section": "Coverage and source checks",
+    "text": "Coverage and source checks\nThe totals cover the groundfish categories in each annual report, including CDQ catch. Other fisheries require separate catch records. The reports follow changes in management categories: squid is included through 2018, and sculpins through 2020. Comparisons between years therefore reflect changes in both catch and the species included.\nThe script reads the published total directly and checks it against the sum of catches for each area and fishing category. Differences of up to four metric tons are consistent with rounding. The annual data and check results include report dates, source links, download times, and file checksums that identify the source files used.\nThe sources are NOAA Alaska catch and landings reports. See the 2025 BSAI annual report and the link for each year in the CSV.",
+    "crumbs": [
+      "Catch & management",
+      "ABC / TAC & catches"
+    ]
+  },
+  {
+    "objectID": "abc-tac.html#rebuild-and-check-the-results",
+    "href": "abc-tac.html#rebuild-and-check-the-results",
+    "title": "ABC / TAC and BSAI catches",
+    "section": "Rebuild and check the results",
+    "text": "Rebuild and check the results\n\n\n\nResource\nPurpose\n\n\n\n\nScript for reading NOAA catch reports\nRebuild annual totals from saved or updated NOAA reports\n\n\nFigure script\nRegenerate the annual figure\n\n\nResults of data checks\nCheck the reported totals and source files\n\n\nProject README\nRebuild instructions and project structure\n\n\nMain analysis source\nAnalysis of annual OFL, ABC, and TAC values\n\n\nBSAI harvest specifications\nAnnual OFL, ABC, and TAC data\n\n\n\nThe main analysis links to the existing public ABC_TAC site, which retains its own version and date. The annual-catch figure and data were added for this wiki. The downloadable parser can retrieve the NOAA reports with --refresh; retain its scripts/, data/, and doc/ project layout when rebuilding.",
+    "crumbs": [
+      "Catch & management",
+      "ABC / TAC & catches"
+    ]
+  },
+  {
+    "objectID": "abc-tac.html#other-abc_tac-reports",
+    "href": "abc-tac.html#other-abc_tac-reports",
+    "title": "ABC / TAC and BSAI catches",
+    "section": "Other ABC_TAC reports",
+    "text": "Other ABC_TAC reports\n\nStoplight framework for choosing models for a combined analysis\nGOA optimum yield (OY) cap note\n\nUse ABC reduction for historical risk-table evidence and SSC minutes for the original meeting text.",
+    "crumbs": [
+      "Catch & management",
+      "ABC / TAC & catches"
+    ]
+  },
+  {
+    "objectID": "ssc-minutes.html",
+    "href": "ssc-minutes.html",
+    "title": "SSC minutes",
+    "section": "",
+    "text": "The SSC comments app links each extracted paragraph to its original report page. The public app snapshot checked for this portal contains 4,214 stock-comment records, 43 stock labels, and 30 distinct reports, covering 2000 to 2024.",
+    "crumbs": [
+      "Council records",
+      "SSC minutes"
+    ]
+  },
+  {
+    "objectID": "ssc-minutes.html#search-and-check-the-source",
+    "href": "ssc-minutes.html#search-and-check-the-source",
+    "title": "SSC minutes",
+    "section": "Search and check the source",
+    "text": "Search and check the source\nSearch by stock, fishery management plan (FMP), year, comment type, or text. Expand a record to read the full paragraph, then use Open page to read the source PDF.\nThe software matches words in the reports to assign stocks, FMPs, comment types, and model-choice labels. Some model-choice results need review. Check the original paragraph before concluding that the SSC selected a different model.\nCoverage follows the reports supplied to the public app. Check each original report’s date and status when interpreting its comments.",
+    "crumbs": [
+      "Council records",
+      "SSC minutes"
+    ]
+  },
+  {
+    "objectID": "ssc-minutes.html#data-and-maintenance",
+    "href": "ssc-minutes.html#data-and-maintenance",
+    "title": "SSC minutes",
+    "section": "Data and maintenance",
+    "text": "Data and maintenance\n\n\n\nResource\nPurpose\n\n\n\n\nComment data with report pages\nRecords used by this app\n\n\nStock summary\nStock/FMP counts\n\n\nReviewed model-choice labels\nHuman-reviewed labels that replace automatic labels\n\n\nData preparation script\nCreate the comment data and report-page links\n\n\nApp instructions\nHow to use the app, interpret its data, and update it\n\n\n\nThe counts above refer to the public search app and its linked comment data file as checked on 28 September 2026.",
+    "crumbs": [
+      "Council records",
+      "SSC minutes"
+    ]
+  },
+  {
+    "objectID": "ssc-minutes.html#related-analyses",
+    "href": "ssc-minutes.html#related-analyses",
+    "title": "SSC minutes",
+    "section": "Related analyses",
+    "text": "Related analyses\nSee ABC reduction for the risk-table analysis and ABC / TAC for harvest specifications and annual BSAI catches.",
+    "crumbs": [
+      "Council records",
+      "SSC minutes"
+    ]
+  },
+  {
+    "objectID": "library.html",
+    "href": "library.html",
+    "title": "Public resource directory",
+    "section": "",
+    "text": "These links lead to public project websites and source repositories. Selected catch and control-rule files are also available directly from this portal.",
+    "crumbs": [
+      "Public resources"
+    ]
+  },
+  {
+    "objectID": "library.html#reports-and-tools",
+    "href": "library.html#reports-and-tools",
+    "title": "Public resource directory",
+    "section": "Reports and tools",
+    "text": "Reports and tools\n\n\n\nResource\nAvailable material\n\n\n\n\nSAFE audit\nAssessment links and audit tables · source\n\n\nSAFE PDF Formatter\nInstructions and source · Windows release\n\n\nABC reduction\nHistorical risk-table analysis · source\n\n\nABC / TAC\nPublic harvest-specification analysis · source\n\n\nSSC comments app\nSearch comments and open their source pages · source",
+    "crumbs": [
+      "Public resources"
+    ]
+  },
+  {
+    "objectID": "library.html#files-included-with-this-portal",
+    "href": "library.html#files-included-with-this-portal",
+    "title": "Public resource directory",
+    "section": "Files included with this portal",
+    "text": "Files included with this portal\n\n\n\nResource\nFormat and scope\n\n\n\n\nBSAI annual catch figure\nPNG · SVG\n\n\nBSAI annual catch data\nCSV · 2013–2025, including CDQ\n\n\nCatch data checks\nJSON · checks against reported totals\n\n\nCatch parser\nPython source · reads NOAA annual reports\n\n\nCatch figure script\nR source · uses the annual CSV\n\n\nTier 3 schematic\nPNG · PDF\n\n\nTier 3 figure script\nEditable R source\n\n\n\nRead the annual catch coverage notes and Tier 3 assumptions when using these figures.",
+    "crumbs": [
+      "Public resources"
+    ]
+  }
+]
