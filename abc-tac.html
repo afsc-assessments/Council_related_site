@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Harvest-specification analyses and annual BSAI groundfish catches through 2025.">
+<meta name="description" content="Annual groundfish catch histories, ABC, TAC, and OFL, with data downloads and source coverage.">
 
-<title>ABC / TAC and BSAI catches – Council wiki</title>
+<title>GOA and BSAI catch and harvest specifications – Council wiki</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -219,9 +219,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul class="collapse">
-  <li><a href="#bsai-total-catches-by-year" id="toc-bsai-total-catches-by-year" class="nav-link active" data-scroll-target="#bsai-total-catches-by-year">BSAI total catches by year</a></li>
-  <li><a href="#coverage-and-source-checks" id="toc-coverage-and-source-checks" class="nav-link" data-scroll-target="#coverage-and-source-checks">Coverage and source checks</a></li>
-  <li><a href="#rebuild-and-check-the-results" id="toc-rebuild-and-check-the-results" class="nav-link" data-scroll-target="#rebuild-and-check-the-results">Rebuild and check the results</a></li>
+  <li><a href="#coverage-and-downloads" id="toc-coverage-and-downloads" class="nav-link active" data-scroll-target="#coverage-and-downloads">Coverage and downloads</a></li>
+  <li><a href="#regional-catch-history-20032025" id="toc-regional-catch-history-20032025" class="nav-link" data-scroll-target="#regional-catch-history-20032025">Regional catch history, 2003–2025</a></li>
+  <li><a href="#harvest-specification-history-from-1986" id="toc-harvest-specification-history-from-1986" class="nav-link" data-scroll-target="#harvest-specification-history-from-1986">Harvest-specification history, from 1986</a></li>
+  <li><a href="#bsai-total-catches-by-year" id="toc-bsai-total-catches-by-year" class="nav-link" data-scroll-target="#bsai-total-catches-by-year">NOAA quota-account totals, 2013–2025</a></li>
+  <li><a href="#sources-and-reproducibility" id="toc-sources-and-reproducibility" class="nav-link" data-scroll-target="#sources-and-reproducibility">Sources and reproducibility</a></li>
   <li><a href="#other-abc_tac-reports" id="toc-other-abc_tac-reports" class="nav-link" data-scroll-target="#other-abc_tac-reports">Other ABC_TAC reports</a></li>
   </ul>
 </nav>
@@ -231,12 +233,12 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./abc-reduction.html">Catch &amp; management</a></li><li class="breadcrumb-item"><a href="./abc-tac.html">ABC / TAC &amp; catches</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">ABC / TAC and BSAI catches</h1>
+<h1 class="title">GOA and BSAI catch and harvest specifications</h1>
 </div>
 
 <div>
   <div class="description">
-    Harvest-specification analyses and annual BSAI groundfish catches through 2025.
+    Annual groundfish catch histories, ABC, TAC, and OFL, with data downloads and source coverage.
   </div>
 </div>
 
@@ -253,77 +255,144 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>ABC_TAC compares the overfishing limit (OFL), acceptable biological catch (ABC), and total allowable catch (TAC) for groundfish in the Bering Sea and Aleutian Islands (BSAI) and Gulf of Alaska (GOA). The analysis examines changes from year to year, compares two-year projections with carrying forward the previous year’s value, and models how TAC varies with ABC.</p>
+<p>The Gulf of Alaska (GOA) and Bering Sea and Aleutian Islands (BSAI) series below bring together <strong>realized catch</strong> and <strong>harvest specifications</strong>. Acceptable biological catch (ABC), total allowable catch (TAC), and the overfishing limit (OFL) describe management quantities; realized catch describes removals recorded by the source.</p>
 <div class="resource-links">
-<p><a href="https://jimianelli.github.io/ABC_TAC/">Open existing ABC / TAC analysis</a> <a href="#bsai-total-catches-by-year">Annual catch methods and data</a> <a href="https://github.com/jimianelli/ABC_TAC">Public source repository</a></p>
+<p><a href="./library.html#goa-and-bsai-time-series">Download annual time series</a> <a href="https://jimianelli.github.io/ABC_TAC/">Open the ABC/TAC analysis</a> <a href="https://www.fisheries.noaa.gov/alaska/commercial-fishing/fisheries-catch-and-landings-reports-alaska">NOAA catch-report index</a></p>
 </div>
-<section id="bsai-total-catches-by-year" class="level2">
-<h2 class="anchored" data-anchor-id="bsai-total-catches-by-year">BSAI total catches by year</h2>
-<div id="fig-bsai-catch" class="quarto-float quarto-figure quarto-figure-center anchored" alt="Annual BSAI groundfish catch including CDQ, from 2013 through 2025. The vertical axis starts at zero. Catch peaks at 1.952 million metric tons in 2016, falls to 1.607 million in 2022, and reaches 1.774 million in 2025.">
-<figure class="quarto-float quarto-float-fig figure">
-<div aria-describedby="fig-bsai-catch-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<a href="resources/ABC_TAC/doc/figures/bsai-total-catch-by-year.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Figure&nbsp;1: Annual BSAI groundfish catch reported by NOAA from 2013 through 2025, including Community Development Quota (CDQ) catch. The vertical axis measures million metric tons and starts at zero. The total is highest in 2016 at 1.952 million metric tons, lowest in 2022 at 1.607 million metric tons, and 1.774 million metric tons in 2025."><img src="resources/ABC_TAC/doc/figures/bsai-total-catch-by-year.png" class="img-fluid figure-img" alt="Annual BSAI groundfish catch including CDQ, from 2013 through 2025. The vertical axis starts at zero. Catch peaks at 1.952 million metric tons in 2016, falls to 1.607 million in 2022, and reaches 1.774 million in 2025."></a>
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-bsai-catch-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;1: Annual BSAI groundfish catch reported by NOAA from 2013 through 2025, including Community Development Quota (CDQ) catch. The vertical axis measures million metric tons and starts at zero. The total is highest in 2016 at 1.952 million metric tons, lowest in 2022 at 1.607 million metric tons, and 1.774 million metric tons in 2025.
-</figcaption>
-</figure>
-</div>
-<p>The figure uses NOAA’s annual BSAI groundfish catch reports including Community Development Quota (CDQ) catch, from 2013 through 2025. Each value comes from the <strong>Total Catch</strong> column in the report’s <strong>Total</strong> row and covers the year through 31 December. The 2025 total is <strong>1,774,231 metric tons</strong>. Fishing continues in 2026, so the series ends with the complete 2025 year.</p>
-<p>ABC_TAC keeps separate files for pollock catch and total BSAI groundfish catch. The figure uses the total groundfish series.</p>
-<div class="resource-links">
-<p><a href="resources/ABC_TAC/doc/figures/bsai-total-catch-by-year.png">Download PNG</a> <a href="resources/ABC_TAC/doc/figures/bsai-total-catch-by-year.svg">Download SVG</a> <a href="resources/ABC_TAC/data/BSAI_total_catch_by_year.csv">Download annual data</a></p>
-</div>
-</section>
-<section id="coverage-and-source-checks" class="level2">
-<h2 class="anchored" data-anchor-id="coverage-and-source-checks">Coverage and source checks</h2>
-<p>The totals cover the groundfish categories in each annual report, including CDQ catch. Other fisheries require separate catch records. The reports follow changes in management categories: squid is included through 2018, and sculpins through 2020. Comparisons between years therefore reflect changes in both catch and the species included.</p>
-<p>The script reads the published total directly and checks it against the sum of catches for each area and fishing category. Differences of up to four metric tons are consistent with rounding. The annual data and check results include report dates, source links, download times, and file checksums that identify the source files used.</p>
-<p>The sources are <a href="https://www.fisheries.noaa.gov/alaska/commercial-fishing/fisheries-catch-and-landings-reports-alaska">NOAA Alaska catch and landings reports</a>. See the <a href="https://www.fisheries.noaa.gov/sites/default/files/akro/car110_bsai_with_cdq2025.html">2025 BSAI annual report</a> and the link for each year in the CSV.</p>
-</section>
-<section id="rebuild-and-check-the-results" class="level2">
-<h2 class="anchored" data-anchor-id="rebuild-and-check-the-results">Rebuild and check the results</h2>
+<section id="coverage-and-downloads" class="level2">
+<h2 class="anchored" data-anchor-id="coverage-and-downloads">Coverage and downloads</h2>
 <table class="caption-top table">
 <thead>
 <tr class="header">
-<th>Resource</th>
-<th>Purpose</th>
+<th>Region and series</th>
+<th>Available years</th>
+<th>Download</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="resources/ABC_TAC/scripts/build_bsai_total_catch.py">Script for reading NOAA catch reports</a></td>
-<td>Rebuild annual totals from saved or updated NOAA reports</td>
+<td><strong>BSAI catch — AKFIN Economic SAFE</strong></td>
+<td><strong>2003–2025</strong> · preliminary</td>
+<td><a href="resources/ABC_TAC/data/BSAI_AKFIN_groundfish_catch_by_year.csv">BSAI catch CSV</a></td>
 </tr>
 <tr class="even">
-<td><a href="resources/ABC_TAC/R/plot_bsai_total_catch.R">Figure script</a></td>
-<td>Regenerate the annual figure</td>
+<td><strong>GOA catch — AKFIN Economic SAFE</strong></td>
+<td><strong>2003–2025</strong> · preliminary</td>
+<td><a href="resources/ABC_TAC/data/GOA_AKFIN_groundfish_catch_by_year.csv">GOA catch CSV</a></td>
 </tr>
 <tr class="odd">
-<td><a href="resources/ABC_TAC/data/BSAI_total_catch_validation.json">Results of data checks</a></td>
-<td>Check the reported totals and source files</td>
+<td><strong>BSAI ABC, TAC, and OFL — ABC_TAC compilation</strong></td>
+<td><strong>1986–2026</strong> · availability varies by measure</td>
+<td><a href="resources/ABC_TAC/data/BSAI_harvest_specifications_by_year.csv">BSAI specs CSV</a></td>
 </tr>
 <tr class="even">
-<td><a href="https://github.com/jimianelli/ABC_TAC/blob/main/README.md">Project README</a></td>
-<td>Rebuild instructions and project structure</td>
+<td><strong>GOA ABC, TAC, and OFL — ABC_TAC compilation</strong></td>
+<td><strong>1986–2024</strong> · availability varies by measure</td>
+<td><a href="resources/ABC_TAC/data/GOA_harvest_specifications_by_year.csv">GOA specs CSV</a></td>
 </tr>
 <tr class="odd">
-<td><a href="https://github.com/jimianelli/ABC_TAC/blob/main/doc/index.qmd">Main analysis source</a></td>
-<td>Analysis of annual OFL, ABC, and TAC values</td>
+<td>BSAI catch — NOAA CAR110 accounts, including CDQ</td>
+<td>2013–2025</td>
+<td><a href="resources/ABC_TAC/data/BSAI_total_catch_2013_2025.csv">BSAI NOAA catch CSV</a></td>
 </tr>
 <tr class="even">
-<td><a href="https://github.com/jimianelli/ABC_TAC/blob/main/data/BSAI_OFL_ABC_TAC.csv">BSAI harvest specifications</a></td>
-<td>Annual OFL, ABC, and TAC data</td>
+<td>GOA catch — NOAA CAR110 accounts</td>
+<td>2013–2025</td>
+<td><a href="resources/ABC_TAC/data/GOA_total_catch_2013_2025.csv">GOA NOAA catch CSV</a></td>
 </tr>
 </tbody>
 </table>
-<p>The main analysis links to the existing public ABC_TAC site, which retains its own version and date. The annual-catch figure and data were added for this wiki. The downloadable parser can retrieve the NOAA reports with <code>--refresh</code>; retain its <code>scripts/</code>, <code>data/</code>, and <code>doc/</code> project layout when rebuilding.</p>
+<p><a href="resources/ABC_TAC/data/AKFIN_groundfish_catch_2003-2025.csv">Combined AKFIN catch CSV</a> · <a href="resources/ABC_TAC/data/BSAI_GOA_harvest_specifications_by_year.csv">Combined specifications CSV</a> · <a href="./abc-tac.html">Figures, annual tables, and source notes</a></p>
+<p>All CSV values are in <strong>metric tons</strong>. The downloads contain each source’s full available annual series in the stated range. Catch totals follow the source’s coverage; AKFIN and NOAA CAR110 are separate series. The specifications retain missing values and identify sums with missing entries. The GOA specifications source ends in 2024. Updated <strong>29 September 2026</strong>.</p>
+</section>
+<section id="regional-catch-history-20032025" class="level2">
+<h2 class="anchored" data-anchor-id="regional-catch-history-20032025">Regional catch history, 2003–2025</h2>
+<p>The public <strong>AKFIN Economic SAFE report GFSAFE001</strong> supplies the full 2003–2025 catch history available through that report for both regions. The source labels these data <strong>preliminary</strong> and reports a refresh date of <strong>15 September 2026</strong>. Values include retained and discarded FMP groundfish catch, including groundfish caught while targeting halibut. The catch definition follows the source throughout this series.</p>
+<div id="fig-akfin-catch" class="quarto-float quarto-figure quarto-figure-center anchored" alt="Two time-series panels show annual BSAI and GOA groundfish catch from 2003 through 2025 in million metric tons. The downloadable annual table supplies every value. AKFIN marks this series preliminary.">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-akfin-catch-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="resources/ABC_TAC/doc/figures/akfin-regional-catch-by-year.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Figure&nbsp;1: Annual groundfish catch in separate BSAI and GOA panels, 2003–2025. Values come from the preliminary AKFIN Economic SAFE report GFSAFE001. Each vertical axis begins at zero."><img src="resources/ABC_TAC/doc/figures/akfin-regional-catch-by-year.png" class="img-fluid figure-img" alt="Two time-series panels show annual BSAI and GOA groundfish catch from 2003 through 2025 in million metric tons. The downloadable annual table supplies every value. AKFIN marks this series preliminary."></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-akfin-catch-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Annual groundfish catch in separate BSAI and GOA panels, 2003–2025. Values come from the preliminary AKFIN Economic SAFE report GFSAFE001. Each vertical axis begins at zero.
+</figcaption>
+</figure>
+</div>
+<p>The 2025 values are <strong>1,794,251 metric tons for BSAI</strong> and <strong>245,152 metric tons for GOA</strong>. These are the AKFIN series values. NOAA CAR110 totals, described below, use a different set of catch accounts.</p>
+<p><a href="resources/ABC_TAC/doc/figures/akfin-regional-catch-by-year.png">PNG figure</a> · <a href="resources/ABC_TAC/doc/figures/akfin-regional-catch-by-year.svg">SVG figure</a> · <a href="resources/ABC_TAC/doc/tables/akfin-regional-catch-by-year.html">Annual catch table</a> · <a href="https://reports.psmfc.org/akfin/f?p=501:2001">AKFIN public reports</a></p>
+</section>
+<section id="harvest-specification-history-from-1986" class="level2">
+<h2 class="anchored" data-anchor-id="harvest-specification-history-from-1986">Harvest-specification history, from 1986</h2>
+<p>The <a href="https://github.com/jimianelli/ABC_TAC/tree/84f019ebd44658503702944d65d3a52a9f76c889">ABC_TAC source project</a> supplies <strong>1986–2026 BSAI</strong> and <strong>1986–2024 GOA</strong> records. This portal uses the full available history from those two source files at the linked revision. BSAI records use <code>lag = 1</code> and <code>OY = 1</code>; GOA also uses <code>Area = Total</code>, which avoids adding area subtotals to their regional totals. The year is the year to which a specification applies.</p>
+<div id="fig-regional-specifications" class="quarto-float quarto-figure quarto-figure-center anchored" alt="Separate BSAI and GOA panels show TAC, ABC, and OFL in million metric tons from 1986 through each source's final year. Distinct line styles identify each measure; open circles mark sums with missing source entries. All-missing measures are blank.">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-regional-specifications-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="resources/ABC_TAC/doc/figures/bsai-goa-harvest-specifications-by-year.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Figure&nbsp;2: BSAI and GOA annual TAC, ABC, and OFL from the public ABC_TAC compilation. BSAI records cover 1986–2026 and GOA records 1986–2024. Open circles identify sums containing missing source entries."><img src="resources/ABC_TAC/doc/figures/bsai-goa-harvest-specifications-by-year.png" class="img-fluid figure-img" alt="Separate BSAI and GOA panels show TAC, ABC, and OFL in million metric tons from 1986 through each source's final year. Distinct line styles identify each measure; open circles mark sums with missing source entries. All-missing measures are blank."></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-regional-specifications-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: BSAI and GOA annual TAC, ABC, and OFL from the public ABC_TAC compilation. BSAI records cover 1986–2026 and GOA records 1986–2024. Open circles identify sums containing missing source entries.
+</figcaption>
+</figure>
+</div>
+<p><a href="resources/ABC_TAC/doc/figures/bsai-goa-harvest-specifications-by-year.png">Specifications PNG</a> · <a href="resources/ABC_TAC/doc/figures/bsai-goa-harvest-specifications-by-year.svg">Specifications SVG</a> · <a href="resources/ABC_TAC/doc/tables/harvest-specifications-by-year.html">Full annual specifications table</a></p>
+<p><strong>Open circles identify sums with missing source entries.</strong> For example, the source contains one zero and 28 missing OFL entries for BSAI in 1991; the displayed zero preserves that source record and its partial coverage. This compilation supports examination of the historical series; regulatory totals and current limits should be checked against the cited NOAA records.</p>
+<p>Missing source entries remain missing. Available entries are summed, and each downloadable annual record reports how many entries contributed and how many were missing. Partial sums therefore describe the available source records. Source row identifiers preserve repeated species/area labels for review. Early all-missing fields remain blank. The source’s zero values remain in the downloadable data with their coverage notes.</p>
+<p>The GOA source ends in 2024; later GOA specifications require an update from the <a href="https://www.fisheries.noaa.gov/alaska/sustainable-fisheries/alaska-groundfish-harvest-specifications">NOAA harvest-specification records</a>. The 2026 BSAI specifications describe limits for an ongoing fishing year. All catch series on this page end in 2025.</p>
+</section>
+<section id="bsai-total-catches-by-year" class="level2">
+<h2 class="anchored" data-anchor-id="bsai-total-catches-by-year">NOAA quota-account totals, 2013–2025</h2>
+<p>NOAA <strong>CAR110 annual catch reports</strong> provide a separate series for each region through 31 December. The parser reads each report’s published <strong>Total Catch</strong> grand total once and checks it against the sum of its area/account rows. All 26 region-year reports pass the full-year and duplicate-account checks; rounding differences are at most six metric tons.</p>
+<div id="fig-car110-catch" class="quarto-float quarto-figure quarto-figure-center anchored" alt="Annual quota-account groundfish catch for BSAI and GOA from 2013 through 2025. BSAI includes CDQ. The 2025 totals are 1,774,231 and 231,545 metric tons respectively. Full annual values are available as CSV.">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-car110-catch-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="resources/ABC_TAC/doc/figures/regional-total-catch-by-year.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="Figure&nbsp;3: NOAA CAR110 annual groundfish catch for BSAI and GOA, 2013–2025, in separate panels with vertical axes starting at zero."><img src="resources/ABC_TAC/doc/figures/regional-total-catch-by-year.png" class="img-fluid figure-img" alt="Annual quota-account groundfish catch for BSAI and GOA from 2013 through 2025. BSAI includes CDQ. The 2025 totals are 1,774,231 and 231,545 metric tons respectively. Full annual values are available as CSV."></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-car110-catch-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;3: NOAA CAR110 annual groundfish catch for BSAI and GOA, 2013–2025, in separate panels with vertical axes starting at zero.
+</figcaption>
+</figure>
+</div>
+<p>The 2025 CAR110 totals are <strong>1,774,231 metric tons for BSAI</strong>, including Community Development Quota (CDQ) catch, and <strong>231,545 metric tons for GOA</strong>. The GOA report includes fixed-gear and trawl sablefish accounts; adding separate IFQ sablefish landings would count those catches twice. Squid accounts appear through 2018 and sculpin accounts through 2020. Subsequent NOAA ecosystem-component reports hold those categories separately.</p>
+<p>AKFIN and CAR110 totals remain separate throughout the figures and downloads. Their differences reflect source coverage and revision dates. Older historical summaries use additional definitions and rounding conventions, so the 2003 start remains explicit.</p>
+<p><a href="resources/ABC_TAC/doc/figures/regional-total-catch-by-year.png">CAR110 PNG</a> · <a href="resources/ABC_TAC/doc/figures/regional-total-catch-by-year.svg">CAR110 SVG</a> · <a href="resources/ABC_TAC/data/regional_total_catch_2013_2025.csv">Combined CAR110 CSV</a> · <a href="resources/ABC_TAC/data/regional_total_catch_validation.json">CAR110 validation</a></p>
+</section>
+<section id="sources-and-reproducibility" class="level2">
+<h2 class="anchored" data-anchor-id="sources-and-reproducibility">Sources and reproducibility</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Series</th>
+<th>Source and checks</th>
+<th>Rebuild code</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>AKFIN Economic SAFE catch</td>
+<td><a href="resources/ABC_TAC/data/AKFIN_groundfish_catch_README.md">Scope and source notes</a> · <a href="resources/ABC_TAC/data/AKFIN_groundfish_catch_validation.json">46 annual region records and rounding checks</a> · <a href="resources/ABC_TAC/data/source/akfin-groundfish-catch/manifest.json">Source file list and checksums</a></td>
+<td><a href="resources/ABC_TAC/scripts/build_akfin_groundfish_catch.py">Python parser</a> · <a href="resources/ABC_TAC/R/plot_akfin_groundfish_catch.R">R figure and table</a></td>
+</tr>
+<tr class="even">
+<td>ABC_TAC harvest specifications</td>
+<td><a href="resources/ABC_TAC/data/harvest_specifications_validation.json">Annual sum checks</a> · <a href="resources/ABC_TAC/data/BSAI_GOA_harvest_specifications_selected_rows.csv">Selected source rows</a> · <a href="resources/ABC_TAC/data/harvest_specifications_duplicate_labels.csv">Repeated labels</a> · <a href="resources/ABC_TAC/data/source/harvest-specifications/manifest.json">Pinned input files and checksums</a></td>
+<td><a href="resources/ABC_TAC/R/build_harvest_specifications.R">R data, figure, and table builder</a></td>
+</tr>
+<tr class="odd">
+<td>NOAA CAR110 catch</td>
+<td><a href="resources/ABC_TAC/data/regional_catch_accounts_2013_2025.csv">Account-level data</a> · <a href="resources/ABC_TAC/data/regional_total_catch_validation.json">Annual checks</a> · <a href="resources/ABC_TAC/data/source/regional-annual-catch/manifest.json">Source file list and checksums</a></td>
+<td><a href="resources/ABC_TAC/scripts/build_regional_total_catch.py">Python parser</a> · <a href="resources/ABC_TAC/R/plot_regional_total_catch.R">R figure script</a></td>
+</tr>
+</tbody>
+</table>
+<p>The <a href="https://github.com/afsc-assessments/Council_related_site/tree/main/resources/ABC_TAC">public website repository</a> includes the input snapshots under <code>data/source/</code>. Download that <code>ABC_TAC</code> directory with its <code>data/</code>, <code>scripts/</code>, <code>R/</code>, and <code>doc/</code> layout intact. Run the parsers from the archived inputs, followed by the R scripts. Each parser checks the source-file checksums before rebuilding. The Python parsers’ <code>--refresh</code> option retrieves new catch-report versions; the specification builder retrieves its pinned public Git revision. A later source revision requires a reviewed data update.</p>
+<p>The data update verified 552 AKFIN table rows and 1,808 NOAA area/account rows. AKFIN species sums agree with its reported totals within two metric tons, and the two regions sum to the Alaska total within one metric ton. The harvest-specification checks reproduce 225 available measure sums from the source report and preserve 15 all-missing sums as missing.</p>
+<p>This update prepares data summaries and figures. The linked ABC/TAC report retains its own statistical analyses, results, and model-validation status.</p>
 </section>
 <section id="other-abc_tac-reports" class="level2">
 <h2 class="anchored" data-anchor-id="other-abc_tac-reports">Other ABC_TAC reports</h2>
 <ul>
-<li><a href="https://jimianelli.github.io/ABC_TAC/stoplight_criteria_framework.html">Stoplight framework for choosing models for a combined analysis</a></li>
-<li><a href="https://jimianelli.github.io/ABC_TAC/rovellini-goa-oy-cap.html">GOA optimum yield (OY) cap note</a></li>
+<li><a href="https://jimianelli.github.io/ABC_TAC/stoplight_criteria_framework.html">Stoplight framework</a></li>
+<li><a href="https://jimianelli.github.io/ABC_TAC/rovellini-goa-oy-cap.html">GOA optimum yield cap note</a></li>
 </ul>
 <p>Use <a href="./abc-reduction.html">ABC reduction</a> for historical risk-table evidence and <a href="./ssc-minutes.html">SSC minutes</a> for the original meeting text.</p>
 

@@ -1,0 +1,417 @@
+{
+  "generated_at_utc": "2026-09-30T04:51:26Z",
+  "source_revision": "84f019ebd44658503702944d65d3a52a9f76c889",
+  "units": "metric tons",
+  "raw_source_row_counts": [
+    {
+      "Region": "BSAI",
+      "source_rows": 2625
+    },
+    {
+      "Region": "GOA",
+      "source_rows": 2844
+    }
+  ],
+  "selected_source_row_counts": [
+    {
+      "Region": "BSAI",
+      "selected_rows": 1063
+    },
+    {
+      "Region": "GOA",
+      "selected_rows": 731
+    }
+  ],
+  "unique_source_row_ids": true,
+  "unique_species_area_year_keys": false,
+  "repeated_species_area_year_keys": [
+    {
+      "Region": "BSAI",
+      "AssmentYr": 1985,
+      "ProjYear": 1986,
+      "lag": 1,
+      "Species": "Shortraker rockfish",
+      "Area": "BSAI",
+      "source_rows": 2
+    },
+    {
+      "Region": "BSAI",
+      "AssmentYr": 1986,
+      "ProjYear": 1987,
+      "lag": 1,
+      "Species": "Shortraker rockfish",
+      "Area": "BSAI",
+      "source_rows": 2
+    },
+    {
+      "Region": "BSAI",
+      "AssmentYr": 1987,
+      "ProjYear": 1988,
+      "lag": 1,
+      "Species": "Shortraker rockfish",
+      "Area": "BSAI",
+      "source_rows": 2
+    },
+    {
+      "Region": "BSAI",
+      "AssmentYr": 1988,
+      "ProjYear": 1989,
+      "lag": 1,
+      "Species": "Shortraker rockfish",
+      "Area": "BSAI",
+      "source_rows": 2
+    },
+    {
+      "Region": "BSAI",
+      "AssmentYr": 1989,
+      "ProjYear": 1990,
+      "lag": 1,
+      "Species": "Shortraker rockfish",
+      "Area": "BSAI",
+      "source_rows": 2
+    },
+    {
+      "Region": "BSAI",
+      "AssmentYr": 1990,
+      "ProjYear": 1991,
+      "lag": 1,
+      "Species": "Shortraker rockfish",
+      "Area": "BSAI",
+      "source_rows": 2
+    },
+    {
+      "Region": "BSAI",
+      "AssmentYr": 1991,
+      "ProjYear": 1992,
+      "lag": 1,
+      "Species": "Shortraker rockfish",
+      "Area": "BSAI",
+      "source_rows": 2
+    },
+    {
+      "Region": "BSAI",
+      "AssmentYr": 1992,
+      "ProjYear": 1993,
+      "lag": 1,
+      "Species": "Shortraker rockfish",
+      "Area": "BSAI",
+      "source_rows": 2
+    },
+    {
+      "Region": "BSAI",
+      "AssmentYr": 1993,
+      "ProjYear": 1994,
+      "lag": 1,
+      "Species": "Shortraker rockfish",
+      "Area": "BSAI",
+      "source_rows": 2
+    },
+    {
+      "Region": "BSAI",
+      "AssmentYr": 1994,
+      "ProjYear": 1995,
+      "lag": 1,
+      "Species": "Shortraker rockfish",
+      "Area": "BSAI",
+      "source_rows": 2
+    },
+    {
+      "Region": "BSAI",
+      "AssmentYr": 1995,
+      "ProjYear": 1996,
+      "lag": 1,
+      "Species": "Shortraker rockfish",
+      "Area": "BSAI",
+      "source_rows": 2
+    },
+    {
+      "Region": "BSAI",
+      "AssmentYr": 1996,
+      "ProjYear": 1997,
+      "lag": 1,
+      "Species": "Shortraker rockfish",
+      "Area": "BSAI",
+      "source_rows": 2
+    },
+    {
+      "Region": "BSAI",
+      "AssmentYr": 1997,
+      "ProjYear": 1998,
+      "lag": 1,
+      "Species": "Shortraker rockfish",
+      "Area": "BSAI",
+      "source_rows": 2
+    },
+    {
+      "Region": "BSAI",
+      "AssmentYr": 1998,
+      "ProjYear": 1999,
+      "lag": 1,
+      "Species": "Shortraker rockfish",
+      "Area": "BSAI",
+      "source_rows": 2
+    },
+    {
+      "Region": "BSAI",
+      "AssmentYr": 1999,
+      "ProjYear": 2000,
+      "lag": 1,
+      "Species": "Shortraker rockfish",
+      "Area": "BSAI",
+      "source_rows": 2
+    },
+    {
+      "Region": "BSAI",
+      "AssmentYr": 2000,
+      "ProjYear": 2001,
+      "lag": 1,
+      "Species": "Shortraker rockfish",
+      "Area": "BSAI",
+      "source_rows": 2
+    },
+    {
+      "Region": "BSAI",
+      "AssmentYr": 2001,
+      "ProjYear": 2002,
+      "lag": 1,
+      "Species": "Shortraker rockfish",
+      "Area": "BSAI",
+      "source_rows": 2
+    },
+    {
+      "Region": "BSAI",
+      "AssmentYr": 2002,
+      "ProjYear": 2003,
+      "lag": 1,
+      "Species": "Shortraker rockfish",
+      "Area": "BSAI",
+      "source_rows": 2
+    },
+    {
+      "Region": "BSAI",
+      "AssmentYr": 2003,
+      "ProjYear": 2004,
+      "lag": 1,
+      "Species": "Shortraker rockfish",
+      "Area": "BSAI",
+      "source_rows": 2
+    },
+    {
+      "Region": "GOA",
+      "AssmentYr": 1986,
+      "ProjYear": 1986,
+      "lag": 1,
+      "Species": "Other Rockfish",
+      "Area": "Total",
+      "source_rows": 2
+    },
+    {
+      "Region": "GOA",
+      "AssmentYr": 1987,
+      "ProjYear": 1987,
+      "lag": 1,
+      "Species": "Other Rockfish",
+      "Area": "Total",
+      "source_rows": 2
+    }
+  ],
+  "repeated_label_note": "Raw rows are retained unchanged. BSAI repeated Shortraker rows are missing placeholders except one numeric row in 2004. GOA Other Rockfish entries have distinct TAC values in 1986 and 1987; this extraction follows the published report sums and flags the repeated labels.",
+  "annual_coverage": [
+    {
+      "Region": "BSAI",
+      "first_year": 1986,
+      "last_year": 2026,
+      "years": 41
+    },
+    {
+      "Region": "GOA",
+      "first_year": 1986,
+      "last_year": 2024,
+      "years": 39
+    }
+  ],
+  "contiguous_annual_years": true,
+  "comparison_method": "Independent recreation of grouping in pinned upstream doc/index.qmd sections BSAI totals by year and GOA totals by year. Upstream sum(na.rm=TRUE) returns zero for all-missing groups; these outputs retain missing instead.",
+  "report_comparison": [
+    {
+      "check": "all_missing_retained_as_missing",
+      "annual_measure_records": 15
+    },
+    {
+      "check": "matches_upstream_report_sum",
+      "annual_measure_records": 225
+    }
+  ],
+  "maximum_absolute_difference_for_available_sums_t": 0,
+  "missing_status_counts": [
+    {
+      "Region": "BSAI",
+      "Measure": "ABC",
+      "status": "all_selected_entries_numeric",
+      "years": 22
+    },
+    {
+      "Region": "BSAI",
+      "Measure": "ABC",
+      "status": "sum_of_available_entries",
+      "years": 17
+    },
+    {
+      "Region": "BSAI",
+      "Measure": "ABC",
+      "status": "unavailable",
+      "years": 2
+    },
+    {
+      "Region": "BSAI",
+      "Measure": "OFL",
+      "status": "all_selected_entries_numeric",
+      "years": 12
+    },
+    {
+      "Region": "BSAI",
+      "Measure": "OFL",
+      "status": "sum_of_available_entries",
+      "years": 24
+    },
+    {
+      "Region": "BSAI",
+      "Measure": "OFL",
+      "status": "unavailable",
+      "years": 5
+    },
+    {
+      "Region": "BSAI",
+      "Measure": "TAC",
+      "status": "all_selected_entries_numeric",
+      "years": 22
+    },
+    {
+      "Region": "BSAI",
+      "Measure": "TAC",
+      "status": "sum_of_available_entries",
+      "years": 19
+    },
+    {
+      "Region": "GOA",
+      "Measure": "ABC",
+      "status": "all_selected_entries_numeric",
+      "years": 16
+    },
+    {
+      "Region": "GOA",
+      "Measure": "ABC",
+      "status": "sum_of_available_entries",
+      "years": 21
+    },
+    {
+      "Region": "GOA",
+      "Measure": "ABC",
+      "status": "unavailable",
+      "years": 2
+    },
+    {
+      "Region": "GOA",
+      "Measure": "OFL",
+      "status": "all_selected_entries_numeric",
+      "years": 15
+    },
+    {
+      "Region": "GOA",
+      "Measure": "OFL",
+      "status": "sum_of_available_entries",
+      "years": 18
+    },
+    {
+      "Region": "GOA",
+      "Measure": "OFL",
+      "status": "unavailable",
+      "years": 6
+    },
+    {
+      "Region": "GOA",
+      "Measure": "TAC",
+      "status": "all_selected_entries_numeric",
+      "years": 39
+    }
+  ],
+  "retained_zero_source_entries": [
+    {
+      "OFL": 1,
+      "ABC": 1,
+      "TAC": 1
+    }
+  ],
+  "zero_source_note": "BSAI 1991 OFL has one explicit numeric zero and 28 missing selected source rows. Its sum is retained as zero and marked as a sum of available entries.",
+  "year_checks": [
+    {
+      "Region": "BSAI",
+      "Year": 1986,
+      "OFL_t": null,
+      "ABC_t": null,
+      "TAC_t": 1992375,
+      "n_source_rows": 29
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2002,
+      "OFL_t": 4974242,
+      "ABC_t": 3184085,
+      "TAC_t": 2000000,
+      "n_source_rows": 29
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2025,
+      "OFL_t": 4276183,
+      "ABC_t": 3565229,
+      "TAC_t": 2000000,
+      "n_source_rows": 23
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2026,
+      "OFL_t": 3791262,
+      "ABC_t": 3166035,
+      "TAC_t": 2000000,
+      "n_source_rows": 23
+    },
+    {
+      "Region": "GOA",
+      "Year": 1986,
+      "OFL_t": null,
+      "ABC_t": null,
+      "TAC_t": 421773,
+      "n_source_rows": 10
+    },
+    {
+      "Region": "GOA",
+      "Year": 1987,
+      "OFL_t": null,
+      "ABC_t": null,
+      "TAC_t": 220552,
+      "n_source_rows": 11
+    },
+    {
+      "Region": "GOA",
+      "Year": 2024,
+      "OFL_t": 765608,
+      "ABC_t": 599784,
+      "TAC_t": 518320,
+      "n_source_rows": 22
+    }
+  ],
+  "interpretation": "Sums reproduce the selected rows of the public compilation. Missing entries and repeated labels are source conditions, not evidence of a complete independently reconciled regulatory total. BSAI 2026 specifications extend beyond the latest complete catch year. GOA source coverage stops in 2024.",
+  "package_versions": {
+    "dplyr": "1.2.1",
+    "tidyr": "1.3.2",
+    "readr": "2.2.0",
+    "ggplot2": "4.0.3",
+    "ggthemes": "5.2.0",
+    "gt": "1.3.0",
+    "jsonlite": "2.0.0",
+    "digest": "0.6.39",
+    "svglite": "2.2.2"
+  },
+  "R_version": "R version 4.6.1 (2026-06-24)"
+}

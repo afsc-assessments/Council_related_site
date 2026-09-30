@@ -1,0 +1,43 @@
+Region,SourceRow,AssmentYr,ProjYear,lag,Species,Area,OFL,ABC,TAC,Order,OY,IsTotal
+BSAI,2607,1985,1986,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2608,1985,1986,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2553,1986,1987,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2554,1986,1987,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2499,1987,1988,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2500,1987,1988,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2445,1988,1989,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2446,1988,1989,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2391,1989,1990,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2392,1989,1990,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2337,1990,1991,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2338,1990,1991,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2283,1991,1992,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2284,1991,1992,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2229,1992,1993,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2230,1992,1993,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2175,1993,1994,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2176,1993,1994,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2121,1994,1995,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2122,1994,1995,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2067,1995,1996,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2068,1995,1996,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2013,1996,1997,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,2014,1996,1997,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,1959,1997,1998,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,1960,1997,1998,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,1905,1998,1999,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,1906,1998,1999,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,1851,1999,2000,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,1852,1999,2000,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,1797,2000,2001,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,1798,2000,2001,1,Shortraker rockfish,BSAI,1369,1028,1028,15,1,Shortraker rockfishBSAI
+BSAI,1743,2001,2002,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,1744,2001,2002,1,Shortraker rockfish,BSAI,1369,1028,1028,15,1,Shortraker rockfishBSAI
+BSAI,1689,2002,2003,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+BSAI,1690,2002,2003,1,Shortraker rockfish,BSAI,1289,967,967,15,1,Shortraker rockfishBSAI
+BSAI,1635,2003,2004,1,Shortraker rockfish,BSAI,794,596,596,15,1,Shortraker rockfishBSAI
+BSAI,1636,2003,2004,1,Shortraker rockfish,BSAI,,,,15,1,Shortraker rockfishBSAI
+GOA,18,1986,1986,1,Other Rockfish,Total,,,4400,16,1,
+GOA,19,1986,1986,1,Other Rockfish,Total,,,5000,16,1,
+GOA,50,1987,1987,1,Other Rockfish,Total,,,4000,16,1,
+GOA,51,1987,1987,1,Other Rockfish,Total,,,5250,16,1,

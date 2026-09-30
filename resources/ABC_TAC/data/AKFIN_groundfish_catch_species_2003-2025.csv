@@ -1,0 +1,553 @@
+Region,Year,Species_group,Catch_t
+Alaska,2003,All Groundfish,2160922
+Alaska,2003,Atka Mackerel,58641
+Alaska,2003,Flatfish,201080
+Alaska,2003,Other Groundfish,35504
+Alaska,2003,Pacific Cod,260482
+Alaska,2003,Pollock,1543136
+Alaska,2003,Rockfish,44521
+Alaska,2003,Sablefish,17557
+Alaska,2004,All Groundfish,2168262
+Alaska,2004,Atka Mackerel,61385
+Alaska,2004,Flatfish,198139
+Alaska,2004,Other Groundfish,35166
+Alaska,2004,Pacific Cod,269245
+Alaska,2004,Pollock,1545554
+Alaska,2004,Rockfish,39968
+Alaska,2004,Sablefish,18805
+Alaska,2005,All Groundfish,2181376
+Alaska,2005,Atka Mackerel,62814
+Alaska,2005,Flatfish,210470
+Alaska,2005,Other Groundfish,35973
+Alaska,2005,Pacific Cod,253218
+Alaska,2005,Pollock,1565621
+Alaska,2005,Rockfish,35692
+Alaska,2005,Sablefish,17588
+Alaska,2006,All Groundfish,2192896
+Alaska,2006,Atka Mackerel,62762
+Alaska,2006,Flatfish,231793
+Alaska,2006,Other Groundfish,36611
+Alaska,2006,Pacific Cod,240926
+Alaska,2006,Pollock,1561752
+Alaska,2006,Rockfish,42190
+Alaska,2006,Sablefish,16861
+Alaska,2007,All Groundfish,2052814
+Alaska,2007,Atka Mackerel,60209
+Alaska,2007,Flatfish,256707
+Alaska,2007,Other Groundfish,35232
+Alaska,2007,Pacific Cod,226745
+Alaska,2007,Pollock,1409735
+Alaska,2007,Rockfish,47167
+Alaska,2007,Sablefish,17019
+Alaska,2008,All Groundfish,1748293
+Alaska,2008,Atka Mackerel,60194
+Alaska,2008,Flatfish,315726
+Alaska,2008,Other Groundfish,37443
+Alaska,2008,Pacific Cod,230044
+Alaska,2008,Pollock,1044449
+Alaska,2008,Rockfish,44777
+Alaska,2008,Sablefish,15659
+Alaska,2009,All Groundfish,1522698
+Alaska,2009,Atka Mackerel,75031
+Alaska,2009,Flatfish,268634
+Alaska,2009,Other Groundfish,37029
+Alaska,2009,Pacific Cod,228952
+Alaska,2009,Pollock,856766
+Alaska,2009,Rockfish,42291
+Alaska,2009,Sablefish,13996
+Alaska,2010,All Groundfish,1594434
+Alaska,2010,Atka Mackerel,71065
+Alaska,2010,Flatfish,291734
+Alaska,2010,Other Groundfish,31022
+Alaska,2010,Pacific Cod,250443
+Alaska,2010,Pollock,888405
+Alaska,2010,Rockfish,48981
+Alaska,2010,Sablefish,12784
+Alaska,2011,All Groundfish,2071290
+Alaska,2011,Atka Mackerel,53437
+Alaska,2011,Flatfish,327623
+Alaska,2011,Other Groundfish,37638
+Alaska,2011,Pacific Cod,305456
+Alaska,2011,Pollock,1281915
+Alaska,2011,Rockfish,51433
+Alaska,2011,Sablefish,13790
+Alaska,2012,All Groundfish,2117390
+Alaska,2012,Atka Mackerel,49017
+Alaska,2012,Flatfish,321364
+Alaska,2012,Other Groundfish,37738
+Alaska,2012,Pacific Cod,328770
+Alaska,2012,Pollock,1310215
+Alaska,2012,Rockfish,55631
+Alaska,2012,Sablefish,14656
+Alaska,2013,All Groundfish,2165782
+Alaska,2013,Atka Mackerel,24459
+Alaska,2013,Flatfish,332023
+Alaska,2013,Other Groundfish,45837
+Alaska,2013,Pacific Cod,318877
+Alaska,2013,Pollock,1370143
+Alaska,2013,Rockfish,59927
+Alaska,2013,Sablefish,14517
+Alaska,2014,All Groundfish,2255809
+Alaska,2014,Atka Mackerel,31993
+Alaska,2014,Flatfish,324603
+Alaska,2014,Other Groundfish,44798
+Alaska,2014,Pacific Cod,334264
+Alaska,2014,Pollock,1442859
+Alaska,2014,Rockfish,65056
+Alaska,2014,Sablefish,12236
+Alaska,2015,All Groundfish,2239627
+Alaska,2015,Atka Mackerel,54495
+Alaska,2015,Flatfish,246782
+Alaska,2015,Other Groundfish,45653
+Alaska,2015,Pacific Cod,321525
+Alaska,2015,Pollock,1490770
+Alaska,2015,Rockfish,68750
+Alaska,2015,Sablefish,11652
+Alaska,2016,All Groundfish,2293817
+Alaska,2016,Atka Mackerel,55578
+Alaska,2016,Flatfish,253872
+Alaska,2016,Other Groundfish,45642
+Alaska,2016,Pacific Cod,324919
+Alaska,2016,Pollock,1532071
+Alaska,2016,Rockfish,70856
+Alaska,2016,Sablefish,10880
+Alaska,2017,All Groundfish,2290457
+Alaska,2017,Atka Mackerel,65520
+Alaska,2017,Flatfish,244955
+Alaska,2017,Other Groundfish,48198
+Alaska,2017,Pacific Cod,301756
+Alaska,2017,Pollock,1547031
+Alaska,2017,Rockfish,69972
+Alaska,2017,Sablefish,13026
+Alaska,2018,All Groundfish,2221910
+Alaska,2018,Atka Mackerel,71825
+Alaska,2018,Flatfish,238159
+Alaska,2018,Other Groundfish,46076
+Alaska,2018,Pacific Cod,235432
+Alaska,2018,Pollock,1539224
+Alaska,2018,Rockfish,76014
+Alaska,2018,Sablefish,15180
+Alaska,2019,All Groundfish,2183695
+Alaska,2019,Atka Mackerel,58725
+Alaska,2019,Flatfish,240673
+Alaska,2019,Other Groundfish,33044
+Alaska,2019,Pacific Cod,213765
+Alaska,2019,Pollock,1531260
+Alaska,2019,Rockfish,88689
+Alaska,2019,Sablefish,17540
+Alaska,2020,All Groundfish,2090379
+Alaska,2020,Atka Mackerel,59491
+Alaska,2020,Flatfish,242969
+Alaska,2020,Other Groundfish,30186
+Alaska,2020,Pacific Cod,176772
+Alaska,2020,Pollock,1477909
+Alaska,2020,Rockfish,83072
+Alaska,2020,Sablefish,19980
+Alaska,2021,All Groundfish,2007092
+Alaska,2021,Atka Mackerel,62274
+Alaska,2021,Flatfish,182227
+Alaska,2021,Other Groundfish,25567
+Alaska,2021,Pacific Cod,154929
+Alaska,2021,Pollock,1479263
+Alaska,2021,Rockfish,80584
+Alaska,2021,Sablefish,22248
+Alaska,2022,All Groundfish,1865986
+Alaska,2022,Atka Mackerel,58987
+Alaska,2022,Flatfish,233255
+Alaska,2022,Other Groundfish,35964
+Alaska,2022,Pacific Cod,186569
+Alaska,2022,Pollock,1241471
+Alaska,2022,Rockfish,81612
+Alaska,2022,Sablefish,28128
+Alaska,2023,All Groundfish,2028319
+Alaska,2023,Atka Mackerel,67075
+Alaska,2023,Flatfish,194119
+Alaska,2023,Other Groundfish,32598
+Alaska,2023,Pacific Cod,173181
+Alaska,2023,Pollock,1449563
+Alaska,2023,Rockfish,85611
+Alaska,2023,Sablefish,26172
+Alaska,2024,All Groundfish,2015161
+Alaska,2024,Atka Mackerel,72559
+Alaska,2024,Flatfish,187230
+Alaska,2024,Other Groundfish,34098
+Alaska,2024,Pacific Cod,172864
+Alaska,2024,Pollock,1445297
+Alaska,2024,Rockfish,78634
+Alaska,2024,Sablefish,24480
+Alaska,2025,All Groundfish,2039402
+Alaska,2025,Atka Mackerel,81581
+Alaska,2025,Flatfish,186907
+Alaska,2025,Other Groundfish,29127
+Alaska,2025,Pacific Cod,171241
+Alaska,2025,Pollock,1469610
+Alaska,2025,Rockfish,76601
+Alaska,2025,Sablefish,24335
+BSAI,2003,All Groundfish,1969730
+BSAI,2003,Atka Mackerel,58060
+BSAI,2003,Flatfish,159244
+BSAI,2003,Other Groundfish,29112
+BSAI,2003,Pacific Cod,207900
+BSAI,2003,Pollock,1492452
+BSAI,2003,Rockfish,20832
+BSAI,2003,Sablefish,2129
+BSAI,2004,All Groundfish,1979754
+BSAI,2004,Atka Mackerel,60563
+BSAI,2004,Flatfish,174710
+BSAI,2004,Other Groundfish,30469
+BSAI,2004,Pacific Cod,212621
+BSAI,2004,Pollock,1481710
+BSAI,2004,Rockfish,17685
+BSAI,2004,Sablefish,1996
+BSAI,2005,All Groundfish,1981117
+BSAI,2005,Atka Mackerel,62014
+BSAI,2005,Flatfish,180492
+BSAI,2005,Other Groundfish,30670
+BSAI,2005,Pacific Cod,205633
+BSAI,2005,Pollock,1484643
+BSAI,2005,Rockfish,15114
+BSAI,2005,Sablefish,2551
+BSAI,2006,All Groundfish,1982557
+BSAI,2006,Atka Mackerel,61883
+BSAI,2006,Flatfish,189506
+BSAI,2006,Other Groundfish,28436
+BSAI,2006,Pacific Cod,193029
+BSAI,2006,Pollock,1489776
+BSAI,2006,Rockfish,17697
+BSAI,2006,Sablefish,2229
+BSAI,2007,All Groundfish,1860419
+BSAI,2007,Atka Mackerel,58747
+BSAI,2007,Flatfish,216215
+BSAI,2007,Other Groundfish,27988
+BSAI,2007,Pacific Cod,174484
+BSAI,2007,Pollock,1357021
+BSAI,2007,Rockfish,23615
+BSAI,2007,Sablefish,2350
+BSAI,2008,All Groundfish,1545687
+BSAI,2008,Atka Mackerel,58082
+BSAI,2008,Flatfish,269992
+BSAI,2008,Other Groundfish,31016
+BSAI,2008,Pacific Cod,171030
+BSAI,2008,Pollock,991865
+BSAI,2008,Rockfish,21661
+BSAI,2008,Sablefish,2040
+BSAI,2009,All Groundfish,1337116
+BSAI,2009,Atka Mackerel,72807
+BSAI,2009,Flatfish,226324
+BSAI,2009,Other Groundfish,28243
+BSAI,2009,Pacific Cod,175756
+BSAI,2009,Pollock,812520
+BSAI,2009,Rockfish,19451
+BSAI,2009,Sablefish,2016
+BSAI,2010,All Groundfish,1354486
+BSAI,2010,Atka Mackerel,68647
+BSAI,2010,Flatfish,253265
+BSAI,2010,Other Groundfish,23796
+BSAI,2010,Pacific Cod,171850
+BSAI,2010,Pollock,811651
+BSAI,2010,Rockfish,23477
+BSAI,2010,Sablefish,1800
+BSAI,2011,All Groundfish,1818902
+BSAI,2011,Atka Mackerel,51822
+BSAI,2011,Flatfish,286375
+BSAI,2011,Other Groundfish,30242
+BSAI,2011,Pacific Cod,220089
+BSAI,2011,Pollock,1200412
+BSAI,2011,Rockfish,28227
+BSAI,2011,Sablefish,1734
+BSAI,2012,All Groundfish,1858060
+BSAI,2012,Atka Mackerel,47829
+BSAI,2012,Flatfish,291552
+BSAI,2012,Other Groundfish,31516
+BSAI,2012,Pacific Cod,250840
+BSAI,2012,Pollock,1206261
+BSAI,2012,Rockfish,28114
+BSAI,2012,Sablefish,1949
+BSAI,2013,All Groundfish,1915142
+BSAI,2013,Atka Mackerel,23181
+BSAI,2013,Flatfish,297679
+BSAI,2013,Other Groundfish,33528
+BSAI,2013,Pacific Cod,250301
+BSAI,2013,Pollock,1273781
+BSAI,2013,Rockfish,34954
+BSAI,2013,Sablefish,1717
+BSAI,2014,All Groundfish,1928984
+BSAI,2014,Atka Mackerel,30951
+BSAI,2014,Flatfish,276641
+BSAI,2014,Other Groundfish,34631
+BSAI,2014,Pacific Cod,249319
+BSAI,2014,Pollock,1300219
+BSAI,2014,Rockfish,36095
+BSAI,2014,Sablefish,1127
+BSAI,2015,All Groundfish,1914729
+BSAI,2015,Atka Mackerel,53277
+BSAI,2015,Flatfish,219719
+BSAI,2015,Other Groundfish,36147
+BSAI,2015,Pacific Cod,242045
+BSAI,2015,Pollock,1323222
+BSAI,2015,Rockfish,39687
+BSAI,2015,Sablefish,632
+BSAI,2016,All Groundfish,1969380
+BSAI,2016,Atka Mackerel,54485
+BSAI,2016,Flatfish,225532
+BSAI,2016,Other Groundfish,35901
+BSAI,2016,Pacific Cod,260865
+BSAI,2016,Pollock,1354942
+BSAI,2016,Rockfish,36784
+BSAI,2016,Sablefish,871
+BSAI,2017,All Groundfish,1968943
+BSAI,2017,Atka Mackerel,64446
+BSAI,2017,Flatfish,211377
+BSAI,2017,Other Groundfish,39370
+BSAI,2017,Pacific Cod,253029
+BSAI,2017,Pollock,1360872
+BSAI,2017,Rockfish,38110
+BSAI,2017,Sablefish,1739
+BSAI,2018,All Groundfish,1966175
+BSAI,2018,Atka Mackerel,70387
+BSAI,2018,Flatfish,212227
+BSAI,2018,Other Groundfish,38228
+BSAI,2018,Pacific Cod,220281
+BSAI,2018,Pollock,1381161
+BSAI,2018,Rockfish,41690
+BSAI,2018,Sablefish,2200
+BSAI,2019,All Groundfish,1959523
+BSAI,2019,Atka Mackerel,57471
+BSAI,2019,Flatfish,208640
+BSAI,2019,Other Groundfish,26179
+BSAI,2019,Pacific Cod,198049
+BSAI,2019,Pollock,1411018
+BSAI,2019,Rockfish,54341
+BSAI,2019,Sablefish,3825
+BSAI,2020,All Groundfish,1895965
+BSAI,2020,Atka Mackerel,58884
+BSAI,2020,Flatfish,214060
+BSAI,2020,Other Groundfish,25300
+BSAI,2020,Pacific Cod,169930
+BSAI,2020,Pollock,1370447
+BSAI,2020,Rockfish,50784
+BSAI,2020,Sablefish,6561
+BSAI,2021,All Groundfish,1814311
+BSAI,2021,Atka Mackerel,61335
+BSAI,2021,Flatfish,169238
+BSAI,2021,Other Groundfish,20423
+BSAI,2021,Pacific Cod,135756
+BSAI,2021,Pollock,1378108
+BSAI,2021,Rockfish,43704
+BSAI,2021,Sablefish,5747
+BSAI,2022,All Groundfish,1628446
+BSAI,2022,Atka Mackerel,58107
+BSAI,2022,Flatfish,218857
+BSAI,2022,Other Groundfish,29614
+BSAI,2022,Pacific Cod,160662
+BSAI,2022,Pollock,1108735
+BSAI,2022,Rockfish,44727
+BSAI,2022,Sablefish,7744
+BSAI,2023,All Groundfish,1798977
+BSAI,2023,Atka Mackerel,66613
+BSAI,2023,Flatfish,182871
+BSAI,2023,Other Groundfish,26502
+BSAI,2023,Pacific Cod,151453
+BSAI,2023,Pollock,1314461
+BSAI,2023,Rockfish,48457
+BSAI,2023,Sablefish,8620
+BSAI,2024,All Groundfish,1781824
+BSAI,2024,Atka Mackerel,72179
+BSAI,2024,Flatfish,164423
+BSAI,2024,Other Groundfish,27571
+BSAI,2024,Pacific Cod,146955
+BSAI,2024,Pollock,1316282
+BSAI,2024,Rockfish,48082
+BSAI,2024,Sablefish,6334
+BSAI,2025,All Groundfish,1794251
+BSAI,2025,Atka Mackerel,80613
+BSAI,2025,Flatfish,169641
+BSAI,2025,Other Groundfish,22248
+BSAI,2025,Pacific Cod,143678
+BSAI,2025,Pollock,1330807
+BSAI,2025,Rockfish,42406
+BSAI,2025,Sablefish,4857
+GOA,2003,All Groundfish,191192
+GOA,2003,Atka Mackerel,581
+GOA,2003,Flatfish,41836
+GOA,2003,Other Groundfish,6392
+GOA,2003,Pacific Cod,52582
+GOA,2003,Pollock,50684
+GOA,2003,Rockfish,23689
+GOA,2003,Sablefish,15428
+GOA,2004,All Groundfish,188508
+GOA,2004,Atka Mackerel,822
+GOA,2004,Flatfish,23430
+GOA,2004,Other Groundfish,4697
+GOA,2004,Pacific Cod,56624
+GOA,2004,Pollock,63844
+GOA,2004,Rockfish,22283
+GOA,2004,Sablefish,16809
+GOA,2005,All Groundfish,200259
+GOA,2005,Atka Mackerel,800
+GOA,2005,Flatfish,29978
+GOA,2005,Other Groundfish,5304
+GOA,2005,Pacific Cod,47584
+GOA,2005,Pollock,80978
+GOA,2005,Rockfish,20578
+GOA,2005,Sablefish,15037
+GOA,2006,All Groundfish,210339
+GOA,2006,Atka Mackerel,879
+GOA,2006,Flatfish,42287
+GOA,2006,Other Groundfish,8175
+GOA,2006,Pacific Cod,47897
+GOA,2006,Pollock,71976
+GOA,2006,Rockfish,24493
+GOA,2006,Sablefish,14632
+GOA,2007,All Groundfish,192395
+GOA,2007,Atka Mackerel,1462
+GOA,2007,Flatfish,40492
+GOA,2007,Other Groundfish,7244
+GOA,2007,Pacific Cod,52261
+GOA,2007,Pollock,52714
+GOA,2007,Rockfish,23553
+GOA,2007,Sablefish,14669
+GOA,2008,All Groundfish,202605
+GOA,2008,Atka Mackerel,2112
+GOA,2008,Flatfish,45734
+GOA,2008,Other Groundfish,6427
+GOA,2008,Pacific Cod,59014
+GOA,2008,Pollock,52584
+GOA,2008,Rockfish,23117
+GOA,2008,Sablefish,13619
+GOA,2009,All Groundfish,185582
+GOA,2009,Atka Mackerel,2224
+GOA,2009,Flatfish,42310
+GOA,2009,Other Groundfish,8786
+GOA,2009,Pacific Cod,53196
+GOA,2009,Pollock,44247
+GOA,2009,Rockfish,22840
+GOA,2009,Sablefish,11980
+GOA,2010,All Groundfish,239948
+GOA,2010,Atka Mackerel,2418
+GOA,2010,Flatfish,38469
+GOA,2010,Other Groundfish,7226
+GOA,2010,Pacific Cod,78593
+GOA,2010,Pollock,76754
+GOA,2010,Rockfish,25504
+GOA,2010,Sablefish,10984
+GOA,2011,All Groundfish,252389
+GOA,2011,Atka Mackerel,1615
+GOA,2011,Flatfish,41248
+GOA,2011,Other Groundfish,7396
+GOA,2011,Pacific Cod,85367
+GOA,2011,Pollock,81503
+GOA,2011,Rockfish,23206
+GOA,2011,Sablefish,12056
+GOA,2012,All Groundfish,259330
+GOA,2012,Atka Mackerel,1188
+GOA,2012,Flatfish,29812
+GOA,2012,Other Groundfish,6222
+GOA,2012,Pacific Cod,77930
+GOA,2012,Pollock,103954
+GOA,2012,Rockfish,27517
+GOA,2012,Sablefish,12707
+GOA,2013,All Groundfish,250640
+GOA,2013,Atka Mackerel,1277
+GOA,2013,Flatfish,34344
+GOA,2013,Other Groundfish,12309
+GOA,2013,Pacific Cod,68576
+GOA,2013,Pollock,96362
+GOA,2013,Rockfish,24972
+GOA,2013,Sablefish,12800
+GOA,2014,All Groundfish,326826
+GOA,2014,Atka Mackerel,1042
+GOA,2014,Flatfish,47961
+GOA,2014,Other Groundfish,10167
+GOA,2014,Pacific Cod,84945
+GOA,2014,Pollock,142640
+GOA,2014,Rockfish,28962
+GOA,2014,Sablefish,11109
+GOA,2015,All Groundfish,324898
+GOA,2015,Atka Mackerel,1218
+GOA,2015,Flatfish,27062
+GOA,2015,Other Groundfish,9506
+GOA,2015,Pacific Cod,79481
+GOA,2015,Pollock,167548
+GOA,2015,Rockfish,29063
+GOA,2015,Sablefish,11020
+GOA,2016,All Groundfish,324437
+GOA,2016,Atka Mackerel,1093
+GOA,2016,Flatfish,28340
+GOA,2016,Other Groundfish,9741
+GOA,2016,Pacific Cod,64055
+GOA,2016,Pollock,177128
+GOA,2016,Rockfish,34072
+GOA,2016,Sablefish,10009
+GOA,2017,All Groundfish,321514
+GOA,2017,Atka Mackerel,1075
+GOA,2017,Flatfish,33578
+GOA,2017,Other Groundfish,8827
+GOA,2017,Pacific Cod,48727
+GOA,2017,Pollock,186158
+GOA,2017,Rockfish,31861
+GOA,2017,Sablefish,11287
+GOA,2018,All Groundfish,255734
+GOA,2018,Atka Mackerel,1438
+GOA,2018,Flatfish,25932
+GOA,2018,Other Groundfish,7848
+GOA,2018,Pacific Cod,15150
+GOA,2018,Pollock,158063
+GOA,2018,Rockfish,34324
+GOA,2018,Sablefish,12979
+GOA,2019,All Groundfish,224173
+GOA,2019,Atka Mackerel,1254
+GOA,2019,Flatfish,32032
+GOA,2019,Other Groundfish,6865
+GOA,2019,Pacific Cod,15716
+GOA,2019,Pollock,120242
+GOA,2019,Rockfish,34349
+GOA,2019,Sablefish,13715
+GOA,2020,All Groundfish,194414
+GOA,2020,Atka Mackerel,608
+GOA,2020,Flatfish,28909
+GOA,2020,Other Groundfish,4886
+GOA,2020,Pacific Cod,6842
+GOA,2020,Pollock,107462
+GOA,2020,Rockfish,32288
+GOA,2020,Sablefish,13419
+GOA,2021,All Groundfish,192781
+GOA,2021,Atka Mackerel,939
+GOA,2021,Flatfish,12989
+GOA,2021,Other Groundfish,5144
+GOA,2021,Pacific Cod,19173
+GOA,2021,Pollock,101155
+GOA,2021,Rockfish,36880
+GOA,2021,Sablefish,16501
+GOA,2022,All Groundfish,237540
+GOA,2022,Atka Mackerel,880
+GOA,2022,Flatfish,14398
+GOA,2022,Other Groundfish,6350
+GOA,2022,Pacific Cod,25907
+GOA,2022,Pollock,132736
+GOA,2022,Rockfish,36885
+GOA,2022,Sablefish,20384
+GOA,2023,All Groundfish,229342
+GOA,2023,Atka Mackerel,463
+GOA,2023,Flatfish,11248
+GOA,2023,Other Groundfish,6095
+GOA,2023,Pacific Cod,21727
+GOA,2023,Pollock,135103
+GOA,2023,Rockfish,37154
+GOA,2023,Sablefish,17552
+GOA,2024,All Groundfish,233337
+GOA,2024,Atka Mackerel,380
+GOA,2024,Flatfish,22807
+GOA,2024,Other Groundfish,6527
+GOA,2024,Pacific Cod,25909
+GOA,2024,Pollock,129015
+GOA,2024,Rockfish,30552
+GOA,2024,Sablefish,18146
+GOA,2025,All Groundfish,245152
+GOA,2025,Atka Mackerel,968
+GOA,2025,Flatfish,17266
+GOA,2025,Other Groundfish,6879
+GOA,2025,Pacific Cod,27562
+GOA,2025,Pollock,138803
+GOA,2025,Rockfish,34195
+GOA,2025,Sablefish,19478

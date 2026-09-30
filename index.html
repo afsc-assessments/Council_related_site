@@ -47,9 +47,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-a8c8cf24dfcc71358108d64de750156e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -249,7 +246,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="lead">
 <p>Reports, tools, and source documents in one place.</p>
 </div>
-<p>Explore public Council resources and follow the results back to their data and code. The wiki also includes an updated figure of annual BSAI groundfish catches.</p>
+<p>Explore public Council resources and follow the results back to their data and code. The wiki includes GOA and BSAI catch histories and harvest-specification time series.</p>
 </div>
 <section id="explore-the-projects" class="level2">
 <h2 class="anchored" data-anchor-id="explore-the-projects">Explore the projects</h2>
@@ -290,7 +287,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <section id="abc-tac" class="level3">
 <h3 class="anchored" data-anchor-id="abc-tac"><a href="./abc-tac.html">ABC / TAC</a></h3>
-<p>Compare catch limits and view annual BSAI groundfish catches through 2025.</p>
+<p>View the full available GOA and BSAI time series, figures, and downloadable data.</p>
 <p><a href="./abc-tac.html">Annual catch figure and data</a></p>
 </section>
 </div>
@@ -336,20 +333,10 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
-<section id="bsai-total-catches-by-year" class="level2">
-<h2 class="anchored" data-anchor-id="bsai-total-catches-by-year">BSAI total catches by year</h2>
-<div id="fig-bsai-home" class="quarto-float quarto-figure quarto-figure-center anchored" alt="BSAI annual groundfish catch, including CDQ: about 1.9 million metric tons from 2013 to 2019, falling to 1.607 million in 2022 and rising to 1.774 million in 2025. The vertical axis begins at zero.">
-<figure class="quarto-float quarto-float-fig figure">
-<div aria-describedby="fig-bsai-home-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<a href="resources/ABC_TAC/doc/figures/bsai-total-catch-by-year.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Figure&nbsp;1: Annual BSAI groundfish catch reported by NOAA for 2013 to 2025, including CDQ. Catches range from approximately 1.61 to 1.95 million metric tons; the 2025 total is 1.774 million metric tons."><img src="resources/ABC_TAC/doc/figures/bsai-total-catch-by-year.png" class="img-fluid figure-img" alt="BSAI annual groundfish catch, including CDQ: about 1.9 million metric tons from 2013 to 2019, falling to 1.607 million in 2022 and rising to 1.774 million in 2025. The vertical axis begins at zero."></a>
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-bsai-home-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;1: Annual BSAI groundfish catch reported by NOAA for 2013 to 2025, including CDQ. Catches range from approximately 1.61 to 1.95 million metric tons; the 2025 total is 1.774 million metric tons.
-</figcaption>
-</figure>
-</div>
-<p>The figure covers <strong>2013 to 2025</strong> in the Bering Sea and Aleutian Islands (BSAI), including Community Development Quota (CDQ) catch. The <strong>2025 total is 1,774,231 metric tons</strong>. Each value comes from the total-catch row in NOAA’s report through 31 December. The species included in those totals changed over time; the catch page explains those changes.</p>
-<p><a href="./abc-tac.html">View methods, source reports, and downloadable data</a></p>
+<section id="goa-and-bsai-time-series" class="level2">
+<h2 class="anchored" data-anchor-id="goa-and-bsai-time-series">GOA and BSAI time series</h2>
+<p>Harvest-specification histories begin in 1986. The catch histories cover 2003–2025 from the public AKFIN Economic SAFE report, with NOAA quota-account totals for 2013–2025 available separately.</p>
+<p><a href="./abc-tac.html">View figures and coverage notes</a> · <a href="./library.html#goa-and-bsai-time-series">Download annual data</a></p>
 <div class="meta-note">
 <p>Assembled 24 September 2026; public portal prepared 28 September 2026. Each linked report keeps its own date and review status. <a href="./about.html">Sources and upkeep</a></p>
 </div>
@@ -777,38 +764,6 @@ Figure&nbsp;1: Annual BSAI groundfish catch reported by NOAA for 2013 to 2025, i
 </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
-(function() {
-  let previousOnload = window.onload;
-  window.onload = () => {
-    if (previousOnload) {
-      previousOnload();
-    }
-    lightboxQuarto.on('slide_before_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      const href = trigger.getAttribute('href');
-      if (href !== null) {
-        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
-        if (imgEl !== null) {
-          const srcAttr = imgEl.getAttribute("src");
-          if (srcAttr && srcAttr.startsWith("data:")) {
-            slideConfig.href = srcAttr;
-          }
-        }
-      } 
-    });
-  
-    lightboxQuarto.on('slide_after_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(slideNode);
-      }
-    });
-  
-  };
-  
-})();
-          </script>
 
 
 

@@ -1,0 +1,98 @@
+{
+  "GFSAFE001_BSAI_2003-2008.html.txt": {
+    "SourceURL": "https://reports.psmfc.org/akfin/f?p=501:901:0:INITIAL:::P0_SHARE_DISPLAY,P0_SHARE_VIEW,P901_MIN_YEAR,P901_MAX_YEAR,P901_FMP_AREA,P901_SPECIES_GROUP:%5CR%5C,%5Creport%5C,%5C2003%5C,%5C2008%5C,%5CBering%20Sea%20and%20Aleutian%20Islands%5C,%5CAll%20Groundfish%3AAtka%20Mackerel%3AFlatfish%3AOther%20Groundfish%3APacific%20Cod%3APollock%3ARockfish%3ASablefish%5C",
+    "Retrieved_utc": "2026-09-30T04:45:15+00:00",
+    "Source_sha256": "a2042fb43fa052ed9ee60cddf4b83d4f4e69c948759a28bd9e87f5d2c956ccf3",
+    "Region": "BSAI",
+    "First_year": 2003,
+    "Last_year": 2008
+  },
+  "GFSAFE001_BSAI_2009-2014.html.txt": {
+    "SourceURL": "https://reports.psmfc.org/akfin/f?p=501:901:0:INITIAL:::P0_SHARE_DISPLAY,P0_SHARE_VIEW,P901_MIN_YEAR,P901_MAX_YEAR,P901_FMP_AREA,P901_SPECIES_GROUP:%5CR%5C,%5Creport%5C,%5C2009%5C,%5C2014%5C,%5CBering%20Sea%20and%20Aleutian%20Islands%5C,%5CAll%20Groundfish%3AAtka%20Mackerel%3AFlatfish%3AOther%20Groundfish%3APacific%20Cod%3APollock%3ARockfish%3ASablefish%5C",
+    "Retrieved_utc": "2026-09-30T04:45:15+00:00",
+    "Source_sha256": "2f2bc4eefae9cbd673ffac12d388aa6babd83091a3874737d98cff9f37a61b4e",
+    "Region": "BSAI",
+    "First_year": 2009,
+    "Last_year": 2014
+  },
+  "GFSAFE001_BSAI_2015-2020.html.txt": {
+    "SourceURL": "https://reports.psmfc.org/akfin/f?p=501:901:0:INITIAL:::P0_SHARE_DISPLAY,P0_SHARE_VIEW,P901_MIN_YEAR,P901_MAX_YEAR,P901_FMP_AREA,P901_SPECIES_GROUP:%5CR%5C,%5Creport%5C,%5C2015%5C,%5C2020%5C,%5CBering%20Sea%20and%20Aleutian%20Islands%5C,%5CAll%20Groundfish%3AAtka%20Mackerel%3AFlatfish%3AOther%20Groundfish%3APacific%20Cod%3APollock%3ARockfish%3ASablefish%5C",
+    "Retrieved_utc": "2026-09-30T04:45:15+00:00",
+    "Source_sha256": "4ab0098a47573864204c9e6aab4a70cdcb0b1a7929e863cc83c09e3903bf72c3",
+    "Region": "BSAI",
+    "First_year": 2015,
+    "Last_year": 2020
+  },
+  "GFSAFE001_BSAI_2021-2025.html.txt": {
+    "SourceURL": "https://reports.psmfc.org/akfin/f?p=501:901:0:INITIAL:::P0_SHARE_DISPLAY,P0_SHARE_VIEW,P901_MIN_YEAR,P901_MAX_YEAR,P901_FMP_AREA,P901_SPECIES_GROUP:%5CR%5C,%5Creport%5C,%5C2021%5C,%5C2025%5C,%5CBering%20Sea%20and%20Aleutian%20Islands%5C,%5CAll%20Groundfish%3AAtka%20Mackerel%3AFlatfish%3AOther%20Groundfish%3APacific%20Cod%3APollock%3ARockfish%3ASablefish%5C",
+    "Retrieved_utc": "2026-09-30T04:45:15+00:00",
+    "Source_sha256": "fd4b6f9fec1af81101061957523a9bf7ce85b35730329c59de7c289b10a8f292",
+    "Region": "BSAI",
+    "First_year": 2021,
+    "Last_year": 2025
+  },
+  "GFSAFE001_GOA_2003-2008.html.txt": {
+    "SourceURL": "https://reports.psmfc.org/akfin/f?p=501:901:0:INITIAL:::P0_SHARE_DISPLAY,P0_SHARE_VIEW,P901_MIN_YEAR,P901_MAX_YEAR,P901_FMP_AREA,P901_SPECIES_GROUP:%5CR%5C,%5Creport%5C,%5C2003%5C,%5C2008%5C,%5CGulf%20of%20Alaska%5C,%5CAll%20Groundfish%3AAtka%20Mackerel%3AFlatfish%3AOther%20Groundfish%3APacific%20Cod%3APollock%3ARockfish%3ASablefish%5C",
+    "Retrieved_utc": "2026-09-30T04:45:15+00:00",
+    "Source_sha256": "a5e59c11d46af4119c260821ae097709d39b0c8c613f1608a330d7700148aa9e",
+    "Region": "GOA",
+    "First_year": 2003,
+    "Last_year": 2008
+  },
+  "GFSAFE001_GOA_2009-2014.html.txt": {
+    "SourceURL": "https://reports.psmfc.org/akfin/f?p=501:901:0:INITIAL:::P0_SHARE_DISPLAY,P0_SHARE_VIEW,P901_MIN_YEAR,P901_MAX_YEAR,P901_FMP_AREA,P901_SPECIES_GROUP:%5CR%5C,%5Creport%5C,%5C2009%5C,%5C2014%5C,%5CGulf%20of%20Alaska%5C,%5CAll%20Groundfish%3AAtka%20Mackerel%3AFlatfish%3AOther%20Groundfish%3APacific%20Cod%3APollock%3ARockfish%3ASablefish%5C",
+    "Retrieved_utc": "2026-09-30T04:45:15+00:00",
+    "Source_sha256": "a4f2c1b9a683bdce779e3681d211571d9d0445f42a37e5cdb1b513d504aac1e5",
+    "Region": "GOA",
+    "First_year": 2009,
+    "Last_year": 2014
+  },
+  "GFSAFE001_GOA_2015-2020.html.txt": {
+    "SourceURL": "https://reports.psmfc.org/akfin/f?p=501:901:0:INITIAL:::P0_SHARE_DISPLAY,P0_SHARE_VIEW,P901_MIN_YEAR,P901_MAX_YEAR,P901_FMP_AREA,P901_SPECIES_GROUP:%5CR%5C,%5Creport%5C,%5C2015%5C,%5C2020%5C,%5CGulf%20of%20Alaska%5C,%5CAll%20Groundfish%3AAtka%20Mackerel%3AFlatfish%3AOther%20Groundfish%3APacific%20Cod%3APollock%3ARockfish%3ASablefish%5C",
+    "Retrieved_utc": "2026-09-30T04:45:15+00:00",
+    "Source_sha256": "e6244e24fa1a4537f578c6b0bfff7e9ce9c668a56fabf11af7acd11f19f2113b",
+    "Region": "GOA",
+    "First_year": 2015,
+    "Last_year": 2020
+  },
+  "GFSAFE001_GOA_2021-2025.html.txt": {
+    "SourceURL": "https://reports.psmfc.org/akfin/f?p=501:901:0:INITIAL:::P0_SHARE_DISPLAY,P0_SHARE_VIEW,P901_MIN_YEAR,P901_MAX_YEAR,P901_FMP_AREA,P901_SPECIES_GROUP:%5CR%5C,%5Creport%5C,%5C2021%5C,%5C2025%5C,%5CGulf%20of%20Alaska%5C,%5CAll%20Groundfish%3AAtka%20Mackerel%3AFlatfish%3AOther%20Groundfish%3APacific%20Cod%3APollock%3ARockfish%3ASablefish%5C",
+    "Retrieved_utc": "2026-09-30T04:45:16+00:00",
+    "Source_sha256": "17f9217dc6d683deeac46cbc3627a69cf1b53cd6998ddd0da6a6345a5c0c29cf",
+    "Region": "GOA",
+    "First_year": 2021,
+    "Last_year": 2025
+  },
+  "GFSAFE001_Alaska_2003-2008.html.txt": {
+    "SourceURL": "https://reports.psmfc.org/akfin/f?p=501:901:0:INITIAL:::P0_SHARE_DISPLAY,P0_SHARE_VIEW,P901_MIN_YEAR,P901_MAX_YEAR,P901_FMP_AREA,P901_SPECIES_GROUP:%5CR%5C,%5Creport%5C,%5C2003%5C,%5C2008%5C,%5CAll%20Alaska%5C,%5CAll%20Groundfish%3AAtka%20Mackerel%3AFlatfish%3AOther%20Groundfish%3APacific%20Cod%3APollock%3ARockfish%3ASablefish%5C",
+    "Retrieved_utc": "2026-09-30T04:45:16+00:00",
+    "Source_sha256": "a8582bc25de61b8dd3300c91259d333de056e1db4ab95a68840b20c5dd06e3d8",
+    "Region": "Alaska",
+    "First_year": 2003,
+    "Last_year": 2008
+  },
+  "GFSAFE001_Alaska_2009-2014.html.txt": {
+    "SourceURL": "https://reports.psmfc.org/akfin/f?p=501:901:0:INITIAL:::P0_SHARE_DISPLAY,P0_SHARE_VIEW,P901_MIN_YEAR,P901_MAX_YEAR,P901_FMP_AREA,P901_SPECIES_GROUP:%5CR%5C,%5Creport%5C,%5C2009%5C,%5C2014%5C,%5CAll%20Alaska%5C,%5CAll%20Groundfish%3AAtka%20Mackerel%3AFlatfish%3AOther%20Groundfish%3APacific%20Cod%3APollock%3ARockfish%3ASablefish%5C",
+    "Retrieved_utc": "2026-09-30T04:45:16+00:00",
+    "Source_sha256": "23de5eff30620a2bc74d54a45364d5bdebe98f0ca5cce25db0a555f506b90369",
+    "Region": "Alaska",
+    "First_year": 2009,
+    "Last_year": 2014
+  },
+  "GFSAFE001_Alaska_2015-2020.html.txt": {
+    "SourceURL": "https://reports.psmfc.org/akfin/f?p=501:901:0:INITIAL:::P0_SHARE_DISPLAY,P0_SHARE_VIEW,P901_MIN_YEAR,P901_MAX_YEAR,P901_FMP_AREA,P901_SPECIES_GROUP:%5CR%5C,%5Creport%5C,%5C2015%5C,%5C2020%5C,%5CAll%20Alaska%5C,%5CAll%20Groundfish%3AAtka%20Mackerel%3AFlatfish%3AOther%20Groundfish%3APacific%20Cod%3APollock%3ARockfish%3ASablefish%5C",
+    "Retrieved_utc": "2026-09-30T04:45:16+00:00",
+    "Source_sha256": "c3716ec9b7607421f23156cff6b8039083b884eb80cfccb3de39f1aa0d91149b",
+    "Region": "Alaska",
+    "First_year": 2015,
+    "Last_year": 2020
+  },
+  "GFSAFE001_Alaska_2021-2025.html.txt": {
+    "SourceURL": "https://reports.psmfc.org/akfin/f?p=501:901:0:INITIAL:::P0_SHARE_DISPLAY,P0_SHARE_VIEW,P901_MIN_YEAR,P901_MAX_YEAR,P901_FMP_AREA,P901_SPECIES_GROUP:%5CR%5C,%5Creport%5C,%5C2021%5C,%5C2025%5C,%5CAll%20Alaska%5C,%5CAll%20Groundfish%3AAtka%20Mackerel%3AFlatfish%3AOther%20Groundfish%3APacific%20Cod%3APollock%3ARockfish%3ASablefish%5C",
+    "Retrieved_utc": "2026-09-30T04:45:16+00:00",
+    "Source_sha256": "ec10d04a5b7bb6aca5035e40e3b51ed849dc608dc348ab92dbe38fff28aafe64",
+    "Region": "Alaska",
+    "First_year": 2021,
+    "Last_year": 2025
+  }
+}

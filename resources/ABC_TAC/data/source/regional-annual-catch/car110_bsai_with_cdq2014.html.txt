@@ -1,0 +1,3180 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+ <head>
+  <title>
+   Bering Sea Aleutian Islands Catch Report (includes CDQ)
+  </title>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <style type="text/css">
+   .style_29 { font-family: "Times New Roman"; font-size: 9pt; margin-right: 3pt;}
+					.style_28 { font-family: "Times New Roman"; font-size: 9pt; margin-right: 3pt;}
+					.style_25 { background-color: rgb(255, 255, 255);}
+					.style_24 { font-family: "Times New Roman"; font-weight: bold; font-size: 9pt; margin-bottom: 5pt;}
+					.style_27 { font-family: "Times New Roman"; font-size: 9pt;}
+					.style_26 { font-family: "Times New Roman"; font-size: 9pt; margin-left: 5pt;}
+					.style_8 { margin: 0.05in 0.05in 0.05in 0.025in; border: 1px solid rgb(0, 0, 0); height: 0.896in;}
+					.style_9 { height: 0.896in;}
+					.style_6 { font-family: "Times New Roman"; font-weight: bold; font-size: 11pt;}
+					.style_0 { font-family: sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 10pt; color: black; text-indent: 0em; letter-spacing: normal; word-spacing: normal; text-transform: none; white-space: normal; line-height: normal;}
+					.style_21 { font-family: "Times New Roman"; font-weight: bold; font-size: 12pt; margin-top: 10pt; margin-bottom: 3pt;}
+					.style_1 { border: 1px solid rgb(0, 0, 0); height: 0.9in; width: 7.85in;}
+					.style_23 { font-family: "Times New Roman"; font-weight: bold; font-size: 9pt; margin-bottom: 5pt;}
+					.style_22 { background-color: rgb(238, 238, 238);}
+					.style_4 { font-weight: bold;}
+					.style_5 { height: 0.344in;}
+					.style_2 { margin: 0.05in; border: 1px solid rgb(0, 0, 0); height: 0.896in; width: 3.698in;}
+					.style_41 { font-family: "Times New Roman"; margin-top: 5pt;}
+					.style_3 { height: 0.552in;}
+					.style_40 { margin-top: 10pt; margin-bottom: 10pt;}
+					.style_18 { width: 7.85in;}
+					.style_17 { width: 7.844in;}
+					.style_39 { margin-top: 3pt; margin-right: 3pt;}
+					.style_19 { font-family: "Times New Roman"; font-weight: bold; background-color: rgb(255, 255, 255);}
+					.style_14 { height: 0.292in;}
+					.style_36 { margin-top: 3pt;}
+					.style_13 { height: 0.292in; width: 7.771in;}
+					.style_35 { margin-top: 3pt;}
+					.style_38 { font-family: "Times New Roman"; font-style: normal; font-variant: normal; font-weight: bold; font-size: 10pt; color: black; margin: 3pt 0pt 0pt; padding: 1pt; border: medium none black; letter-spacing: normal; word-spacing: normal; text-transform: none; white-space: normal; line-height: normal;}
+					.style_37 { font-family: "Times New Roman"; font-style: normal; font-variant: normal; font-weight: bold; font-size: 10pt; color: black; margin: 3pt 0pt 0pt; padding: 1pt; border: medium none black; letter-spacing: normal; word-spacing: normal; text-transform: none; white-space: normal; line-height: normal;}
+					.style_10 { font-family: "Times New Roman"; font-weight: bold; font-size: 11pt; margin: 10pt auto 5pt 5pt;}
+					.style_32 { font-family: "Times New Roman"; font-size: 9pt; margin-right: 3pt;}
+					.style_31 { font-family: "Times New Roman"; font-style: normal; font-variant: normal; font-weight: normal; font-size: 9pt; color: black; margin: 0pt 3pt 0pt 0pt; padding: 1pt; border: medium none black; letter-spacing: normal; word-spacing: normal; text-transform: none; white-space: normal; line-height: normal;}
+					.style_12 { font-family: "Times New Roman";}
+					.style_34 { font-size: 12pt; margin-top: 3pt;}
+					.style_11 { margin: 3pt auto auto; height: 0.72in; width: 0.7in;}
+					.style_33 { font-family: "Times New Roman"; font-weight: bold;}
+					.style_30 { font-family: "Times New Roman"; font-style: normal; font-variant: normal; font-weight: normal; font-size: 9pt; color: black; margin: 0pt 3pt 0pt 0pt; padding: 1pt; border: medium none black; letter-spacing: normal; word-spacing: normal; text-transform: none; white-space: normal; line-height: normal;}
+  </style>
+  <script type="text/javascript">
+   //<![CDATA[
+			   function redirect(target, url){
+			       if (target =='_blank'){
+			           open(url);
+			       }
+			       else if (target == '_top'){
+			           window.top.location.href=url;
+			       }
+			       else if (target == '_parent'){
+			           location.href=url;
+			       }
+			       else if (target == '_self'){
+			           location.href =url;
+			       }
+			       else{
+			           open(url);
+			       }
+			      }
+			 //]]>
+  </script>
+ </head>
+ <body class="style_0" style=" margin:0px;">
+  <noscript>
+   <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-M67WBF" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-M67WBF');
+  </script>
+  <table cellpadding="0" style="empty-cells: show; border-collapse:collapse; width:8in; overflow: hidden; table-layout:fixed;">
+   <col/>
+   <tr>
+    <td>
+     <div style="overflow:hidden; height:1.2in">
+      <table class="style_1" id="AUTOGENBOOKMARK_1_4f138ada-b8fb-4bff-91db-2b8f68be8023" style="border-collapse: collapse; empty-cells: show; height: 0.9in; width: 7.85in; overflow:hidden; table-layout:fixed;">
+       <col style=" width: 3.833in;"/>
+       <col style=" width: 4.01in;"/>
+       <tr align="left" valign="top">
+        <td style=" overflow:hidden;">
+         <table class="style_2" id="AUTOGENBOOKMARK_2_6ad0edfd-67a8-419b-9101-51fcf706860f" style="border-collapse: collapse; empty-cells: show; height: 0.896in; width: 3.698in; overflow:hidden; table-layout:fixed;">
+          <col style=" width: 3.698in;"/>
+          <tr align="left" class="style_3" style=" height: 0.552in;" valign="top">
+           <td style=" overflow:hidden;">
+            <div class="style_4" id="AUTOGENBOOKMARK_3_ab157ba7-2b8d-438f-9acc-7551d682f229" style=" text-align:center;">
+             Bering Sea Aleutian Islands Catch Report
+             <br/>
+             (includes CDQ)
+            </div>
+           </td>
+          </tr>
+          <tr align="left" class="style_5" style=" height: 0.344in;" valign="top">
+           <td style=" overflow:hidden;">
+            <table id="AUTOGENBOOKMARK_4_e547d06c-3ba9-4e01-8258-5292c2784814" style="border-collapse: collapse; empty-cells: show; width: 100%; overflow:hidden; table-layout:fixed;">
+             <col/>
+             <col/>
+             <tr align="left" valign="top">
+              <td style=" overflow:hidden;">
+               <div class="style_6" id="AUTOGENBOOKMARK_5_72940f82-3633-4785-9b59-d931d5388051" style=" text-align:right;">
+                Through:
+               </div>
+              </td>
+              <td style=" overflow:hidden;">
+               <div style=" text-align:left;">
+                31-Dec-2014
+               </div>
+              </td>
+             </tr>
+            </table>
+           </td>
+          </tr>
+         </table>
+        </td>
+        <td style=" overflow:hidden;">
+         <table class="style_8" id="AUTOGENBOOKMARK_6_a3c2e37b-ac34-4bae-92c6-e881142d0490" style="border-collapse: collapse; empty-cells: show; height: 0.896in; width: 1px; overflow:hidden; table-layout:fixed;">
+          <col style=" width: 3.01in;"/>
+          <col style=" width: 0.844in;"/>
+          <tr align="left" class="style_9" style=" height: 0.896in;" valign="top">
+           <td style=" overflow:hidden;">
+            <div class="style_10" id="AUTOGENBOOKMARK_7_fd800293-97b4-49cd-a34a-a910757e1473">
+             National Marine Fisheries Service
+             <br/>
+             Alaska Region, Sustainable Fisheries
+             <br/>
+             Catch Accounting
+            </div>
+           </td>
+           <td style=" overflow:hidden;">
+            <div>
+             <img alt="" class="style_11" id="AUTOGENBOOKMARK_8_864d649b-fba8-431e-8c70-d174a3ebd949" src="https://media.fisheries.noaa.gov/2021-04/noaa-logo.png?null" style=" width: 0.7in; height: 0.72in;display: block;"/>
+            </div>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+      </table>
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top">
+     <table class="style_18" id="__bookmark_1" style="border-collapse: collapse; empty-cells: show; width: 7.85in; overflow:hidden; table-layout:fixed;">
+      <col style=" width: 0.7in;"/>
+      <col/>
+      <col style=" width: 0.8in;"/>
+      <col style=" width: 0.8in;"/>
+      <col style=" width: 0.8in;"/>
+      <col style=" width: 0.8in;"/>
+      <col style=" width: 0.8in;"/>
+      <tr align="center" class="style_19" valign="top">
+       <th style=" overflow:hidden;font-weight: bold;">
+       </th>
+       <th style=" overflow:hidden;font-weight: bold;">
+       </th>
+       <th style=" overflow:hidden;font-weight: bold;">
+       </th>
+       <th style=" overflow:hidden;font-weight: bold;">
+       </th>
+       <th style=" overflow:hidden;font-weight: bold;">
+       </th>
+       <th style=" overflow:hidden;font-weight: bold;">
+       </th>
+       <th style=" overflow:hidden;font-weight: bold;">
+       </th>
+      </tr>
+      <tr align="left" id="__TOC_0" valign="bottom">
+       <td colspan="2" style=" overflow:hidden;">
+        <div class="style_21" style=" text-align:left;">
+         Bering Sea
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+      </tr>
+      <tr align="left" class="style_22" valign="bottom">
+       <td style=" overflow:hidden;">
+        <div class="style_23" id="AUTOGENBOOKMARK_9_a0bdd2fe-b14f-4eb1-97bb-61f24bb92848">
+         Seasons
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_23" id="AUTOGENBOOKMARK_10_14ab7101-4733-4d4a-9cc5-d2e5f2832c82">
+         Account
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_24" id="AUTOGENBOOKMARK_11_3ba14fed-c447-41f1-9032-0c38e1cfcc1d" style=" text-align:right;">
+         Total Catch
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_24" id="AUTOGENBOOKMARK_12_82b55582-2323-447a-92d2-ca97e2a5269d" style=" text-align:right;">
+         Quota
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_24" id="AUTOGENBOOKMARK_13_c0078817-1021-459b-9b6f-2fc2594204d2" style=" text-align:right;">
+         Remaining Quota
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_24" id="AUTOGENBOOKMARK_14_d6e2063b-30c0-473a-829a-3e5ac7b82750" style=" text-align:right;">
+         % Taken
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_24" id="AUTOGENBOOKMARK_15_e7ff280c-3dfb-4632-8113-ec48469b4560" style=" text-align:right;">
+         Last Week Catch
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Other Rockfish (includes CDQ)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         324
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         400
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         76
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         81%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pacific Ocean Perch (includes CDQ)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         7,437
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         7,684
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         247
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         97%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Sablefish (Hook-and-Line and Pot)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         210
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         536
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         326
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         39%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Sablefish CDQ (Hook-and-Line and Pot)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         70
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         134
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         64
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         52%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Sablefish (Trawl)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         33
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         569
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         536
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         6%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Sablefish CDQ (Trawl)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         1
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         50
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         49
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         2%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Greenland Turbot
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         1,397
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         1,481
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         84
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         94%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Greenland Turbot CDQ
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         73
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         178
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         105
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         41%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pacific Cod CDQ
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         24,604
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         26,418
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         1,814
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         93%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         76
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pollock, AFA Inshore
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         555,518
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         556,640
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         1,122
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         100%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pollock, AFA Catcher Processor
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         445,178
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         445,312
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         134
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         100%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pollock, AFA Mothership
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         111,009
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         111,328
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         319
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         100%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pollock CDQ
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         128,549
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         128,600
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         51
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         100%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pollock, Incidental Catch, non-Bogoslof (includes CDQ)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         57,163
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         38,770
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         -18,393
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         147%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         117
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pollock, Incidental Catch, Bogoslof (includes CDQ)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         427
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         75
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         -352
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         569%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" valign="top">
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+      </tr>
+      <tr align="left" id="__TOC_1" valign="bottom">
+       <td colspan="2" style=" overflow:hidden;">
+        <div class="style_21" style=" text-align:left;">
+         Aleutian Islands
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+      </tr>
+      <tr align="left" class="style_22" valign="bottom">
+       <td style=" overflow:hidden;">
+        <div class="style_23" id="AUTOGENBOOKMARK_16_e83665ea-e830-423b-ac74-acaa2cf8b649">
+         Seasons
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_23" id="AUTOGENBOOKMARK_17_d217fc48-45c0-49a3-9816-e81167e064c0">
+         Account
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_24" id="AUTOGENBOOKMARK_18_47f3051b-14dc-41ef-886e-3e9a47fc1bcf" style=" text-align:right;">
+         Total Catch
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_24" id="AUTOGENBOOKMARK_19_e1d711ce-29cb-452b-a974-719f92e21040" style=" text-align:right;">
+         Quota
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_24" id="AUTOGENBOOKMARK_20_e47941bd-f866-4f47-a760-4e0372efff52" style=" text-align:right;">
+         Remaining Quota
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_24" id="AUTOGENBOOKMARK_21_1165c228-a7d5-415c-b3bd-bc52782d1086" style=" text-align:right;">
+         % Taken
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_24" id="AUTOGENBOOKMARK_22_555b0b7d-2f78-443c-81ac-004f1d500a6c" style=" text-align:right;">
+         Last Week Catch
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Other Rockfish (includes CDQ)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         589
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         473
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         -116
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         125%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pacific Ocean Perch, Eastern
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         8,092
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         8,257
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         165
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         98%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pacific Ocean Perch, Eastern CDQ
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         929
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         989
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         60
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         94%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pacific Ocean Perch, Central
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         5,783
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         5,888
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         105
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         98%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pacific Ocean Perch, Central CDQ
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         655
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         706
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         51
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         93%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pacific Ocean Perch, Western
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         8,525
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         8,571
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         46
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         99%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pacific Ocean Perch, Western CDQ
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         960
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         1,027
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         67
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         93%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Rougheye Rockfish (includes CDQ) - BS + Eastern
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         108
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         177
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         69
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         61%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Rougheye Rockfish (includes CDQ) - Central + Western
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         101
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         239
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         138
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         42%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Atka Mackerel, Eastern (Jig)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         0
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         92
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         92
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         0%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Atka Mackerel, Eastern (Trawl)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         18,808
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         18,618
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         -190
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         101%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Atka Mackerel, Eastern ICA
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         141
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         250
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         109
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         56%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Atka Mackerel, Eastern CDQ
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         2,240
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         2,317
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         77
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         97%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Atka Mackerel, Central (Trawl)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         8,515
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         8,560
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         45
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         99%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Atka Mackerel, Central ICA
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         48
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         75
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         27
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         64%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Atka Mackerel, Central CDQ
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         957
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         1,035
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         78
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         92%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pacific Cod CDQ
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         456
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         749
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         293
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         61%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Atka Mackerel, Western (Trawl)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         228
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         853
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         625
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         27%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Atka Mackerel, Western ICA
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         0
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         40
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         40
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         0%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Atka Mackerel, Western CDQ
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         14
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         107
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         93
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         13%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Sablefish (Hook-and-Line and Pot)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         544
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         1,086
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         542
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         50%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Sablefish CDQ (Hook-and-Line and Pot)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         243
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         272
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         29
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         89%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Sablefish (Trawl)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         25
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         385
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         360
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         6%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Sablefish CDQ (Trawl)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         1
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         34
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         33
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         3%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Greenland Turbot (includes CDQ)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         165
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         395
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         230
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         42%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pollock
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         0
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         3,350
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         3,350
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         0%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pollock CDQ
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         0
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         0
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         0
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         0%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pollock, Incidental Catch (includes CDQ)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         2,375
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         2,000
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         -375
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         119%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" valign="top">
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+      </tr>
+      <tr align="left" id="__TOC_2" valign="bottom">
+       <td colspan="2" style=" overflow:hidden;">
+        <div class="style_21" style=" text-align:left;">
+         Bering Sea Aleutian Islands
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+      </tr>
+      <tr align="left" class="style_22" valign="bottom">
+       <td style=" overflow:hidden;">
+        <div class="style_23" id="AUTOGENBOOKMARK_23_f98ad953-0282-423d-b3fa-c6e7bee67535">
+         Seasons
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_23" id="AUTOGENBOOKMARK_24_014ea413-e4e4-4791-9825-0efb9366b719">
+         Account
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_24" id="AUTOGENBOOKMARK_25_88b8c1b3-062e-4c98-92f4-08917f80afd3" style=" text-align:right;">
+         Total Catch
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_24" id="AUTOGENBOOKMARK_26_40fcde2a-802d-4bd3-8669-d6c6ca6bb2b6" style=" text-align:right;">
+         Quota
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_24" id="AUTOGENBOOKMARK_27_0aa7c12d-eae0-475f-b016-eea047c2186c" style=" text-align:right;">
+         Remaining Quota
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_24" id="AUTOGENBOOKMARK_28_086b5c5d-3f70-40d1-bea6-71ed8c01d6fa" style=" text-align:right;">
+         % Taken
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_24" id="AUTOGENBOOKMARK_29_e8fae5a5-5409-4f2a-83cd-e04ef3ac28aa" style=" text-align:right;">
+         Last Week Catch
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Alaska Plaice (includes CDQ)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         19,447
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         20,825
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         1,378
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         93%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Arrowtooth Flounder
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         18,930
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         21,250
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         2,320
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         89%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         28
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Arrowtooth Flounder CDQ
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         696
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         2,675
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         1,979
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         26%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         1
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Flathead Sole
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         15,785
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         21,879
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         6,094
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         72%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         5
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Flathead Sole CDQ
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         726
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         2,622
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         1,896
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         28%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Kamchatka Flounder (includes CDQ)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         6,568
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         7,100
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         532
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         93%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         2
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Northern Rockfish (includes CDQ)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         2,342
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         2,405
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         63
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         97%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Other Flatfish (includes CDQ)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         4,391
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         4,500
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         109
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         98%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         1
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pacific Cod, Catcher Processor (AFA)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         4,427
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         5,465
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         1,038
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         81%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pacific Cod, Catcher Processor (Amendment 80)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         27,714
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         33,631
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         5,917
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         82%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pacific Cod, Catcher Vessel (Trawl)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         42,086
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         43,107
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         1,021
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         98%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pacific Cod, Catcher Processor (Hook-and-Line)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         108,052
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         111,516
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         3,464
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         97%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         1,791
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pacific Cod, Catcher Vessel (Hook-and-Line &gt;= 60 ft)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         0
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         25
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         25
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         0%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pacific Cod, Catcher Processor (Pot)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         5,477
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         5,889
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         412
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         93%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pacific Cod, Catcher Vessel (Pot &gt;= 60 ft)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         11,170
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         14,476
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         3,306
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         77%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         134
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         X
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pacific Cod (Jig)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         2
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         101
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         99
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         2%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pacific Cod (Hook-and-Line and Pot &lt; 60 ft)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         12,559
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         12,018
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         -541
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         105%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         504
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Pacific Cod, Incidental Catch (Hook-and-Line and Pot)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         306
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         500
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         194
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         61%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Rock Sole
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         48,088
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         75,905
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         27,817
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         63%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Rock Sole CDQ
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         3,602
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         9,095
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         5,493
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         40%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Shortraker Rockfish (includes CDQ)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         250
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         370
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         120
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         68%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Yellowfin Sole
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         141,249
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         164,312
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         23,063
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         86%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         4
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Yellowfin Sole CDQ
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         15,523
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         19,688
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         4,165
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         79%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Octopus (includes CDQ)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         429
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         425
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         -4
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         101%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         18
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Sculpin (includes CDQ)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         4,902
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         4,888
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         -14
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         100%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         17
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Shark (includes CDQ)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         138
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         225
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         87
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         61%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         2
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Skate (includes CDQ)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         27,484
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         26,600
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         -884
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         103%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         233
+        </div>
+       </td>
+      </tr>
+      <tr align="left" class="style_25" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_26" style=" text-align:left;">
+         <div style="visibility:hidden">
+         </div>
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_27">
+         Squid (includes CDQ)
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_28" style=" text-align:right;">
+         1,678
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_29" style=" text-align:right;">
+         1,764
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_30" style=" text-align:right;">
+         86
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_31" style=" text-align:right;">
+         95%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_32" style=" text-align:right;">
+         0
+        </div>
+       </td>
+      </tr>
+      <tr align="left" valign="top">
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+       <td style=" overflow:hidden;">
+       </td>
+      </tr>
+      <tr align="right" class="style_33" valign="top">
+       <td colspan="2" style=" overflow:hidden;">
+        <div class="style_34" id="AUTOGENBOOKMARK_30_bff1dc1d-aa81-4928-80fe-76d83f1a9b62" style=" text-align:left;">
+         Total:
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_35">
+         1,916,518
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_36">
+         1,997,976
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_37" style=" text-align:right;">
+         81,458
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_38" style=" text-align:right; overflow:hidden;">
+         96%
+        </div>
+       </td>
+       <td style=" overflow:hidden;">
+        <div class="style_39">
+         2,933
+        </div>
+       </td>
+      </tr>
+     </table>
+     <table class="style_40" id="__bookmark_2" style="border-collapse: collapse; empty-cells: show; width: 100%; overflow:hidden; table-layout:fixed;">
+      <col/>
+      <tr align="center" class="style_19" valign="top">
+       <th style=" overflow:hidden;font-weight: bold;">
+       </th>
+      </tr>
+      <tr align="left" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_41">
+         Other flatfish: all flatfish except Pacific halibut, flathead sole, Greenland turbot, rock sole, yellowfin sole, Kamchatka flounder, arrowtooth flounder, and Alaska plaice.
+        </div>
+       </td>
+      </tr>
+      <tr align="left" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_41">
+         Other rockfish: all Sebastes and Sebastolobus species except for Pacific ocean perch, northern, shortraker, and rougheye rockfish.
+        </div>
+       </td>
+      </tr>
+      <tr align="left" valign="top">
+       <td style=" overflow:hidden;">
+        <div class="style_41">
+         For changes to the harvest specifications refer to http://alaskafisheries.noaa.gov/2014/hschanges.htm
+        </div>
+       </td>
+      </tr>
+      <tr align="left" valign="top">
+       <td style=" overflow:hidden;">
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <div style="overflow:hidden; height:0.8in">
+      <table class="style_12" id="AUTOGENBOOKMARK_31_b782a4f9-efe1-4b0b-8a84-6ed5e58564ee" style="border-collapse: collapse; empty-cells: show; width: 100%; overflow:hidden; table-layout:fixed;">
+       <col/>
+       <tr align="left" valign="top">
+        <td style=" overflow:hidden;">
+         <table class="style_13" id="AUTOGENBOOKMARK_32_130fccbf-38c6-42c2-9e4a-934493e5a7f9" style="border-collapse: collapse; empty-cells: show; height: 0.292in; width: 7.771in; overflow:hidden; table-layout:fixed;">
+          <col style=" width: 7.51in;"/>
+          <col style=" width: 0.26in;"/>
+          <tr align="left" class="style_14" style=" height: 0.292in;" valign="top">
+           <td style=" overflow:hidden;">
+            <div id="AUTOGENBOOKMARK_33_bfa64d9b-6d27-4fc2-9ac8-08f955f91442" style=" text-align:right;">
+             Page
+            </div>
+           </td>
+           <td style=" overflow:hidden;">
+            <div style=" text-align:left;">
+             1
+            </div>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+       <tr align="left" valign="top">
+        <td style=" overflow:hidden;">
+         <table class="style_17" id="AUTOGENBOOKMARK_34_26c0e8c0-e934-4ba4-a16a-ad7a7c8e1e43" style="border-collapse: collapse; empty-cells: show; width: 7.844in; overflow:hidden; table-layout:fixed;">
+          <col style=" width: 3.708in;"/>
+          <col style=" width: 4.135in;"/>
+          <tr align="left" valign="top">
+           <td style=" overflow:hidden;">
+            <div style=" overflow:hidden;">
+             <b>
+              Note:
+             </b>
+             All weights are in metric tons. "X" denotes seasons and there is a separate seasonal report for this quota category.
+            </div>
+           </td>
+           <td align="right" style=" overflow:hidden;">
+            <div style=" overflow:hidden;">
+             Report run on: May 18, 2022 9:47 AM
+            </div>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+      </table>
+     </div>
+    </td>
+   </tr>
+  </table>
+ </body>
+</html>

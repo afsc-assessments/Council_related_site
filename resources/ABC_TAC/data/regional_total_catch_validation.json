@@ -1,0 +1,632 @@
+{
+  "source": "NOAA Alaska Region CAR110 annual catch reports",
+  "source_index": "https://www.fisheries.noaa.gov/alaska/commercial-fishing/fisheries-catch-and-landings-reports-alaska",
+  "units": "metric tons",
+  "regions": [
+    "BSAI",
+    "GOA"
+  ],
+  "years": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "value_rule": "Use each report's single published Total Catch grand total once; account sums validate the grand total.",
+  "coverage": "Quota accounts included in each annual report; BSAI includes CDQ; both regions include the reported fixed-gear and trawl sablefish accounts.",
+  "fixed_gear_sablefish_note": "GOA CAR110 includes four Hook-and-Line or Fixed Gear sablefish accounts (Western Gulf, Central Gulf, West Yakutat, Southeast). Separate IFQ landing reports must not be added to these totals.",
+  "category_note": "Squid accounts occur through 2018; sculpin accounts through 2020. NOAA lists these separately as ecosystem components from 2019 and 2021. Other area/account groupings also change; the complete observed differences are recorded below.",
+  "sablefish_management_source": "https://www.fisheries.noaa.gov/bulletin/ib-17-19-nmfs-authorizes-longline-pot-gear-gulf-alaska-sablefish-fixed-gear-fisheries",
+  "sablefish_label_change": "GOA Hook-and-Line (2013-2016) becomes Fixed Gear (2017-2025); NOAA authorized longline pot gear in the GOA IFQ sablefish fishery beginning in 2017.",
+  "species_changes": {
+    "BSAI": [
+      {
+        "Year": 2014,
+        "Added_area_accounts": [
+          [
+            "Aleutian Islands",
+            "Pacific Cod CDQ"
+          ],
+          [
+            "Bering Sea",
+            "Pacific Cod CDQ"
+          ]
+        ],
+        "Removed_area_accounts": [
+          [
+            "Bering Sea Aleutian Islands",
+            "Pacific Cod CDQ"
+          ]
+        ]
+      },
+      {
+        "Year": 2019,
+        "Added_area_accounts": [],
+        "Removed_area_accounts": [
+          [
+            "Bering Sea Aleutian Islands",
+            "Squid (includes CDQ)"
+          ]
+        ]
+      },
+      {
+        "Year": 2021,
+        "Added_area_accounts": [],
+        "Removed_area_accounts": [
+          [
+            "Bering Sea Aleutian Islands",
+            "Sculpin (includes CDQ)"
+          ]
+        ]
+      }
+    ],
+    "GOA": [
+      {
+        "Year": 2014,
+        "Added_area_accounts": [],
+        "Removed_area_accounts": [
+          [
+            "Central Gulf",
+            "Other Rockfish"
+          ]
+        ]
+      },
+      {
+        "Year": 2017,
+        "Added_area_accounts": [
+          [
+            "Central Gulf",
+            "Sablefish (Fixed Gear)"
+          ],
+          [
+            "Southeast",
+            "Sablefish (Fixed Gear)"
+          ],
+          [
+            "West Yakutat",
+            "Sablefish (Fixed Gear)"
+          ],
+          [
+            "Western Gulf",
+            "Sablefish (Fixed Gear)"
+          ]
+        ],
+        "Removed_area_accounts": [
+          [
+            "Central Gulf",
+            "Sablefish (Hook-and-Line)"
+          ],
+          [
+            "Southeast",
+            "Sablefish (Hook-and-Line)"
+          ],
+          [
+            "West Yakutat",
+            "Sablefish (Hook-and-Line)"
+          ],
+          [
+            "Western Gulf",
+            "Sablefish (Hook-and-Line)"
+          ]
+        ]
+      },
+      {
+        "Year": 2019,
+        "Added_area_accounts": [],
+        "Removed_area_accounts": [
+          [
+            "Entire Gulf",
+            "Squid"
+          ]
+        ]
+      },
+      {
+        "Year": 2021,
+        "Added_area_accounts": [],
+        "Removed_area_accounts": [
+          [
+            "Entire Gulf",
+            "Sculpin"
+          ]
+        ]
+      },
+      {
+        "Year": 2024,
+        "Added_area_accounts": [
+          [
+            "Western and Central (Includes West Yakutat)",
+            "Other Rockfish"
+          ]
+        ],
+        "Removed_area_accounts": [
+          [
+            "West Yakutat",
+            "Other Rockfish"
+          ],
+          [
+            "Western Gulf",
+            "Other Rockfish"
+          ]
+        ]
+      },
+      {
+        "Year": 2025,
+        "Added_area_accounts": [
+          [
+            "Western and Central (Includes West Yakutat)",
+            "Demersal Shelf Rockfish"
+          ]
+        ],
+        "Removed_area_accounts": []
+      }
+    ]
+  },
+  "incomplete_years_included": false,
+  "maximum_absolute_rounding_difference_t": 6,
+  "checks": [
+    {
+      "Region": "BSAI",
+      "Year": 2013,
+      "Account_rows": 70,
+      "Account_sum_t": 1910349,
+      "Published_total_t": 1910348,
+      "Account_sum_minus_total_t": 1,
+      "Squid_account_present": true,
+      "Sculpin_account_present": true,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Hook-and-Line and Pot)",
+        "Sablefish CDQ (Hook-and-Line and Pot)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 1526,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2014,
+      "Account_rows": 71,
+      "Account_sum_t": 1916516,
+      "Published_total_t": 1916518,
+      "Account_sum_minus_total_t": -2,
+      "Squid_account_present": true,
+      "Sculpin_account_present": true,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Hook-and-Line and Pot)",
+        "Sablefish CDQ (Hook-and-Line and Pot)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 1067,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2015,
+      "Account_rows": 71,
+      "Account_sum_t": 1906559,
+      "Published_total_t": 1906559,
+      "Account_sum_minus_total_t": 0,
+      "Squid_account_present": true,
+      "Sculpin_account_present": true,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Hook-and-Line and Pot)",
+        "Sablefish CDQ (Hook-and-Line and Pot)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 599,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2016,
+      "Account_rows": 71,
+      "Account_sum_t": 1952404,
+      "Published_total_t": 1952403,
+      "Account_sum_minus_total_t": 1,
+      "Squid_account_present": true,
+      "Sculpin_account_present": true,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Hook-and-Line and Pot)",
+        "Sablefish CDQ (Hook-and-Line and Pot)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 584,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2017,
+      "Account_rows": 71,
+      "Account_sum_t": 1950955,
+      "Published_total_t": 1950953,
+      "Account_sum_minus_total_t": 2,
+      "Squid_account_present": true,
+      "Sculpin_account_present": true,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Hook-and-Line and Pot)",
+        "Sablefish CDQ (Hook-and-Line and Pot)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 931,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2018,
+      "Account_rows": 71,
+      "Account_sum_t": 1947301,
+      "Published_total_t": 1947301,
+      "Account_sum_minus_total_t": 0,
+      "Squid_account_present": true,
+      "Sculpin_account_present": true,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Hook-and-Line and Pot)",
+        "Sablefish CDQ (Hook-and-Line and Pot)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 1004,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2019,
+      "Account_rows": 70,
+      "Account_sum_t": 1938629,
+      "Published_total_t": 1938631,
+      "Account_sum_minus_total_t": -2,
+      "Squid_account_present": false,
+      "Sculpin_account_present": true,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Hook-and-Line and Pot)",
+        "Sablefish CDQ (Hook-and-Line and Pot)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 1078,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2020,
+      "Account_rows": 70,
+      "Account_sum_t": 1875086,
+      "Published_total_t": 1875089,
+      "Account_sum_minus_total_t": -3,
+      "Squid_account_present": false,
+      "Sculpin_account_present": true,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Hook-and-Line and Pot)",
+        "Sablefish CDQ (Hook-and-Line and Pot)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 1399,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2021,
+      "Account_rows": 69,
+      "Account_sum_t": 1795326,
+      "Published_total_t": 1795322,
+      "Account_sum_minus_total_t": 4,
+      "Squid_account_present": false,
+      "Sculpin_account_present": false,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Hook-and-Line and Pot)",
+        "Sablefish CDQ (Hook-and-Line and Pot)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 2498,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2022,
+      "Account_rows": 69,
+      "Account_sum_t": 1606803,
+      "Published_total_t": 1606802,
+      "Account_sum_minus_total_t": 1,
+      "Squid_account_present": false,
+      "Sculpin_account_present": false,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Hook-and-Line and Pot)",
+        "Sablefish CDQ (Hook-and-Line and Pot)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 4254,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2023,
+      "Account_rows": 69,
+      "Account_sum_t": 1776450,
+      "Published_total_t": 1776452,
+      "Account_sum_minus_total_t": -2,
+      "Squid_account_present": false,
+      "Sculpin_account_present": false,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Hook-and-Line and Pot)",
+        "Sablefish CDQ (Hook-and-Line and Pot)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 3741,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2024,
+      "Account_rows": 69,
+      "Account_sum_t": 1762674,
+      "Published_total_t": 1762675,
+      "Account_sum_minus_total_t": -1,
+      "Squid_account_present": false,
+      "Sculpin_account_present": false,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Hook-and-Line and Pot)",
+        "Sablefish CDQ (Hook-and-Line and Pot)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 1876,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2025,
+      "Account_rows": 69,
+      "Account_sum_t": 1774232,
+      "Published_total_t": 1774231,
+      "Account_sum_minus_total_t": 1,
+      "Squid_account_present": false,
+      "Sculpin_account_present": false,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Hook-and-Line and Pot)",
+        "Sablefish CDQ (Hook-and-Line and Pot)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 1750,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "GOA",
+      "Year": 2013,
+      "Account_rows": 71,
+      "Account_sum_t": 229048,
+      "Published_total_t": 229047,
+      "Account_sum_minus_total_t": 1,
+      "Squid_account_present": true,
+      "Sculpin_account_present": true,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Hook-and-Line)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 11048,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "GOA",
+      "Year": 2014,
+      "Account_rows": 70,
+      "Account_sum_t": 300308,
+      "Published_total_t": 300312,
+      "Account_sum_minus_total_t": -4,
+      "Squid_account_present": true,
+      "Sculpin_account_present": true,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Hook-and-Line)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 9429,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "GOA",
+      "Year": 2015,
+      "Account_rows": 70,
+      "Account_sum_t": 295533,
+      "Published_total_t": 295534,
+      "Account_sum_minus_total_t": -1,
+      "Squid_account_present": true,
+      "Sculpin_account_present": true,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Hook-and-Line)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 9226,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "GOA",
+      "Year": 2016,
+      "Account_rows": 70,
+      "Account_sum_t": 297749,
+      "Published_total_t": 297747,
+      "Account_sum_minus_total_t": 2,
+      "Squid_account_present": true,
+      "Sculpin_account_present": true,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Hook-and-Line)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 8280,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "GOA",
+      "Year": 2017,
+      "Account_rows": 70,
+      "Account_sum_t": 304658,
+      "Published_total_t": 304659,
+      "Account_sum_minus_total_t": -1,
+      "Squid_account_present": true,
+      "Sculpin_account_present": true,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Fixed Gear)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 9045,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "GOA",
+      "Year": 2018,
+      "Account_rows": 70,
+      "Account_sum_t": 246648,
+      "Published_total_t": 246647,
+      "Account_sum_minus_total_t": 1,
+      "Squid_account_present": true,
+      "Sculpin_account_present": true,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Fixed Gear)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 9450,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "GOA",
+      "Year": 2019,
+      "Account_rows": 69,
+      "Account_sum_t": 214775,
+      "Published_total_t": 214777,
+      "Account_sum_minus_total_t": -2,
+      "Squid_account_present": false,
+      "Sculpin_account_present": true,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Fixed Gear)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 10309,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "GOA",
+      "Year": 2020,
+      "Account_rows": 69,
+      "Account_sum_t": 187433,
+      "Published_total_t": 187433,
+      "Account_sum_minus_total_t": 0,
+      "Squid_account_present": false,
+      "Sculpin_account_present": true,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Fixed Gear)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 10142,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "GOA",
+      "Year": 2021,
+      "Account_rows": 68,
+      "Account_sum_t": 182949,
+      "Published_total_t": 182950,
+      "Account_sum_minus_total_t": -1,
+      "Squid_account_present": false,
+      "Sculpin_account_present": false,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Fixed Gear)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 13906,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "GOA",
+      "Year": 2022,
+      "Account_rows": 68,
+      "Account_sum_t": 225165,
+      "Published_total_t": 225166,
+      "Account_sum_minus_total_t": -1,
+      "Squid_account_present": false,
+      "Sculpin_account_present": false,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Fixed Gear)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 17323,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "GOA",
+      "Year": 2023,
+      "Account_rows": 68,
+      "Account_sum_t": 218448,
+      "Published_total_t": 218449,
+      "Account_sum_minus_total_t": -1,
+      "Squid_account_present": false,
+      "Sculpin_account_present": false,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Fixed Gear)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 14902,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "GOA",
+      "Year": 2024,
+      "Account_rows": 67,
+      "Account_sum_t": 220048,
+      "Published_total_t": 220050,
+      "Account_sum_minus_total_t": -2,
+      "Squid_account_present": false,
+      "Sculpin_account_present": false,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Fixed Gear)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 15593,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    },
+    {
+      "Region": "GOA",
+      "Year": 2025,
+      "Account_rows": 68,
+      "Account_sum_t": 231539,
+      "Published_total_t": 231545,
+      "Account_sum_minus_total_t": -6,
+      "Squid_account_present": false,
+      "Sculpin_account_present": false,
+      "Sablefish_fixed_gear_account_labels": [
+        "Sablefish (Fixed Gear)"
+      ],
+      "Sablefish_fixed_gear_sum_t": 17212,
+      "Unique_total_row": true,
+      "Unique_area_account_rows": true,
+      "Complete_calendar_year": true
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "BSAI-2013": {
+    "Archive_file": "car110_bsai_with_cdq2013.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_bsai_with_cdq2013.html",
+    "Retrieved_utc": "2026-09-30T04:45:23+00:00",
+    "Source_sha256": "dceb177016c8783e1a1d245c02c581c3c6cc746fbb96e14f70e62ce2bf72f870"
+  },
+  "BSAI-2014": {
+    "Archive_file": "car110_bsai_with_cdq2014.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_bsai_with_cdq2014.html",
+    "Retrieved_utc": "2026-09-30T04:45:23+00:00",
+    "Source_sha256": "497b8f1da9bf4e540ae879d7cc97617dd4e8c469d8daffa8bf9821a258a9189d"
+  },
+  "BSAI-2015": {
+    "Archive_file": "car110_bsai_with_cdq2015.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_bsai_with_cdq2015.html",
+    "Retrieved_utc": "2026-09-30T04:45:23+00:00",
+    "Source_sha256": "88d2933f05180a9559dd1d6abaec76d8740415f2803814fbfd9df1aa6ccc3b3d"
+  },
+  "BSAI-2016": {
+    "Archive_file": "car110_bsai_with_cdq2016.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_bsai_with_cdq2016.html",
+    "Retrieved_utc": "2026-09-30T04:45:23+00:00",
+    "Source_sha256": "70041fe8108e48502c7b334490a2e96b4bac072cab2d38c482c6cb0660b0365b"
+  },
+  "BSAI-2017": {
+    "Archive_file": "car110_bsai_with_cdq2017.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_bsai_with_cdq2017.html",
+    "Retrieved_utc": "2026-09-30T04:45:23+00:00",
+    "Source_sha256": "5c48cbc7d35a00343eb33fe7fcb9b0038860a56351ada704ed7e3d3dd4f1204e"
+  },
+  "BSAI-2018": {
+    "Archive_file": "car110_bsai_with_cdq2018.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_bsai_with_cdq2018.html",
+    "Retrieved_utc": "2026-09-30T04:45:23+00:00",
+    "Source_sha256": "923a2f3fcfbb39998dfd0389e389bb2f8341c0aa0824a022d1b4205e8373a65f"
+  },
+  "BSAI-2019": {
+    "Archive_file": "car110_bsai_with_cdq2019.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_bsai_with_cdq2019.html",
+    "Retrieved_utc": "2026-09-30T04:45:23+00:00",
+    "Source_sha256": "98aea50f5c8a4d3bf5fe96cbf60c75e6be8a23e0c309232f57069a8648424a7a"
+  },
+  "BSAI-2020": {
+    "Archive_file": "car110_bsai_with_cdq2020.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_bsai_with_cdq2020.html",
+    "Retrieved_utc": "2026-09-30T04:45:23+00:00",
+    "Source_sha256": "cf84c6ebf4003ab109eb5fe83586b25f06bd79eed61cc8dfd119ca1900b4b829"
+  },
+  "BSAI-2021": {
+    "Archive_file": "car110_bsai_with_cdq2021.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_bsai_with_cdq2021.html",
+    "Retrieved_utc": "2026-09-30T04:45:23+00:00",
+    "Source_sha256": "865c717d1d4eef6dc94f248563e44a129222dec931dc70be4c27189c3c11b0a8"
+  },
+  "BSAI-2022": {
+    "Archive_file": "car110_bsai_with_cdq2022.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_bsai_with_cdq2022.html",
+    "Retrieved_utc": "2026-09-30T04:45:23+00:00",
+    "Source_sha256": "5fda3d7f4c04272f7e0d0608104efe079120d5cb03370fe5e495a31d07616d57"
+  },
+  "BSAI-2023": {
+    "Archive_file": "car110_bsai_with_cdq2023.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_bsai_with_cdq2023.html",
+    "Retrieved_utc": "2026-09-30T04:45:24+00:00",
+    "Source_sha256": "c035de81756ab4abbaea07c2730beb8b40120ec17246458e432606cd2242515c"
+  },
+  "BSAI-2024": {
+    "Archive_file": "car110_bsai_with_cdq2024.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_bsai_with_cdq2024.html",
+    "Retrieved_utc": "2026-09-30T04:45:24+00:00",
+    "Source_sha256": "9fb6750a4b14114a7ece6cd4793d3bc8d9fd9ed8e3f3379a13030ea87ed90ae1"
+  },
+  "BSAI-2025": {
+    "Archive_file": "car110_bsai_with_cdq2025.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_bsai_with_cdq2025.html",
+    "Retrieved_utc": "2026-09-30T04:45:24+00:00",
+    "Source_sha256": "48213466b39706a8d351e8dcf4be1dd8e936574b2b7f7435160867312d287a2e"
+  },
+  "GOA-2013": {
+    "Archive_file": "car110_goa2013.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_goa2013.html",
+    "Retrieved_utc": "2026-09-30T04:45:24+00:00",
+    "Source_sha256": "3548ac119126a15d2cfa2cdb1123c4894de5ffdc7fa7c96eed33be0419e14c00"
+  },
+  "GOA-2014": {
+    "Archive_file": "car110_goa2014.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_goa2014.html",
+    "Retrieved_utc": "2026-09-30T04:45:24+00:00",
+    "Source_sha256": "30e5e8784a51dea8b2ade87f048a304e5f1027683403473b5632600368c70250"
+  },
+  "GOA-2015": {
+    "Archive_file": "car110_goa2015.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_goa2015.html",
+    "Retrieved_utc": "2026-09-30T04:45:24+00:00",
+    "Source_sha256": "a26a5d9a44afe1a95f9f3bbc3da93bdea8a2827411ccd24ba078e82c9d573cb6"
+  },
+  "GOA-2016": {
+    "Archive_file": "car110_goa2016.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_goa2016.html",
+    "Retrieved_utc": "2026-09-30T04:45:24+00:00",
+    "Source_sha256": "e094509fc2bc407489b729df382e5b908b7cf10d8eb8f2530e1d738b6b61f71b"
+  },
+  "GOA-2017": {
+    "Archive_file": "car110_goa2017.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_goa2017.html",
+    "Retrieved_utc": "2026-09-30T04:45:24+00:00",
+    "Source_sha256": "279023d38aa4fe2f8d93265b0a4624744cac20e6ca1de3436843f54ce0bd0eab"
+  },
+  "GOA-2018": {
+    "Archive_file": "car110_goa2018.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_goa2018.html",
+    "Retrieved_utc": "2026-09-30T04:45:24+00:00",
+    "Source_sha256": "c4f6a9da671681261553fc1fbc08fcffb5cfdbcc956e6b3ef19628c78db3d723"
+  },
+  "GOA-2019": {
+    "Archive_file": "car110_goa2019.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_goa2019.html",
+    "Retrieved_utc": "2026-09-30T04:45:24+00:00",
+    "Source_sha256": "7fc9ccfc54a3c3b5366e89dc5ad4535909f4a5452d29d9d67c5086ebdb281ac8"
+  },
+  "GOA-2020": {
+    "Archive_file": "car110_goa2020.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_goa2020.html",
+    "Retrieved_utc": "2026-09-30T04:45:24+00:00",
+    "Source_sha256": "4094772e4b49af677e8140f926dca9ec807f6c8d25a90741be68152ea903f5ed"
+  },
+  "GOA-2021": {
+    "Archive_file": "car110_goa2021.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_goa2021.html",
+    "Retrieved_utc": "2026-09-30T04:45:24+00:00",
+    "Source_sha256": "3a352244dc51f468837a1f9a045dc65bb0673f117393a71517f5f914b379950c"
+  },
+  "GOA-2022": {
+    "Archive_file": "car110_goa2022.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_goa2022.html",
+    "Retrieved_utc": "2026-09-30T04:45:24+00:00",
+    "Source_sha256": "5ec8776f9e22cb6db7b2da6e8bedc380e2355300a5494120ac39be9eeb77068b"
+  },
+  "GOA-2023": {
+    "Archive_file": "car110_goa2023.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_goa2023.html",
+    "Retrieved_utc": "2026-09-30T04:45:25+00:00",
+    "Source_sha256": "6b0424fed906e30d75054a690f90c998f660cdc76d274e5a3f3ef5a0f5f9d5bb"
+  },
+  "GOA-2024": {
+    "Archive_file": "car110_goa2024.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_goa2024.html",
+    "Retrieved_utc": "2026-09-30T04:45:25+00:00",
+    "Source_sha256": "a5b2831ca3add76654214f40d86c4f91a9e944db42861226c7ca88f0ec98eee5"
+  },
+  "GOA-2025": {
+    "Archive_file": "car110_goa2025.html.txt",
+    "SourceURL": "https://www.fisheries.noaa.gov/sites/default/files/akro/car110_goa2025.html",
+    "Retrieved_utc": "2026-09-30T04:45:25+00:00",
+    "Source_sha256": "db7717c9873e2e32b03e803af1f8037a9a56007507214e043b4a85a615eba1f5"
+  }
+}

@@ -1,0 +1,1809 @@
+Region,Year,Area,Account,Catch_t
+BSAI,2013,Bering Sea,Other Rockfish (includes CDQ),192
+BSAI,2013,Bering Sea,Pacific Ocean Perch (includes CDQ),5051
+BSAI,2013,Bering Sea,Sablefish (Hook-and-Line and Pot),373
+BSAI,2013,Bering Sea,Sablefish CDQ (Hook-and-Line and Pot),129
+BSAI,2013,Bering Sea,Sablefish (Trawl),129
+BSAI,2013,Bering Sea,Sablefish CDQ (Trawl),5
+BSAI,2013,Bering Sea,Greenland Turbot,1358
+BSAI,2013,Bering Sea,Greenland Turbot CDQ,76
+BSAI,2013,Bering Sea,"Pollock, AFA Inshore",548973
+BSAI,2013,Bering Sea,"Pollock, AFA Catcher Processor",440593
+BSAI,2013,Bering Sea,"Pollock, AFA Mothership",110041
+BSAI,2013,Bering Sea,Pollock CDQ,126538
+BSAI,2013,Bering Sea,"Pollock, Incidental Catch, non-Bogoslof (includes CDQ)",44615
+BSAI,2013,Bering Sea,"Pollock, Incidental Catch, Bogoslof (includes CDQ)",57
+BSAI,2013,Aleutian Islands,Other Rockfish (includes CDQ),597
+BSAI,2013,Aleutian Islands,"Pacific Ocean Perch, Eastern",8531
+BSAI,2013,Aleutian Islands,"Pacific Ocean Perch, Eastern CDQ",968
+BSAI,2013,Aleutian Islands,"Pacific Ocean Perch, Central",6084
+BSAI,2013,Aleutian Islands,"Pacific Ocean Perch, Central CDQ",663
+BSAI,2013,Aleutian Islands,"Pacific Ocean Perch, Western",9050
+BSAI,2013,Aleutian Islands,"Pacific Ocean Perch, Western CDQ",1015
+BSAI,2013,Aleutian Islands,Rougheye Rockfish (includes CDQ) - BS + Eastern,185
+BSAI,2013,Aleutian Islands,Rougheye Rockfish (includes CDQ) - Central + Western,152
+BSAI,2013,Aleutian Islands,"Atka Mackerel, Eastern (Jig)",0
+BSAI,2013,Aleutian Islands,"Atka Mackerel, Eastern (Trawl)",13935
+BSAI,2013,Aleutian Islands,"Atka Mackerel, Eastern ICA",93
+BSAI,2013,Aleutian Islands,"Atka Mackerel, Eastern CDQ",1750
+BSAI,2013,Aleutian Islands,"Atka Mackerel, Central (Trawl)",6516
+BSAI,2013,Aleutian Islands,"Atka Mackerel, Central ICA",22
+BSAI,2013,Aleutian Islands,"Atka Mackerel, Central CDQ",746
+BSAI,2013,Aleutian Islands,"Atka Mackerel, Western (Trawl)",113
+BSAI,2013,Aleutian Islands,"Atka Mackerel, Western ICA",0
+BSAI,2013,Aleutian Islands,"Atka Mackerel, Western CDQ",6
+BSAI,2013,Aleutian Islands,Sablefish (Hook-and-Line and Pot),769
+BSAI,2013,Aleutian Islands,Sablefish CDQ (Hook-and-Line and Pot),255
+BSAI,2013,Aleutian Islands,Sablefish (Trawl),55
+BSAI,2013,Aleutian Islands,Sablefish CDQ (Trawl),3
+BSAI,2013,Aleutian Islands,Greenland Turbot (includes CDQ),294
+BSAI,2013,Aleutian Islands,Pollock,0
+BSAI,2013,Aleutian Islands,Pollock CDQ,0
+BSAI,2013,Aleutian Islands,"Pollock, Incidental Catch (includes CDQ)",2964
+BSAI,2013,Bering Sea Aleutian Islands,Alaska Plaice (includes CDQ),23522
+BSAI,2013,Bering Sea Aleutian Islands,Arrowtooth Flounder,19877
+BSAI,2013,Bering Sea Aleutian Islands,Arrowtooth Flounder CDQ,1130
+BSAI,2013,Bering Sea Aleutian Islands,Flathead Sole,16655
+BSAI,2013,Bering Sea Aleutian Islands,Flathead Sole CDQ,697
+BSAI,2013,Bering Sea Aleutian Islands,Kamchatka Flounder (includes CDQ),7836
+BSAI,2013,Bering Sea Aleutian Islands,Northern Rockfish (includes CDQ),2038
+BSAI,2013,Bering Sea Aleutian Islands,Other Flatfish (includes CDQ),1538
+BSAI,2013,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (AFA)",6678
+BSAI,2013,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Amendment 80)",32261
+BSAI,2013,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Trawl)",43733
+BSAI,2013,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Hook-and-Line)",108391
+BSAI,2013,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Hook-and-Line >= 60 ft)",0
+BSAI,2013,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Pot)",6333
+BSAI,2013,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Pot >= 60 ft)",12436
+BSAI,2013,Bering Sea Aleutian Islands,Pacific Cod (Jig),15
+BSAI,2013,Bering Sea Aleutian Islands,Pacific Cod (Hook-and-Line and Pot < 60 ft),9490
+BSAI,2013,Bering Sea Aleutian Islands,"Pacific Cod, Incidental Catch (Hook-and-Line and Pot)",533
+BSAI,2013,Bering Sea Aleutian Islands,Pacific Cod CDQ,25639
+BSAI,2013,Bering Sea Aleutian Islands,Rock Sole,54919
+BSAI,2013,Bering Sea Aleutian Islands,Rock Sole CDQ,4832
+BSAI,2013,Bering Sea Aleutian Islands,Shortraker Rockfish (includes CDQ),429
+BSAI,2013,Bering Sea Aleutian Islands,Yellowfin Sole,148604
+BSAI,2013,Bering Sea Aleutian Islands,Yellowfin Sole CDQ,16339
+BSAI,2013,Bering Sea Aleutian Islands,Octopus (includes CDQ),220
+BSAI,2013,Bering Sea Aleutian Islands,Sculpin (includes CDQ),5899
+BSAI,2013,Bering Sea Aleutian Islands,Shark (includes CDQ),119
+BSAI,2013,Bering Sea Aleutian Islands,Skate (includes CDQ),26991
+BSAI,2013,Bering Sea Aleutian Islands,Squid (includes CDQ),299
+BSAI,2014,Bering Sea,Other Rockfish (includes CDQ),324
+BSAI,2014,Bering Sea,Pacific Ocean Perch (includes CDQ),7437
+BSAI,2014,Bering Sea,Sablefish (Hook-and-Line and Pot),210
+BSAI,2014,Bering Sea,Sablefish CDQ (Hook-and-Line and Pot),70
+BSAI,2014,Bering Sea,Sablefish (Trawl),33
+BSAI,2014,Bering Sea,Sablefish CDQ (Trawl),1
+BSAI,2014,Bering Sea,Greenland Turbot,1397
+BSAI,2014,Bering Sea,Greenland Turbot CDQ,73
+BSAI,2014,Bering Sea,Pacific Cod CDQ,24604
+BSAI,2014,Bering Sea,"Pollock, AFA Inshore",555518
+BSAI,2014,Bering Sea,"Pollock, AFA Catcher Processor",445178
+BSAI,2014,Bering Sea,"Pollock, AFA Mothership",111009
+BSAI,2014,Bering Sea,Pollock CDQ,128549
+BSAI,2014,Bering Sea,"Pollock, Incidental Catch, non-Bogoslof (includes CDQ)",57163
+BSAI,2014,Bering Sea,"Pollock, Incidental Catch, Bogoslof (includes CDQ)",427
+BSAI,2014,Aleutian Islands,Other Rockfish (includes CDQ),589
+BSAI,2014,Aleutian Islands,"Pacific Ocean Perch, Eastern",8092
+BSAI,2014,Aleutian Islands,"Pacific Ocean Perch, Eastern CDQ",929
+BSAI,2014,Aleutian Islands,"Pacific Ocean Perch, Central",5783
+BSAI,2014,Aleutian Islands,"Pacific Ocean Perch, Central CDQ",655
+BSAI,2014,Aleutian Islands,"Pacific Ocean Perch, Western",8525
+BSAI,2014,Aleutian Islands,"Pacific Ocean Perch, Western CDQ",960
+BSAI,2014,Aleutian Islands,Rougheye Rockfish (includes CDQ) - BS + Eastern,108
+BSAI,2014,Aleutian Islands,Rougheye Rockfish (includes CDQ) - Central + Western,101
+BSAI,2014,Aleutian Islands,"Atka Mackerel, Eastern (Jig)",0
+BSAI,2014,Aleutian Islands,"Atka Mackerel, Eastern (Trawl)",18808
+BSAI,2014,Aleutian Islands,"Atka Mackerel, Eastern ICA",141
+BSAI,2014,Aleutian Islands,"Atka Mackerel, Eastern CDQ",2240
+BSAI,2014,Aleutian Islands,"Atka Mackerel, Central (Trawl)",8515
+BSAI,2014,Aleutian Islands,"Atka Mackerel, Central ICA",48
+BSAI,2014,Aleutian Islands,"Atka Mackerel, Central CDQ",957
+BSAI,2014,Aleutian Islands,Pacific Cod CDQ,456
+BSAI,2014,Aleutian Islands,"Atka Mackerel, Western (Trawl)",228
+BSAI,2014,Aleutian Islands,"Atka Mackerel, Western ICA",0
+BSAI,2014,Aleutian Islands,"Atka Mackerel, Western CDQ",14
+BSAI,2014,Aleutian Islands,Sablefish (Hook-and-Line and Pot),544
+BSAI,2014,Aleutian Islands,Sablefish CDQ (Hook-and-Line and Pot),243
+BSAI,2014,Aleutian Islands,Sablefish (Trawl),25
+BSAI,2014,Aleutian Islands,Sablefish CDQ (Trawl),1
+BSAI,2014,Aleutian Islands,Greenland Turbot (includes CDQ),165
+BSAI,2014,Aleutian Islands,Pollock,0
+BSAI,2014,Aleutian Islands,Pollock CDQ,0
+BSAI,2014,Aleutian Islands,"Pollock, Incidental Catch (includes CDQ)",2375
+BSAI,2014,Bering Sea Aleutian Islands,Alaska Plaice (includes CDQ),19447
+BSAI,2014,Bering Sea Aleutian Islands,Arrowtooth Flounder,18930
+BSAI,2014,Bering Sea Aleutian Islands,Arrowtooth Flounder CDQ,696
+BSAI,2014,Bering Sea Aleutian Islands,Flathead Sole,15785
+BSAI,2014,Bering Sea Aleutian Islands,Flathead Sole CDQ,726
+BSAI,2014,Bering Sea Aleutian Islands,Kamchatka Flounder (includes CDQ),6568
+BSAI,2014,Bering Sea Aleutian Islands,Northern Rockfish (includes CDQ),2342
+BSAI,2014,Bering Sea Aleutian Islands,Other Flatfish (includes CDQ),4391
+BSAI,2014,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (AFA)",4427
+BSAI,2014,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Amendment 80)",27714
+BSAI,2014,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Trawl)",42086
+BSAI,2014,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Hook-and-Line)",108052
+BSAI,2014,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Hook-and-Line >= 60 ft)",0
+BSAI,2014,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Pot)",5477
+BSAI,2014,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Pot >= 60 ft)",11170
+BSAI,2014,Bering Sea Aleutian Islands,Pacific Cod (Jig),2
+BSAI,2014,Bering Sea Aleutian Islands,Pacific Cod (Hook-and-Line and Pot < 60 ft),12559
+BSAI,2014,Bering Sea Aleutian Islands,"Pacific Cod, Incidental Catch (Hook-and-Line and Pot)",306
+BSAI,2014,Bering Sea Aleutian Islands,Rock Sole,48088
+BSAI,2014,Bering Sea Aleutian Islands,Rock Sole CDQ,3602
+BSAI,2014,Bering Sea Aleutian Islands,Shortraker Rockfish (includes CDQ),250
+BSAI,2014,Bering Sea Aleutian Islands,Yellowfin Sole,141249
+BSAI,2014,Bering Sea Aleutian Islands,Yellowfin Sole CDQ,15523
+BSAI,2014,Bering Sea Aleutian Islands,Octopus (includes CDQ),429
+BSAI,2014,Bering Sea Aleutian Islands,Sculpin (includes CDQ),4902
+BSAI,2014,Bering Sea Aleutian Islands,Shark (includes CDQ),138
+BSAI,2014,Bering Sea Aleutian Islands,Skate (includes CDQ),27484
+BSAI,2014,Bering Sea Aleutian Islands,Squid (includes CDQ),1678
+BSAI,2015,Bering Sea,Other Rockfish (includes CDQ),184
+BSAI,2015,Bering Sea,Pacific Ocean Perch (includes CDQ),7925
+BSAI,2015,Bering Sea,Sablefish (Hook-and-Line and Pot),159
+BSAI,2015,Bering Sea,Sablefish CDQ (Hook-and-Line and Pot),34
+BSAI,2015,Bering Sea,Sablefish (Trawl),17
+BSAI,2015,Bering Sea,Sablefish CDQ (Trawl),0
+BSAI,2015,Bering Sea,Greenland Turbot,2053
+BSAI,2015,Bering Sea,Greenland Turbot CDQ,29
+BSAI,2015,Bering Sea,Pacific Cod CDQ,23544
+BSAI,2015,Bering Sea,"Pollock, AFA Inshore",570888
+BSAI,2015,Bering Sea,"Pollock, AFA Catcher Processor",457648
+BSAI,2015,Bering Sea,"Pollock, AFA Mothership",114388
+BSAI,2015,Bering Sea,Pollock CDQ,132858
+BSAI,2015,Bering Sea,"Pollock, Incidental Catch, non-Bogoslof (includes CDQ)",45792
+BSAI,2015,Bering Sea,"Pollock, Incidental Catch, Bogoslof (includes CDQ)",733
+BSAI,2015,Aleutian Islands,Other Rockfish (includes CDQ),467
+BSAI,2015,Aleutian Islands,"Pacific Ocean Perch, Eastern",7121
+BSAI,2015,Aleutian Islands,"Pacific Ocean Perch, Eastern CDQ",744
+BSAI,2015,Aleutian Islands,"Pacific Ocean Perch, Central",6223
+BSAI,2015,Aleutian Islands,"Pacific Ocean Perch, Central CDQ",611
+BSAI,2015,Aleutian Islands,"Pacific Ocean Perch, Western",7982
+BSAI,2015,Aleutian Islands,"Pacific Ocean Perch, Western CDQ",826
+BSAI,2015,Aleutian Islands,Rougheye Rockfish (includes CDQ) - BS + Eastern,71
+BSAI,2015,Aleutian Islands,Rougheye Rockfish (includes CDQ) - Central + Western,125
+BSAI,2015,Aleutian Islands,"Atka Mackerel, Eastern (Jig)",0
+BSAI,2015,Aleutian Islands,"Atka Mackerel, Eastern (Trawl)",23474
+BSAI,2015,Aleutian Islands,"Atka Mackerel, Eastern ICA",283
+BSAI,2015,Aleutian Islands,"Atka Mackerel, Eastern CDQ",2594
+BSAI,2015,Aleutian Islands,"Atka Mackerel, Central (Trawl)",15033
+BSAI,2015,Aleutian Islands,"Atka Mackerel, Central ICA",22
+BSAI,2015,Aleutian Islands,"Atka Mackerel, Central CDQ",1617
+BSAI,2015,Aleutian Islands,Pacific Cod CDQ,850
+BSAI,2015,Aleutian Islands,"Atka Mackerel, Western (Trawl)",9276
+BSAI,2015,Aleutian Islands,"Atka Mackerel, Western ICA",6
+BSAI,2015,Aleutian Islands,"Atka Mackerel, Western CDQ",971
+BSAI,2015,Aleutian Islands,Sablefish (Hook-and-Line and Pot),406
+BSAI,2015,Aleutian Islands,Sablefish CDQ (Hook-and-Line and Pot),0
+BSAI,2015,Aleutian Islands,Sablefish (Trawl),15
+BSAI,2015,Aleutian Islands,Sablefish CDQ (Trawl),1
+BSAI,2015,Aleutian Islands,Greenland Turbot (includes CDQ),105
+BSAI,2015,Aleutian Islands,Pollock,55
+BSAI,2015,Aleutian Islands,Pollock CDQ,0
+BSAI,2015,Aleutian Islands,"Pollock, Incidental Catch (includes CDQ)",860
+BSAI,2015,Bering Sea Aleutian Islands,Alaska Plaice (includes CDQ),14614
+BSAI,2015,Bering Sea Aleutian Islands,Arrowtooth Flounder,11053
+BSAI,2015,Bering Sea Aleutian Islands,Arrowtooth Flounder CDQ,668
+BSAI,2015,Bering Sea Aleutian Islands,Flathead Sole,10711
+BSAI,2015,Bering Sea Aleutian Islands,Flathead Sole CDQ,596
+BSAI,2015,Bering Sea Aleutian Islands,Kamchatka Flounder (includes CDQ),5072
+BSAI,2015,Bering Sea Aleutian Islands,Northern Rockfish (includes CDQ),7197
+BSAI,2015,Bering Sea Aleutian Islands,Other Flatfish (includes CDQ),2415
+BSAI,2015,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (AFA)",3585
+BSAI,2015,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Amendment 80)",27171
+BSAI,2015,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Trawl)",37597
+BSAI,2015,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Hook-and-Line)",114213
+BSAI,2015,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Hook-and-Line >= 60 ft)",0
+BSAI,2015,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Pot)",6171
+BSAI,2015,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Pot >= 60 ft)",10415
+BSAI,2015,Bering Sea Aleutian Islands,Pacific Cod (Jig),28
+BSAI,2015,Bering Sea Aleutian Islands,Pacific Cod (Hook-and-Line and Pot < 60 ft),10051
+BSAI,2015,Bering Sea Aleutian Islands,"Pacific Cod, Incidental Catch (Hook-and-Line and Pot)",250
+BSAI,2015,Bering Sea Aleutian Islands,Rock Sole,41643
+BSAI,2015,Bering Sea Aleutian Islands,Rock Sole CDQ,3825
+BSAI,2015,Bering Sea Aleutian Islands,Shortraker Rockfish (includes CDQ),211
+BSAI,2015,Bering Sea Aleutian Islands,Yellowfin Sole,112179
+BSAI,2015,Bering Sea Aleutian Islands,Yellowfin Sole CDQ,14758
+BSAI,2015,Bering Sea Aleutian Islands,Octopus (includes CDQ),441
+BSAI,2015,Bering Sea Aleutian Islands,Sculpin (includes CDQ),5005
+BSAI,2015,Bering Sea Aleutian Islands,Shark (includes CDQ),109
+BSAI,2015,Bering Sea Aleutian Islands,Skate (includes CDQ),28227
+BSAI,2015,Bering Sea Aleutian Islands,Squid (includes CDQ),2364
+BSAI,2016,Bering Sea,Other Rockfish (includes CDQ),278
+BSAI,2016,Bering Sea,Pacific Ocean Perch (includes CDQ),8090
+BSAI,2016,Bering Sea,Sablefish (Hook-and-Line and Pot),244
+BSAI,2016,Bering Sea,Sablefish CDQ (Hook-and-Line and Pot),30
+BSAI,2016,Bering Sea,Sablefish (Trawl),242
+BSAI,2016,Bering Sea,Sablefish CDQ (Trawl),15
+BSAI,2016,Bering Sea,Greenland Turbot,2034
+BSAI,2016,Bering Sea,Greenland Turbot CDQ,79
+BSAI,2016,Bering Sea,Pacific Cod CDQ,25210
+BSAI,2016,Bering Sea,"Pollock, AFA Inshore",584617
+BSAI,2016,Bering Sea,"Pollock, AFA Catcher Processor",467918
+BSAI,2016,Bering Sea,"Pollock, AFA Mothership",117051
+BSAI,2016,Bering Sea,Pollock CDQ,135705
+BSAI,2016,Bering Sea,"Pollock, Incidental Catch, non-Bogoslof (includes CDQ)",47391
+BSAI,2016,Bering Sea,"Pollock, Incidental Catch, Bogoslof (includes CDQ)",1005
+BSAI,2016,Aleutian Islands,Other Rockfish (includes CDQ),490
+BSAI,2016,Aleutian Islands,"Pacific Ocean Perch, Eastern",6666
+BSAI,2016,Aleutian Islands,"Pacific Ocean Perch, Eastern CDQ",778
+BSAI,2016,Aleutian Islands,"Pacific Ocean Perch, Central",6050
+BSAI,2016,Aleutian Islands,"Pacific Ocean Perch, Central CDQ",716
+BSAI,2016,Aleutian Islands,"Pacific Ocean Perch, Western",7973
+BSAI,2016,Aleutian Islands,"Pacific Ocean Perch, Western CDQ",915
+BSAI,2016,Aleutian Islands,Rougheye Rockfish (includes CDQ) - BS + Eastern,75
+BSAI,2016,Aleutian Islands,Rougheye Rockfish (includes CDQ) - Central + Western,89
+BSAI,2016,Aleutian Islands,"Atka Mackerel, Eastern (Jig)",0
+BSAI,2016,Aleutian Islands,"Atka Mackerel, Eastern (Trawl)",25148
+BSAI,2016,Aleutian Islands,"Atka Mackerel, Eastern ICA",176
+BSAI,2016,Aleutian Islands,"Atka Mackerel, Eastern CDQ",3036
+BSAI,2016,Aleutian Islands,"Atka Mackerel, Central (Trawl)",14099
+BSAI,2016,Aleutian Islands,"Atka Mackerel, Central ICA",39
+BSAI,2016,Aleutian Islands,"Atka Mackerel, Central CDQ",1657
+BSAI,2016,Aleutian Islands,Pacific Cod CDQ,1071
+BSAI,2016,Aleutian Islands,"Atka Mackerel, Western (Trawl)",9249
+BSAI,2016,Aleutian Islands,"Atka Mackerel, Western ICA",1
+BSAI,2016,Aleutian Islands,"Atka Mackerel, Western CDQ",1080
+BSAI,2016,Aleutian Islands,Sablefish (Hook-and-Line and Pot),305
+BSAI,2016,Aleutian Islands,Sablefish CDQ (Hook-and-Line and Pot),5
+BSAI,2016,Aleutian Islands,Sablefish (Trawl),29
+BSAI,2016,Aleutian Islands,Sablefish CDQ (Trawl),1
+BSAI,2016,Aleutian Islands,Greenland Turbot (includes CDQ),122
+BSAI,2016,Aleutian Islands,Pollock,0
+BSAI,2016,Aleutian Islands,Pollock CDQ,0
+BSAI,2016,Aleutian Islands,"Pollock, Incidental Catch (includes CDQ)",1257
+BSAI,2016,Bering Sea Aleutian Islands,Alaska Plaice (includes CDQ),13384
+BSAI,2016,Bering Sea Aleutian Islands,Arrowtooth Flounder,10757
+BSAI,2016,Bering Sea Aleutian Islands,Arrowtooth Flounder CDQ,728
+BSAI,2016,Bering Sea Aleutian Islands,Flathead Sole,9719
+BSAI,2016,Bering Sea Aleutian Islands,Flathead Sole CDQ,594
+BSAI,2016,Bering Sea Aleutian Islands,Kamchatka Flounder (includes CDQ),4924
+BSAI,2016,Bering Sea Aleutian Islands,Northern Rockfish (includes CDQ),4536
+BSAI,2016,Bering Sea Aleutian Islands,Other Flatfish (includes CDQ),2795
+BSAI,2016,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (AFA)",3682
+BSAI,2016,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Amendment 80)",28812
+BSAI,2016,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Trawl)",44976
+BSAI,2016,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Hook-and-Line)",112810
+BSAI,2016,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Hook-and-Line >= 60 ft)",0
+BSAI,2016,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Pot)",5699
+BSAI,2016,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Pot >= 60 ft)",11037
+BSAI,2016,Bering Sea Aleutian Islands,Pacific Cod (Jig),47
+BSAI,2016,Bering Sea Aleutian Islands,Pacific Cod (Hook-and-Line and Pot < 60 ft),10319
+BSAI,2016,Bering Sea Aleutian Islands,"Pacific Cod, Incidental Catch (Hook-and-Line and Pot)",225
+BSAI,2016,Bering Sea Aleutian Islands,Rock Sole,41173
+BSAI,2016,Bering Sea Aleutian Islands,Rock Sole CDQ,3899
+BSAI,2016,Bering Sea Aleutian Islands,Shortraker Rockfish (includes CDQ),127
+BSAI,2016,Bering Sea Aleutian Islands,Yellowfin Sole,120707
+BSAI,2016,Bering Sea Aleutian Islands,Yellowfin Sole CDQ,14617
+BSAI,2016,Bering Sea Aleutian Islands,Octopus (includes CDQ),593
+BSAI,2016,Bering Sea Aleutian Islands,Sculpin (includes CDQ),4881
+BSAI,2016,Bering Sea Aleutian Islands,Shark (includes CDQ),135
+BSAI,2016,Bering Sea Aleutian Islands,Skate (includes CDQ),29166
+BSAI,2016,Bering Sea Aleutian Islands,Squid (includes CDQ),1126
+BSAI,2017,Bering Sea,Other Rockfish (includes CDQ),260
+BSAI,2017,Bering Sea,Pacific Ocean Perch (includes CDQ),8607
+BSAI,2017,Bering Sea,Sablefish (Hook-and-Line and Pot),348
+BSAI,2017,Bering Sea,Sablefish CDQ (Hook-and-Line and Pot),123
+BSAI,2017,Bering Sea,Sablefish (Trawl),649
+BSAI,2017,Bering Sea,Sablefish CDQ (Trawl),30
+BSAI,2017,Bering Sea,Greenland Turbot,2590
+BSAI,2017,Bering Sea,Greenland Turbot CDQ,122
+BSAI,2017,Bering Sea,Pacific Cod CDQ,23852
+BSAI,2017,Bering Sea,"Pollock, AFA Inshore",589722
+BSAI,2017,Bering Sea,"Pollock, AFA Catcher Processor",472736
+BSAI,2017,Bering Sea,"Pollock, AFA Mothership",118181
+BSAI,2017,Bering Sea,Pollock CDQ,136332
+BSAI,2017,Bering Sea,"Pollock, Incidental Catch, non-Bogoslof (includes CDQ)",42210
+BSAI,2017,Bering Sea,"Pollock, Incidental Catch, Bogoslof (includes CDQ)",185
+BSAI,2017,Aleutian Islands,Other Rockfish (includes CDQ),568
+BSAI,2017,Aleutian Islands,"Pacific Ocean Perch, Eastern",7001
+BSAI,2017,Aleutian Islands,"Pacific Ocean Perch, Eastern CDQ",802
+BSAI,2017,Aleutian Islands,"Pacific Ocean Perch, Central",6183
+BSAI,2017,Aleutian Islands,"Pacific Ocean Perch, Central CDQ",684
+BSAI,2017,Aleutian Islands,"Pacific Ocean Perch, Western",7965
+BSAI,2017,Aleutian Islands,"Pacific Ocean Perch, Western CDQ",921
+BSAI,2017,Aleutian Islands,Rougheye Rockfish (includes CDQ) - BS + Eastern,81
+BSAI,2017,Aleutian Islands,Rougheye Rockfish (includes CDQ) - Central + Western,153
+BSAI,2017,Aleutian Islands,"Atka Mackerel, Eastern (Jig)",0
+BSAI,2017,Aleutian Islands,"Atka Mackerel, Eastern (Trawl)",30552
+BSAI,2017,Aleutian Islands,"Atka Mackerel, Eastern ICA",172
+BSAI,2017,Aleutian Islands,"Atka Mackerel, Eastern CDQ",3540
+BSAI,2017,Aleutian Islands,"Atka Mackerel, Central (Trawl)",15910
+BSAI,2017,Aleutian Islands,"Atka Mackerel, Central ICA",74
+BSAI,2017,Aleutian Islands,"Atka Mackerel, Central CDQ",1876
+BSAI,2017,Aleutian Islands,Pacific Cod CDQ,1506
+BSAI,2017,Aleutian Islands,"Atka Mackerel, Western (Trawl)",11091
+BSAI,2017,Aleutian Islands,"Atka Mackerel, Western ICA",4
+BSAI,2017,Aleutian Islands,"Atka Mackerel, Western CDQ",1227
+BSAI,2017,Aleutian Islands,Sablefish (Hook-and-Line and Pot),321
+BSAI,2017,Aleutian Islands,Sablefish CDQ (Hook-and-Line and Pot),139
+BSAI,2017,Aleutian Islands,Sablefish (Trawl),124
+BSAI,2017,Aleutian Islands,Sablefish CDQ (Trawl),5
+BSAI,2017,Aleutian Islands,Greenland Turbot (includes CDQ),122
+BSAI,2017,Aleutian Islands,Pollock,0
+BSAI,2017,Aleutian Islands,Pollock CDQ,0
+BSAI,2017,Aleutian Islands,"Pollock, Incidental Catch (includes CDQ)",1507
+BSAI,2017,Bering Sea Aleutian Islands,Alaska Plaice (includes CDQ),16491
+BSAI,2017,Bering Sea Aleutian Islands,Arrowtooth Flounder,6404
+BSAI,2017,Bering Sea Aleutian Islands,Arrowtooth Flounder CDQ,529
+BSAI,2017,Bering Sea Aleutian Islands,Flathead Sole,8528
+BSAI,2017,Bering Sea Aleutian Islands,Flathead Sole CDQ,582
+BSAI,2017,Bering Sea Aleutian Islands,Kamchatka Flounder (includes CDQ),4582
+BSAI,2017,Bering Sea Aleutian Islands,Northern Rockfish (includes CDQ),4697
+BSAI,2017,Bering Sea Aleutian Islands,Other Flatfish (includes CDQ),4102
+BSAI,2017,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (AFA)",4712
+BSAI,2017,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Amendment 80)",23203
+BSAI,2017,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Trawl)",44140
+BSAI,2017,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Hook-and-Line)",108751
+BSAI,2017,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Hook-and-Line >= 60 ft)",0
+BSAI,2017,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Pot)",4942
+BSAI,2017,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Pot >= 60 ft)",13725
+BSAI,2017,Bering Sea Aleutian Islands,Pacific Cod (Jig),13
+BSAI,2017,Bering Sea Aleutian Islands,Pacific Cod (Hook-and-Line and Pot < 60 ft),9958
+BSAI,2017,Bering Sea Aleutian Islands,"Pacific Cod, Incidental Catch (Hook-and-Line and Pot)",237
+BSAI,2017,Bering Sea Aleutian Islands,Rock Sole,32007
+BSAI,2017,Bering Sea Aleutian Islands,Rock Sole CDQ,3099
+BSAI,2017,Bering Sea Aleutian Islands,Shortraker Rockfish (includes CDQ),188
+BSAI,2017,Bering Sea Aleutian Islands,Yellowfin Sole,118330
+BSAI,2017,Bering Sea Aleutian Islands,Yellowfin Sole CDQ,13890
+BSAI,2017,Bering Sea Aleutian Islands,Octopus (includes CDQ),282
+BSAI,2017,Bering Sea Aleutian Islands,Sculpin (includes CDQ),5306
+BSAI,2017,Bering Sea Aleutian Islands,Shark (includes CDQ),143
+BSAI,2017,Bering Sea Aleutian Islands,Skate (includes CDQ),31863
+BSAI,2017,Bering Sea Aleutian Islands,Squid (includes CDQ),1776
+BSAI,2018,Bering Sea,Other Rockfish (includes CDQ),211
+BSAI,2018,Bering Sea,Pacific Ocean Perch (includes CDQ),9317
+BSAI,2018,Bering Sea,Sablefish (Hook-and-Line and Pot),383
+BSAI,2018,Bering Sea,Sablefish CDQ (Hook-and-Line and Pot),136
+BSAI,2018,Bering Sea,Sablefish (Trawl),985
+BSAI,2018,Bering Sea,Sablefish CDQ (Trawl),32
+BSAI,2018,Bering Sea,Greenland Turbot,1635
+BSAI,2018,Bering Sea,Greenland Turbot CDQ,37
+BSAI,2018,Bering Sea,Pacific Cod CDQ,19500
+BSAI,2018,Bering Sea,"Pollock, AFA Inshore",597115
+BSAI,2018,Bering Sea,"Pollock, AFA Catcher Processor",477760
+BSAI,2018,Bering Sea,"Pollock, AFA Mothership",119403
+BSAI,2018,Bering Sea,Pollock CDQ,138271
+BSAI,2018,Bering Sea,"Pollock, Incidental Catch, non-Bogoslof (includes CDQ)",46739
+BSAI,2018,Bering Sea,"Pollock, Incidental Catch, Bogoslof (includes CDQ)",14
+BSAI,2018,Aleutian Islands,Other Rockfish (includes CDQ),775
+BSAI,2018,Aleutian Islands,"Pacific Ocean Perch, Eastern",8013
+BSAI,2018,Aleutian Islands,"Pacific Ocean Perch, Eastern CDQ",934
+BSAI,2018,Aleutian Islands,"Pacific Ocean Perch, Central",6565
+BSAI,2018,Aleutian Islands,"Pacific Ocean Perch, Central CDQ",747
+BSAI,2018,Aleutian Islands,"Pacific Ocean Perch, Western",7924
+BSAI,2018,Aleutian Islands,"Pacific Ocean Perch, Western CDQ",932
+BSAI,2018,Aleutian Islands,Rougheye Rockfish (includes CDQ) - BS + Eastern,70
+BSAI,2018,Aleutian Islands,Rougheye Rockfish (includes CDQ) - Central + Western,180
+BSAI,2018,Aleutian Islands,"Atka Mackerel, Eastern (Jig)",0
+BSAI,2018,Aleutian Islands,"Atka Mackerel, Eastern (Trawl)",31585
+BSAI,2018,Aleutian Islands,"Atka Mackerel, Eastern ICA",614
+BSAI,2018,Aleutian Islands,"Atka Mackerel, Eastern CDQ",3880
+BSAI,2018,Aleutian Islands,"Atka Mackerel, Central (Trawl)",18640
+BSAI,2018,Aleutian Islands,"Atka Mackerel, Central ICA",54
+BSAI,2018,Aleutian Islands,"Atka Mackerel, Central CDQ",2221
+BSAI,2018,Aleutian Islands,Pacific Cod CDQ,1400
+BSAI,2018,Aleutian Islands,"Atka Mackerel, Western (Trawl)",11981
+BSAI,2018,Aleutian Islands,"Atka Mackerel, Western ICA",17
+BSAI,2018,Aleutian Islands,"Atka Mackerel, Western CDQ",1395
+BSAI,2018,Aleutian Islands,Sablefish (Hook-and-Line and Pot),322
+BSAI,2018,Aleutian Islands,Sablefish CDQ (Hook-and-Line and Pot),163
+BSAI,2018,Aleutian Islands,Sablefish (Trawl),172
+BSAI,2018,Aleutian Islands,Sablefish CDQ (Trawl),6
+BSAI,2018,Aleutian Islands,Greenland Turbot (includes CDQ),163
+BSAI,2018,Aleutian Islands,Pollock,188
+BSAI,2018,Aleutian Islands,Pollock CDQ,0
+BSAI,2018,Aleutian Islands,"Pollock, Incidental Catch (includes CDQ)",1672
+BSAI,2018,Bering Sea Aleutian Islands,Alaska Plaice (includes CDQ),23340
+BSAI,2018,Bering Sea Aleutian Islands,Arrowtooth Flounder,6402
+BSAI,2018,Bering Sea Aleutian Islands,Arrowtooth Flounder CDQ,841
+BSAI,2018,Bering Sea Aleutian Islands,Flathead Sole,10007
+BSAI,2018,Bering Sea Aleutian Islands,Flathead Sole CDQ,999
+BSAI,2018,Bering Sea Aleutian Islands,Kamchatka Flounder (includes CDQ),3166
+BSAI,2018,Bering Sea Aleutian Islands,Northern Rockfish (includes CDQ),5764
+BSAI,2018,Bering Sea Aleutian Islands,Other Flatfish (includes CDQ),5944
+BSAI,2018,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (AFA)",4028
+BSAI,2018,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Amendment 80)",22589
+BSAI,2018,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Trawl)",37868
+BSAI,2018,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Hook-and-Line)",88853
+BSAI,2018,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Hook-and-Line >= 60 ft)",0
+BSAI,2018,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Pot)",2810
+BSAI,2018,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Pot >= 60 ft)",15271
+BSAI,2018,Bering Sea Aleutian Islands,Pacific Cod (Jig),56
+BSAI,2018,Bering Sea Aleutian Islands,Pacific Cod (Hook-and-Line and Pot < 60 ft),8579
+BSAI,2018,Bering Sea Aleutian Islands,"Pacific Cod, Incidental Catch (Hook-and-Line and Pot)",454
+BSAI,2018,Bering Sea Aleutian Islands,Rock Sole,26421
+BSAI,2018,Bering Sea Aleutian Islands,Rock Sole CDQ,1777
+BSAI,2018,Bering Sea Aleutian Islands,Shortraker Rockfish (includes CDQ),258
+BSAI,2018,Bering Sea Aleutian Islands,Yellowfin Sole,117331
+BSAI,2018,Bering Sea Aleutian Islands,Yellowfin Sole CDQ,14164
+BSAI,2018,Bering Sea Aleutian Islands,Octopus (includes CDQ),290
+BSAI,2018,Bering Sea Aleutian Islands,Sculpin (includes CDQ),5034
+BSAI,2018,Bering Sea Aleutian Islands,Shark (includes CDQ),103
+BSAI,2018,Bering Sea Aleutian Islands,Skate (includes CDQ),31157
+BSAI,2018,Bering Sea Aleutian Islands,Squid (includes CDQ),1644
+BSAI,2019,Bering Sea,Other Rockfish (includes CDQ),704
+BSAI,2019,Bering Sea,Pacific Ocean Perch (includes CDQ),14074
+BSAI,2019,Bering Sea,Sablefish (Hook-and-Line and Pot),533
+BSAI,2019,Bering Sea,Sablefish CDQ (Hook-and-Line and Pot),123
+BSAI,2019,Bering Sea,Sablefish (Trawl),2461
+BSAI,2019,Bering Sea,Sablefish CDQ (Trawl),45
+BSAI,2019,Bering Sea,Greenland Turbot,2646
+BSAI,2019,Bering Sea,Greenland Turbot CDQ,40
+BSAI,2019,Bering Sea,Pacific Cod CDQ,17407
+BSAI,2019,Bering Sea,"Pollock, AFA Inshore",610726
+BSAI,2019,Bering Sea,"Pollock, AFA Catcher Processor",490115
+BSAI,2019,Bering Sea,"Pollock, AFA Mothership",122491
+BSAI,2019,Bering Sea,Pollock CDQ,141552
+BSAI,2019,Bering Sea,"Pollock, Incidental Catch, non-Bogoslof (includes CDQ)",44463
+BSAI,2019,Bering Sea,"Pollock, Incidental Catch, Bogoslof (includes CDQ)",8
+BSAI,2019,Aleutian Islands,Other Rockfish (includes CDQ),570
+BSAI,2019,Aleutian Islands,"Pacific Ocean Perch, Eastern",9803
+BSAI,2019,Aleutian Islands,"Pacific Ocean Perch, Eastern CDQ",1142
+BSAI,2019,Aleutian Islands,"Pacific Ocean Perch, Central",7413
+BSAI,2019,Aleutian Islands,"Pacific Ocean Perch, Central CDQ",850
+BSAI,2019,Aleutian Islands,"Pacific Ocean Perch, Western",8867
+BSAI,2019,Aleutian Islands,"Pacific Ocean Perch, Western CDQ",1021
+BSAI,2019,Aleutian Islands,Rougheye Rockfish (includes CDQ) - BS + Eastern,94
+BSAI,2019,Aleutian Islands,Rougheye Rockfish (includes CDQ) - Central + Western,311
+BSAI,2019,Aleutian Islands,"Atka Mackerel, Eastern (Jig)",0
+BSAI,2019,Aleutian Islands,"Atka Mackerel, Eastern (Trawl)",20833
+BSAI,2019,Aleutian Islands,"Atka Mackerel, Eastern ICA",347
+BSAI,2019,Aleutian Islands,"Atka Mackerel, Eastern CDQ",2528
+BSAI,2019,Aleutian Islands,"Atka Mackerel, Central (Trawl)",12695
+BSAI,2019,Aleutian Islands,"Atka Mackerel, Central ICA",152
+BSAI,2019,Aleutian Islands,"Atka Mackerel, Central CDQ",1493
+BSAI,2019,Aleutian Islands,Pacific Cod CDQ,1177
+BSAI,2019,Aleutian Islands,"Atka Mackerel, Western (Trawl)",17380
+BSAI,2019,Aleutian Islands,"Atka Mackerel, Western ICA",10
+BSAI,2019,Aleutian Islands,"Atka Mackerel, Western CDQ",2032
+BSAI,2019,Aleutian Islands,Sablefish (Hook-and-Line and Pot),384
+BSAI,2019,Aleutian Islands,Sablefish CDQ (Hook-and-Line and Pot),38
+BSAI,2019,Aleutian Islands,Sablefish (Trawl),233
+BSAI,2019,Aleutian Islands,Sablefish CDQ (Trawl),8
+BSAI,2019,Aleutian Islands,Greenland Turbot (includes CDQ),174
+BSAI,2019,Aleutian Islands,Pollock,70
+BSAI,2019,Aleutian Islands,Pollock CDQ,0
+BSAI,2019,Aleutian Islands,"Pollock, Incidental Catch (includes CDQ)",1593
+BSAI,2019,Bering Sea Aleutian Islands,Alaska Plaice (includes CDQ),16251
+BSAI,2019,Bering Sea Aleutian Islands,Arrowtooth Flounder,9629
+BSAI,2019,Bering Sea Aleutian Islands,Arrowtooth Flounder CDQ,745
+BSAI,2019,Bering Sea Aleutian Islands,Flathead Sole,15199
+BSAI,2019,Bering Sea Aleutian Islands,Flathead Sole CDQ,680
+BSAI,2019,Bering Sea Aleutian Islands,Kamchatka Flounder (includes CDQ),4581
+BSAI,2019,Bering Sea Aleutian Islands,Northern Rockfish (includes CDQ),9092
+BSAI,2019,Bering Sea Aleutian Islands,Other Flatfish (includes CDQ),3796
+BSAI,2019,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (AFA)",3162
+BSAI,2019,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Amendment 80)",20170
+BSAI,2019,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Trawl)",31632
+BSAI,2019,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Hook-and-Line)",78249
+BSAI,2019,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Hook-and-Line >= 60 ft)",0
+BSAI,2019,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Pot)",2692
+BSAI,2019,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Pot >= 60 ft)",13285
+BSAI,2019,Bering Sea Aleutian Islands,Pacific Cod (Jig),146
+BSAI,2019,Bering Sea Aleutian Islands,Pacific Cod (Hook-and-Line and Pot < 60 ft),8877
+BSAI,2019,Bering Sea Aleutian Islands,"Pacific Cod, Incidental Catch (Hook-and-Line and Pot)",359
+BSAI,2019,Bering Sea Aleutian Islands,Rock Sole,23531
+BSAI,2019,Bering Sea Aleutian Islands,Rock Sole CDQ,2302
+BSAI,2019,Bering Sea Aleutian Islands,Shortraker Rockfish (includes CDQ),399
+BSAI,2019,Bering Sea Aleutian Islands,Yellowfin Sole,115232
+BSAI,2019,Bering Sea Aleutian Islands,Yellowfin Sole CDQ,13834
+BSAI,2019,Bering Sea Aleutian Islands,Octopus (includes CDQ),268
+BSAI,2019,Bering Sea Aleutian Islands,Sculpin (includes CDQ),5604
+BSAI,2019,Bering Sea Aleutian Islands,Shark (includes CDQ),151
+BSAI,2019,Bering Sea Aleutian Islands,Skate (includes CDQ),20157
+BSAI,2020,Bering Sea,Other Rockfish (includes CDQ),355
+BSAI,2020,Bering Sea,Pacific Ocean Perch (includes CDQ),11944
+BSAI,2020,Bering Sea,Sablefish (Hook-and-Line and Pot),706
+BSAI,2020,Bering Sea,Sablefish CDQ (Hook-and-Line and Pot),157
+BSAI,2020,Bering Sea,Sablefish (Trawl),4452
+BSAI,2020,Bering Sea,Sablefish CDQ (Trawl),15
+BSAI,2020,Bering Sea,Greenland Turbot,1639
+BSAI,2020,Bering Sea,Greenland Turbot CDQ,9
+BSAI,2020,Bering Sea,Pacific Cod CDQ,15032
+BSAI,2020,Bering Sea,"Pollock, AFA Inshore",599621
+BSAI,2020,Bering Sea,"Pollock, AFA Catcher Processor",468658
+BSAI,2020,Bering Sea,"Pollock, AFA Mothership",122394
+BSAI,2020,Bering Sea,Pollock CDQ,127974
+BSAI,2020,Bering Sea,"Pollock, Incidental Catch, non-Bogoslof (includes CDQ)",48589
+BSAI,2020,Bering Sea,"Pollock, Incidental Catch, Bogoslof (includes CDQ)",9
+BSAI,2020,Aleutian Islands,Other Rockfish (includes CDQ),740
+BSAI,2020,Aleutian Islands,"Pacific Ocean Perch, Eastern",9517
+BSAI,2020,Aleutian Islands,"Pacific Ocean Perch, Eastern CDQ",1103
+BSAI,2020,Aleutian Islands,"Pacific Ocean Perch, Central",7148
+BSAI,2020,Aleutian Islands,"Pacific Ocean Perch, Central CDQ",817
+BSAI,2020,Aleutian Islands,"Pacific Ocean Perch, Western",8874
+BSAI,2020,Aleutian Islands,"Pacific Ocean Perch, Western CDQ",1012
+BSAI,2020,Aleutian Islands,Rougheye Rockfish (includes CDQ) - BS + Eastern,151
+BSAI,2020,Aleutian Islands,Rougheye Rockfish (includes CDQ) - Central + Western,380
+BSAI,2020,Aleutian Islands,"Atka Mackerel, Eastern (Jig)",0
+BSAI,2020,Aleutian Islands,"Atka Mackerel, Eastern (Trawl)",21113
+BSAI,2020,Aleutian Islands,"Atka Mackerel, Eastern ICA",591
+BSAI,2020,Aleutian Islands,"Atka Mackerel, Eastern CDQ",2587
+BSAI,2020,Aleutian Islands,"Atka Mackerel, Central (Trawl)",12972
+BSAI,2020,Aleutian Islands,"Atka Mackerel, Central ICA",133
+BSAI,2020,Aleutian Islands,"Atka Mackerel, Central CDQ",1523
+BSAI,2020,Aleutian Islands,Pacific Cod CDQ,1111
+BSAI,2020,Aleutian Islands,"Atka Mackerel, Western (Trawl)",17846
+BSAI,2020,Aleutian Islands,"Atka Mackerel, Western ICA",7
+BSAI,2020,Aleutian Islands,"Atka Mackerel, Western CDQ",2112
+BSAI,2020,Aleutian Islands,Sablefish (Hook-and-Line and Pot),320
+BSAI,2020,Aleutian Islands,Sablefish CDQ (Hook-and-Line and Pot),216
+BSAI,2020,Aleutian Islands,Sablefish (Trawl),673
+BSAI,2020,Aleutian Islands,Sablefish CDQ (Trawl),22
+BSAI,2020,Aleutian Islands,Greenland Turbot (includes CDQ),678
+BSAI,2020,Aleutian Islands,Pollock,720
+BSAI,2020,Aleutian Islands,Pollock CDQ,0
+BSAI,2020,Aleutian Islands,"Pollock, Incidental Catch (includes CDQ)",2482
+BSAI,2020,Bering Sea Aleutian Islands,Alaska Plaice (includes CDQ),20078
+BSAI,2020,Bering Sea Aleutian Islands,Arrowtooth Flounder,10467
+BSAI,2020,Bering Sea Aleutian Islands,Arrowtooth Flounder CDQ,407
+BSAI,2020,Bering Sea Aleutian Islands,Flathead Sole,8814
+BSAI,2020,Bering Sea Aleutian Islands,Flathead Sole CDQ,578
+BSAI,2020,Bering Sea Aleutian Islands,Kamchatka Flounder (includes CDQ),7478
+BSAI,2020,Bering Sea Aleutian Islands,Northern Rockfish (includes CDQ),8443
+BSAI,2020,Bering Sea Aleutian Islands,Other Flatfish (includes CDQ),4174
+BSAI,2020,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (AFA)",4209
+BSAI,2020,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Amendment 80)",16800
+BSAI,2020,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Trawl)",29691
+BSAI,2020,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Hook-and-Line)",63869
+BSAI,2020,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Hook-and-Line >= 60 ft)",3
+BSAI,2020,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Pot)",2059
+BSAI,2020,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Pot >= 60 ft)",11191
+BSAI,2020,Bering Sea Aleutian Islands,Pacific Cod (Jig),10
+BSAI,2020,Bering Sea Aleutian Islands,Pacific Cod (Hook-and-Line and Pot < 60 ft),4835
+BSAI,2020,Bering Sea Aleutian Islands,"Pacific Cod, Incidental Catch (Hook-and-Line and Pot)",242
+BSAI,2020,Bering Sea Aleutian Islands,Rock Sole,23842
+BSAI,2020,Bering Sea Aleutian Islands,Rock Sole CDQ,2096
+BSAI,2020,Bering Sea Aleutian Islands,Shortraker Rockfish (includes CDQ),299
+BSAI,2020,Bering Sea Aleutian Islands,Yellowfin Sole,120651
+BSAI,2020,Bering Sea Aleutian Islands,Yellowfin Sole CDQ,13148
+BSAI,2020,Bering Sea Aleutian Islands,Octopus (includes CDQ),691
+BSAI,2020,Bering Sea Aleutian Islands,Sculpin (includes CDQ),5181
+BSAI,2020,Bering Sea Aleutian Islands,Shark (includes CDQ),180
+BSAI,2020,Bering Sea Aleutian Islands,Skate (includes CDQ),19248
+BSAI,2021,Bering Sea,Other Rockfish (includes CDQ),392
+BSAI,2021,Bering Sea,Pacific Ocean Perch (includes CDQ),10693
+BSAI,2021,Bering Sea,Sablefish (Hook-and-Line and Pot),1325
+BSAI,2021,Bering Sea,Sablefish CDQ (Hook-and-Line and Pot),369
+BSAI,2021,Bering Sea,Sablefish (Trawl),2449
+BSAI,2021,Bering Sea,Sablefish CDQ (Trawl),27
+BSAI,2021,Bering Sea,Greenland Turbot,1128
+BSAI,2021,Bering Sea,Greenland Turbot CDQ,2
+BSAI,2021,Bering Sea,Pacific Cod CDQ,11310
+BSAI,2021,Bering Sea,"Pollock, AFA Inshore",597027
+BSAI,2021,Bering Sea,"Pollock, AFA Catcher Processor",480179
+BSAI,2021,Bering Sea,"Pollock, AFA Mothership",120002
+BSAI,2021,Bering Sea,Pollock CDQ,139330
+BSAI,2021,Bering Sea,"Pollock, Incidental Catch, non-Bogoslof (includes CDQ)",39712
+BSAI,2021,Bering Sea,"Pollock, Incidental Catch, Bogoslof (includes CDQ)",8
+BSAI,2021,Aleutian Islands,Other Rockfish (includes CDQ),610
+BSAI,2021,Aleutian Islands,"Pacific Ocean Perch, Eastern",7436
+BSAI,2021,Aleutian Islands,"Pacific Ocean Perch, Eastern CDQ",852
+BSAI,2021,Aleutian Islands,"Pacific Ocean Perch, Central",5407
+BSAI,2021,Aleutian Islands,"Pacific Ocean Perch, Central CDQ",586
+BSAI,2021,Aleutian Islands,"Pacific Ocean Perch, Western",9439
+BSAI,2021,Aleutian Islands,"Pacific Ocean Perch, Western CDQ",1066
+BSAI,2021,Aleutian Islands,Rougheye Rockfish (includes CDQ) - BS + Eastern,230
+BSAI,2021,Aleutian Islands,Rougheye Rockfish (includes CDQ) - Central + Western,319
+BSAI,2021,Aleutian Islands,"Atka Mackerel, Eastern (Jig)",0
+BSAI,2021,Aleutian Islands,"Atka Mackerel, Eastern (Trawl)",21919
+BSAI,2021,Aleutian Islands,"Atka Mackerel, Eastern ICA",650
+BSAI,2021,Aleutian Islands,"Atka Mackerel, Eastern CDQ",2614
+BSAI,2021,Aleutian Islands,"Atka Mackerel, Central (Trawl)",13687
+BSAI,2021,Aleutian Islands,"Atka Mackerel, Central ICA",79
+BSAI,2021,Aleutian Islands,"Atka Mackerel, Central CDQ",1564
+BSAI,2021,Aleutian Islands,Pacific Cod CDQ,901
+BSAI,2021,Aleutian Islands,"Atka Mackerel, Western (Trawl)",18640
+BSAI,2021,Aleutian Islands,"Atka Mackerel, Western ICA",7
+BSAI,2021,Aleutian Islands,"Atka Mackerel, Western CDQ",2195
+BSAI,2021,Aleutian Islands,Sablefish (Hook-and-Line and Pot),537
+BSAI,2021,Aleutian Islands,Sablefish CDQ (Hook-and-Line and Pot),267
+BSAI,2021,Aleutian Islands,Sablefish (Trawl),738
+BSAI,2021,Aleutian Islands,Sablefish CDQ (Trawl),37
+BSAI,2021,Aleutian Islands,Greenland Turbot (includes CDQ),467
+BSAI,2021,Aleutian Islands,Pollock,0
+BSAI,2021,Aleutian Islands,Pollock CDQ,0
+BSAI,2021,Aleutian Islands,"Pollock, Incidental Catch (includes CDQ)",1843
+BSAI,2021,Bering Sea Aleutian Islands,Alaska Plaice (includes CDQ),15862
+BSAI,2021,Bering Sea Aleutian Islands,Arrowtooth Flounder,8690
+BSAI,2021,Bering Sea Aleutian Islands,Arrowtooth Flounder CDQ,329
+BSAI,2021,Bering Sea Aleutian Islands,Flathead Sole,9742
+BSAI,2021,Bering Sea Aleutian Islands,Flathead Sole CDQ,518
+BSAI,2021,Bering Sea Aleutian Islands,Kamchatka Flounder (includes CDQ),6668
+BSAI,2021,Bering Sea Aleutian Islands,Northern Rockfish (includes CDQ),6212
+BSAI,2021,Bering Sea Aleutian Islands,Other Flatfish (includes CDQ),2638
+BSAI,2021,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (AFA)",5125
+BSAI,2021,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Amendment 80)",13300
+BSAI,2021,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Trawl)",21245
+BSAI,2021,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Hook-and-Line)",51588
+BSAI,2021,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Hook-and-Line >= 60 ft)",0
+BSAI,2021,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Pot)",1336
+BSAI,2021,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Pot >= 60 ft)",7138
+BSAI,2021,Bering Sea Aleutian Islands,Pacific Cod (Jig),0
+BSAI,2021,Bering Sea Aleutian Islands,Pacific Cod (Hook-and-Line and Pot < 60 ft),3908
+BSAI,2021,Bering Sea Aleutian Islands,"Pacific Cod, Incidental Catch (Hook-and-Line and Pot)",648
+BSAI,2021,Bering Sea Aleutian Islands,Rock Sole,13570
+BSAI,2021,Bering Sea Aleutian Islands,Rock Sole CDQ,824
+BSAI,2021,Bering Sea Aleutian Islands,Shortraker Rockfish (includes CDQ),595
+BSAI,2021,Bering Sea Aleutian Islands,Yellowfin Sole,101228
+BSAI,2021,Bering Sea Aleutian Islands,Yellowfin Sole CDQ,7560
+BSAI,2021,Bering Sea Aleutian Islands,Octopus (includes CDQ),170
+BSAI,2021,Bering Sea Aleutian Islands,Shark (includes CDQ),359
+BSAI,2021,Bering Sea Aleutian Islands,Skate (includes CDQ),20030
+BSAI,2022,Bering Sea,Other Rockfish (includes CDQ),651
+BSAI,2022,Bering Sea,Pacific Ocean Perch (includes CDQ),10066
+BSAI,2022,Bering Sea,Sablefish (Hook-and-Line and Pot),2521
+BSAI,2022,Bering Sea,Sablefish CDQ (Hook-and-Line and Pot),622
+BSAI,2022,Bering Sea,Sablefish (Trawl),2353
+BSAI,2022,Bering Sea,Sablefish CDQ (Trawl),17
+BSAI,2022,Bering Sea,Greenland Turbot,1036
+BSAI,2022,Bering Sea,Greenland Turbot CDQ,3
+BSAI,2022,Bering Sea,Pacific Cod CDQ,12051
+BSAI,2022,Bering Sea,"Pollock, AFA Inshore",473790
+BSAI,2022,Bering Sea,"Pollock, AFA Catcher Processor",380089
+BSAI,2022,Bering Sea,"Pollock, AFA Mothership",95008
+BSAI,2022,Bering Sea,Pollock CDQ,111033
+BSAI,2022,Bering Sea,"Pollock, Incidental Catch, non-Bogoslof (includes CDQ)",45507
+BSAI,2022,Bering Sea,"Pollock, Incidental Catch, Bogoslof (includes CDQ)",259
+BSAI,2022,Aleutian Islands,Other Rockfish (includes CDQ),658
+BSAI,2022,Aleutian Islands,"Pacific Ocean Perch, Eastern",7174
+BSAI,2022,Aleutian Islands,"Pacific Ocean Perch, Eastern CDQ",822
+BSAI,2022,Aleutian Islands,"Pacific Ocean Perch, Central",5247
+BSAI,2022,Aleutian Islands,"Pacific Ocean Perch, Central CDQ",590
+BSAI,2022,Aleutian Islands,"Pacific Ocean Perch, Western",9777
+BSAI,2022,Aleutian Islands,"Pacific Ocean Perch, Western CDQ",1105
+BSAI,2022,Aleutian Islands,Rougheye Rockfish (includes CDQ) - BS + Eastern,204
+BSAI,2022,Aleutian Islands,Rougheye Rockfish (includes CDQ) - Central + Western,250
+BSAI,2022,Aleutian Islands,"Atka Mackerel, Eastern (Jig)",0
+BSAI,2022,Aleutian Islands,"Atka Mackerel, Eastern (Trawl)",17177
+BSAI,2022,Aleutian Islands,"Atka Mackerel, Eastern ICA",185
+BSAI,2022,Aleutian Islands,"Atka Mackerel, Eastern CDQ",1776
+BSAI,2022,Aleutian Islands,"Atka Mackerel, Central (Trawl)",14974
+BSAI,2022,Aleutian Islands,"Atka Mackerel, Central ICA",39
+BSAI,2022,Aleutian Islands,"Atka Mackerel, Central CDQ",1749
+BSAI,2022,Aleutian Islands,Pacific Cod CDQ,1164
+BSAI,2022,Aleutian Islands,"Atka Mackerel, Western (Trawl)",19902
+BSAI,2022,Aleutian Islands,"Atka Mackerel, Western ICA",2
+BSAI,2022,Aleutian Islands,"Atka Mackerel, Western CDQ",2304
+BSAI,2022,Aleutian Islands,Sablefish (Hook-and-Line and Pot),615
+BSAI,2022,Aleutian Islands,Sablefish CDQ (Hook-and-Line and Pot),496
+BSAI,2022,Aleutian Islands,Sablefish (Trawl),1073
+BSAI,2022,Aleutian Islands,Sablefish CDQ (Trawl),42
+BSAI,2022,Aleutian Islands,Greenland Turbot (includes CDQ),440
+BSAI,2022,Aleutian Islands,Pollock,0
+BSAI,2022,Aleutian Islands,Pollock CDQ,0
+BSAI,2022,Aleutian Islands,"Pollock, Incidental Catch (includes CDQ)",3058
+BSAI,2022,Bering Sea Aleutian Islands,Alaska Plaice (includes CDQ),11252
+BSAI,2022,Bering Sea Aleutian Islands,Arrowtooth Flounder,7645
+BSAI,2022,Bering Sea Aleutian Islands,Arrowtooth Flounder CDQ,212
+BSAI,2022,Bering Sea Aleutian Islands,Flathead Sole,14144
+BSAI,2022,Bering Sea Aleutian Islands,Flathead Sole CDQ,546
+BSAI,2022,Bering Sea Aleutian Islands,Kamchatka Flounder (includes CDQ),8370
+BSAI,2022,Bering Sea Aleutian Islands,Northern Rockfish (includes CDQ),7898
+BSAI,2022,Bering Sea Aleutian Islands,Other Flatfish (includes CDQ),2560
+BSAI,2022,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (AFA)",2390
+BSAI,2022,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Amendment 80)",16731
+BSAI,2022,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Trawl)",24115
+BSAI,2022,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Hook-and-Line)",62746
+BSAI,2022,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Hook-and-Line >= 60 ft)",0
+BSAI,2022,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Pot)",1759
+BSAI,2022,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Pot >= 60 ft)",11856
+BSAI,2022,Bering Sea Aleutian Islands,Pacific Cod (Jig),0
+BSAI,2022,Bering Sea Aleutian Islands,Pacific Cod (Hook-and-Line and Pot < 60 ft),5678
+BSAI,2022,Bering Sea Aleutian Islands,"Pacific Cod, Incidental Catch (Hook-and-Line and Pot)",479
+BSAI,2022,Bering Sea Aleutian Islands,Rock Sole,17000
+BSAI,2022,Bering Sea Aleutian Islands,Rock Sole CDQ,1399
+BSAI,2022,Bering Sea Aleutian Islands,Shortraker Rockfish (includes CDQ),285
+BSAI,2022,Bering Sea Aleutian Islands,Yellowfin Sole,142014
+BSAI,2022,Bering Sea Aleutian Islands,Yellowfin Sole CDQ,12241
+BSAI,2022,Bering Sea Aleutian Islands,Octopus (includes CDQ),250
+BSAI,2022,Bering Sea Aleutian Islands,Shark (includes CDQ),126
+BSAI,2022,Bering Sea Aleutian Islands,Skate (includes CDQ),29278
+BSAI,2023,Bering Sea,Other Rockfish (includes CDQ),651
+BSAI,2023,Bering Sea,Pacific Ocean Perch (includes CDQ),10892
+BSAI,2023,Bering Sea,Sablefish (Hook-and-Line and Pot),2139
+BSAI,2023,Bering Sea,Sablefish CDQ (Hook-and-Line and Pot),496
+BSAI,2023,Bering Sea,Sablefish (Trawl),2761
+BSAI,2023,Bering Sea,Sablefish CDQ (Trawl),16
+BSAI,2023,Bering Sea,Greenland Turbot,791
+BSAI,2023,Bering Sea,Greenland Turbot CDQ,4
+BSAI,2023,Bering Sea,Pacific Cod CDQ,12991
+BSAI,2023,Bering Sea,"Pollock, AFA Inshore",564266
+BSAI,2023,Bering Sea,"Pollock, AFA Catcher Processor",451684
+BSAI,2023,Bering Sea,"Pollock, AFA Mothership",112694
+BSAI,2023,Bering Sea,Pollock CDQ,131787
+BSAI,2023,Bering Sea,"Pollock, Incidental Catch, non-Bogoslof (includes CDQ)",50155
+BSAI,2023,Bering Sea,"Pollock, Incidental Catch, Bogoslof (includes CDQ)",125
+BSAI,2023,Aleutian Islands,Other Rockfish (includes CDQ),567
+BSAI,2023,Aleutian Islands,"Pacific Ocean Perch, Eastern",7157
+BSAI,2023,Aleutian Islands,"Pacific Ocean Perch, Eastern CDQ",633
+BSAI,2023,Aleutian Islands,"Pacific Ocean Perch, Central",4932
+BSAI,2023,Aleutian Islands,"Pacific Ocean Perch, Central CDQ",528
+BSAI,2023,Aleutian Islands,"Pacific Ocean Perch, Western",10647
+BSAI,2023,Aleutian Islands,"Pacific Ocean Perch, Western CDQ",1160
+BSAI,2023,Aleutian Islands,Rougheye Rockfish (includes CDQ) - BS + Eastern,291
+BSAI,2023,Aleutian Islands,Rougheye Rockfish (includes CDQ) - Central + Western,316
+BSAI,2023,Aleutian Islands,"Atka Mackerel, Eastern (Jig)",0
+BSAI,2023,Aleutian Islands,"Atka Mackerel, Eastern (Trawl)",22333
+BSAI,2023,Aleutian Islands,"Atka Mackerel, Eastern ICA",110
+BSAI,2023,Aleutian Islands,"Atka Mackerel, Eastern CDQ",2417
+BSAI,2023,Aleutian Islands,"Atka Mackerel, Central (Trawl)",15361
+BSAI,2023,Aleutian Islands,"Atka Mackerel, Central ICA",55
+BSAI,2023,Aleutian Islands,"Atka Mackerel, Central CDQ",1794
+BSAI,2023,Aleutian Islands,Pacific Cod CDQ,402
+BSAI,2023,Aleutian Islands,"Atka Mackerel, Western (Trawl)",21960
+BSAI,2023,Aleutian Islands,"Atka Mackerel, Western ICA",4
+BSAI,2023,Aleutian Islands,"Atka Mackerel, Western CDQ",2577
+BSAI,2023,Aleutian Islands,Sablefish (Hook-and-Line and Pot),537
+BSAI,2023,Aleutian Islands,Sablefish CDQ (Hook-and-Line and Pot),569
+BSAI,2023,Aleutian Islands,Sablefish (Trawl),1312
+BSAI,2023,Aleutian Islands,Sablefish CDQ (Trawl),44
+BSAI,2023,Aleutian Islands,Greenland Turbot (includes CDQ),480
+BSAI,2023,Aleutian Islands,Pollock,0
+BSAI,2023,Aleutian Islands,Pollock CDQ,0
+BSAI,2023,Aleutian Islands,"Pollock, Incidental Catch (includes CDQ)",3744
+BSAI,2023,Bering Sea Aleutian Islands,Alaska Plaice (includes CDQ),15252
+BSAI,2023,Bering Sea Aleutian Islands,Arrowtooth Flounder,7072
+BSAI,2023,Bering Sea Aleutian Islands,Arrowtooth Flounder CDQ,206
+BSAI,2023,Bering Sea Aleutian Islands,Flathead Sole,8629
+BSAI,2023,Bering Sea Aleutian Islands,Flathead Sole CDQ,362
+BSAI,2023,Bering Sea Aleutian Islands,Kamchatka Flounder (includes CDQ),6950
+BSAI,2023,Bering Sea Aleutian Islands,Northern Rockfish (includes CDQ),10433
+BSAI,2023,Bering Sea Aleutian Islands,Other Flatfish (includes CDQ),3020
+BSAI,2023,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (AFA)",2237
+BSAI,2023,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Amendment 80)",16014
+BSAI,2023,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Trawl)",23690
+BSAI,2023,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Hook-and-Line)",57777
+BSAI,2023,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Hook-and-Line >= 60 ft)",2
+BSAI,2023,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Pot)",1539
+BSAI,2023,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Pot >= 60 ft)",9758
+BSAI,2023,Bering Sea Aleutian Islands,Pacific Cod (Jig),0
+BSAI,2023,Bering Sea Aleutian Islands,Pacific Cod (Hook-and-Line and Pot < 60 ft),4889
+BSAI,2023,Bering Sea Aleutian Islands,"Pacific Cod, Incidental Catch (Hook-and-Line and Pot)",563
+BSAI,2023,Bering Sea Aleutian Islands,Rock Sole,24346
+BSAI,2023,Bering Sea Aleutian Islands,Rock Sole CDQ,2865
+BSAI,2023,Bering Sea Aleutian Islands,Shortraker Rockfish (includes CDQ),243
+BSAI,2023,Bering Sea Aleutian Islands,Yellowfin Sole,103665
+BSAI,2023,Bering Sea Aleutian Islands,Yellowfin Sole CDQ,9225
+BSAI,2023,Bering Sea Aleutian Islands,Octopus (includes CDQ),147
+BSAI,2023,Bering Sea Aleutian Islands,Shark (includes CDQ),327
+BSAI,2023,Bering Sea Aleutian Islands,Skate (includes CDQ),25857
+BSAI,2024,Bering Sea,Other Rockfish (includes CDQ),788
+BSAI,2024,Bering Sea,Pacific Ocean Perch (includes CDQ),11746
+BSAI,2024,Bering Sea,Sablefish (Hook-and-Line and Pot),1302
+BSAI,2024,Bering Sea,Sablefish CDQ (Hook-and-Line and Pot),340
+BSAI,2024,Bering Sea,Sablefish (Trawl),2949
+BSAI,2024,Bering Sea,Sablefish CDQ (Trawl),0
+BSAI,2024,Bering Sea,Greenland Turbot,460
+BSAI,2024,Bering Sea,Greenland Turbot CDQ,2
+BSAI,2024,Bering Sea,Pacific Cod CDQ,11951
+BSAI,2024,Bering Sea,"Pollock, AFA Inshore",565414
+BSAI,2024,Bering Sea,"Pollock, AFA Catcher Processor",452081
+BSAI,2024,Bering Sea,"Pollock, AFA Mothership",112457
+BSAI,2024,Bering Sea,Pollock CDQ,131813
+BSAI,2024,Bering Sea,"Pollock, Incidental Catch, non-Bogoslof (includes CDQ)",48990
+BSAI,2024,Bering Sea,"Pollock, Incidental Catch, Bogoslof (includes CDQ)",23
+BSAI,2024,Aleutian Islands,Other Rockfish (includes CDQ),573
+BSAI,2024,Aleutian Islands,"Pacific Ocean Perch, Eastern",7019
+BSAI,2024,Aleutian Islands,"Pacific Ocean Perch, Eastern CDQ",773
+BSAI,2024,Aleutian Islands,"Pacific Ocean Perch, Central",4709
+BSAI,2024,Aleutian Islands,"Pacific Ocean Perch, Central CDQ",541
+BSAI,2024,Aleutian Islands,"Pacific Ocean Perch, Western",11109
+BSAI,2024,Aleutian Islands,"Pacific Ocean Perch, Western CDQ",1199
+BSAI,2024,Aleutian Islands,Rougheye Rockfish (includes CDQ) - BS + Eastern,201
+BSAI,2024,Aleutian Islands,Rougheye Rockfish (includes CDQ) - Central + Western,439
+BSAI,2024,Aleutian Islands,"Atka Mackerel, Eastern (Jig)",0
+BSAI,2024,Aleutian Islands,"Atka Mackerel, Eastern (Trawl)",28351
+BSAI,2024,Aleutian Islands,"Atka Mackerel, Eastern ICA",59
+BSAI,2024,Aleutian Islands,"Atka Mackerel, Eastern CDQ",3355
+BSAI,2024,Aleutian Islands,"Atka Mackerel, Central (Trawl)",14735
+BSAI,2024,Aleutian Islands,"Atka Mackerel, Central ICA",157
+BSAI,2024,Aleutian Islands,"Atka Mackerel, Central CDQ",1762
+BSAI,2024,Aleutian Islands,Pacific Cod CDQ,698
+BSAI,2024,Aleutian Islands,"Atka Mackerel, Western (Trawl)",21291
+BSAI,2024,Aleutian Islands,"Atka Mackerel, Western ICA",20
+BSAI,2024,Aleutian Islands,"Atka Mackerel, Western CDQ",2443
+BSAI,2024,Aleutian Islands,Sablefish (Hook-and-Line and Pot),215
+BSAI,2024,Aleutian Islands,Sablefish CDQ (Hook-and-Line and Pot),19
+BSAI,2024,Aleutian Islands,Sablefish (Trawl),1164
+BSAI,2024,Aleutian Islands,Sablefish CDQ (Trawl),31
+BSAI,2024,Aleutian Islands,Greenland Turbot (includes CDQ),305
+BSAI,2024,Aleutian Islands,Pollock,0
+BSAI,2024,Aleutian Islands,Pollock CDQ,0
+BSAI,2024,Aleutian Islands,"Pollock, Incidental Catch (includes CDQ)",4999
+BSAI,2024,Bering Sea Aleutian Islands,Alaska Plaice (includes CDQ),10393
+BSAI,2024,Bering Sea Aleutian Islands,Arrowtooth Flounder,10210
+BSAI,2024,Bering Sea Aleutian Islands,Arrowtooth Flounder CDQ,399
+BSAI,2024,Bering Sea Aleutian Islands,Flathead Sole,12122
+BSAI,2024,Bering Sea Aleutian Islands,Flathead Sole CDQ,979
+BSAI,2024,Bering Sea Aleutian Islands,Kamchatka Flounder (includes CDQ),5157
+BSAI,2024,Bering Sea Aleutian Islands,Northern Rockfish (includes CDQ),8809
+BSAI,2024,Bering Sea Aleutian Islands,Other Flatfish (includes CDQ),3130
+BSAI,2024,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (AFA)",1118
+BSAI,2024,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Amendment 80)",17574
+BSAI,2024,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Trawl)",24160
+BSAI,2024,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Hook-and-Line)",61585
+BSAI,2024,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Hook-and-Line >= 60 ft)",0
+BSAI,2024,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Pot)",595
+BSAI,2024,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Pot >= 60 ft)",4899
+BSAI,2024,Bering Sea Aleutian Islands,Pacific Cod (Jig),0
+BSAI,2024,Bering Sea Aleutian Islands,Pacific Cod (Hook-and-Line and Pot < 60 ft),5721
+BSAI,2024,Bering Sea Aleutian Islands,"Pacific Cod, Incidental Catch (Hook-and-Line and Pot)",750
+BSAI,2024,Bering Sea Aleutian Islands,Rock Sole,26899
+BSAI,2024,Bering Sea Aleutian Islands,Rock Sole CDQ,2763
+BSAI,2024,Bering Sea Aleutian Islands,Shortraker Rockfish (includes CDQ),177
+BSAI,2024,Bering Sea Aleutian Islands,Yellowfin Sole,82061
+BSAI,2024,Bering Sea Aleutian Islands,Yellowfin Sole CDQ,9132
+BSAI,2024,Bering Sea Aleutian Islands,Octopus (includes CDQ),246
+BSAI,2024,Bering Sea Aleutian Islands,Shark (includes CDQ),174
+BSAI,2024,Bering Sea Aleutian Islands,Skate (includes CDQ),27138
+BSAI,2025,Bering Sea,Other Rockfish (includes CDQ),506
+BSAI,2025,Bering Sea,Pacific Ocean Perch (includes CDQ),10085
+BSAI,2025,Bering Sea,Sablefish (Hook-and-Line and Pot),1093
+BSAI,2025,Bering Sea,Sablefish CDQ (Hook-and-Line and Pot),560
+BSAI,2025,Bering Sea,Sablefish (Trawl),2096
+BSAI,2025,Bering Sea,Sablefish CDQ (Trawl),10
+BSAI,2025,Bering Sea,Greenland Turbot,398
+BSAI,2025,Bering Sea,Greenland Turbot CDQ,9
+BSAI,2025,Bering Sea,Pacific Cod CDQ,12151
+BSAI,2025,Bering Sea,"Pollock, AFA Inshore",557867
+BSAI,2025,Bering Sea,"Pollock, AFA Catcher Processor",478532
+BSAI,2025,Bering Sea,"Pollock, AFA Mothership",120270
+BSAI,2025,Bering Sea,Pollock CDQ,139345
+BSAI,2025,Bering Sea,"Pollock, Incidental Catch, non-Bogoslof (includes CDQ)",30179
+BSAI,2025,Bering Sea,"Pollock, Incidental Catch, Bogoslof (includes CDQ)",63
+BSAI,2025,Aleutian Islands,Other Rockfish (includes CDQ),523
+BSAI,2025,Aleutian Islands,"Pacific Ocean Perch, Eastern",5445
+BSAI,2025,Aleutian Islands,"Pacific Ocean Perch, Eastern CDQ",587
+BSAI,2025,Aleutian Islands,"Pacific Ocean Perch, Central",4423
+BSAI,2025,Aleutian Islands,"Pacific Ocean Perch, Central CDQ",466
+BSAI,2025,Aleutian Islands,"Pacific Ocean Perch, Western",10174
+BSAI,2025,Aleutian Islands,"Pacific Ocean Perch, Western CDQ",1189
+BSAI,2025,Aleutian Islands,Rougheye Rockfish (includes CDQ) - BS + Eastern,225
+BSAI,2025,Aleutian Islands,Rougheye Rockfish (includes CDQ) - Central + Western,424
+BSAI,2025,Aleutian Islands,"Atka Mackerel, Eastern (Jig)",0
+BSAI,2025,Aleutian Islands,"Atka Mackerel, Eastern (Trawl)",33710
+BSAI,2025,Aleutian Islands,"Atka Mackerel, Eastern ICA",81
+BSAI,2025,Aleutian Islands,"Atka Mackerel, Eastern CDQ",4084
+BSAI,2025,Aleutian Islands,"Atka Mackerel, Central (Trawl)",21730
+BSAI,2025,Aleutian Islands,"Atka Mackerel, Central ICA",70
+BSAI,2025,Aleutian Islands,"Atka Mackerel, Central CDQ",2489
+BSAI,2025,Aleutian Islands,Pacific Cod CDQ,498
+BSAI,2025,Aleutian Islands,"Atka Mackerel, Western (Trawl)",16504
+BSAI,2025,Aleutian Islands,"Atka Mackerel, Western ICA",8
+BSAI,2025,Aleutian Islands,"Atka Mackerel, Western CDQ",1936
+BSAI,2025,Aleutian Islands,Sablefish (Hook-and-Line and Pot),97
+BSAI,2025,Aleutian Islands,Sablefish CDQ (Hook-and-Line and Pot),0
+BSAI,2025,Aleutian Islands,Sablefish (Trawl),823
+BSAI,2025,Aleutian Islands,Sablefish CDQ (Trawl),13
+BSAI,2025,Aleutian Islands,Greenland Turbot (includes CDQ),212
+BSAI,2025,Aleutian Islands,Pollock,0
+BSAI,2025,Aleutian Islands,Pollock CDQ,0
+BSAI,2025,Aleutian Islands,"Pollock, Incidental Catch (includes CDQ)",4528
+BSAI,2025,Bering Sea Aleutian Islands,Alaska Plaice (includes CDQ),7113
+BSAI,2025,Bering Sea Aleutian Islands,Arrowtooth Flounder,8904
+BSAI,2025,Bering Sea Aleutian Islands,Arrowtooth Flounder CDQ,405
+BSAI,2025,Bering Sea Aleutian Islands,Flathead Sole,8173
+BSAI,2025,Bering Sea Aleutian Islands,Flathead Sole CDQ,601
+BSAI,2025,Bering Sea Aleutian Islands,Kamchatka Flounder (includes CDQ),5046
+BSAI,2025,Bering Sea Aleutian Islands,Northern Rockfish (includes CDQ),8049
+BSAI,2025,Bering Sea Aleutian Islands,Other Flatfish (includes CDQ),5382
+BSAI,2025,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (AFA)",1021
+BSAI,2025,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Amendment 80)",14551
+BSAI,2025,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Trawl)",22497
+BSAI,2025,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Hook-and-Line)",58083
+BSAI,2025,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Hook-and-Line >= 60 ft)",0
+BSAI,2025,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Processor (Pot)",2013
+BSAI,2025,Bering Sea Aleutian Islands,"Pacific Cod, Catcher Vessel (Pot >= 60 ft)",8409
+BSAI,2025,Bering Sea Aleutian Islands,Pacific Cod (Jig),0
+BSAI,2025,Bering Sea Aleutian Islands,Pacific Cod (Hook-and-Line and Pot < 60 ft),4345
+BSAI,2025,Bering Sea Aleutian Islands,"Pacific Cod, Incidental Catch (Hook-and-Line and Pot)",504
+BSAI,2025,Bering Sea Aleutian Islands,Rock Sole,36703
+BSAI,2025,Bering Sea Aleutian Islands,Rock Sole CDQ,4783
+BSAI,2025,Bering Sea Aleutian Islands,Shortraker Rockfish (includes CDQ),310
+BSAI,2025,Bering Sea Aleutian Islands,Yellowfin Sole,85167
+BSAI,2025,Bering Sea Aleutian Islands,Yellowfin Sole CDQ,6647
+BSAI,2025,Bering Sea Aleutian Islands,Octopus (includes CDQ),317
+BSAI,2025,Bering Sea Aleutian Islands,Shark (includes CDQ),198
+BSAI,2025,Bering Sea Aleutian Islands,Skate (includes CDQ),21608
+GOA,2013,"Western, Central Pollock","Pollock, 610 Shumagin",7711
+GOA,2013,"Western, Central Pollock","Pollock, 620 Chirikof",53125
+GOA,2013,"Western, Central Pollock","Pollock, 630 Kodiak",29960
+GOA,2013,Western Gulf,Arrowtooth Flounder,853
+GOA,2013,Western Gulf,Deep Water Flatfish,21
+GOA,2013,Western Gulf,Shallow Water Flatfish,155
+GOA,2013,Western Gulf,Flathead Sole,588
+GOA,2013,Western Gulf,Rex Sole,104
+GOA,2013,Western Gulf,Pacific Ocean Perch,447
+GOA,2013,Western Gulf,Rougheye Rockfish,10
+GOA,2013,Western Gulf,Shortraker Rockfish,28
+GOA,2013,Western Gulf,Thornyhead Rockfish,293
+GOA,2013,Western Gulf,Dusky Rockfish,217
+GOA,2013,Western Gulf,Northern Rockfish,2175
+GOA,2013,Western Gulf,Other Rockfish,203
+GOA,2013,Western Gulf,Pacific Cod,19220
+GOA,2013,Western Gulf,Sablefish (Hook-and-Line),1346
+GOA,2013,Western Gulf,Sablefish (Trawl),13
+GOA,2013,Western Gulf,Big Skate,121
+GOA,2013,Western Gulf,Longnose Skate,86
+GOA,2013,Central Gulf,Arrowtooth Flounder,20956
+GOA,2013,Central Gulf,Deep Water Flatfish,212
+GOA,2013,Central Gulf,Shallow Water Flatfish,5362
+GOA,2013,Central Gulf,Flathead Sole,2230
+GOA,2013,Central Gulf,Rex Sole,3596
+GOA,2013,Central Gulf,Pacific Ocean Perch,11198
+GOA,2013,Central Gulf,Rougheye Rockfish,390
+GOA,2013,Central Gulf,Shortraker Rockfish,489
+GOA,2013,Central Gulf,Dusky Rockfish,2930
+GOA,2013,Central Gulf,Northern Rockfish,2705
+GOA,2013,Central Gulf,Thornyhead Rockfish,519
+GOA,2013,Central Gulf,Other Rockfish,477
+GOA,2013,Central Gulf,Pacific Cod,32001
+GOA,2013,Central Gulf,Sablefish (Hook-and-Line),4527
+GOA,2013,Central Gulf,Sablefish (Trawl),660
+GOA,2013,Central Gulf,Big Skate,2321
+GOA,2013,Central Gulf,Longnose Skate,1267
+GOA,2013,Eastern Gulf,Rougheye Rockfish,179
+GOA,2013,Eastern Gulf,Shortraker Rockfish,275
+GOA,2013,Eastern Gulf,Thornyhead Rockfish,305
+GOA,2013,Eastern Gulf,Pacific Cod,808
+GOA,2013,Eastern Gulf,Big Skate,91
+GOA,2013,Eastern Gulf,Longnose Skate,443
+GOA,2013,West Yakutat,Arrowtooth Flounder,67
+GOA,2013,West Yakutat,Deep Water Flatfish,4
+GOA,2013,West Yakutat,Shallow Water Flatfish,1
+GOA,2013,West Yakutat,Flathead Sole,0
+GOA,2013,West Yakutat,Rex Sole,0
+GOA,2013,West Yakutat,Pacific Ocean Perch,1537
+GOA,2013,West Yakutat,Dusky Rockfish,4
+GOA,2013,West Yakutat,Other Rockfish,81
+GOA,2013,West Yakutat,Pollock,2940
+GOA,2013,West Yakutat,Sablefish (Hook-and-Line),1929
+GOA,2013,West Yakutat,Sablefish (Trawl),173
+GOA,2013,Southeast,Arrowtooth Flounder,91
+GOA,2013,Southeast,Deep Water Flatfish,4
+GOA,2013,Southeast,Shallow Water Flatfish,2
+GOA,2013,Southeast,Flathead Sole,0
+GOA,2013,Southeast,Rex Sole,0
+GOA,2013,Southeast,Pacific Ocean Perch,0
+GOA,2013,Southeast,Dusky Rockfish,8
+GOA,2013,Southeast,Other Rockfish,52
+GOA,2013,Southeast,Pollock,0
+GOA,2013,Southeast,Demersal Shelf Rockfish,228
+GOA,2013,Southeast,Sablefish (Hook-and-Line),3246
+GOA,2013,Entire Gulf,Atka Mackerel,1277
+GOA,2013,Entire Gulf,Octopus,446
+GOA,2013,Entire Gulf,Sculpin,1961
+GOA,2013,Entire Gulf,Shark,2156
+GOA,2013,Entire Gulf,Other Skates,1903
+GOA,2013,Entire Gulf,Squid,321
+GOA,2014,"Western, Central Pollock","Pollock, 610 Shumagin",13364
+GOA,2014,"Western, Central Pollock","Pollock, 620 Chirikof",83081
+GOA,2014,"Western, Central Pollock","Pollock, 630 Kodiak",42503
+GOA,2014,Western Gulf,Arrowtooth Flounder,1970
+GOA,2014,Western Gulf,Deep Water Flatfish,68
+GOA,2014,Western Gulf,Shallow Water Flatfish,246
+GOA,2014,Western Gulf,Flathead Sole,219
+GOA,2014,Western Gulf,Rex Sole,126
+GOA,2014,Western Gulf,Pacific Ocean Perch,2097
+GOA,2014,Western Gulf,Rougheye Rockfish,25
+GOA,2014,Western Gulf,Shortraker Rockfish,73
+GOA,2014,Western Gulf,Thornyhead Rockfish,239
+GOA,2014,Western Gulf,Dusky Rockfish,139
+GOA,2014,Western Gulf,Northern Rockfish,853
+GOA,2014,Western Gulf,Pacific Cod,21684
+GOA,2014,Western Gulf,Sablefish (Hook-and-Line),1134
+GOA,2014,Western Gulf,Sablefish (Trawl),61
+GOA,2014,Western Gulf,Big Skate,159
+GOA,2014,Western Gulf,Longnose Skate,59
+GOA,2014,Western Gulf,Other Rockfish,890
+GOA,2014,Central Gulf,Arrowtooth Flounder,34556
+GOA,2014,Central Gulf,Deep Water Flatfish,277
+GOA,2014,Central Gulf,Shallow Water Flatfish,4492
+GOA,2014,Central Gulf,Flathead Sole,2337
+GOA,2014,Central Gulf,Rex Sole,3450
+GOA,2014,Central Gulf,Pacific Ocean Perch,13744
+GOA,2014,Central Gulf,Rougheye Rockfish,552
+GOA,2014,Central Gulf,Shortraker Rockfish,373
+GOA,2014,Central Gulf,Dusky Rockfish,2832
+GOA,2014,Central Gulf,Northern Rockfish,3425
+GOA,2014,Central Gulf,Thornyhead Rockfish,660
+GOA,2014,Central Gulf,Pacific Cod,40329
+GOA,2014,Central Gulf,Sablefish (Hook-and-Line),3959
+GOA,2014,Central Gulf,Sablefish (Trawl),752
+GOA,2014,Central Gulf,Big Skate,1396
+GOA,2014,Central Gulf,Longnose Skate,1159
+GOA,2014,Eastern Gulf,Rougheye Rockfish,183
+GOA,2014,Eastern Gulf,Shortraker Rockfish,293
+GOA,2014,Eastern Gulf,Thornyhead Rockfish,217
+GOA,2014,Eastern Gulf,Pacific Cod,641
+GOA,2014,Eastern Gulf,Big Skate,99
+GOA,2014,Eastern Gulf,Longnose Skate,336
+GOA,2014,West Yakutat,Arrowtooth Flounder,81
+GOA,2014,West Yakutat,Deep Water Flatfish,5
+GOA,2014,West Yakutat,Shallow Water Flatfish,1
+GOA,2014,West Yakutat,Flathead Sole,1
+GOA,2014,West Yakutat,Rex Sole,1
+GOA,2014,West Yakutat,Pacific Ocean Perch,1871
+GOA,2014,West Yakutat,Dusky Rockfish,87
+GOA,2014,West Yakutat,Other Rockfish,61
+GOA,2014,West Yakutat,Pollock,1317
+GOA,2014,West Yakutat,Sablefish (Hook-and-Line),1519
+GOA,2014,West Yakutat,Sablefish (Trawl),152
+GOA,2014,Southeast,Arrowtooth Flounder,55
+GOA,2014,Southeast,Deep Water Flatfish,4
+GOA,2014,Southeast,Shallow Water Flatfish,1
+GOA,2014,Southeast,Flathead Sole,0
+GOA,2014,Southeast,Rex Sole,0
+GOA,2014,Southeast,Pacific Ocean Perch,0
+GOA,2014,Southeast,Dusky Rockfish,4
+GOA,2014,Southeast,Other Rockfish,29
+GOA,2014,Southeast,Pollock,1
+GOA,2014,Southeast,Demersal Shelf Rockfish,111
+GOA,2014,Southeast,Sablefish (Hook-and-Line),2817
+GOA,2014,Entire Gulf,Atka Mackerel,1042
+GOA,2014,Entire Gulf,Octopus,1312
+GOA,2014,Entire Gulf,Sculpin,1212
+GOA,2014,Entire Gulf,Shark,1582
+GOA,2014,Entire Gulf,Other Skates,1896
+GOA,2014,Entire Gulf,Squid,94
+GOA,2015,"Western, Central Pollock","Pollock, 610 Shumagin",28739
+GOA,2015,"Western, Central Pollock","Pollock, 620 Chirikof",81439
+GOA,2015,"Western, Central Pollock","Pollock, 630 Kodiak",52630
+GOA,2015,Western Gulf,Arrowtooth Flounder,621
+GOA,2015,Western Gulf,Deep Water Flatfish,54
+GOA,2015,Western Gulf,Shallow Water Flatfish,275
+GOA,2015,Western Gulf,Flathead Sole,199
+GOA,2015,Western Gulf,Rex Sole,76
+GOA,2015,Western Gulf,Pacific Ocean Perch,2038
+GOA,2015,Western Gulf,Rougheye Rockfish,52
+GOA,2015,Western Gulf,Shortraker Rockfish,55
+GOA,2015,Western Gulf,Thornyhead Rockfish,225
+GOA,2015,Western Gulf,Dusky Rockfish,184
+GOA,2015,Western Gulf,Northern Rockfish,979
+GOA,2015,Western Gulf,Pacific Cod,18988
+GOA,2015,Western Gulf,Sablefish (Hook-and-Line),955
+GOA,2015,Western Gulf,Sablefish (Trawl),43
+GOA,2015,Western Gulf,Big Skate,236
+GOA,2015,Western Gulf,Longnose Skate,137
+GOA,2015,Western Gulf,Other Rockfish,1056
+GOA,2015,Central Gulf,Arrowtooth Flounder,18676
+GOA,2015,Central Gulf,Deep Water Flatfish,196
+GOA,2015,Central Gulf,Shallow Water Flatfish,3081
+GOA,2015,Central Gulf,Flathead Sole,1802
+GOA,2015,Central Gulf,Rex Sole,1882
+GOA,2015,Central Gulf,Pacific Ocean Perch,14714
+GOA,2015,Central Gulf,Rougheye Rockfish,357
+GOA,2015,Central Gulf,Shortraker Rockfish,277
+GOA,2015,Central Gulf,Dusky Rockfish,2588
+GOA,2015,Central Gulf,Northern Rockfish,2965
+GOA,2015,Central Gulf,Thornyhead Rockfish,573
+GOA,2015,Central Gulf,Pacific Cod,36190
+GOA,2015,Central Gulf,Sablefish (Hook-and-Line),3806
+GOA,2015,Central Gulf,Sablefish (Trawl),802
+GOA,2015,Central Gulf,Big Skate,1211
+GOA,2015,Central Gulf,Longnose Skate,1173
+GOA,2015,Eastern Gulf,Rougheye Rockfish,155
+GOA,2015,Eastern Gulf,Shortraker Rockfish,299
+GOA,2015,Eastern Gulf,Thornyhead Rockfish,210
+GOA,2015,Eastern Gulf,Pacific Cod,1199
+GOA,2015,Eastern Gulf,Big Skate,56
+GOA,2015,Eastern Gulf,Longnose Skate,349
+GOA,2015,West Yakutat,Arrowtooth Flounder,65
+GOA,2015,West Yakutat,Deep Water Flatfish,2
+GOA,2015,West Yakutat,Shallow Water Flatfish,1
+GOA,2015,West Yakutat,Flathead Sole,1
+GOA,2015,West Yakutat,Rex Sole,0
+GOA,2015,West Yakutat,Pacific Ocean Perch,1981
+GOA,2015,West Yakutat,Dusky Rockfish,2
+GOA,2015,West Yakutat,Other Rockfish,36
+GOA,2015,West Yakutat,Pollock,250
+GOA,2015,West Yakutat,Sablefish (Hook-and-Line),1654
+GOA,2015,West Yakutat,Sablefish (Trawl),212
+GOA,2015,Southeast,Arrowtooth Flounder,56
+GOA,2015,Southeast,Deep Water Flatfish,3
+GOA,2015,Southeast,Shallow Water Flatfish,1
+GOA,2015,Southeast,Flathead Sole,0
+GOA,2015,Southeast,Rex Sole,0
+GOA,2015,Southeast,Pacific Ocean Perch,0
+GOA,2015,Southeast,Dusky Rockfish,6
+GOA,2015,Southeast,Other Rockfish,15
+GOA,2015,Southeast,Pollock,0
+GOA,2015,Southeast,Demersal Shelf Rockfish,109
+GOA,2015,Southeast,Sablefish (Hook-and-Line),2811
+GOA,2015,Entire Gulf,Atka Mackerel,1218
+GOA,2015,Entire Gulf,Octopus,966
+GOA,2015,Entire Gulf,Sculpin,1027
+GOA,2015,Entire Gulf,Shark,1389
+GOA,2015,Entire Gulf,Other Skates,1775
+GOA,2015,Entire Gulf,Squid,411
+GOA,2016,"Western, Central Pollock","Pollock, 610 Shumagin",61252
+GOA,2016,"Western, Central Pollock","Pollock, 620 Chirikof",47024
+GOA,2016,"Western, Central Pollock","Pollock, 630 Kodiak",64810
+GOA,2016,Western Gulf,Arrowtooth Flounder,1061
+GOA,2016,Western Gulf,Deep Water Flatfish,5
+GOA,2016,Western Gulf,Shallow Water Flatfish,148
+GOA,2016,Western Gulf,Flathead Sole,228
+GOA,2016,Western Gulf,Rex Sole,172
+GOA,2016,Western Gulf,Pacific Ocean Perch,2654
+GOA,2016,Western Gulf,Rougheye Rockfish,65
+GOA,2016,Western Gulf,Shortraker Rockfish,63
+GOA,2016,Western Gulf,Thornyhead Rockfish,198
+GOA,2016,Western Gulf,Dusky Rockfish,95
+GOA,2016,Western Gulf,Northern Rockfish,121
+GOA,2016,Western Gulf,Pacific Cod,18466
+GOA,2016,Western Gulf,Sablefish (Hook-and-Line),1005
+GOA,2016,Western Gulf,Sablefish (Trawl),47
+GOA,2016,Western Gulf,Big Skate,167
+GOA,2016,Western Gulf,Longnose Skate,155
+GOA,2016,Western Gulf,Other Rockfish,1185
+GOA,2016,Central Gulf,Arrowtooth Flounder,18915
+GOA,2016,Central Gulf,Deep Water Flatfish,219
+GOA,2016,Central Gulf,Shallow Water Flatfish,3656
+GOA,2016,Central Gulf,Flathead Sole,2191
+GOA,2016,Central Gulf,Rex Sole,1575
+GOA,2016,Central Gulf,Pacific Ocean Perch,17554
+GOA,2016,Central Gulf,Rougheye Rockfish,501
+GOA,2016,Central Gulf,Shortraker Rockfish,482
+GOA,2016,Central Gulf,Dusky Rockfish,3216
+GOA,2016,Central Gulf,Northern Rockfish,3313
+GOA,2016,Central Gulf,Thornyhead Rockfish,691
+GOA,2016,Central Gulf,Pacific Cod,23984
+GOA,2016,Central Gulf,Sablefish (Hook-and-Line),3346
+GOA,2016,Central Gulf,Sablefish (Trawl),826
+GOA,2016,Central Gulf,Big Skate,1854
+GOA,2016,Central Gulf,Longnose Skate,889
+GOA,2016,Eastern Gulf,Rougheye Rockfish,131
+GOA,2016,Eastern Gulf,Shortraker Rockfish,362
+GOA,2016,Eastern Gulf,Thornyhead Rockfish,221
+GOA,2016,Eastern Gulf,Pacific Cod,485
+GOA,2016,Eastern Gulf,Big Skate,50
+GOA,2016,Eastern Gulf,Longnose Skate,348
+GOA,2016,West Yakutat,Arrowtooth Flounder,46
+GOA,2016,West Yakutat,Deep Water Flatfish,9
+GOA,2016,West Yakutat,Shallow Water Flatfish,1
+GOA,2016,West Yakutat,Flathead Sole,2
+GOA,2016,West Yakutat,Rex Sole,3
+GOA,2016,West Yakutat,Pacific Ocean Perch,2827
+GOA,2016,West Yakutat,Dusky Rockfish,7
+GOA,2016,West Yakutat,Other Rockfish,52
+GOA,2016,West Yakutat,Pollock,133
+GOA,2016,West Yakutat,Sablefish (Hook-and-Line),1474
+GOA,2016,West Yakutat,Sablefish (Trawl),177
+GOA,2016,Southeast,Arrowtooth Flounder,34
+GOA,2016,Southeast,Deep Water Flatfish,4
+GOA,2016,Southeast,Shallow Water Flatfish,1
+GOA,2016,Southeast,Flathead Sole,0
+GOA,2016,Southeast,Rex Sole,0
+GOA,2016,Southeast,Pacific Ocean Perch,0
+GOA,2016,Southeast,Dusky Rockfish,4
+GOA,2016,Southeast,Other Rockfish,36
+GOA,2016,Southeast,Pollock,0
+GOA,2016,Southeast,Demersal Shelf Rockfish,116
+GOA,2016,Southeast,Sablefish (Hook-and-Line),2455
+GOA,2016,Entire Gulf,Atka Mackerel,1093
+GOA,2016,Entire Gulf,Octopus,386
+GOA,2016,Entire Gulf,Sculpin,1329
+GOA,2016,Entire Gulf,Shark,1951
+GOA,2016,Entire Gulf,Other Skates,1638
+GOA,2016,Entire Gulf,Squid,241
+GOA,2017,"Western, Central Pollock","Pollock, 610 Shumagin",49542
+GOA,2017,"Western, Central Pollock","Pollock, 620 Chirikof",81607
+GOA,2017,"Western, Central Pollock","Pollock, 630 Kodiak",53071
+GOA,2017,Western Gulf,Arrowtooth Flounder,338
+GOA,2017,Western Gulf,Deep Water Flatfish,21
+GOA,2017,Western Gulf,Shallow Water Flatfish,274
+GOA,2017,Western Gulf,Flathead Sole,73
+GOA,2017,Western Gulf,Rex Sole,48
+GOA,2017,Western Gulf,Pacific Ocean Perch,2682
+GOA,2017,Western Gulf,Rougheye Rockfish,41
+GOA,2017,Western Gulf,Shortraker Rockfish,43
+GOA,2017,Western Gulf,Thornyhead Rockfish,141
+GOA,2017,Western Gulf,Dusky Rockfish,126
+GOA,2017,Western Gulf,Northern Rockfish,235
+GOA,2017,Western Gulf,Pacific Cod,18162
+GOA,2017,Western Gulf,Sablefish (Fixed Gear),1114
+GOA,2017,Western Gulf,Sablefish (Trawl),66
+GOA,2017,Western Gulf,Big Skate,194
+GOA,2017,Western Gulf,Longnose Skate,189
+GOA,2017,Western Gulf,Other Rockfish,998
+GOA,2017,Central Gulf,Arrowtooth Flounder,26716
+GOA,2017,Central Gulf,Deep Water Flatfish,232
+GOA,2017,Central Gulf,Shallow Water Flatfish,2300
+GOA,2017,Central Gulf,Flathead Sole,1978
+GOA,2017,Central Gulf,Rex Sole,1434
+GOA,2017,Central Gulf,Pacific Ocean Perch,18422
+GOA,2017,Central Gulf,Rougheye Rockfish,338
+GOA,2017,Central Gulf,Shortraker Rockfish,274
+GOA,2017,Central Gulf,Dusky Rockfish,2470
+GOA,2017,Central Gulf,Northern Rockfish,1600
+GOA,2017,Central Gulf,Thornyhead Rockfish,613
+GOA,2017,Central Gulf,Pacific Cod,16970
+GOA,2017,Central Gulf,Sablefish (Fixed Gear),3627
+GOA,2017,Central Gulf,Sablefish (Trawl),1192
+GOA,2017,Central Gulf,Big Skate,1453
+GOA,2017,Central Gulf,Longnose Skate,766
+GOA,2017,Eastern Gulf,Rougheye Rockfish,174
+GOA,2017,Eastern Gulf,Shortraker Rockfish,313
+GOA,2017,Eastern Gulf,Thornyhead Rockfish,248
+GOA,2017,Eastern Gulf,Pacific Cod,367
+GOA,2017,Eastern Gulf,Big Skate,84
+GOA,2017,Eastern Gulf,Longnose Skate,316
+GOA,2017,West Yakutat,Arrowtooth Flounder,49
+GOA,2017,West Yakutat,Deep Water Flatfish,8
+GOA,2017,West Yakutat,Shallow Water Flatfish,0
+GOA,2017,West Yakutat,Flathead Sole,0
+GOA,2017,West Yakutat,Rex Sole,2
+GOA,2017,West Yakutat,Pacific Ocean Perch,2757
+GOA,2017,West Yakutat,Dusky Rockfish,22
+GOA,2017,West Yakutat,Other Rockfish,45
+GOA,2017,West Yakutat,Pollock,40
+GOA,2017,West Yakutat,Sablefish (Fixed Gear),1488
+GOA,2017,West Yakutat,Sablefish (Trawl),206
+GOA,2017,Southeast,Arrowtooth Flounder,41
+GOA,2017,Southeast,Deep Water Flatfish,2
+GOA,2017,Southeast,Shallow Water Flatfish,0
+GOA,2017,Southeast,Flathead Sole,0
+GOA,2017,Southeast,Rex Sole,0
+GOA,2017,Southeast,Pacific Ocean Perch,0
+GOA,2017,Southeast,Dusky Rockfish,4
+GOA,2017,Southeast,Other Rockfish,36
+GOA,2017,Southeast,Pollock,0
+GOA,2017,Southeast,Demersal Shelf Rockfish,127
+GOA,2017,Southeast,Sablefish (Fixed Gear),2816
+GOA,2017,Entire Gulf,Atka Mackerel,1075
+GOA,2017,Entire Gulf,Octopus,232
+GOA,2017,Entire Gulf,Sculpin,1379
+GOA,2017,Entire Gulf,Shark,1772
+GOA,2017,Entire Gulf,Other Skates,1666
+GOA,2017,Entire Gulf,Squid,39
+GOA,2018,"Western, Central Pollock","Pollock, 610 Shumagin",30675
+GOA,2018,"Western, Central Pollock","Pollock, 620 Chirikof",80054
+GOA,2018,"Western, Central Pollock","Pollock, 630 Kodiak",40087
+GOA,2018,Western Gulf,Arrowtooth Flounder,1059
+GOA,2018,Western Gulf,Deep Water Flatfish,3
+GOA,2018,Western Gulf,Shallow Water Flatfish,56
+GOA,2018,Western Gulf,Flathead Sole,150
+GOA,2018,Western Gulf,Rex Sole,83
+GOA,2018,Western Gulf,Pacific Ocean Perch,3225
+GOA,2018,Western Gulf,Rougheye Rockfish,80
+GOA,2018,Western Gulf,Shortraker Rockfish,29
+GOA,2018,Western Gulf,Thornyhead Rockfish,172
+GOA,2018,Western Gulf,Dusky Rockfish,51
+GOA,2018,Western Gulf,Northern Rockfish,297
+GOA,2018,Western Gulf,Pacific Cod,5047
+GOA,2018,Western Gulf,Sablefish (Fixed Gear),1165
+GOA,2018,Western Gulf,Sablefish (Trawl),224
+GOA,2018,Western Gulf,Big Skate,303
+GOA,2018,Western Gulf,Longnose Skate,57
+GOA,2018,Western Gulf,Other Rockfish,1037
+GOA,2018,Central Gulf,Arrowtooth Flounder,17811
+GOA,2018,Central Gulf,Deep Water Flatfish,172
+GOA,2018,Central Gulf,Shallow Water Flatfish,2702
+GOA,2018,Central Gulf,Flathead Sole,2051
+GOA,2018,Central Gulf,Rex Sole,1665
+GOA,2018,Central Gulf,Pacific Ocean Perch,18159
+GOA,2018,Central Gulf,Rougheye Rockfish,439
+GOA,2018,Central Gulf,Shortraker Rockfish,322
+GOA,2018,Central Gulf,Dusky Rockfish,2843
+GOA,2018,Central Gulf,Northern Rockfish,2062
+GOA,2018,Central Gulf,Thornyhead Rockfish,684
+GOA,2018,Central Gulf,Pacific Cod,5751
+GOA,2018,Central Gulf,Sablefish (Fixed Gear),3640
+GOA,2018,Central Gulf,Sablefish (Trawl),2124
+GOA,2018,Central Gulf,Big Skate,929
+GOA,2018,Central Gulf,Longnose Skate,593
+GOA,2018,Eastern Gulf,Rougheye Rockfish,276
+GOA,2018,Eastern Gulf,Shortraker Rockfish,472
+GOA,2018,Eastern Gulf,Thornyhead Rockfish,322
+GOA,2018,Eastern Gulf,Pacific Cod,187
+GOA,2018,Eastern Gulf,Big Skate,78
+GOA,2018,Eastern Gulf,Longnose Skate,233
+GOA,2018,West Yakutat,Arrowtooth Flounder,54
+GOA,2018,West Yakutat,Deep Water Flatfish,6
+GOA,2018,West Yakutat,Shallow Water Flatfish,1
+GOA,2018,West Yakutat,Flathead Sole,0
+GOA,2018,West Yakutat,Rex Sole,2
+GOA,2018,West Yakutat,Pacific Ocean Perch,3352
+GOA,2018,West Yakutat,Dusky Rockfish,12
+GOA,2018,West Yakutat,Other Rockfish,136
+GOA,2018,West Yakutat,Pollock,4125
+GOA,2018,West Yakutat,Sablefish (Fixed Gear),1626
+GOA,2018,West Yakutat,Sablefish (Trawl),236
+GOA,2018,Southeast,Arrowtooth Flounder,40
+GOA,2018,Southeast,Deep Water Flatfish,4
+GOA,2018,Southeast,Shallow Water Flatfish,1
+GOA,2018,Southeast,Flathead Sole,0
+GOA,2018,Southeast,Rex Sole,0
+GOA,2018,Southeast,Pacific Ocean Perch,0
+GOA,2018,Southeast,Dusky Rockfish,4
+GOA,2018,Southeast,Other Rockfish,48
+GOA,2018,Southeast,Pollock,0
+GOA,2018,Southeast,Demersal Shelf Rockfish,136
+GOA,2018,Southeast,Sablefish (Fixed Gear),3019
+GOA,2018,Entire Gulf,Atka Mackerel,1438
+GOA,2018,Entire Gulf,Octopus,206
+GOA,2018,Entire Gulf,Sculpin,635
+GOA,2018,Entire Gulf,Shark,3410
+GOA,2018,Entire Gulf,Other Skates,746
+GOA,2018,Entire Gulf,Squid,42
+GOA,2019,"Western, Central Pollock","Pollock, 610 Shumagin",21868
+GOA,2019,"Western, Central Pollock","Pollock, 620 Chirikof",64120
+GOA,2019,"Western, Central Pollock","Pollock, 630 Kodiak",24661
+GOA,2019,Western Gulf,Arrowtooth Flounder,715
+GOA,2019,Western Gulf,Deep Water Flatfish,2
+GOA,2019,Western Gulf,Shallow Water Flatfish,74
+GOA,2019,Western Gulf,Flathead Sole,210
+GOA,2019,Western Gulf,Rex Sole,74
+GOA,2019,Western Gulf,Pacific Ocean Perch,3144
+GOA,2019,Western Gulf,Rougheye Rockfish,93
+GOA,2019,Western Gulf,Shortraker Rockfish,85
+GOA,2019,Western Gulf,Thornyhead Rockfish,121
+GOA,2019,Western Gulf,Dusky Rockfish,198
+GOA,2019,Western Gulf,Northern Rockfish,820
+GOA,2019,Western Gulf,Pacific Cod,5067
+GOA,2019,Western Gulf,Sablefish (Fixed Gear),1213
+GOA,2019,Western Gulf,Sablefish (Trawl),320
+GOA,2019,Western Gulf,Big Skate,132
+GOA,2019,Western Gulf,Longnose Skate,60
+GOA,2019,Western Gulf,Other Rockfish,693
+GOA,2019,Central Gulf,Arrowtooth Flounder,23853
+GOA,2019,Central Gulf,Deep Water Flatfish,97
+GOA,2019,Central Gulf,Shallow Water Flatfish,2791
+GOA,2019,Central Gulf,Flathead Sole,2457
+GOA,2019,Central Gulf,Rex Sole,1536
+GOA,2019,Central Gulf,Pacific Ocean Perch,19038
+GOA,2019,Central Gulf,Rougheye Rockfish,448
+GOA,2019,Central Gulf,Shortraker Rockfish,252
+GOA,2019,Central Gulf,Dusky Rockfish,2196
+GOA,2019,Central Gulf,Northern Rockfish,1928
+GOA,2019,Central Gulf,Thornyhead Rockfish,379
+GOA,2019,Central Gulf,Pacific Cod,5913
+GOA,2019,Central Gulf,Sablefish (Fixed Gear),4307
+GOA,2019,Central Gulf,Sablefish (Trawl),1960
+GOA,2019,Central Gulf,Big Skate,1117
+GOA,2019,Central Gulf,Longnose Skate,630
+GOA,2019,Eastern Gulf,Rougheye Rockfish,249
+GOA,2019,Eastern Gulf,Shortraker Rockfish,452
+GOA,2019,Eastern Gulf,Thornyhead Rockfish,264
+GOA,2019,Eastern Gulf,Pacific Cod,228
+GOA,2019,Eastern Gulf,Big Skate,102
+GOA,2019,Eastern Gulf,Longnose Skate,315
+GOA,2019,West Yakutat,Arrowtooth Flounder,100
+GOA,2019,West Yakutat,Deep Water Flatfish,8
+GOA,2019,West Yakutat,Shallow Water Flatfish,1
+GOA,2019,West Yakutat,Flathead Sole,0
+GOA,2019,West Yakutat,Rex Sole,2
+GOA,2019,West Yakutat,Pacific Ocean Perch,3288
+GOA,2019,West Yakutat,Dusky Rockfish,93
+GOA,2019,West Yakutat,Other Rockfish,183
+GOA,2019,West Yakutat,Pollock,6612
+GOA,2019,West Yakutat,Sablefish (Fixed Gear),1676
+GOA,2019,West Yakutat,Sablefish (Trawl),126
+GOA,2019,Southeast,Arrowtooth Flounder,47
+GOA,2019,Southeast,Deep Water Flatfish,4
+GOA,2019,Southeast,Shallow Water Flatfish,1
+GOA,2019,Southeast,Flathead Sole,0
+GOA,2019,Southeast,Rex Sole,0
+GOA,2019,Southeast,Pacific Ocean Perch,0
+GOA,2019,Southeast,Dusky Rockfish,2
+GOA,2019,Southeast,Other Rockfish,79
+GOA,2019,Southeast,Pollock,0
+GOA,2019,Southeast,Demersal Shelf Rockfish,139
+GOA,2019,Southeast,Sablefish (Fixed Gear),3113
+GOA,2019,Entire Gulf,Atka Mackerel,1254
+GOA,2019,Entire Gulf,Octopus,336
+GOA,2019,Entire Gulf,Sculpin,643
+GOA,2019,Entire Gulf,Shark,1989
+GOA,2019,Entire Gulf,Other Skates,897
+GOA,2020,"Western, Central Pollock","Pollock, 610 Shumagin",19005
+GOA,2020,"Western, Central Pollock","Pollock, 620 Chirikof",55399
+GOA,2020,"Western, Central Pollock","Pollock, 630 Kodiak",25575
+GOA,2020,Western Gulf,Arrowtooth Flounder,315
+GOA,2020,Western Gulf,Deep Water Flatfish,1
+GOA,2020,Western Gulf,Shallow Water Flatfish,22
+GOA,2020,Western Gulf,Flathead Sole,100
+GOA,2020,Western Gulf,Rex Sole,36
+GOA,2020,Western Gulf,Pacific Ocean Perch,1336
+GOA,2020,Western Gulf,Rougheye Rockfish,5
+GOA,2020,Western Gulf,Shortraker Rockfish,8
+GOA,2020,Western Gulf,Thornyhead Rockfish,49
+GOA,2020,Western Gulf,Dusky Rockfish,231
+GOA,2020,Western Gulf,Northern Rockfish,770
+GOA,2020,Western Gulf,Pacific Cod,236
+GOA,2020,Western Gulf,Sablefish (Fixed Gear),1278
+GOA,2020,Western Gulf,Sablefish (Trawl),183
+GOA,2020,Western Gulf,Big Skate,31
+GOA,2020,Western Gulf,Longnose Skate,21
+GOA,2020,Western Gulf,Other Rockfish,653
+GOA,2020,Central Gulf,Arrowtooth Flounder,20802
+GOA,2020,Central Gulf,Deep Water Flatfish,98
+GOA,2020,Central Gulf,Shallow Water Flatfish,4338
+GOA,2020,Central Gulf,Flathead Sole,1811
+GOA,2020,Central Gulf,Rex Sole,1201
+GOA,2020,Central Gulf,Pacific Ocean Perch,22389
+GOA,2020,Central Gulf,Rougheye Rockfish,186
+GOA,2020,Central Gulf,Shortraker Rockfish,190
+GOA,2020,Central Gulf,Dusky Rockfish,1883
+GOA,2020,Central Gulf,Northern Rockfish,1615
+GOA,2020,Central Gulf,Thornyhead Rockfish,206
+GOA,2020,Central Gulf,Pacific Cod,3532
+GOA,2020,Central Gulf,Sablefish (Fixed Gear),3976
+GOA,2020,Central Gulf,Sablefish (Trawl),2064
+GOA,2020,Central Gulf,Big Skate,811
+GOA,2020,Central Gulf,Longnose Skate,363
+GOA,2020,Eastern Gulf,Rougheye Rockfish,208
+GOA,2020,Eastern Gulf,Shortraker Rockfish,334
+GOA,2020,Eastern Gulf,Thornyhead Rockfish,198
+GOA,2020,Eastern Gulf,Pacific Cod,275
+GOA,2020,Eastern Gulf,Big Skate,180
+GOA,2020,Eastern Gulf,Longnose Skate,265
+GOA,2020,West Yakutat,Arrowtooth Flounder,66
+GOA,2020,West Yakutat,Deep Water Flatfish,4
+GOA,2020,West Yakutat,Shallow Water Flatfish,1
+GOA,2020,West Yakutat,Flathead Sole,0
+GOA,2020,West Yakutat,Rex Sole,1
+GOA,2020,West Yakutat,Pacific Ocean Perch,1466
+GOA,2020,West Yakutat,Dusky Rockfish,83
+GOA,2020,West Yakutat,Other Rockfish,104
+GOA,2020,West Yakutat,Pollock,5180
+GOA,2020,West Yakutat,Sablefish (Fixed Gear),1751
+GOA,2020,West Yakutat,Sablefish (Trawl),83
+GOA,2020,Southeast,Arrowtooth Flounder,62
+GOA,2020,Southeast,Deep Water Flatfish,4
+GOA,2020,Southeast,Shallow Water Flatfish,1
+GOA,2020,Southeast,Flathead Sole,0
+GOA,2020,Southeast,Rex Sole,0
+GOA,2020,Southeast,Pacific Ocean Perch,0
+GOA,2020,Southeast,Dusky Rockfish,1
+GOA,2020,Southeast,Other Rockfish,98
+GOA,2020,Southeast,Pollock,0
+GOA,2020,Southeast,Demersal Shelf Rockfish,105
+GOA,2020,Southeast,Sablefish (Fixed Gear),3137
+GOA,2020,Entire Gulf,Atka Mackerel,608
+GOA,2020,Entire Gulf,Octopus,79
+GOA,2020,Entire Gulf,Sculpin,575
+GOA,2020,Entire Gulf,Shark,1358
+GOA,2020,Entire Gulf,Other Skates,487
+GOA,2021,"Western, Central Pollock","Pollock, 610 Shumagin",18015
+GOA,2021,"Western, Central Pollock","Pollock, 620 Chirikof",52429
+GOA,2021,"Western, Central Pollock","Pollock, 630 Kodiak",23431
+GOA,2021,Western Gulf,Arrowtooth Flounder,361
+GOA,2021,Western Gulf,Deep Water Flatfish,1
+GOA,2021,Western Gulf,Shallow Water Flatfish,27
+GOA,2021,Western Gulf,Flathead Sole,111
+GOA,2021,Western Gulf,Rex Sole,14
+GOA,2021,Western Gulf,Pacific Ocean Perch,1622
+GOA,2021,Western Gulf,Rougheye Rockfish,22
+GOA,2021,Western Gulf,Shortraker Rockfish,8
+GOA,2021,Western Gulf,Thornyhead Rockfish,42
+GOA,2021,Western Gulf,Dusky Rockfish,146
+GOA,2021,Western Gulf,Northern Rockfish,709
+GOA,2021,Western Gulf,Pacific Cod,4285
+GOA,2021,Western Gulf,Sablefish (Fixed Gear),1813
+GOA,2021,Western Gulf,Sablefish (Trawl),181
+GOA,2021,Western Gulf,Big Skate,128
+GOA,2021,Western Gulf,Longnose Skate,42
+GOA,2021,Western Gulf,Other Rockfish,1054
+GOA,2021,Central Gulf,Arrowtooth Flounder,9481
+GOA,2021,Central Gulf,Deep Water Flatfish,83
+GOA,2021,Central Gulf,Shallow Water Flatfish,1828
+GOA,2021,Central Gulf,Flathead Sole,596
+GOA,2021,Central Gulf,Rex Sole,285
+GOA,2021,Central Gulf,Pacific Ocean Perch,25616
+GOA,2021,Central Gulf,Rougheye Rockfish,182
+GOA,2021,Central Gulf,Shortraker Rockfish,210
+GOA,2021,Central Gulf,Dusky Rockfish,2751
+GOA,2021,Central Gulf,Northern Rockfish,1668
+GOA,2021,Central Gulf,Thornyhead Rockfish,101
+GOA,2021,Central Gulf,Pacific Cod,8794
+GOA,2021,Central Gulf,Sablefish (Fixed Gear),6007
+GOA,2021,Central Gulf,Sablefish (Trawl),1304
+GOA,2021,Central Gulf,Big Skate,446
+GOA,2021,Central Gulf,Longnose Skate,522
+GOA,2021,Eastern Gulf,Rougheye Rockfish,203
+GOA,2021,Eastern Gulf,Shortraker Rockfish,310
+GOA,2021,Eastern Gulf,Thornyhead Rockfish,130
+GOA,2021,Eastern Gulf,Pacific Cod,202
+GOA,2021,Eastern Gulf,Big Skate,191
+GOA,2021,Eastern Gulf,Longnose Skate,471
+GOA,2021,West Yakutat,Arrowtooth Flounder,81
+GOA,2021,West Yakutat,Deep Water Flatfish,7
+GOA,2021,West Yakutat,Shallow Water Flatfish,1
+GOA,2021,West Yakutat,Flathead Sole,0
+GOA,2021,West Yakutat,Rex Sole,2
+GOA,2021,West Yakutat,Pacific Ocean Perch,1662
+GOA,2021,West Yakutat,Dusky Rockfish,30
+GOA,2021,West Yakutat,Other Rockfish,125
+GOA,2021,West Yakutat,Pollock,5144
+GOA,2021,West Yakutat,Sablefish (Fixed Gear),2213
+GOA,2021,West Yakutat,Sablefish (Trawl),117
+GOA,2021,Southeast,Arrowtooth Flounder,61
+GOA,2021,Southeast,Deep Water Flatfish,4
+GOA,2021,Southeast,Shallow Water Flatfish,1
+GOA,2021,Southeast,Flathead Sole,0
+GOA,2021,Southeast,Rex Sole,0
+GOA,2021,Southeast,Pacific Ocean Perch,0
+GOA,2021,Southeast,Dusky Rockfish,1
+GOA,2021,Southeast,Other Rockfish,37
+GOA,2021,Southeast,Pollock,0
+GOA,2021,Southeast,Demersal Shelf Rockfish,109
+GOA,2021,Southeast,Sablefish (Fixed Gear),3873
+GOA,2021,Entire Gulf,Atka Mackerel,939
+GOA,2021,Entire Gulf,Octopus,55
+GOA,2021,Entire Gulf,Shark,1933
+GOA,2021,Entire Gulf,Other Skates,732
+GOA,2022,"Western, Central Pollock","Pollock, 610 Shumagin",23615
+GOA,2022,"Western, Central Pollock","Pollock, 620 Chirikof",69341
+GOA,2022,"Western, Central Pollock","Pollock, 630 Kodiak",30505
+GOA,2022,Western Gulf,Arrowtooth Flounder,446
+GOA,2022,Western Gulf,Deep Water Flatfish,3
+GOA,2022,Western Gulf,Shallow Water Flatfish,33
+GOA,2022,Western Gulf,Flathead Sole,43
+GOA,2022,Western Gulf,Rex Sole,40
+GOA,2022,Western Gulf,Pacific Ocean Perch,2506
+GOA,2022,Western Gulf,Rougheye Rockfish,95
+GOA,2022,Western Gulf,Shortraker Rockfish,7
+GOA,2022,Western Gulf,Thornyhead Rockfish,110
+GOA,2022,Western Gulf,Dusky Rockfish,106
+GOA,2022,Western Gulf,Northern Rockfish,474
+GOA,2022,Western Gulf,Pacific Cod,5320
+GOA,2022,Western Gulf,Sablefish (Fixed Gear),2809
+GOA,2022,Western Gulf,Sablefish (Trawl),226
+GOA,2022,Western Gulf,Big Skate,174
+GOA,2022,Western Gulf,Longnose Skate,77
+GOA,2022,Western Gulf,Other Rockfish,1122
+GOA,2022,Central Gulf,Arrowtooth Flounder,11092
+GOA,2022,Central Gulf,Deep Water Flatfish,117
+GOA,2022,Central Gulf,Shallow Water Flatfish,1264
+GOA,2022,Central Gulf,Flathead Sole,521
+GOA,2022,Central Gulf,Rex Sole,655
+GOA,2022,Central Gulf,Pacific Ocean Perch,25548
+GOA,2022,Central Gulf,Rougheye Rockfish,185
+GOA,2022,Central Gulf,Shortraker Rockfish,294
+GOA,2022,Central Gulf,Dusky Rockfish,2472
+GOA,2022,Central Gulf,Northern Rockfish,1424
+GOA,2022,Central Gulf,Thornyhead Rockfish,173
+GOA,2022,Central Gulf,Pacific Cod,13195
+GOA,2022,Central Gulf,Sablefish (Fixed Gear),6636
+GOA,2022,Central Gulf,Sablefish (Trawl),1553
+GOA,2022,Central Gulf,Big Skate,735
+GOA,2022,Central Gulf,Longnose Skate,505
+GOA,2022,Eastern Gulf,Rougheye Rockfish,190
+GOA,2022,Eastern Gulf,Shortraker Rockfish,171
+GOA,2022,Eastern Gulf,Thornyhead Rockfish,76
+GOA,2022,Eastern Gulf,Pacific Cod,298
+GOA,2022,Eastern Gulf,Big Skate,116
+GOA,2022,Eastern Gulf,Longnose Skate,409
+GOA,2022,West Yakutat,Arrowtooth Flounder,38
+GOA,2022,West Yakutat,Deep Water Flatfish,3
+GOA,2022,West Yakutat,Shallow Water Flatfish,8
+GOA,2022,West Yakutat,Flathead Sole,0
+GOA,2022,West Yakutat,Rex Sole,0
+GOA,2022,West Yakutat,Pacific Ocean Perch,1398
+GOA,2022,West Yakutat,Dusky Rockfish,6
+GOA,2022,West Yakutat,Other Rockfish,78
+GOA,2022,West Yakutat,Pollock,6441
+GOA,2022,West Yakutat,Sablefish (Fixed Gear),2641
+GOA,2022,West Yakutat,Sablefish (Trawl),105
+GOA,2022,Southeast,Arrowtooth Flounder,67
+GOA,2022,Southeast,Deep Water Flatfish,8
+GOA,2022,Southeast,Shallow Water Flatfish,2
+GOA,2022,Southeast,Flathead Sole,0
+GOA,2022,Southeast,Rex Sole,0
+GOA,2022,Southeast,Pacific Ocean Perch,0
+GOA,2022,Southeast,Dusky Rockfish,0
+GOA,2022,Southeast,Other Rockfish,50
+GOA,2022,Southeast,Pollock,0
+GOA,2022,Southeast,Demersal Shelf Rockfish,166
+GOA,2022,Southeast,Sablefish (Fixed Gear),5237
+GOA,2022,Entire Gulf,Atka Mackerel,880
+GOA,2022,Entire Gulf,Octopus,155
+GOA,2022,Entire Gulf,Shark,2160
+GOA,2022,Entire Gulf,Other Skates,1041
+GOA,2023,"Western, Central Pollock","Pollock, 610 Shumagin",26213
+GOA,2023,"Western, Central Pollock","Pollock, 620 Chirikof",65376
+GOA,2023,"Western, Central Pollock","Pollock, 630 Kodiak",33408
+GOA,2023,Western Gulf,Arrowtooth Flounder,397
+GOA,2023,Western Gulf,Deep Water Flatfish,25
+GOA,2023,Western Gulf,Shallow Water Flatfish,26
+GOA,2023,Western Gulf,Flathead Sole,34
+GOA,2023,Western Gulf,Rex Sole,23
+GOA,2023,Western Gulf,Pacific Ocean Perch,2490
+GOA,2023,Western Gulf,Rougheye Rockfish,102
+GOA,2023,Western Gulf,Shortraker Rockfish,21
+GOA,2023,Western Gulf,Thornyhead Rockfish,59
+GOA,2023,Western Gulf,Dusky Rockfish,75
+GOA,2023,Western Gulf,Northern Rockfish,390
+GOA,2023,Western Gulf,Pacific Cod,4633
+GOA,2023,Western Gulf,Sablefish (Fixed Gear),2577
+GOA,2023,Western Gulf,Sablefish (Trawl),210
+GOA,2023,Western Gulf,Big Skate,179
+GOA,2023,Western Gulf,Longnose Skate,94
+GOA,2023,Western Gulf,Other Rockfish,992
+GOA,2023,Central Gulf,Arrowtooth Flounder,8774
+GOA,2023,Central Gulf,Deep Water Flatfish,72
+GOA,2023,Central Gulf,Shallow Water Flatfish,992
+GOA,2023,Central Gulf,Flathead Sole,434
+GOA,2023,Central Gulf,Rex Sole,392
+GOA,2023,Central Gulf,Pacific Ocean Perch,25930
+GOA,2023,Central Gulf,Rougheye Rockfish,157
+GOA,2023,Central Gulf,Shortraker Rockfish,263
+GOA,2023,Central Gulf,Dusky Rockfish,3414
+GOA,2023,Central Gulf,Northern Rockfish,935
+GOA,2023,Central Gulf,Thornyhead Rockfish,91
+GOA,2023,Central Gulf,Pacific Cod,11039
+GOA,2023,Central Gulf,Sablefish (Fixed Gear),5284
+GOA,2023,Central Gulf,Sablefish (Trawl),1183
+GOA,2023,Central Gulf,Big Skate,926
+GOA,2023,Central Gulf,Longnose Skate,466
+GOA,2023,Eastern Gulf,Rougheye Rockfish,179
+GOA,2023,Eastern Gulf,Shortraker Rockfish,210
+GOA,2023,Eastern Gulf,Thornyhead Rockfish,58
+GOA,2023,Eastern Gulf,Pacific Cod,432
+GOA,2023,Eastern Gulf,Big Skate,218
+GOA,2023,Eastern Gulf,Longnose Skate,632
+GOA,2023,West Yakutat,Arrowtooth Flounder,34
+GOA,2023,West Yakutat,Deep Water Flatfish,4
+GOA,2023,West Yakutat,Shallow Water Flatfish,6
+GOA,2023,West Yakutat,Flathead Sole,0
+GOA,2023,West Yakutat,Rex Sole,1
+GOA,2023,West Yakutat,Pacific Ocean Perch,1366
+GOA,2023,West Yakutat,Dusky Rockfish,1
+GOA,2023,West Yakutat,Other Rockfish,58
+GOA,2023,West Yakutat,Pollock,6888
+GOA,2023,West Yakutat,Sablefish (Fixed Gear),2354
+GOA,2023,West Yakutat,Sablefish (Trawl),90
+GOA,2023,Southeast,Arrowtooth Flounder,50
+GOA,2023,Southeast,Deep Water Flatfish,4
+GOA,2023,Southeast,Shallow Water Flatfish,1
+GOA,2023,Southeast,Flathead Sole,0
+GOA,2023,Southeast,Rex Sole,0
+GOA,2023,Southeast,Pacific Ocean Perch,0
+GOA,2023,Southeast,Dusky Rockfish,1
+GOA,2023,Southeast,Other Rockfish,31
+GOA,2023,Southeast,Pollock,0
+GOA,2023,Southeast,Demersal Shelf Rockfish,196
+GOA,2023,Southeast,Sablefish (Fixed Gear),4687
+GOA,2023,Entire Gulf,Atka Mackerel,463
+GOA,2023,Entire Gulf,Octopus,168
+GOA,2023,Entire Gulf,Shark,2037
+GOA,2023,Entire Gulf,Other Skates,603
+GOA,2024,"Western, Central Pollock","Pollock, 610 Shumagin",31585
+GOA,2024,"Western, Central Pollock","Pollock, 620 Chirikof",71727
+GOA,2024,"Western, Central Pollock","Pollock, 630 Kodiak",20717
+GOA,2024,Western Gulf,Arrowtooth Flounder,490
+GOA,2024,Western Gulf,Deep Water Flatfish,8
+GOA,2024,Western Gulf,Shallow Water Flatfish,64
+GOA,2024,Western Gulf,Flathead Sole,145
+GOA,2024,Western Gulf,Rex Sole,23
+GOA,2024,Western Gulf,Pacific Ocean Perch,1666
+GOA,2024,Western Gulf,Rougheye Rockfish,53
+GOA,2024,Western Gulf,Shortraker Rockfish,16
+GOA,2024,Western Gulf,Thornyhead Rockfish,37
+GOA,2024,Western Gulf,Dusky Rockfish,72
+GOA,2024,Western Gulf,Northern Rockfish,316
+GOA,2024,Western Gulf,Pacific Cod,4476
+GOA,2024,Western Gulf,Sablefish (Fixed Gear),2698
+GOA,2024,Western Gulf,Sablefish (Trawl),79
+GOA,2024,Western Gulf,Big Skate,153
+GOA,2024,Western Gulf,Longnose Skate,49
+GOA,2024,Western and Central (Includes West Yakutat),Other Rockfish,544
+GOA,2024,Central Gulf,Arrowtooth Flounder,17634
+GOA,2024,Central Gulf,Deep Water Flatfish,78
+GOA,2024,Central Gulf,Shallow Water Flatfish,2830
+GOA,2024,Central Gulf,Flathead Sole,890
+GOA,2024,Central Gulf,Rex Sole,539
+GOA,2024,Central Gulf,Pacific Ocean Perch,21792
+GOA,2024,Central Gulf,Rougheye Rockfish,148
+GOA,2024,Central Gulf,Shortraker Rockfish,136
+GOA,2024,Central Gulf,Dusky Rockfish,2127
+GOA,2024,Central Gulf,Northern Rockfish,822
+GOA,2024,Central Gulf,Thornyhead Rockfish,65
+GOA,2024,Central Gulf,Pacific Cod,15189
+GOA,2024,Central Gulf,Sablefish (Fixed Gear),6158
+GOA,2024,Central Gulf,Sablefish (Trawl),1109
+GOA,2024,Central Gulf,Big Skate,827
+GOA,2024,Central Gulf,Longnose Skate,503
+GOA,2024,Eastern Gulf,Rougheye Rockfish,102
+GOA,2024,Eastern Gulf,Shortraker Rockfish,195
+GOA,2024,Eastern Gulf,Thornyhead Rockfish,65
+GOA,2024,Eastern Gulf,Pacific Cod,365
+GOA,2024,Eastern Gulf,Big Skate,112
+GOA,2024,Eastern Gulf,Longnose Skate,234
+GOA,2024,West Yakutat,Arrowtooth Flounder,31
+GOA,2024,West Yakutat,Deep Water Flatfish,3
+GOA,2024,West Yakutat,Shallow Water Flatfish,1
+GOA,2024,West Yakutat,Flathead Sole,0
+GOA,2024,West Yakutat,Rex Sole,1
+GOA,2024,West Yakutat,Pacific Ocean Perch,1946
+GOA,2024,West Yakutat,Dusky Rockfish,5
+GOA,2024,West Yakutat,Pollock,1382
+GOA,2024,West Yakutat,Sablefish (Fixed Gear),2195
+GOA,2024,West Yakutat,Sablefish (Trawl),175
+GOA,2024,Southeast,Arrowtooth Flounder,27
+GOA,2024,Southeast,Deep Water Flatfish,2
+GOA,2024,Southeast,Shallow Water Flatfish,1
+GOA,2024,Southeast,Flathead Sole,0
+GOA,2024,Southeast,Rex Sole,0
+GOA,2024,Southeast,Pacific Ocean Perch,0
+GOA,2024,Southeast,Dusky Rockfish,0
+GOA,2024,Southeast,Other Rockfish,32
+GOA,2024,Southeast,Pollock,0
+GOA,2024,Southeast,Demersal Shelf Rockfish,157
+GOA,2024,Southeast,Sablefish (Fixed Gear),4542
+GOA,2024,Entire Gulf,Atka Mackerel,380
+GOA,2024,Entire Gulf,Octopus,190
+GOA,2024,Entire Gulf,Shark,1495
+GOA,2024,Entire Gulf,Other Skates,645
+GOA,2025,"Western, Central Pollock","Pollock, 610 Shumagin",14030
+GOA,2025,"Western, Central Pollock","Pollock, 620 Chirikof",79477
+GOA,2025,"Western, Central Pollock","Pollock, 630 Kodiak",39215
+GOA,2025,Western Gulf,Arrowtooth Flounder,267
+GOA,2025,Western Gulf,Deep Water Flatfish,1
+GOA,2025,Western Gulf,Shallow Water Flatfish,107
+GOA,2025,Western Gulf,Flathead Sole,64
+GOA,2025,Western Gulf,Rex Sole,12
+GOA,2025,Western Gulf,Pacific Ocean Perch,1800
+GOA,2025,Western Gulf,Rougheye Rockfish,55
+GOA,2025,Western Gulf,Shortraker Rockfish,3
+GOA,2025,Western Gulf,Thornyhead Rockfish,18
+GOA,2025,Western Gulf,Dusky Rockfish,68
+GOA,2025,Western Gulf,Northern Rockfish,467
+GOA,2025,Western Gulf,Pacific Cod,5462
+GOA,2025,Western Gulf,Sablefish (Fixed Gear),3096
+GOA,2025,Western Gulf,Sablefish (Trawl),39
+GOA,2025,Western Gulf,Big Skate,83
+GOA,2025,Western Gulf,Longnose Skate,62
+GOA,2025,Western and Central (Includes West Yakutat),Demersal Shelf Rockfish,290
+GOA,2025,Western and Central (Includes West Yakutat),Other Rockfish,420
+GOA,2025,Central Gulf,Arrowtooth Flounder,13038
+GOA,2025,Central Gulf,Deep Water Flatfish,77
+GOA,2025,Central Gulf,Shallow Water Flatfish,2077
+GOA,2025,Central Gulf,Flathead Sole,867
+GOA,2025,Central Gulf,Rex Sole,591
+GOA,2025,Central Gulf,Pacific Ocean Perch,24575
+GOA,2025,Central Gulf,Rougheye Rockfish,131
+GOA,2025,Central Gulf,Shortraker Rockfish,358
+GOA,2025,Central Gulf,Dusky Rockfish,2192
+GOA,2025,Central Gulf,Northern Rockfish,1217
+GOA,2025,Central Gulf,Thornyhead Rockfish,74
+GOA,2025,Central Gulf,Pacific Cod,14143
+GOA,2025,Central Gulf,Sablefish (Fixed Gear),6735
+GOA,2025,Central Gulf,Sablefish (Trawl),966
+GOA,2025,Central Gulf,Big Skate,1682
+GOA,2025,Central Gulf,Longnose Skate,722
+GOA,2025,Eastern Gulf,Rougheye Rockfish,71
+GOA,2025,Eastern Gulf,Shortraker Rockfish,137
+GOA,2025,Eastern Gulf,Thornyhead Rockfish,38
+GOA,2025,Eastern Gulf,Pacific Cod,585
+GOA,2025,Eastern Gulf,Big Skate,148
+GOA,2025,Eastern Gulf,Longnose Skate,501
+GOA,2025,West Yakutat,Arrowtooth Flounder,26
+GOA,2025,West Yakutat,Deep Water Flatfish,6
+GOA,2025,West Yakutat,Shallow Water Flatfish,25
+GOA,2025,West Yakutat,Flathead Sole,0
+GOA,2025,West Yakutat,Rex Sole,0
+GOA,2025,West Yakutat,Pacific Ocean Perch,1892
+GOA,2025,West Yakutat,Dusky Rockfish,23
+GOA,2025,West Yakutat,Pollock,1861
+GOA,2025,West Yakutat,Sablefish (Fixed Gear),2135
+GOA,2025,West Yakutat,Sablefish (Trawl),157
+GOA,2025,Southeast,Arrowtooth Flounder,49
+GOA,2025,Southeast,Deep Water Flatfish,5
+GOA,2025,Southeast,Shallow Water Flatfish,0
+GOA,2025,Southeast,Flathead Sole,0
+GOA,2025,Southeast,Rex Sole,0
+GOA,2025,Southeast,Pacific Ocean Perch,0
+GOA,2025,Southeast,Dusky Rockfish,1
+GOA,2025,Southeast,Other Rockfish,22
+GOA,2025,Southeast,Pollock,2
+GOA,2025,Southeast,Demersal Shelf Rockfish,216
+GOA,2025,Southeast,Sablefish (Fixed Gear),5246
+GOA,2025,Entire Gulf,Atka Mackerel,968
+GOA,2025,Entire Gulf,Octopus,131
+GOA,2025,Entire Gulf,Shark,2222
+GOA,2025,Entire Gulf,Other Skates,591

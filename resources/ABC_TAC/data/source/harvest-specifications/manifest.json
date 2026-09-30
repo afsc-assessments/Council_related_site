@@ -1,0 +1,25 @@
+{
+  "repository": "https://github.com/jimianelli/ABC_TAC",
+  "revision": "84f019ebd44658503702944d65d3a52a9f76c889",
+  "revision_committed_at_utc": "2026-04-16T05:42:03Z",
+  "retrieval_note": "Version-pinned raw GitHub files; bytes retained unchanged. Retrieval times recorded from download completion.",
+  "upstream_report_source": "https://github.com/jimianelli/ABC_TAC/blob/84f019ebd44658503702944d65d3a52a9f76c889/doc/index.qmd",
+  "files": [
+    {
+      "Region": "BSAI",
+      "filename": "BSAI_OFL_ABC_TAC.csv",
+      "sha256": "df5dc9499c8cadfe049d3fcce45ad46e2eb85d93c5e825990adfc5ef8821b250",
+      "url": "https://raw.githubusercontent.com/jimianelli/ABC_TAC/84f019ebd44658503702944d65d3a52a9f76c889/data/BSAI_OFL_ABC_TAC.csv",
+      "source_page": "https://github.com/jimianelli/ABC_TAC/blob/84f019ebd44658503702944d65d3a52a9f76c889/data/BSAI_OFL_ABC_TAC.csv",
+      "retrieved_at_utc": "2026-09-30T04:43:29Z"
+    },
+    {
+      "Region": "GOA",
+      "filename": "GOA_OFL_ABC_TAC_specs.csv",
+      "sha256": "b1d92e9b89f40aa444f514494ad8a5d8f4453a9bdadfda9efab278ff53161c42",
+      "url": "https://raw.githubusercontent.com/jimianelli/ABC_TAC/84f019ebd44658503702944d65d3a52a9f76c889/data/GOA_OFL_ABC_TAC_specs.csv",
+      "source_page": "https://github.com/jimianelli/ABC_TAC/blob/84f019ebd44658503702944d65d3a52a9f76c889/data/GOA_OFL_ABC_TAC_specs.csv",
+      "retrieved_at_utc": "2026-09-30T04:43:30Z"
+    }
+  ]
+}

@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Sources & maintenance",
     "section": "",
-    "text": "This public portal brings together Council research resources: assessment links, formatting tools, catch analyses, risk-table evidence, and SSC records. The topic pages link to existing public project websites and source repositories. Selected BSAI annual-catch products and the Tier 3 schematic are hosted here.",
+    "text": "This public portal brings together Council research resources: assessment links, formatting tools, catch analyses, risk-table evidence, and SSC records. The topic pages link to existing public project websites and source repositories. GOA and BSAI time-series data and figures, their reproducible source, and the Tier 3 schematic are hosted here.",
     "crumbs": [
       "Sources & maintenance"
     ]
@@ -14,7 +14,7 @@
     "href": "about.html#scope-and-status",
     "title": "Sources & maintenance",
     "section": "Scope and status",
-    "text": "Scope and status\nThe original wiki was assembled on 24 September 2026. This public portal was prepared on 28 September 2026. Each linked analysis keeps its own date and scientific status. The ABC / TAC page explains the annual BSAI catch figure, its methods, and its data sources.\nExploratory analyses and schematic assumptions retain the descriptions supplied with each topic. Council decisions and assessment results should be traced to the cited source documents. The public resource directory lists the material shared here.",
+    "text": "Scope and status\nThe original wiki was assembled on 24 September 2026. This public portal was prepared on 28 September 2026. Each linked analysis keeps its own date and scientific status. The ABC / TAC page explains the GOA and BSAI series, coverage, methods, and source revisions.\nExploratory analyses and schematic assumptions retain the descriptions supplied with each topic. Council decisions and assessment results should be traced to the cited source documents. The public resource directory lists the material shared here.",
     "crumbs": [
       "Sources & maintenance"
     ]
@@ -154,7 +154,7 @@
     "href": "index.html",
     "title": "Council wiki",
     "section": "",
-    "text": "Research • assessment • management\n\n\nReports, tools, and source documents in one place.\n\nExplore public Council resources and follow the results back to their data and code. The wiki also includes an updated figure of annual BSAI groundfish catches.",
+    "text": "Research • assessment • management\n\n\nReports, tools, and source documents in one place.\n\nExplore public Council resources and follow the results back to their data and code. The wiki includes GOA and BSAI catch histories and harvest-specification time series.",
     "crumbs": [
       "Overview"
     ]
@@ -164,17 +164,17 @@
     "href": "index.html#explore-the-projects",
     "title": "Council wiki",
     "section": "Explore the projects",
-    "text": "Explore the projects\n\n\n\nAssessment archive\n\n\nSAFE audit\nFind assessment reports by stock and year, and review entries that need checking.\nOpen audit report\n\n\n\n\nDocument tool\n\n\nSAFE PDF Formatter\nFind the public Windows release, source code, and chapter formatting instructions.\nDownloads and instructions\n\n\n\n\nRisk-table evidence\n\n\nABC reduction\nReview past SSC reductions below maximum permissible ABC and their relationship to risk-table scores.\nOpen analysis\n\n\n\n\nCatch limits\n\n\nABC / TAC\nCompare catch limits and view annual BSAI groundfish catches through 2025.\nAnnual catch figure and data\n\n\n\n\nSources and status\n\n\nAbout this portal\nRead the scope of the public collection and find the source projects.\nSources and maintenance\n\n\n\n\nSearchable meeting records\n\n\nSSC minutes\nFind comments on stocks, ABC buffers and reductions, and assessment model choices in reports from 2000 to 2024.\nOpen SSC search app\n\n\n\n\nControl-rule illustration\n\n\nTier 3 control rule\nView the control-rule figure, read its assumptions, and open the R code used to draw it.\nView figure\n\n\n\n\nFiles and sources\n\n\nPublic resources\nFind public reports, tools, data tables, and selected figure downloads.\nBrowse public resources",
+    "text": "Explore the projects\n\n\n\nAssessment archive\n\n\nSAFE audit\nFind assessment reports by stock and year, and review entries that need checking.\nOpen audit report\n\n\n\n\nDocument tool\n\n\nSAFE PDF Formatter\nFind the public Windows release, source code, and chapter formatting instructions.\nDownloads and instructions\n\n\n\n\nRisk-table evidence\n\n\nABC reduction\nReview past SSC reductions below maximum permissible ABC and their relationship to risk-table scores.\nOpen analysis\n\n\n\n\nCatch limits\n\n\nABC / TAC\nView the full available GOA and BSAI time series, figures, and downloadable data.\nAnnual catch figure and data\n\n\n\n\nSources and status\n\n\nAbout this portal\nRead the scope of the public collection and find the source projects.\nSources and maintenance\n\n\n\n\nSearchable meeting records\n\n\nSSC minutes\nFind comments on stocks, ABC buffers and reductions, and assessment model choices in reports from 2000 to 2024.\nOpen SSC search app\n\n\n\n\nControl-rule illustration\n\n\nTier 3 control rule\nView the control-rule figure, read its assumptions, and open the R code used to draw it.\nView figure\n\n\n\n\nFiles and sources\n\n\nPublic resources\nFind public reports, tools, data tables, and selected figure downloads.\nBrowse public resources",
     "crumbs": [
       "Overview"
     ]
   },
   {
-    "objectID": "index.html#bsai-total-catches-by-year",
-    "href": "index.html#bsai-total-catches-by-year",
+    "objectID": "index.html#goa-and-bsai-time-series",
+    "href": "index.html#goa-and-bsai-time-series",
     "title": "Council wiki",
-    "section": "BSAI total catches by year",
-    "text": "BSAI total catches by year\n\n\n\n\n\n\nFigure 1: Annual BSAI groundfish catch reported by NOAA for 2013 to 2025, including CDQ. Catches range from approximately 1.61 to 1.95 million metric tons; the 2025 total is 1.774 million metric tons.\n\n\n\nThe figure covers 2013 to 2025 in the Bering Sea and Aleutian Islands (BSAI), including Community Development Quota (CDQ) catch. The 2025 total is 1,774,231 metric tons. Each value comes from the total-catch row in NOAA’s report through 31 December. The species included in those totals changed over time; the catch page explains those changes.\nView methods, source reports, and downloadable data\n\nAssembled 24 September 2026; public portal prepared 28 September 2026. Each linked report keeps its own date and review status. Sources and upkeep",
+    "section": "GOA and BSAI time series",
+    "text": "GOA and BSAI time series\nHarvest-specification histories begin in 1986. The catch histories cover 2003–2025 from the public AKFIN Economic SAFE report, with NOAA quota-account totals for 2013–2025 available separately.\nView figures and coverage notes · Download annual data\n\nAssembled 24 September 2026; public portal prepared 28 September 2026. Each linked report keeps its own date and review status. Sources and upkeep",
     "crumbs": [
       "Overview"
     ]
@@ -226,9 +226,42 @@
   {
     "objectID": "abc-tac.html",
     "href": "abc-tac.html",
-    "title": "ABC / TAC and BSAI catches",
+    "title": "GOA and BSAI catch and harvest specifications",
     "section": "",
-    "text": "ABC_TAC compares the overfishing limit (OFL), acceptable biological catch (ABC), and total allowable catch (TAC) for groundfish in the Bering Sea and Aleutian Islands (BSAI) and Gulf of Alaska (GOA). The analysis examines changes from year to year, compares two-year projections with carrying forward the previous year’s value, and models how TAC varies with ABC.",
+    "text": "The Gulf of Alaska (GOA) and Bering Sea and Aleutian Islands (BSAI) series below bring together realized catch and harvest specifications. Acceptable biological catch (ABC), total allowable catch (TAC), and the overfishing limit (OFL) describe management quantities; realized catch describes removals recorded by the source.",
+    "crumbs": [
+      "Catch & management",
+      "ABC / TAC & catches"
+    ]
+  },
+  {
+    "objectID": "abc-tac.html#coverage-and-downloads",
+    "href": "abc-tac.html#coverage-and-downloads",
+    "title": "GOA and BSAI catch and harvest specifications",
+    "section": "Coverage and downloads",
+    "text": "Coverage and downloads\n\n\n\nRegion and series\nAvailable years\nDownload\n\n\n\n\nBSAI catch — AKFIN Economic SAFE\n2003–2025 · preliminary\nBSAI catch CSV\n\n\nGOA catch — AKFIN Economic SAFE\n2003–2025 · preliminary\nGOA catch CSV\n\n\nBSAI ABC, TAC, and OFL — ABC_TAC compilation\n1986–2026 · availability varies by measure\nBSAI specs CSV\n\n\nGOA ABC, TAC, and OFL — ABC_TAC compilation\n1986–2024 · availability varies by measure\nGOA specs CSV\n\n\nBSAI catch — NOAA CAR110 accounts, including CDQ\n2013–2025\nBSAI NOAA catch CSV\n\n\nGOA catch — NOAA CAR110 accounts\n2013–2025\nGOA NOAA catch CSV\n\n\n\nCombined AKFIN catch CSV · Combined specifications CSV · Figures, annual tables, and source notes\nAll CSV values are in metric tons. The downloads contain each source’s full available annual series in the stated range. Catch totals follow the source’s coverage; AKFIN and NOAA CAR110 are separate series. The specifications retain missing values and identify sums with missing entries. The GOA specifications source ends in 2024. Updated 29 September 2026.",
+    "crumbs": [
+      "Catch & management",
+      "ABC / TAC & catches"
+    ]
+  },
+  {
+    "objectID": "abc-tac.html#regional-catch-history-20032025",
+    "href": "abc-tac.html#regional-catch-history-20032025",
+    "title": "GOA and BSAI catch and harvest specifications",
+    "section": "Regional catch history, 2003–2025",
+    "text": "Regional catch history, 2003–2025\nThe public AKFIN Economic SAFE report GFSAFE001 supplies the full 2003–2025 catch history available through that report for both regions. The source labels these data preliminary and reports a refresh date of 15 September 2026. Values include retained and discarded FMP groundfish catch, including groundfish caught while targeting halibut. The catch definition follows the source throughout this series.\n\n\n\n\n\n\nFigure 1: Annual groundfish catch in separate BSAI and GOA panels, 2003–2025. Values come from the preliminary AKFIN Economic SAFE report GFSAFE001. Each vertical axis begins at zero.\n\n\n\nThe 2025 values are 1,794,251 metric tons for BSAI and 245,152 metric tons for GOA. These are the AKFIN series values. NOAA CAR110 totals, described below, use a different set of catch accounts.\nPNG figure · SVG figure · Annual catch table · AKFIN public reports",
+    "crumbs": [
+      "Catch & management",
+      "ABC / TAC & catches"
+    ]
+  },
+  {
+    "objectID": "abc-tac.html#harvest-specification-history-from-1986",
+    "href": "abc-tac.html#harvest-specification-history-from-1986",
+    "title": "GOA and BSAI catch and harvest specifications",
+    "section": "Harvest-specification history, from 1986",
+    "text": "Harvest-specification history, from 1986\nThe ABC_TAC source project supplies 1986–2026 BSAI and 1986–2024 GOA records. This portal uses the full available history from those two source files at the linked revision. BSAI records use lag = 1 and OY = 1; GOA also uses Area = Total, which avoids adding area subtotals to their regional totals. The year is the year to which a specification applies.\n\n\n\n\n\n\nFigure 2: BSAI and GOA annual TAC, ABC, and OFL from the public ABC_TAC compilation. BSAI records cover 1986–2026 and GOA records 1986–2024. Open circles identify sums containing missing source entries.\n\n\n\nSpecifications PNG · Specifications SVG · Full annual specifications table\nOpen circles identify sums with missing source entries. For example, the source contains one zero and 28 missing OFL entries for BSAI in 1991; the displayed zero preserves that source record and its partial coverage. This compilation supports examination of the historical series; regulatory totals and current limits should be checked against the cited NOAA records.\nMissing source entries remain missing. Available entries are summed, and each downloadable annual record reports how many entries contributed and how many were missing. Partial sums therefore describe the available source records. Source row identifiers preserve repeated species/area labels for review. Early all-missing fields remain blank. The source’s zero values remain in the downloadable data with their coverage notes.\nThe GOA source ends in 2024; later GOA specifications require an update from the NOAA harvest-specification records. The 2026 BSAI specifications describe limits for an ongoing fishing year. All catch series on this page end in 2025.",
     "crumbs": [
       "Catch & management",
       "ABC / TAC & catches"
@@ -237,31 +270,20 @@
   {
     "objectID": "abc-tac.html#bsai-total-catches-by-year",
     "href": "abc-tac.html#bsai-total-catches-by-year",
-    "title": "ABC / TAC and BSAI catches",
-    "section": "BSAI total catches by year",
-    "text": "BSAI total catches by year\n\n\n\n\n\n\nFigure 1: Annual BSAI groundfish catch reported by NOAA from 2013 through 2025, including Community Development Quota (CDQ) catch. The vertical axis measures million metric tons and starts at zero. The total is highest in 2016 at 1.952 million metric tons, lowest in 2022 at 1.607 million metric tons, and 1.774 million metric tons in 2025.\n\n\n\nThe figure uses NOAA’s annual BSAI groundfish catch reports including Community Development Quota (CDQ) catch, from 2013 through 2025. Each value comes from the Total Catch column in the report’s Total row and covers the year through 31 December. The 2025 total is 1,774,231 metric tons. Fishing continues in 2026, so the series ends with the complete 2025 year.\nABC_TAC keeps separate files for pollock catch and total BSAI groundfish catch. The figure uses the total groundfish series.\n\nDownload PNG Download SVG Download annual data",
+    "title": "GOA and BSAI catch and harvest specifications",
+    "section": "NOAA quota-account totals, 2013–2025",
+    "text": "NOAA quota-account totals, 2013–2025\nNOAA CAR110 annual catch reports provide a separate series for each region through 31 December. The parser reads each report’s published Total Catch grand total once and checks it against the sum of its area/account rows. All 26 region-year reports pass the full-year and duplicate-account checks; rounding differences are at most six metric tons.\n\n\n\n\n\n\nFigure 3: NOAA CAR110 annual groundfish catch for BSAI and GOA, 2013–2025, in separate panels with vertical axes starting at zero.\n\n\n\nThe 2025 CAR110 totals are 1,774,231 metric tons for BSAI, including Community Development Quota (CDQ) catch, and 231,545 metric tons for GOA. The GOA report includes fixed-gear and trawl sablefish accounts; adding separate IFQ sablefish landings would count those catches twice. Squid accounts appear through 2018 and sculpin accounts through 2020. Subsequent NOAA ecosystem-component reports hold those categories separately.\nAKFIN and CAR110 totals remain separate throughout the figures and downloads. Their differences reflect source coverage and revision dates. Older historical summaries use additional definitions and rounding conventions, so the 2003 start remains explicit.\nCAR110 PNG · CAR110 SVG · Combined CAR110 CSV · CAR110 validation",
     "crumbs": [
       "Catch & management",
       "ABC / TAC & catches"
     ]
   },
   {
-    "objectID": "abc-tac.html#coverage-and-source-checks",
-    "href": "abc-tac.html#coverage-and-source-checks",
-    "title": "ABC / TAC and BSAI catches",
-    "section": "Coverage and source checks",
-    "text": "Coverage and source checks\nThe totals cover the groundfish categories in each annual report, including CDQ catch. Other fisheries require separate catch records. The reports follow changes in management categories: squid is included through 2018, and sculpins through 2020. Comparisons between years therefore reflect changes in both catch and the species included.\nThe script reads the published total directly and checks it against the sum of catches for each area and fishing category. Differences of up to four metric tons are consistent with rounding. The annual data and check results include report dates, source links, download times, and file checksums that identify the source files used.\nThe sources are NOAA Alaska catch and landings reports. See the 2025 BSAI annual report and the link for each year in the CSV.",
-    "crumbs": [
-      "Catch & management",
-      "ABC / TAC & catches"
-    ]
-  },
-  {
-    "objectID": "abc-tac.html#rebuild-and-check-the-results",
-    "href": "abc-tac.html#rebuild-and-check-the-results",
-    "title": "ABC / TAC and BSAI catches",
-    "section": "Rebuild and check the results",
-    "text": "Rebuild and check the results\n\n\n\nResource\nPurpose\n\n\n\n\nScript for reading NOAA catch reports\nRebuild annual totals from saved or updated NOAA reports\n\n\nFigure script\nRegenerate the annual figure\n\n\nResults of data checks\nCheck the reported totals and source files\n\n\nProject README\nRebuild instructions and project structure\n\n\nMain analysis source\nAnalysis of annual OFL, ABC, and TAC values\n\n\nBSAI harvest specifications\nAnnual OFL, ABC, and TAC data\n\n\n\nThe main analysis links to the existing public ABC_TAC site, which retains its own version and date. The annual-catch figure and data were added for this wiki. The downloadable parser can retrieve the NOAA reports with --refresh; retain its scripts/, data/, and doc/ project layout when rebuilding.",
+    "objectID": "abc-tac.html#sources-and-reproducibility",
+    "href": "abc-tac.html#sources-and-reproducibility",
+    "title": "GOA and BSAI catch and harvest specifications",
+    "section": "Sources and reproducibility",
+    "text": "Sources and reproducibility\n\n\n\nSeries\nSource and checks\nRebuild code\n\n\n\n\nAKFIN Economic SAFE catch\nScope and source notes · 46 annual region records and rounding checks · Source file list and checksums\nPython parser · R figure and table\n\n\nABC_TAC harvest specifications\nAnnual sum checks · Selected source rows · Repeated labels · Pinned input files and checksums\nR data, figure, and table builder\n\n\nNOAA CAR110 catch\nAccount-level data · Annual checks · Source file list and checksums\nPython parser · R figure script\n\n\n\nThe public website repository includes the input snapshots under data/source/. Download that ABC_TAC directory with its data/, scripts/, R/, and doc/ layout intact. Run the parsers from the archived inputs, followed by the R scripts. Each parser checks the source-file checksums before rebuilding. The Python parsers’ --refresh option retrieves new catch-report versions; the specification builder retrieves its pinned public Git revision. A later source revision requires a reviewed data update.\nThe data update verified 552 AKFIN table rows and 1,808 NOAA area/account rows. AKFIN species sums agree with its reported totals within two metric tons, and the two regions sum to the Alaska total within one metric ton. The harvest-specification checks reproduce 225 available measure sums from the source report and preserve 15 all-missing sums as missing.\nThis update prepares data summaries and figures. The linked ABC/TAC report retains its own statistical analyses, results, and model-validation status.",
     "crumbs": [
       "Catch & management",
       "ABC / TAC & catches"
@@ -270,9 +292,9 @@
   {
     "objectID": "abc-tac.html#other-abc_tac-reports",
     "href": "abc-tac.html#other-abc_tac-reports",
-    "title": "ABC / TAC and BSAI catches",
+    "title": "GOA and BSAI catch and harvest specifications",
     "section": "Other ABC_TAC reports",
-    "text": "Other ABC_TAC reports\n\nStoplight framework for choosing models for a combined analysis\nGOA optimum yield (OY) cap note\n\nUse ABC reduction for historical risk-table evidence and SSC minutes for the original meeting text.",
+    "text": "Other ABC_TAC reports\n\nStoplight framework\nGOA optimum yield cap note\n\nUse ABC reduction for historical risk-table evidence and SSC minutes for the original meeting text.",
     "crumbs": [
       "Catch & management",
       "ABC / TAC & catches"
@@ -327,7 +349,17 @@
     "href": "library.html",
     "title": "Public resource directory",
     "section": "",
-    "text": "These links lead to public project websites and source repositories. Selected catch and control-rule files are also available directly from this portal.",
+    "text": "These links lead to public project websites and source repositories. Download annual GOA and BSAI data below, or open the time-series figures and coverage notes.",
+    "crumbs": [
+      "Public resources"
+    ]
+  },
+  {
+    "objectID": "library.html#goa-and-bsai-time-series",
+    "href": "library.html#goa-and-bsai-time-series",
+    "title": "Public resource directory",
+    "section": "GOA and BSAI time series",
+    "text": "GOA and BSAI time series\n\n\n\nRegion and series\nAvailable years\nDownload\n\n\n\n\nBSAI catch — AKFIN Economic SAFE\n2003–2025 · preliminary\nBSAI catch CSV\n\n\nGOA catch — AKFIN Economic SAFE\n2003–2025 · preliminary\nGOA catch CSV\n\n\nBSAI ABC, TAC, and OFL — ABC_TAC compilation\n1986–2026 · availability varies by measure\nBSAI specs CSV\n\n\nGOA ABC, TAC, and OFL — ABC_TAC compilation\n1986–2024 · availability varies by measure\nGOA specs CSV\n\n\nBSAI catch — NOAA CAR110 accounts, including CDQ\n2013–2025\nBSAI NOAA catch CSV\n\n\nGOA catch — NOAA CAR110 accounts\n2013–2025\nGOA NOAA catch CSV\n\n\n\nCombined AKFIN catch CSV · Combined specifications CSV · Figures, annual tables, and source notes\nAll CSV values are in metric tons. The downloads contain each source’s full available annual series in the stated range. Catch totals follow the source’s coverage; AKFIN and NOAA CAR110 are separate series. The specifications retain missing values and identify sums with missing entries. The GOA specifications source ends in 2024. Updated 29 September 2026.",
     "crumbs": [
       "Public resources"
     ]
@@ -343,11 +375,11 @@
     ]
   },
   {
-    "objectID": "library.html#files-included-with-this-portal",
-    "href": "library.html#files-included-with-this-portal",
+    "objectID": "library.html#earlier-bsai-snapshot-and-control-rule-files",
+    "href": "library.html#earlier-bsai-snapshot-and-control-rule-files",
     "title": "Public resource directory",
-    "section": "Files included with this portal",
-    "text": "Files included with this portal\n\n\n\nResource\nFormat and scope\n\n\n\n\nBSAI annual catch figure\nPNG · SVG\n\n\nBSAI annual catch data\nCSV · 2013–2025, including CDQ\n\n\nCatch data checks\nJSON · checks against reported totals\n\n\nCatch parser\nPython source · reads NOAA annual reports\n\n\nCatch figure script\nR source · uses the annual CSV\n\n\nTier 3 schematic\nPNG · PDF\n\n\nTier 3 figure script\nEditable R source\n\n\n\nRead the annual catch coverage notes and Tier 3 assumptions when using these figures.",
+    "section": "Earlier BSAI snapshot and control-rule files",
+    "text": "Earlier BSAI snapshot and control-rule files\n\n\n\nResource\nFormat and scope\n\n\n\n\nBSAI annual catch figure\nPNG · SVG\n\n\nBSAI annual catch data\nCSV · 2013–2025, including CDQ\n\n\nCatch data checks\nJSON · checks against reported totals\n\n\nCatch parser\nPython source · reads NOAA annual reports\n\n\nCatch figure script\nR source · uses the annual CSV\n\n\nTier 3 schematic\nPNG · PDF\n\n\nTier 3 figure script\nEditable R source\n\n\n\nRead the annual catch coverage notes and Tier 3 assumptions when using these figures.",
     "crumbs": [
       "Public resources"
     ]

@@ -1,0 +1,764 @@
+{
+  "source": "Public AKFIN GFSAFE001 Economic SAFE",
+  "source_page": "https://reports.psmfc.org/akfin/f?p=501:901:0:INITIAL",
+  "units": "metric tons",
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "regions": [
+    "BSAI",
+    "GOA"
+  ],
+  "value_rule": "Use the unique All Groundfish total for each region and year; species and All Alaska rows are independent rounding checks.",
+  "scope": "Retained catch plus estimated discards of FMP-managed groundfish species; includes those species caught while targeting halibut. Economic SAFE scope differs from NOAA CAR110 quota-account totals.",
+  "status": [
+    "Source report labels Economic SAFE data preliminary"
+  ],
+  "data_last_refreshed": [
+    "September 15, 2026"
+  ],
+  "raw_report_pages": 12,
+  "source_table_rows": 552,
+  "annual_regional_rows": 46,
+  "maximum_absolute_species_rounding_difference_t": 2,
+  "maximum_absolute_region_rounding_difference_t": 1,
+  "species_checks": [
+    {
+      "Region": "BSAI",
+      "Year": 2003,
+      "Published_total_t": 1969730,
+      "Species_sum_t": 1969729,
+      "Species_sum_minus_total_t": -1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2004,
+      "Published_total_t": 1979754,
+      "Species_sum_t": 1979754,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2005,
+      "Published_total_t": 1981117,
+      "Species_sum_t": 1981117,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2006,
+      "Published_total_t": 1982557,
+      "Species_sum_t": 1982556,
+      "Species_sum_minus_total_t": -1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2007,
+      "Published_total_t": 1860419,
+      "Species_sum_t": 1860420,
+      "Species_sum_minus_total_t": 1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2008,
+      "Published_total_t": 1545687,
+      "Species_sum_t": 1545686,
+      "Species_sum_minus_total_t": -1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2009,
+      "Published_total_t": 1337116,
+      "Species_sum_t": 1337117,
+      "Species_sum_minus_total_t": 1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2010,
+      "Published_total_t": 1354486,
+      "Species_sum_t": 1354486,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2011,
+      "Published_total_t": 1818902,
+      "Species_sum_t": 1818901,
+      "Species_sum_minus_total_t": -1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2012,
+      "Published_total_t": 1858060,
+      "Species_sum_t": 1858061,
+      "Species_sum_minus_total_t": 1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2013,
+      "Published_total_t": 1915142,
+      "Species_sum_t": 1915141,
+      "Species_sum_minus_total_t": -1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2014,
+      "Published_total_t": 1928984,
+      "Species_sum_t": 1928983,
+      "Species_sum_minus_total_t": -1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2015,
+      "Published_total_t": 1914729,
+      "Species_sum_t": 1914729,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2016,
+      "Published_total_t": 1969380,
+      "Species_sum_t": 1969380,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2017,
+      "Published_total_t": 1968943,
+      "Species_sum_t": 1968943,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2018,
+      "Published_total_t": 1966175,
+      "Species_sum_t": 1966174,
+      "Species_sum_minus_total_t": -1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2019,
+      "Published_total_t": 1959523,
+      "Species_sum_t": 1959523,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2020,
+      "Published_total_t": 1895965,
+      "Species_sum_t": 1895966,
+      "Species_sum_minus_total_t": 1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2021,
+      "Published_total_t": 1814311,
+      "Species_sum_t": 1814311,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2022,
+      "Published_total_t": 1628446,
+      "Species_sum_t": 1628446,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2023,
+      "Published_total_t": 1798977,
+      "Species_sum_t": 1798977,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2024,
+      "Published_total_t": 1781824,
+      "Species_sum_t": 1781826,
+      "Species_sum_minus_total_t": 2,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2025,
+      "Published_total_t": 1794251,
+      "Species_sum_t": 1794250,
+      "Species_sum_minus_total_t": -1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2003,
+      "Published_total_t": 191192,
+      "Species_sum_t": 191192,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2004,
+      "Published_total_t": 188508,
+      "Species_sum_t": 188509,
+      "Species_sum_minus_total_t": 1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2005,
+      "Published_total_t": 200259,
+      "Species_sum_t": 200259,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2006,
+      "Published_total_t": 210339,
+      "Species_sum_t": 210339,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2007,
+      "Published_total_t": 192395,
+      "Species_sum_t": 192395,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2008,
+      "Published_total_t": 202605,
+      "Species_sum_t": 202607,
+      "Species_sum_minus_total_t": 2,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2009,
+      "Published_total_t": 185582,
+      "Species_sum_t": 185583,
+      "Species_sum_minus_total_t": 1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2010,
+      "Published_total_t": 239948,
+      "Species_sum_t": 239948,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2011,
+      "Published_total_t": 252389,
+      "Species_sum_t": 252391,
+      "Species_sum_minus_total_t": 2,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2012,
+      "Published_total_t": 259330,
+      "Species_sum_t": 259330,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2013,
+      "Published_total_t": 250640,
+      "Species_sum_t": 250640,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2014,
+      "Published_total_t": 326826,
+      "Species_sum_t": 326826,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2015,
+      "Published_total_t": 324898,
+      "Species_sum_t": 324898,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2016,
+      "Published_total_t": 324437,
+      "Species_sum_t": 324438,
+      "Species_sum_minus_total_t": 1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2017,
+      "Published_total_t": 321514,
+      "Species_sum_t": 321513,
+      "Species_sum_minus_total_t": -1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2018,
+      "Published_total_t": 255734,
+      "Species_sum_t": 255734,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2019,
+      "Published_total_t": 224173,
+      "Species_sum_t": 224173,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2020,
+      "Published_total_t": 194414,
+      "Species_sum_t": 194414,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2021,
+      "Published_total_t": 192781,
+      "Species_sum_t": 192781,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2022,
+      "Published_total_t": 237540,
+      "Species_sum_t": 237540,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2023,
+      "Published_total_t": 229342,
+      "Species_sum_t": 229342,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2024,
+      "Published_total_t": 233337,
+      "Species_sum_t": 233336,
+      "Species_sum_minus_total_t": -1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "GOA",
+      "Year": 2025,
+      "Published_total_t": 245152,
+      "Species_sum_t": 245151,
+      "Species_sum_minus_total_t": -1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2003,
+      "Published_total_t": 2160922,
+      "Species_sum_t": 2160921,
+      "Species_sum_minus_total_t": -1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2004,
+      "Published_total_t": 2168262,
+      "Species_sum_t": 2168262,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2005,
+      "Published_total_t": 2181376,
+      "Species_sum_t": 2181376,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2006,
+      "Published_total_t": 2192896,
+      "Species_sum_t": 2192895,
+      "Species_sum_minus_total_t": -1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2007,
+      "Published_total_t": 2052814,
+      "Species_sum_t": 2052814,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2008,
+      "Published_total_t": 1748293,
+      "Species_sum_t": 1748292,
+      "Species_sum_minus_total_t": -1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2009,
+      "Published_total_t": 1522698,
+      "Species_sum_t": 1522699,
+      "Species_sum_minus_total_t": 1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2010,
+      "Published_total_t": 1594434,
+      "Species_sum_t": 1594434,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2011,
+      "Published_total_t": 2071290,
+      "Species_sum_t": 2071292,
+      "Species_sum_minus_total_t": 2,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2012,
+      "Published_total_t": 2117390,
+      "Species_sum_t": 2117391,
+      "Species_sum_minus_total_t": 1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2013,
+      "Published_total_t": 2165782,
+      "Species_sum_t": 2165783,
+      "Species_sum_minus_total_t": 1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2014,
+      "Published_total_t": 2255809,
+      "Species_sum_t": 2255809,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2015,
+      "Published_total_t": 2239627,
+      "Species_sum_t": 2239627,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2016,
+      "Published_total_t": 2293817,
+      "Species_sum_t": 2293818,
+      "Species_sum_minus_total_t": 1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2017,
+      "Published_total_t": 2290457,
+      "Species_sum_t": 2290458,
+      "Species_sum_minus_total_t": 1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2018,
+      "Published_total_t": 2221910,
+      "Species_sum_t": 2221910,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2019,
+      "Published_total_t": 2183695,
+      "Species_sum_t": 2183696,
+      "Species_sum_minus_total_t": 1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2020,
+      "Published_total_t": 2090379,
+      "Species_sum_t": 2090379,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2021,
+      "Published_total_t": 2007092,
+      "Species_sum_t": 2007092,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2022,
+      "Published_total_t": 1865986,
+      "Species_sum_t": 1865986,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2023,
+      "Published_total_t": 2028319,
+      "Species_sum_t": 2028319,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2024,
+      "Published_total_t": 2015161,
+      "Species_sum_t": 2015162,
+      "Species_sum_minus_total_t": 1,
+      "Unique_total": true,
+      "Species_groups": 7
+    },
+    {
+      "Region": "Alaska",
+      "Year": 2025,
+      "Published_total_t": 2039402,
+      "Species_sum_t": 2039402,
+      "Species_sum_minus_total_t": 0,
+      "Unique_total": true,
+      "Species_groups": 7
+    }
+  ],
+  "region_checks": [
+    {
+      "Year": 2003,
+      "BSAI_plus_GOA_minus_All_Alaska_t": 0
+    },
+    {
+      "Year": 2004,
+      "BSAI_plus_GOA_minus_All_Alaska_t": 0
+    },
+    {
+      "Year": 2005,
+      "BSAI_plus_GOA_minus_All_Alaska_t": 0
+    },
+    {
+      "Year": 2006,
+      "BSAI_plus_GOA_minus_All_Alaska_t": 0
+    },
+    {
+      "Year": 2007,
+      "BSAI_plus_GOA_minus_All_Alaska_t": 0
+    },
+    {
+      "Year": 2008,
+      "BSAI_plus_GOA_minus_All_Alaska_t": -1
+    },
+    {
+      "Year": 2009,
+      "BSAI_plus_GOA_minus_All_Alaska_t": 0
+    },
+    {
+      "Year": 2010,
+      "BSAI_plus_GOA_minus_All_Alaska_t": 0
+    },
+    {
+      "Year": 2011,
+      "BSAI_plus_GOA_minus_All_Alaska_t": 1
+    },
+    {
+      "Year": 2012,
+      "BSAI_plus_GOA_minus_All_Alaska_t": 0
+    },
+    {
+      "Year": 2013,
+      "BSAI_plus_GOA_minus_All_Alaska_t": 0
+    },
+    {
+      "Year": 2014,
+      "BSAI_plus_GOA_minus_All_Alaska_t": 1
+    },
+    {
+      "Year": 2015,
+      "BSAI_plus_GOA_minus_All_Alaska_t": 0
+    },
+    {
+      "Year": 2016,
+      "BSAI_plus_GOA_minus_All_Alaska_t": 0
+    },
+    {
+      "Year": 2017,
+      "BSAI_plus_GOA_minus_All_Alaska_t": 0
+    },
+    {
+      "Year": 2018,
+      "BSAI_plus_GOA_minus_All_Alaska_t": -1
+    },
+    {
+      "Year": 2019,
+      "BSAI_plus_GOA_minus_All_Alaska_t": 1
+    },
+    {
+      "Year": 2020,
+      "BSAI_plus_GOA_minus_All_Alaska_t": 0
+    },
+    {
+      "Year": 2021,
+      "BSAI_plus_GOA_minus_All_Alaska_t": 0
+    },
+    {
+      "Year": 2022,
+      "BSAI_plus_GOA_minus_All_Alaska_t": 0
+    },
+    {
+      "Year": 2023,
+      "BSAI_plus_GOA_minus_All_Alaska_t": 0
+    },
+    {
+      "Year": 2024,
+      "BSAI_plus_GOA_minus_All_Alaska_t": 0
+    },
+    {
+      "Year": 2025,
+      "BSAI_plus_GOA_minus_All_Alaska_t": 1
+    }
+  ]
+}

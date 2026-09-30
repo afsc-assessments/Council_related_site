@@ -1,0 +1,2626 @@
+﻿AssmentYr,ProjYear,lag,Species,Area,OFL,ABC,TAC,Order,OY,IsTotal
+2025,2026,1,Pollock,EBS,2496000,2036000,1375000,1,1,PollockEBS
+2025,2026,1,Pollock,AI,56231,46437,19000,1,1,PollockAI
+2025,2026,1,Pollock,Bogoslof,77354,58015,250,1,1,PollockBogoslof
+2025,2026,1,Pacific cod,BS,169243,141520,123077,2,0,Pacific codBS
+2025,2026,1,Pacific cod,AI,16273,12973,8951,2,0,Pacific codAI
+2025,2026,1,Pacific cod,BSAI,185516,154493,132028,2,1,Pacific codBSAI
+2025,2026,1,Sablefish,BSAI/GOA,57797,47008,NA,3,0,SablefishBSAI/GOA
+2025,2026,1,Sablefish,BS,NA,13037,8996,3,1,SablefishBS
+2025,2026,1,Sablefish,AI,NA,11421,7440,3,1,SablefishAI
+2025,2026,1,Yellowfin sole,BSAI,305039,267639,145000,4,1,Yellowfin soleBSAI
+2025,2026,1,Greenland turbot,BSAI,2059,1328,1328,5,1,Greenland turbotBSAI
+2025,2026,1,Greenland turbot,BS,NA,1120,1120,5,0,Greenland turbotBS
+2025,2026,1,Greenland turbot,AI,NA,208,208,5,0,Greenland turbotAI
+2025,2026,1,Arrowtooth flounder,BSAI,102472,87035,14000,6,1,Arrowtooth flounderBSAI
+2025,2026,1,Kamchatka flounder,BSAI,7790,6606,6606,7,1,Kamchatka flounderBSAI
+2025,2026,1,Northern rock sole,BSAI,166220,158225,75000,8,1,Northern rock soleBSAI
+2025,2026,1,Flathead sole,BSAI,106283,87700,36000,9,1,Flathead soleBSAI
+2025,2026,1,Alaska plaice,BSAI,33965,28230,15682,10,1,Alaska plaiceBSAI
+2025,2026,1,Other flatfish,BSAI,26083,19562,4500,11,1,Other flatfishBSAI
+2025,2026,1,Pacific ocean perch,BSAI,43084,36578,33490,12,1,Pacific ocean perchBSAI
+2025,2026,1,Pacific ocean perch,BS,NA,9905,9905,12,0,Pacific ocean perchBS
+2025,2026,1,Pacific ocean perch,EAI,NA,6144,6144,12,0,Pacific ocean perchEAI
+2025,2026,1,Pacific ocean perch,CAI,NA,5441,5441,12,0,Pacific ocean perchCAI
+2025,2026,1,Pacific ocean perch,WAI,NA,15088,12000,12,0,Pacific ocean perchWAI
+2025,2026,1,Northern rockfish,BSAI,22284,18232,12000,13,1,Northern rockfishBSAI
+2025,2026,1,Blackspotted/Rougheye rockfish,BSAI,902,766,766,14,1,Blackspotted/Rougheye rockfishBSAI
+2025,2026,1,Blackspotted/Rougheye rockfish,EBS/EAI,NA,441,441,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2025,2026,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,325,325,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2025,2026,1,Shortraker rockfish,BSAI,631,473,473,15,1,Shortraker rockfishBSAI
+2025,2026,1,Other rockfish,BSAI,1406,1054,1054,16,1,Other rockfishBSAI
+2025,2026,1,Other rockfish,BS,NA,639,639,16,0,Other rockfishBS
+2025,2026,1,Other rockfish,AI,NA,415,415,16,0,Other rockfishAI
+2025,2026,1,Atka mackerel,BSAI,107889,92361,82941,17,1,Atka mackerelBSAI
+2025,2026,1,Atka mackerel,EAI/BS,NA,41731,41731,17,0,Atka mackerelEAI/BS
+2025,2026,1,Atka mackerel,CAI,NA,23716,23716,17,0,Atka mackerelCAI
+2025,2026,1,Atka mackerel,WAI,NA,26914,17494,17,0,Atka mackerelWAI
+2025,2026,1,Skates,BSAI,43285,35833,27646,18,1,SkatesBSAI
+2025,2026,1,Sharks,BSAI,689,450,400,19,1,SharksBSAI
+2025,2026,1,Octopuses,BSAI,6080,4560,400,20,1,OctopusesBSAI
+2024,2025,1,Pollock,EBS,2957000,2417000,1375000,1,1,PollockEBS
+2024,2025,1,Pollock,AI,55728,46051,19000,1,1,PollockAI
+2024,2025,1,Pollock,Bogoslof,77354,58015,250,1,1,PollockBogoslof
+2024,2025,1,Pacific cod,BS,183509,153617,133602,2,0,Pacific codBS
+2024,2025,1,Pacific cod,AI,16782,13376,8694,2,0,Pacific codAI
+2024,2025,1,Pacific cod,BSAI,200291,166993,142296,2,1,Pacific codBSAI
+2024,2025,1,Sablefish,BSAI/GOA,58532,47605,NA,3,0,SablefishBSAI/GOA
+2024,2025,1,Sablefish,BS,NA,13203,8496,3,1,SablefishBS
+2024,2025,1,Sablefish,AI,NA,11566,7940,3,1,SablefishAI
+2024,2025,1,Yellowfin sole,BSAI,299247,262557,135000,4,1,Yellowfin soleBSAI
+2024,2025,1,Greenland turbot,BSAI,2598,1678,1678,5,1,Greenland turbotBSAI
+2024,2025,1,Greenland turbot,BS,NA,1415,1415,5,0,Greenland turbotBS
+2024,2025,1,Greenland turbot,AI,NA,263,263,5,0,Greenland turbotAI
+2024,2025,1,Arrowtooth flounder,BSAI,104428,88683,14000,6,1,Arrowtooth flounderBSAI
+2024,2025,1,Kamchatka flounder,BSAI,8019,6800,6800,7,1,Kamchatka flounderBSAI
+2024,2025,1,Northern rock sole,BSAI,165444,157487,75000,8,1,Northern rock soleBSAI
+2024,2025,1,Flathead sole,BSAI,101621,83807,36000,9,1,Flathead soleBSAI
+2024,2025,1,Alaska plaice,BSAI,34576,28745,15903,10,1,Alaska plaiceBSAI
+2024,2025,1,Other flatfish,BSAI,26083,19562,4500,11,1,Other flatfishBSAI
+2024,2025,1,Pacific ocean perch,BSAI,44594,37375,33458,12,1,Pacific ocean perchBSAI
+2024,2025,1,Pacific ocean perch,BS,NA,10121,10121,12,0,Pacific ocean perchBS
+2024,2025,1,Pacific ocean perch,EAI,NA,6278,6278,12,0,Pacific ocean perchEAI
+2024,2025,1,Pacific ocean perch,CAI,NA,5559,5559,12,0,Pacific ocean perchCAI
+2024,2025,1,Pacific ocean perch,WAI,NA,15417,11500,12,0,Pacific ocean perchWAI
+2024,2025,1,Northern rockfish,BSAI,22848,18694,12000,13,1,Northern rockfishBSAI
+2024,2025,1,Blackspotted/Rougheye rockfish,BSAI,838,706,706,14,1,Blackspotted/Rougheye rockfishBSAI
+2024,2025,1,Blackspotted/Rougheye rockfish,EBS/EAI,NA,408,408,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2024,2025,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,298,298,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2024,2025,1,Shortraker rockfish,BSAI,631,473,473,15,1,Shortraker rockfishBSAI
+2024,2025,1,Other rockfish,BSAI,1406,1054,1054,16,1,Other rockfishBSAI
+2024,2025,1,Other rockfish,BS,NA,639,639,16,0,Other rockfishBS
+2024,2025,1,Other rockfish,AI,NA,415,415,16,0,Other rockfishAI
+2024,2025,1,Atka mackerel,BSAI,122622,103247,82000,17,1,Atka mackerelBSAI
+2024,2025,1,Atka mackerel,EAI/BS,NA,46650,39000,17,0,Atka mackerelEAI/BS
+2024,2025,1,Atka mackerel,CAI,NA,26511,24443,17,0,Atka mackerelCAI
+2024,2025,1,Atka mackerel,WAI,NA,30087,18557,17,0,Atka mackerelWAI
+2024,2025,1,Skates,BSAI,44086,36523,27646,18,1,SkatesBSAI
+2024,2025,1,Sharks,BSAI,689,450,400,19,1,SharksBSAI
+2024,2025,1,Octopuses,BSAI,6080,4560,400,20,1,OctopusesBSAI
+2024,2026,2,Pollock,EBS,2496000,2036000,1375000,1,1,PollockEBS
+2024,2026,2,Pollock,AI,56231,46437,19000,1,1,PollockAI
+2024,2026,2,Pollock,Bogoslof,77354,58015,250,1,1,PollockBogoslof
+2024,2026,2,Pacific cod,BS,169243,141520,123077,2,0,Pacific codBS
+2024,2026,2,Pacific cod,AI,16273,12973,8432,2,0,Pacific codAI
+2024,2026,2,Pacific cod,BSAI,185516,154493,131509,2,1,Pacific codBSAI
+2024,2026,2,Sablefish,BSAI/GOA,57797,47008,NA,3,0,SablefishBSAI/GOA
+2024,2026,2,Sablefish,BS,NA,13037,8996,3,1,SablefishBS
+2024,2026,2,Sablefish,AI,NA,11421,7440,3,1,SablefishAI
+2024,2026,2,Yellowfin sole,BSAI,305039,267639,145000,4,1,Yellowfin soleBSAI
+2024,2026,2,Greenland turbot,BSAI,2059,1328,1328,5,1,Greenland turbotBSAI
+2024,2026,2,Greenland turbot,BS,NA,1120,1120,5,0,Greenland turbotBS
+2024,2026,2,Greenland turbot,AI,NA,208,208,5,0,Greenland turbotAI
+2024,2026,2,Arrowtooth flounder,BSAI,102472,87035,14000,6,1,Arrowtooth flounderBSAI
+2024,2026,2,Kamchatka flounder,BSAI,7790,6606,6606,7,1,Kamchatka flounderBSAI
+2024,2026,2,Northern rock sole,BSAI,166220,158225,75000,8,1,Northern rock soleBSAI
+2024,2026,2,Flathead sole,BSAI,106283,87700,36000,9,1,Flathead soleBSAI
+2024,2026,2,Alaska plaice,BSAI,33965,28230,16200,10,1,Alaska plaiceBSAI
+2024,2026,2,Other flatfish,BSAI,26083,19562,4500,11,1,Other flatfishBSAI
+2024,2026,2,Pacific ocean perch,BSAI,43084,36578,33490,12,1,Pacific ocean perchBSAI
+2024,2026,2,Pacific ocean perch,BS,NA,9905,9905,12,0,Pacific ocean perchBS
+2024,2026,2,Pacific ocean perch,EAI,NA,6144,6144,12,0,Pacific ocean perchEAI
+2024,2026,2,Pacific ocean perch,CAI,NA,5441,5441,12,0,Pacific ocean perchCAI
+2024,2026,2,Pacific ocean perch,WAI,NA,16058,12000,12,0,Pacific ocean perchWAI
+2024,2026,2,Northern rockfish,BSAI,22284,18232,12000,13,1,Northern rockfishBSAI
+2024,2026,2,Blackspotted/Rougheye rockfish,BSAI,902,766,766,14,1,Blackspotted/Rougheye rockfishBSAI
+2024,2026,2,Blackspotted/Rougheye rockfish,EBS/EAI,NA,441,441,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2024,2026,2,Blackspotted/Rougheye rockfish,CAI/WAI,NA,325,325,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2024,2026,2,Shortraker rockfish,BSAI,631,473,473,15,1,Shortraker rockfishBSAI
+2024,2026,2,Other rockfish,BSAI,1406,1054,1054,16,1,Other rockfishBSAI
+2024,2026,2,Other rockfish,BS,NA,639,639,16,0,Other rockfishBS
+2024,2026,2,Other rockfish,AI,NA,415,415,16,0,Other rockfishAI
+2024,2026,2,Atka mackerel,BSAI,107889,92361,82941,17,1,Atka mackerelBSAI
+2024,2026,2,Atka mackerel,EAI/BS,NA,41731,41731,17,0,Atka mackerelEAI/BS
+2024,2026,2,Atka mackerel,CAI,NA,23716,23716,17,0,Atka mackerelCAI
+2024,2026,2,Atka mackerel,WAI,NA,26914,17494,17,0,Atka mackerelWAI
+2024,2026,2,Skates,BSAI,43285,35833,27646,18,1,SkatesBSAI
+2024,2026,2,Sharks,BSAI,689,450,400,19,1,SharksBSAI
+2024,2026,2,Octopuses,BSAI,6080,4560,400,20,1,OctopusesBSAI
+2023,2024,1,Pollock,EBS,3162000,2313000,1300000,1,1,PollockEBS
+2023,2024,1,Pollock,AI,51516,42654,19000,1,1,PollockAI
+2023,2024,1,Pollock,Bogoslof,115146,86360,250,1,1,PollockBogoslof
+2023,2024,1,Pacific cod,BS,200995,167952,147753,2,0,Pacific codBS
+2023,2024,1,Pacific cod,AI,18416,12431,8080,2,0,Pacific codAI
+2023,2024,1,Pacific cod,BSAI,219411,180383,155833,2,1,Pacific codBSAI
+2023,2024,1,Sablefish,BSAI/GOA,55084,47146,NA,3,0,SablefishBSAI/GOA
+2023,2024,1,Sablefish,BS,NA,11450,7996,3,1,SablefishBS
+2023,2024,1,Sablefish,AI,NA,13100,8440,3,1,SablefishAI
+2023,2024,1,Yellowfin sole,BSAI,305298,265913,195000,4,1,Yellowfin soleBSAI
+2023,2024,1,Greenland turbot,BSAI,3705,3188,3188,5,1,Greenland turbotBSAI
+2023,2024,1,Greenland turbot,BS,NA,2687,2687,5,0,Greenland turbotBS
+2023,2024,1,Greenland turbot,AI,NA,501,501,5,0,Greenland turbotAI
+2023,2024,1,Arrowtooth flounder,BSAI,103280,87690,14000,6,1,Arrowtooth flounderBSAI
+2023,2024,1,Kamchatka flounder,BSAI,8850,7498,7498,7,1,Kamchatka flounderBSAI
+2023,2024,1,Northern rock sole,BSAI,197828,122091,66000,8,1,Northern rock soleBSAI
+2023,2024,1,Flathead sole,BSAI,81605,67289,35500,9,1,Flathead soleBSAI
+2023,2024,1,Alaska plaice,BSAI,42695,35494,21752,10,1,Alaska plaiceBSAI
+2023,2024,1,Other flatfish,BSAI,22919,17189,4500,11,1,Other flatfishBSAI
+2023,2024,1,Pacific ocean perch,BSAI,49010,41096,37626,12,1,Pacific ocean perchBSAI
+2023,2024,1,Pacific ocean perch,BS,NA,11636,11636,12,0,Pacific ocean perchBS
+2023,2024,1,Pacific ocean perch,EAI,NA,7969,7969,12,0,Pacific ocean perchEAI
+2023,2024,1,Pacific ocean perch,CAI,NA,5521,5521,12,0,Pacific ocean perchCAI
+2023,2024,1,Pacific ocean perch,WAI,NA,15970,12500,12,0,Pacific ocean perchWAI
+2023,2024,1,Northern rockfish,BSAI,23556,19274,16752,13,1,Northern rockfishBSAI
+2023,2024,1,Blackspotted/Rougheye rockfish,BSAI,761,569,569,14,1,Blackspotted/Rougheye rockfishBSAI
+2023,2024,1,Blackspotted/Rougheye rockfish,EBS/EAI,NA,388,388,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2023,2024,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,181,181,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2023,2024,1,Shortraker rockfish,BSAI,706,530,530,15,1,Shortraker rockfishBSAI
+2023,2024,1,Other rockfish,BSAI,1680,1260,1260,16,1,Other rockfishBSAI
+2023,2024,1,Other rockfish,BS,NA,880,880,16,0,Other rockfishBS
+2023,2024,1,Other rockfish,AI,NA,380,380,16,0,Other rockfishAI
+2023,2024,1,Atka mackerel,BSAI,111684,95358,72987,17,1,Atka mackerelBSAI
+2023,2024,1,Atka mackerel,EAI/BS,NA,41723,32260,17,0,Atka mackerelEAI/BS
+2023,2024,1,Atka mackerel,CAI,NA,16754,16754,17,0,Atka mackerelCAI
+2023,2024,1,Atka mackerel,WAI,NA,36882,23973,17,0,Atka mackerelWAI
+2023,2024,1,Skates,BSAI,45574,37808,30519,18,1,SkatesBSAI
+2023,2024,1,Sharks,BSAI,689,450,400,19,1,SharksBSAI
+2023,2024,1,Octopuses,BSAI,6080,4560,400,20,1,OctopusesBSAI
+2023,2025,2,Pollock,EBS,3449000,2401000,1325000,1,1,PollockEBS
+2023,2025,2,Pollock,AI,53030,43863,19000,1,1,PollockAI
+2023,2025,2,Pollock,Bogoslof,115146,86360,250,1,1,PollockBogoslof
+2023,2025,2,Pacific cod,BS,180798,150876,132726,2,0,Pacific codBS
+2023,2025,2,Pacific cod,AI,18416,12431,8080,2,0,Pacific codAI
+2023,2025,2,Pacific cod,BSAI,199214,163307,140806,2,1,Pacific codBSAI
+2023,2025,2,Sablefish,BSAI/GOA,55317,47350,NA,3,0,SablefishBSAI/GOA
+2023,2025,2,Sablefish,BS,NA,11499,9500,3,1,SablefishBS
+2023,2025,2,Sablefish,AI,NA,13156,8440,3,1,SablefishAI
+2023,2025,2,Yellowfin sole,BSAI,317932,276917,195000,4,1,Yellowfin soleBSAI
+2023,2025,2,Greenland turbot,BSAI,3185,2740,2740,5,1,Greenland turbotBSAI
+2023,2025,2,Greenland turbot,BS,NA,2310,2310,5,0,Greenland turbotBS
+2023,2025,2,Greenland turbot,AI,NA,430,430,5,0,Greenland turbotAI
+2023,2025,2,Arrowtooth flounder,BSAI,104270,88548,14000,6,1,Arrowtooth flounderBSAI
+2023,2025,2,Kamchatka flounder,BSAI,8687,7360,7360,7,1,Kamchatka flounderBSAI
+2023,2025,2,Northern rock sole,BSAI,264789,122535,66000,8,1,Northern rock soleBSAI
+2023,2025,2,Flathead sole,BSAI,82699,68203,35500,9,1,Flathead soleBSAI
+2023,2025,2,Alaska plaice,BSAI,45182,37560,20000,10,1,Alaska plaiceBSAI
+2023,2025,2,Other flatfish,BSAI,22919,17189,4500,11,1,Other flatfishBSAI
+2023,2025,2,Pacific ocean perch,BSAI,48139,40366,37181,12,1,Pacific ocean perchBSAI
+2023,2025,2,Pacific ocean perch,BS,NA,11430,11430,12,0,Pacific ocean perchBS
+2023,2025,2,Pacific ocean perch,EAI,NA,7828,7828,12,0,Pacific ocean perchEAI
+2023,2025,2,Pacific ocean perch,CAI,NA,5423,5423,12,0,Pacific ocean perchCAI
+2023,2025,2,Pacific ocean perch,WAI,NA,15685,12500,12,0,Pacific ocean perchWAI
+2023,2025,2,Northern rockfish,BSAI,22838,18685,15000,13,1,Northern rockfishBSAI
+2023,2025,2,Blackspotted/Rougheye rockfish,BSAI,813,607,607,14,1,Blackspotted/Rougheye rockfishBSAI
+2023,2025,2,Blackspotted/Rougheye rockfish,EBS/EAI,NA,412,412,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2023,2025,2,Blackspotted/Rougheye rockfish,CAI/WAI,NA,195,195,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2023,2025,2,Shortraker rockfish,BSAI,706,530,530,15,1,Shortraker rockfishBSAI
+2023,2025,2,Other rockfish,BSAI,1680,1260,1260,16,1,Other rockfishBSAI
+2023,2025,2,Other rockfish,BS,NA,880,880,16,0,Other rockfishBS
+2023,2025,2,Other rockfish,AI,NA,380,380,16,0,Other rockfishAI
+2023,2025,2,Atka mackerel,BSAI,99723,84676,66165,17,1,Atka mackerelBSAI
+2023,2025,2,Atka mackerel,EAI/BS,NA,37049,30000,17,0,Atka mackerelEAI/BS
+2023,2025,2,Atka mackerel,CAI,NA,14877,14877,17,0,Atka mackerelCAI
+2023,2025,2,Atka mackerel,WAI,NA,32750,21288,17,0,Atka mackerelWAI
+2023,2025,2,Skates,BSAI,44203,36625,30361,18,1,SkatesBSAI
+2023,2025,2,Sharks,BSAI,689,450,400,19,1,SharksBSAI
+2023,2025,2,Octopuses,BSAI,6080,4560,400,20,1,OctopusesBSAI
+2022,2023,1,Pollock,EBS,3381000,1910000,1300000,1,1,PollockEBS
+2022,2023,1,Pollock,AI,52383,43413,19000,1,1,PollockAI
+2022,2023,1,Pollock,Bogoslof,115146,86360,300,1,1,PollockBogoslof
+2022,2023,1,Pacific cod,BS,172495,144834,127409,2,0,Pacific codBS
+2022,2023,1,Pacific cod,AI,18416,13812,8425,2,0,Pacific codAI
+2022,2023,1,Pacific cod,BSAI,190911,158646,135834,2,1,Pacific codBSAI
+2022,2023,1,Sablefish,BSAI/GOA,47390,40502,NA,3,0,SablefishBSAI/GOA
+2022,2023,1,Sablefish,BS,NA,8417,7996,3,1,SablefishBS
+2022,2023,1,Sablefish,AI,NA,8884,8440,3,1,SablefishAI
+2022,2023,1,Yellowfin sole,BSAI,404882,378499,230000,4,1,Yellowfin soleBSAI
+2022,2023,1,Greenland turbot,BSAI,4645,3960,3960,5,1,Greenland turbotBSAI
+2022,2023,1,Greenland turbot,BS,NA,3338,3338,5,0,Greenland turbotBS
+2022,2023,1,Greenland turbot,AI,NA,622,622,5,0,Greenland turbotAI
+2022,2023,1,Arrowtooth flounder,BSAI,98787,83852,15000,6,1,Arrowtooth flounderBSAI
+2022,2023,1,Kamchatka flounder,BSAI,8946,7579,7579,7,1,Kamchatka flounderBSAI
+2022,2023,1,Northern rock sole,BSAI,166034,121719,66000,8,1,Northern rock soleBSAI
+2022,2023,1,Flathead sole,BSAI,79256,65344,35500,9,1,Flathead soleBSAI
+2022,2023,1,Alaska plaice,BSAI,40823,33946,17500,10,1,Alaska plaiceBSAI
+2022,2023,1,Other flatfish,BSAI,22919,17189,4500,11,1,Other flatfishBSAI
+2022,2023,1,Pacific ocean perch,BSAI,50133,42038,37703,12,1,Pacific ocean perchBSAI
+2022,2023,1,Pacific ocean perch,BS,NA,11903,11903,12,0,Pacific ocean perchBS
+2022,2023,1,Pacific ocean perch,EAI,NA,8152,8152,12,0,Pacific ocean perchEAI
+2022,2023,1,Pacific ocean perch,CAI,NA,5648,5648,12,0,Pacific ocean perchCAI
+2022,2023,1,Pacific ocean perch,WAI,NA,16335,12000,12,0,Pacific ocean perchWAI
+2022,2023,1,Northern rockfish,BSAI,22776,18687,11000,13,1,Northern rockfishBSAI
+2022,2023,1,Blackspotted/Rougheye rockfish,BSAI,703,525,525,14,1,Blackspotted/Rougheye rockfishBSAI
+2022,2023,1,Blackspotted/Rougheye rockfish,EBS/EAI,NA,359,359,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2022,2023,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,166,166,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2022,2023,1,Shortraker rockfish,BSAI,706,530,530,15,1,Shortraker rockfishBSAI
+2022,2023,1,Other rockfish,BSAI,1680,1260,1260,16,1,Other rockfishBSAI
+2022,2023,1,Other rockfish,BS,NA,880,880,16,0,Other rockfishBS
+2022,2023,1,Other rockfish,AI,NA,380,380,16,0,Other rockfishAI
+2022,2023,1,Atka mackerel,BSAI,118787,98588,69282,17,1,Atka mackerelBSAI
+2022,2023,1,Atka mackerel,EAI/BS,NA,43281,27260,17,0,Atka mackerelEAI/BS
+2022,2023,1,Atka mackerel,CAI,NA,17351,17351,17,0,Atka mackerelCAI
+2022,2023,1,Atka mackerel,WAI,NA,37956,24671,17,0,Atka mackerelWAI
+2022,2023,1,Skates,BSAI,46220,38605,27441,18,1,SkatesBSAI
+2022,2023,1,Sharks,BSAI,689,450,250,19,1,SharksBSAI
+2022,2023,1,Octopuses,BSAI,4769,3576,400,20,1,OctopusesBSAI
+2022,2024,2,Pollock,EBS,4639000,2275000,1302000,1,1,PollockEBS
+2022,2024,2,Pollock,AI,52043,43092,19000,1,1,PollockAI
+2022,2024,2,Pollock,Bogoslof,115146,86360,300,1,1,PollockBogoslof
+2022,2024,2,Pacific cod,BS,166814,140159,123294.92,2,0,Pacific codBS
+2022,2024,2,Pacific cod,AI,18416,13812,8425.32,2,0,Pacific codAI
+2022,2024,2,Pacific cod,BSAI,185230,153971,131720.24,2,1,Pacific codBSAI
+2022,2024,2,Sablefish,BSAI/GOA,48561,41539,NA,3,0,SablefishBSAI/GOA
+2022,2024,2,Sablefish,BS,NA,10185,9675.75,3,1,SablefishBS
+2022,2024,2,Sablefish,AI,NA,10308,9792.6,3,1,SablefishAI
+2022,2024,2,Yellowfin sole,BSAI,495155,462890,230656,4,1,Yellowfin soleBSAI
+2022,2024,2,Greenland turbot,BSAI,3947,3364,3364,5,1,Greenland turbotBSAI
+2022,2024,2,Greenland turbot,BS,NA,2836,2836,5,0,Greenland turbotBS
+2022,2024,2,Greenland turbot,AI,NA,528,528,5,0,Greenland turbotAI
+2022,2024,2,Arrowtooth flounder,BSAI,103070,87511,15000,6,1,Arrowtooth flounderBSAI
+2022,2024,2,Kamchatka flounder,BSAI,8776,7435,7435,7,1,Kamchatka flounderBSAI
+2022,2024,2,Northern rock sole,BSAI,196011,119969,66000,8,1,Northern rock soleBSAI
+2022,2024,2,Flathead sole,BSAI,81167,66927,35500,9,1,Flathead soleBSAI
+2022,2024,2,Alaska plaice,BSAI,43328,36021,18000,10,1,Alaska plaiceBSAI
+2022,2024,2,Other flatfish,BSAI,22919,17189,4500,11,1,Other flatfishBSAI
+2022,2024,2,Pacific ocean perch,BSAI,49279,41322,38264,12,1,Pacific ocean perchBSAI
+2022,2024,2,Pacific ocean perch,BS,NA,11700,11700,12,0,Pacific ocean perchBS
+2022,2024,2,Pacific ocean perch,EAI,NA,8013,8013,12,0,Pacific ocean perchEAI
+2022,2024,2,Pacific ocean perch,CAI,NA,5551,5551,12,0,Pacific ocean perchCAI
+2022,2024,2,Pacific ocean perch,WAI,NA,16058,13000,12,0,Pacific ocean perchWAI
+2022,2024,2,Northern rockfish,BSAI,22105,18135,11000,13,1,Northern rockfishBSAI
+2022,2024,2,Blackspotted/Rougheye rockfish,BSAI,763,570,570,14,1,Blackspotted/Rougheye rockfishBSAI
+2022,2024,2,Blackspotted/Rougheye rockfish,EBS/EAI,NA,388,388,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2022,2024,2,Blackspotted/Rougheye rockfish,CAI/WAI,NA,182,182,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2022,2024,2,Shortraker rockfish,BSAI,706,530,530,15,1,Shortraker rockfishBSAI
+2022,2024,2,Other rockfish,BSAI,1680,1260,1260,16,1,Other rockfishBSAI
+2022,2024,2,Other rockfish,BS,NA,880,880,16,0,Other rockfishBS
+2022,2024,2,Other rockfish,AI,NA,380,380,16,0,Other rockfishAI
+2022,2024,2,Atka mackerel,BSAI,101188,86464,66855.2,17,1,Atka mackerelBSAI
+2022,2024,2,Atka mackerel,EAI/BS,NA,37958,30000,17,0,Atka mackerelEAI/BS
+2022,2024,2,Atka mackerel,CAI,NA,15218,15218,17,0,Atka mackerelCAI
+2022,2024,2,Atka mackerel,WAI,NA,33288,21637.2,17,0,Atka mackerelWAI
+2022,2024,2,Skates,BSAI,44168,36837,27927,18,1,SkatesBSAI
+2022,2024,2,Sharks,BSAI,689,450,250,19,1,SharksBSAI
+2022,2024,2,Octopuses,BSAI,4769,3576,400,20,1,OctopusesBSAI
+2021,2022,1,Pollock,EBS,1469000,1111000,1111000,1,1,PollockEBS
+2021,2022,1,Pollock,AI,61264,50752,19000,1,1,PollockAI
+2021,2022,1,Pollock,Bogoslof,113479,85109,250,1,1,PollockBogoslof
+2021,2022,1,Pacific cod,BS,183012,153383,136466,2,0,Pacific codBS
+2021,2022,1,Pacific cod,AI,27400,20600,13796,2,0,Pacific codAI
+2021,2022,1,Pacific cod,BSAI,210412,173983,150262,2,1,Pacific codBSAI
+2021,2022,1,Sablefish,BSAI/GOA,40432,34521,NA,3,0,SablefishBSAI/GOA
+2021,2022,1,Sablefish,BS,NA,5264,5264,3,1,SablefishBS
+2021,2022,1,Sablefish,AI,NA,6463,6463,3,1,SablefishAI
+2021,2022,1,Yellowfin sole,BSAI,377071,354014,250000,4,1,Yellowfin soleBSAI
+2021,2022,1,Greenland turbot,BSAI,7687,6572,6572,5,1,Greenland turbotBSAI
+2021,2022,1,Greenland turbot,BS,NA,5540,5540,5,0,Greenland turbotBS
+2021,2022,1,Greenland turbot,AI,NA,1032,1032,5,0,Greenland turbotAI
+2021,2022,1,Arrowtooth flounder,BSAI,94445,80389,20000,6,1,Arrowtooth flounderBSAI
+2021,2022,1,Kamchatka flounder,BSAI,10903,9214,9214,7,1,Kamchatka flounderBSAI
+2021,2022,1,Northern rock sole,BSAI,214084,206896,66000,8,1,Northern rock soleBSAI
+2021,2022,1,Flathead sole,BSAI,77967,64288,35500,9,1,Flathead soleBSAI
+2021,2022,1,Alaska plaice,BSAI,39305,32697,29221,10,1,Alaska plaiceBSAI
+2021,2022,1,Other flatfish,BSAI,22919,17189,10000,11,1,Other flatfishBSAI
+2021,2022,1,Pacific ocean perch,BSAI,42605,35688,35385,12,1,Pacific ocean perchBSAI
+2021,2022,1,Pacific ocean perch,BS,NA,10352,10352,12,0,Pacific ocean perchBS
+2021,2022,1,Pacific ocean perch,EAI,NA,8083,8083,12,0,Pacific ocean perchEAI
+2021,2022,1,Pacific ocean perch,CAI,NA,5950,5950,12,0,Pacific ocean perchCAI
+2021,2022,1,Pacific ocean perch,WAI,NA,11303,11000,12,0,Pacific ocean perchWAI
+2021,2022,1,Northern rockfish,BSAI,23420,19217,17000,13,1,Northern rockfishBSAI
+2021,2022,1,Blackspotted/Rougheye rockfish,BSAI,598,503,503,14,1,Blackspotted/Rougheye rockfishBSAI
+2021,2022,1,Blackspotted/Rougheye rockfish,EBS/EAI,NA,326,326,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2021,2022,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,177,177,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2021,2022,1,Shortraker rockfish,BSAI,722,541,541,15,1,Shortraker rockfishBSAI
+2021,2022,1,Other rockfish,BSAI,1751,1313,1144,16,1,Other rockfishBSAI
+2021,2022,1,Other rockfish,BS,NA,919,750,16,0,Other rockfishBS
+2021,2022,1,Other rockfish,AI,NA,394,394,16,0,Other rockfishAI
+2021,2022,1,Atka mackerel,BSAI,91870,78510,66481,17,1,Atka mackerelBSAI
+2021,2022,1,Atka mackerel,EAI/BS,NA,27260,27260,17,0,Atka mackerelEAI/BS
+2021,2022,1,Atka mackerel,CAI,NA,16880,16880,17,0,Atka mackerelCAI
+2021,2022,1,Atka mackerel,WAI,NA,34370,22341,17,0,Atka mackerelWAI
+2021,2022,1,Skates,BSAI,47790,39958,30000,18,1,SkatesBSAI
+2021,2022,1,Sharks,BSAI,689,517,500,19,1,SharksBSAI
+2021,2022,1,Octopuses,BSAI,4769,3576,700,20,1,OctopusesBSAI
+2021,2023,2,Pollock,EBS,1704000,1289000,1289000,1,1,PollockEBS
+2021,2023,2,Pollock,AI,61379,50825,19000,1,1,PollockAI
+2021,2023,2,Pollock,Bogoslof,113479,85109,250,1,1,PollockBogoslof
+2021,2023,2,Pacific cod,BS,180909,151709,133459,2,0,Pacific codBS
+2021,2023,2,Pacific cod,AI,27400,20600,13796,2,0,Pacific codAI
+2021,2023,2,Pacific cod,BSAI,208309,172309,147255,2,1,Pacific codBSAI
+2021,2023,2,Sablefish,BSAI/GOA,42520,36318,NA,3,0,SablefishBSAI/GOA
+2021,2023,2,Sablefish,BS,NA,6529,6529,3,1,SablefishBS
+2021,2023,2,Sablefish,AI,NA,7786,7786,3,1,SablefishAI
+2021,2023,2,Yellowfin sole,BSAI,382035,358675,230000,4,1,Yellowfin soleBSAI
+2021,2023,2,Greenland turbot,BSAI,6698,5724,5724,5,1,Greenland turbotBSAI
+2021,2023,2,Greenland turbot,BS,NA,4825,4825,5,0,Greenland turbotBS
+2021,2023,2,Greenland turbot,AI,NA,899,899,5,0,Greenland turbotAI
+2021,2023,2,Arrowtooth flounder,BSAI,97944,83389,20000,6,1,Arrowtooth flounderBSAI
+2021,2023,2,Kamchatka flounder,BSAI,11115,9393,9393,7,1,Kamchatka flounderBSAI
+2021,2023,2,Northern rock sole,BSAI,280621,271199,55000,8,1,Northern rock soleBSAI
+2021,2023,2,Flathead sole,BSAI,80034,65988,25500,9,1,Flathead soleBSAI
+2021,2023,2,Alaska plaice,BSAI,39685,32998,29082,10,1,Alaska plaiceBSAI
+2021,2023,2,Other flatfish,BSAI,22919,17189,10000,11,1,Other flatfishBSAI
+2021,2023,2,Pacific ocean perch,BSAI,40977,34322,33952,12,1,Pacific ocean perchBSAI
+2021,2023,2,Pacific ocean perch,BS,NA,9956,9956,12,0,Pacific ocean perchBS
+2021,2023,2,Pacific ocean perch,EAI,NA,7774,7774,12,0,Pacific ocean perchEAI
+2021,2023,2,Pacific ocean perch,CAI,NA,5722,5722,12,0,Pacific ocean perchCAI
+2021,2023,2,Pacific ocean perch,WAI,NA,10870,10500,12,0,Pacific ocean perchWAI
+2021,2023,2,Northern rockfish,BSAI,22594,18538,17000,13,1,Northern rockfishBSAI
+2021,2023,2,Blackspotted/Rougheye rockfish,BSAI,615,517,517,14,1,Blackspotted/Rougheye rockfishBSAI
+2021,2023,2,Blackspotted/Rougheye rockfish,EBS/EAI,NA,334,334,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2021,2023,2,Blackspotted/Rougheye rockfish,CAI/WAI,NA,183,183,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2021,2023,2,Shortraker rockfish,BSAI,722,541,541,15,1,Shortraker rockfishBSAI
+2021,2023,2,Other rockfish,BSAI,1751,1313,1313,16,1,Other rockfishBSAI
+2021,2023,2,Other rockfish,BS,NA,919,919,16,0,Other rockfishBS
+2021,2023,2,Other rockfish,AI,NA,394,394,16,0,Other rockfishAI
+2021,2023,2,Atka mackerel,BSAI,84440,71990,60958,17,1,Atka mackerelBSAI
+2021,2023,2,Atka mackerel,EAI/BS,NA,25000,25000,17,0,Atka mackerelEAI/BS
+2021,2023,2,Atka mackerel,CAI,NA,15470,15470,17,0,Atka mackerelCAI
+2021,2023,2,Atka mackerel,WAI,NA,31520,20488,17,0,Atka mackerelWAI
+2021,2023,2,Skates,BSAI,46475,38824,30000,18,1,SkatesBSAI
+2021,2023,2,Sharks,BSAI,689,517,500,19,1,SharksBSAI
+2021,2023,2,Octopuses,BSAI,4769,3576,700,20,1,OctopusesBSAI
+2020,2021,1,Pollock,EBS,2594000,1626000,1375000,1,1,PollockEBS
+2020,2021,1,Pollock,AI,61856,51241,19000,1,1,PollockAI
+2020,2021,1,Pollock,Bogoslof,113479,85109,250,1,1,PollockBogoslof
+2020,2021,1,Pacific cod,BS,147949,123805,111380,2,0,Pacific codBS
+2020,2021,1,Pacific cod,AI,27400,20600,13796,2,0,Pacific codAI
+2020,2021,1,Pacific cod,BSAI,175349,144405,125176,2,1,Pacific codBSAI
+2020,2021,1,Sablefish,BSAI/GOA,60426,29588,NA,3,0,SablefishBSAI/GOA
+2020,2021,1,Sablefish,BS,NA,3396,3396,3,1,SablefishBS
+2020,2021,1,Sablefish,AI,NA,4717,4717,3,1,SablefishAI
+2020,2021,1,Yellowfin sole,BSAI,341571,313477,200000,4,1,Yellowfin soleBSAI
+2020,2021,1,Greenland turbot,BSAI,8568,7326,6025,5,1,Greenland turbotBSAI
+2020,2021,1,Greenland turbot,BS,NA,6176,5125,5,0,Greenland turbotBS
+2020,2021,1,Greenland turbot,AI,NA,1150,900,5,0,Greenland turbotAI
+2020,2021,1,Arrowtooth flounder,BSAI,90873,77349,15000,6,1,Arrowtooth flounderBSAI
+2020,2021,1,Kamchatka flounder,BSAI,10630,8982,8982,7,1,Kamchatka flounderBSAI
+2020,2021,1,Northern rock sole,BSAI,145180,140306,54500,8,1,Northern rock soleBSAI
+2020,2021,1,Flathead sole,BSAI,75863,62567,25000,9,1,Flathead soleBSAI
+2020,2021,1,Alaska plaice,BSAI,37924,31657,24500,10,1,Alaska plaiceBSAI
+2020,2021,1,Other flatfish,BSAI,22919,17189,6500,11,1,Other flatfishBSAI
+2020,2021,1,Pacific ocean perch,BSAI,44376,37173,35899,12,1,Pacific ocean perchBSAI
+2020,2021,1,Pacific ocean perch,BS,NA,10782,10782,12,0,Pacific ocean perchBS
+2020,2021,1,Pacific ocean perch,EAI,NA,8419,8419,12,0,Pacific ocean perchEAI
+2020,2021,1,Pacific ocean perch,CAI,NA,6198,6198,12,0,Pacific ocean perchCAI
+2020,2021,1,Pacific ocean perch,WAI,NA,11774,10500,12,0,Pacific ocean perchWAI
+2020,2021,1,Northern rockfish,BSAI,18917,15557,13000,13,1,Northern rockfishBSAI
+2020,2021,1,Blackspotted/Rougheye rockfish,BSAI,576,482,482,14,1,Blackspotted/Rougheye rockfishBSAI
+2020,2021,1,Blackspotted/Rougheye rockfish,EBS/EAI,NA,313,313,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2020,2021,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,169,169,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2020,2021,1,Shortraker rockfish,BSAI,722,541,500,15,1,Shortraker rockfishBSAI
+2020,2021,1,Other rockfish,BSAI,1751,1313,916,16,1,Other rockfishBSAI
+2020,2021,1,Other rockfish,BS,NA,919,522,16,0,Other rockfishBS
+2020,2021,1,Other rockfish,AI,NA,394,394,16,0,Other rockfishAI
+2020,2021,1,Atka mackerel,BSAI,85580,73590,62257,17,1,Atka mackerelBSAI
+2020,2021,1,Atka mackerel,EAI/BS,NA,25760,25760,17,0,Atka mackerelEAI/BS
+2020,2021,1,Atka mackerel,CAI,NA,15450,15450,17,0,Atka mackerelCAI
+2020,2021,1,Atka mackerel,WAI,NA,32380,21047,17,0,Atka mackerelWAI
+2020,2021,1,Skates,BSAI,49297,41257,18000,18,1,SkatesBSAI
+2020,2021,1,Sharks,BSAI,689,517,200,19,1,SharksBSAI
+2020,2021,1,Octopuses,BSAI,4769,3576,700,20,1,OctopusesBSAI
+2020,2022,2,Pollock,EBS,2366000,1484000,1400000,1,1,PollockEBS
+2020,2022,2,Pollock,AI,61308,50789,19000,1,1,PollockAI
+2020,2022,2,Pollock,Bogoslof,113479,85109,100,1,1,PollockBogoslof
+2020,2022,2,Pacific cod,BS,128340,106852,95053,2,0,Pacific codBS
+2020,2022,2,Pacific cod,AI,27400,20600,13796,2,0,Pacific codAI
+2020,2022,2,Pacific cod,BSAI,155740,127452,108849,2,1,Pacific codBSAI
+2020,2022,2,Sablefish,BSAI/GOA,70710,36955,NA,3,0,SablefishBSAI/GOA
+2020,2022,2,Sablefish,BS,NA,4863,4863,3,1,SablefishBS
+2020,2022,2,Sablefish,AI,NA,6860,5061,3,1,SablefishAI
+2020,2022,2,Yellowfin sole,BSAI,374982,344140,200000,4,1,Yellowfin soleBSAI
+2020,2022,2,Greenland turbot,BSAI,7181,6139,6025,5,1,Greenland turbotBSAI
+2020,2022,2,Greenland turbot,BS,NA,5175,5125,5,0,Greenland turbotBS
+2020,2022,2,Greenland turbot,AI,NA,964,900,5,0,Greenland turbotAI
+2020,2022,2,Arrowtooth flounder,BSAI,94368,80323,15000,6,1,Arrowtooth flounderBSAI
+2020,2022,2,Kamchatka flounder,BSAI,10843,9163,8982,7,1,Kamchatka flounderBSAI
+2020,2022,2,Northern rock sole,BSAI,213783,206605,54500,8,1,Northern rock soleBSAI
+2020,2022,2,Flathead sole,BSAI,77763,64119,25000,9,1,Flathead soleBSAI
+2020,2022,2,Alaska plaice,BSAI,36928,30815,22500,10,1,Alaska plaiceBSAI
+2020,2022,2,Other flatfish,BSAI,22919,17189,6500,11,1,Other flatfishBSAI
+2020,2022,2,Pacific ocean perch,BSAI,42384,35503,34758,12,1,Pacific ocean perchBSAI
+2020,2022,2,Pacific ocean perch,BS,NA,10298,10298,12,0,Pacific ocean perchBS
+2020,2022,2,Pacific ocean perch,EAI,NA,8041,8041,12,0,Pacific ocean perchEAI
+2020,2022,2,Pacific ocean perch,CAI,NA,5919,5919,12,0,Pacific ocean perchCAI
+2020,2022,2,Pacific ocean perch,WAI,NA,11245,10500,12,0,Pacific ocean perchWAI
+2020,2022,2,Northern rockfish,BSAI,18221,14984,13000,13,1,Northern rockfishBSAI
+2020,2022,2,Blackspotted/Rougheye rockfish,BSAI,595,500,326,14,1,Blackspotted/Rougheye rockfishBSAI
+2020,2022,2,Blackspotted/Rougheye rockfish,EBS/EAI,NA,324,150,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2020,2022,2,Blackspotted/Rougheye rockfish,CAI/WAI,NA,176,176,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2020,2022,2,Shortraker rockfish,BSAI,722,541,225,15,1,Shortraker rockfishBSAI
+2020,2022,2,Other rockfish,BSAI,1751,1313,694,16,1,Other rockfishBSAI
+2020,2022,2,Other rockfish,BS,NA,919,300,16,0,Other rockfishBS
+2020,2022,2,Other rockfish,AI,NA,394,394,16,0,Other rockfishAI
+2020,2022,2,Atka mackerel,BSAI,79660,68220,57717,17,1,Atka mackerelBSAI
+2020,2022,2,Atka mackerel,EAI/BS,NA,23880,23880,17,0,Atka mackerelEAI/BS
+2020,2022,2,Atka mackerel,CAI,NA,14330,14330,17,0,Atka mackerelCAI
+2020,2022,2,Atka mackerel,WAI,NA,30010,19507,17,0,Atka mackerelWAI
+2020,2022,2,Skates,BSAI,47372,39598,16000,18,1,SkatesBSAI
+2020,2022,2,Sharks,BSAI,689,517,200,19,1,SharksBSAI
+2020,2022,2,Octopuses,BSAI,4769,3576,700,20,1,OctopusesBSAI
+2019,2020,1,Pollock,EBS,4085000,2043000,1425000,1,1,PollockEBS
+2019,2020,1,Pollock,AI,66973,55120,19000,1,1,PollockAI
+2019,2020,1,Pollock,Bogoslof,183080,137310,75,1,1,PollockBogoslof
+2019,2020,1,Pacific cod,BS,191386,155873,141799,2,0,Pacific codBS
+2019,2020,1,Pacific cod,AI,27400,20600,13796,2,0,Pacific codAI
+2019,2020,1,Pacific cod,BSAI,218786,176473,155595,2,1,Pacific codBSAI
+2019,2020,1,Sablefish,BSAI/GOA,50481,NA,NA,3,0,SablefishBSAI/GOA
+2019,2020,1,Sablefish,BS,NA,2174,1861,3,1,SablefishBS
+2019,2020,1,Sablefish,AI,NA,2952,2039,3,1,SablefishAI
+2019,2020,1,Yellowfin sole,BSAI,287307,260918,150700,4,1,Yellowfin soleBSAI
+2019,2020,1,Greenland turbot,BSAI,11319,9625,5300,5,1,Greenland turbotBSAI
+2019,2020,1,Greenland turbot,BS,NA,8403,5125,5,0,Greenland turbotBS
+2019,2020,1,Greenland turbot,AI,NA,1222,175,5,0,Greenland turbotAI
+2019,2020,1,Arrowtooth flounder,BSAI,84057,71618,10000,6,1,Arrowtooth flounderBSAI
+2019,2020,1,Kamchatka flounder,BSAI,11495,9708,6800,7,1,Kamchatka flounderBSAI
+2019,2020,1,Northern rock sole,BSAI,157300,153300,47100,8,1,Northern rock soleBSAI
+2019,2020,1,Flathead sole,BSAI,82810,68134,19500,9,1,Flathead soleBSAI
+2019,2020,1,Alaska plaice,BSAI,37600,31600,17000,10,1,Alaska plaiceBSAI
+2019,2020,1,Other flatfish,BSAI,21824,16368,4000,11,1,Other flatfishBSAI
+2019,2020,1,Pacific ocean perch,BSAI,58956,48846,42875,12,1,Pacific ocean perchBSAI
+2019,2020,1,Pacific ocean perch,BS,NA,14168,14168,12,0,Pacific ocean perchBS
+2019,2020,1,Pacific ocean perch,EAI,NA,11063,10613,12,0,Pacific ocean perchEAI
+2019,2020,1,Pacific ocean perch,CAI,NA,8144,8094,12,0,Pacific ocean perchCAI
+2019,2020,1,Pacific ocean perch,WAI,NA,15471,10000,12,0,Pacific ocean perchWAI
+2019,2020,1,Northern rockfish,BSAI,19751,16243,10000,13,1,Northern rockfishBSAI
+2019,2020,1,Blackspotted/Rougheye rockfish,BSAI,861,708,349,14,1,Blackspotted/Rougheye rockfishBSAI
+2019,2020,1,Blackspotted/Rougheye rockfish,EBS/EAI,NA,444,85,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2019,2020,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,264,264,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2019,2020,1,Shortraker rockfish,BSAI,722,541,375,15,1,Shortraker rockfishBSAI
+2019,2020,1,Other rockfish,BSAI,1793,1344,1088,16,1,Other rockfishBSAI
+2019,2020,1,Other rockfish,BS,NA,956,700,16,0,Other rockfishBS
+2019,2020,1,Other rockfish,AI,NA,388,388,16,0,Other rockfishAI
+2019,2020,1,Atka mackerel,BSAI,81200,70100,59305,17,1,Atka mackerelBSAI
+2019,2020,1,Atka mackerel,EAI/BS,NA,24535,24535,17,0,Atka mackerelEAI/BS
+2019,2020,1,Atka mackerel,CAI,NA,14721,14721,17,0,Atka mackerelCAI
+2019,2020,1,Atka mackerel,WAI,NA,30844,20049,17,0,Atka mackerelWAI
+2019,2020,1,Skates,BSAI,49792,41543,16313,18,1,SkatesBSAI
+2019,2020,1,Sculpins,BSAI,67817,50863,5300,15,1,SculpinsBSAI
+2019,2020,1,Sharks,BSAI,689,517,150,19,1,SharksBSAI
+2019,2020,1,Octopuses,BSAI,4769,3576,275,20,1,OctopusesBSAI
+2019,2021,2,Pollock,EBS,3385000,1767000,1450000,1,1,PollockEBS
+2019,2021,2,Pollock,AI,70970,58384,19000,1,1,PollockAI
+2019,2021,2,Pollock,Bogoslof,183080,137310,75,1,1,PollockBogoslof
+2019,2021,2,Pacific cod,BS,125734,102975,92633,2,0,Pacific codBS
+2019,2021,2,Pacific cod,AI,27400,20600,13796,2,0,Pacific codAI
+2019,2021,2,Pacific cod,BSAI,153134,123575,106429,2,1,Pacific codBSAI
+2019,2021,2,Sablefish,BSAI/GOA,64765,NA,NA,3,0,SablefishBSAI/GOA
+2019,2021,2,Sablefish,BS,NA,2865,2865,3,1,SablefishBS
+2019,2021,2,Sablefish,AI,NA,3891,2500,3,1,SablefishAI
+2019,2021,2,Yellowfin sole,BSAI,287943,261497,168900,4,1,Yellowfin soleBSAI
+2019,2021,2,Greenland turbot,BSAI,10006,8510,5376,5,1,Greenland turbotBSAI
+2019,2021,2,Greenland turbot,BS,NA,7429,5125,5,0,Greenland turbotBS
+2019,2021,2,Greenland turbot,AI,NA,1081,251,5,0,Greenland turbotAI
+2019,2021,2,Arrowtooth flounder,BSAI,86647,73804,10000,6,1,Arrowtooth flounderBSAI
+2019,2021,2,Kamchatka flounder,BSAI,11472,9688,7000,7,1,Kamchatka flounderBSAI
+2019,2021,2,Northern rock sole,BSAI,236800,230700,49000,8,1,Northern rock soleBSAI
+2019,2021,2,Flathead sole,BSAI,86432,71079,24000,9,1,Flathead soleBSAI
+2019,2021,2,Alaska plaice,BSAI,36500,30700,20000,10,1,Alaska plaiceBSAI
+2019,2021,2,Other flatfish,BSAI,21824,16368,5000,11,1,Other flatfishBSAI
+2019,2021,2,Pacific ocean perch,BSAI,56589,46885,42036,12,1,Pacific ocean perchBSAI
+2019,2021,2,Pacific ocean perch,BS,NA,13600,13600,12,0,Pacific ocean perchBS
+2019,2021,2,Pacific ocean perch,EAI,NA,10619,10619,12,0,Pacific ocean perchEAI
+2019,2021,2,Pacific ocean perch,CAI,NA,7817,7817,12,0,Pacific ocean perchCAI
+2019,2021,2,Pacific ocean perch,WAI,NA,14849,10000,12,0,Pacific ocean perchWAI
+2019,2021,2,Northern rockfish,BSAI,19070,15683,10000,13,1,Northern rockfishBSAI
+2019,2021,2,Blackspotted/Rougheye rockfish,BSAI,1090,899,424,14,1,Blackspotted/Rougheye rockfishBSAI
+2019,2021,2,Blackspotted/Rougheye rockfish,EBS/EAI,NA,560,85,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2019,2021,2,Blackspotted/Rougheye rockfish,CAI/WAI,NA,339,339,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2019,2021,2,Shortraker rockfish,BSAI,722,541,375,15,1,Shortraker rockfishBSAI
+2019,2021,2,Other rockfish,BSAI,1793,1344,1088,16,1,Other rockfishBSAI
+2019,2021,2,Other rockfish,BS,NA,956,700,16,0,Other rockfishBS
+2019,2021,2,Other rockfish,AI,NA,388,388,16,0,Other rockfishAI
+2019,2021,2,Atka mackerel,BSAI,74800,64400,54482,17,1,Atka mackerelBSAI
+2019,2021,2,Atka mackerel,EAI/BS,NA,22540,22540,17,0,Atka mackerelEAI/BS
+2019,2021,2,Atka mackerel,CAI,NA,13524,13524,17,0,Atka mackerelCAI
+2019,2021,2,Atka mackerel,WAI,NA,28336,18418,17,0,Atka mackerelWAI
+2019,2021,2,Skates,BSAI,48289,40248,16000,18,1,SkatesBSAI
+2019,2021,2,Sculpins,BSAI,67817,50863,5000,15,1,SculpinsBSAI
+2019,2021,2,Sharks,BSAI,689,517,150,19,1,SharksBSAI
+2019,2021,2,Octopuses,BSAI,4769,3576,300,20,1,OctopusesBSAI
+2018,2019,1,Pollock,EBS,3914000,2163000,1397000,1,1,PollockEBS
+2018,2019,1,Pollock,AI,64240,52887,19000,1,1,PollockAI
+2018,2019,1,Pollock,Bogoslof,183080,137310,75,1,1,PollockBogoslof
+2018,2019,1,Pacific cod,BS,216000,181000,166475,2,0,Pacific codBS
+2018,2019,1,Pacific cod,AI,27400,20600,14214,2,0,Pacific codAI
+2018,2019,1,Pacific cod,BSAI,243400,201600,180689,2,1,Pacific codBSAI
+2018,2019,1,Sablefish,BS,3221,1489,1489,3,1,SablefishBS
+2018,2019,1,Sablefish,AI,4350,2008,2008,3,1,SablefishAI
+2018,2019,1,Yellowfin sole,BSAI,290000,263200,154000,4,1,Yellowfin soleBSAI
+2018,2019,1,Greenland turbot,BSAI,11362,9658,5294,5,1,Greenland turbotBSAI
+2018,2019,1,Greenland turbot,BS,NA,8431,5125,5,0,Greenland turbotBS
+2018,2019,1,Greenland turbot,AI,NA,1227,169,5,0,Greenland turbotAI
+2018,2019,1,Arrowtooth flounder,BSAI,82939,70673,8000,6,1,Arrowtooth flounderBSAI
+2018,2019,1,Kamchatka flounder,BSAI,10965,9260,5000,7,1,Kamchatka flounderBSAI
+2018,2019,1,Northern rock sole,BSAI,122000,118900,47100,8,1,Northern rock soleBSAI
+2018,2019,1,Flathead sole,BSAI,80918,66625,14500,9,1,Flathead soleBSAI
+2018,2019,1,Alaska plaice,BSAI,39880,33600,18000,10,1,Alaska plaiceBSAI
+2018,2019,1,Other flatfish,BSAI,21824,16368,6500,11,1,Other flatfishBSAI
+2018,2019,1,Pacific ocean perch,BSAI,61067,50594,44069,12,1,Pacific ocean perchBSAI
+2018,2019,1,Pacific ocean perch,BS,NA,14675,14675,12,0,Pacific ocean perchBS
+2018,2019,1,Pacific ocean perch,EAI,NA,11459,11009,12,0,Pacific ocean perchEAI
+2018,2019,1,Pacific ocean perch,CAI,NA,8435,8385,12,0,Pacific ocean perchCAI
+2018,2019,1,Pacific ocean perch,WAI,NA,16025,10000,12,0,Pacific ocean perchWAI
+2018,2019,1,Northern rockfish,BSAI,15507,12664,6500,13,1,Northern rockfishBSAI
+2018,2019,1,Blackspotted/Rougheye rockfish,BSAI,676,555,279,14,1,Blackspotted/Rougheye rockfishBSAI
+2018,2019,1,Blackspotted/Rougheye rockfish,EBS/EAI,NA,351,75,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2018,2019,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,204,204,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2018,2019,1,Shortraker rockfish,BSAI,722,541,358,15,1,Shortraker rockfishBSAI
+2018,2019,1,Other rockfish,BSAI,1793,1344,663,16,1,Other rockfishBSAI
+2018,2019,1,Other rockfish,BS,NA,956,275,16,0,Other rockfishBS
+2018,2019,1,Other rockfish,AI,NA,388,388,16,0,Other rockfishAI
+2018,2019,1,Atka mackerel,BSAI,79200,68500,57951,17,1,Atka mackerelBSAI
+2018,2019,1,Atka mackerel,EAI/BS,NA,23970,23970,17,0,Atka mackerelEAI/BS
+2018,2019,1,Atka mackerel,CAI,NA,14390,14390,17,0,Atka mackerelCAI
+2018,2019,1,Atka mackerel,WAI,NA,30140,19591,17,0,Atka mackerelWAI
+2018,2019,1,Skates,BSAI,51152,42714,26000,18,1,SkatesBSAI
+2018,2019,1,Sculpins,BSAI,53201,39995,5000,15,1,SculpinsBSAI
+2018,2019,1,Sharks,BSAI,689,517,125,19,1,SharksBSAI
+2018,2019,1,Octopuses,BSAI,4769,3576,400,20,1,OctopusesBSAI
+2018,2020,2,Pollock,EBS,3082000,1792000,1420000,1,1,PollockEBS
+2018,2020,2,Pollock,AI,66981,55125,19000,1,1,PollockAI
+2018,2020,2,Pollock,Bogoslof,183080,137310,75,1,1,PollockBogoslof
+2018,2020,2,Pacific cod,BS,183000,137000,124625,2,0,Pacific codBS
+2018,2020,2,Pacific cod,AI,27400,20600,14214,2,0,Pacific codAI
+2018,2020,2,Pacific cod,BSAI,210400,157600,138839,2,1,Pacific codBSAI
+2018,2020,2,Sablefish,BS,4441,1994,1994,3,1,SablefishBS
+2018,2020,2,Sablefish,AI,5997,2688,2688,3,1,SablefishAI
+2018,2020,2,Yellowfin sole,BSAI,284000,257800,166425,4,1,Yellowfin soleBSAI
+2018,2020,2,Greenland turbot,BSAI,10476,8908,5294,5,1,Greenland turbotBSAI
+2018,2020,2,Greenland turbot,BS,NA,7777,5125,5,0,Greenland turbotBS
+2018,2020,2,Greenland turbot,AI,NA,1131,169,5,0,Greenland turbotAI
+2018,2020,2,Arrowtooth flounder,BSAI,83814,71411,8000,6,1,Arrowtooth flounderBSAI
+2018,2020,2,Kamchatka flounder,BSAI,11260,9509,5000,7,1,Kamchatka flounderBSAI
+2018,2020,2,Northern rock sole,BSAI,147500,143700,57100,8,1,Northern rock soleBSAI
+2018,2020,2,Flathead sole,BSAI,83190,68448,14500,9,1,Flathead soleBSAI
+2018,2020,2,Alaska plaice,BSAI,37860,31900,18000,10,1,Alaska plaiceBSAI
+2018,2020,2,Other flatfish,BSAI,21824,16368,6500,11,1,Other flatfishBSAI
+2018,2020,2,Pacific ocean perch,BSAI,59396,49211,43625,12,1,Pacific ocean perchBSAI
+2018,2020,2,Pacific ocean perch,BS,NA,14274,14274,12,0,Pacific ocean perchBS
+2018,2020,2,Pacific ocean perch,EAI,NA,11146,11146,12,0,Pacific ocean perchEAI
+2018,2020,2,Pacific ocean perch,CAI,NA,8205,8205,12,0,Pacific ocean perchCAI
+2018,2020,2,Pacific ocean perch,WAI,NA,15586,10000,12,0,Pacific ocean perchWAI
+2018,2020,2,Northern rockfish,BSAI,15180,12396,6500,13,1,Northern rockfishBSAI
+2018,2020,2,Blackspotted/Rougheye rockfish,BSAI,868,715,279,14,1,Blackspotted/Rougheye rockfishBSAI
+2018,2020,2,Blackspotted/Rougheye rockfish,EBS/EAI,NA,448,75,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2018,2020,2,Blackspotted/Rougheye rockfish,CAI/WAI,NA,267,204,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2018,2020,2,Shortraker rockfish,BSAI,722,541,358,15,1,Shortraker rockfishBSAI
+2018,2020,2,Other rockfish,BSAI,1793,1344,663,16,1,Other rockfishBSAI
+2018,2020,2,Other rockfish,BS,NA,956,275,16,0,Other rockfishBS
+2018,2020,2,Other rockfish,AI,NA,388,388,16,0,Other rockfishAI
+2018,2020,2,Atka mackerel,BSAI,73400,63400,53635,17,1,Atka mackerelBSAI
+2018,2020,2,Atka mackerel,EAI/BS,NA,22190,22190,17,0,Atka mackerelEAI/BS
+2018,2020,2,Atka mackerel,CAI,NA,13310,13310,17,0,Atka mackerelCAI
+2018,2020,2,Atka mackerel,WAI,NA,27900,18135,17,0,Atka mackerelWAI
+2018,2020,2,Skates,BSAI,48944,40813,26000,18,1,SkatesBSAI
+2018,2020,2,Sculpins,BSAI,53201,39995,5000,15,1,SculpinsBSAI
+2018,2020,2,Sharks,BSAI,689,517,125,19,1,SharksBSAI
+2018,2020,2,Octopuses,BSAI,4769,3576,400,20,1,OctopusesBSAI
+2017,2018,1,Pollock,EBS,4797000,2592000,1364341,1,1,PollockEBS
+2017,2018,1,Pollock,AI,49289,40788,19000,1,1,PollockAI
+2017,2018,1,Pollock,Bogoslof,130428,60800,450,1,1,PollockBogoslof
+2017,2018,1,Pacific cod,BS,238000,201000,188136,2,0,Pacific codBS
+2017,2018,1,Pacific cod,AI,28700,21500,15695,2,0,Pacific codAI
+2017,2018,1,Pacific cod,BSAI,266700,222500,203831,2,1,Pacific codBSAI
+2017,2018,1,Sablefish,BS,2887,1464,1464,3,1,SablefishBS
+2017,2018,1,Sablefish,AI,3917,1988,1988,3,1,SablefishAI
+2017,2018,1,Yellowfin sole,BSAI,306700,277500,154000,4,1,Yellowfin soleBSAI
+2017,2018,1,Greenland turbot,BSAI,13148,11132,5294,5,1,Greenland turbotBSAI
+2017,2018,1,Greenland turbot,BS,NA,9718,5125,5,0,Greenland turbotBS
+2017,2018,1,Greenland turbot,AI,NA,1414,169,5,0,Greenland turbotAI
+2017,2018,1,Arrowtooth flounder,BSAI,76757,65932,13621,6,1,Arrowtooth flounderBSAI
+2017,2018,1,Kamchatka flounder,BSAI,11347,9737,5000,7,1,Kamchatka flounderBSAI
+2017,2018,1,Northern rock sole,BSAI,147300,143100,47100,8,1,Northern rock soleBSAI
+2017,2018,1,Flathead sole,BSAI,79862,66773,14500,9,1,Flathead soleBSAI
+2017,2018,1,Alaska plaice,BSAI,41170,34590,16100,10,1,Alaska plaiceBSAI
+2017,2018,1,Other flatfish,BSAI,17591,13193,4000,11,1,Other flatfishBSAI
+2017,2018,1,Pacific ocean perch,BSAI,51675,42509,37361,12,1,Pacific ocean perchBSAI
+2017,2018,1,Pacific ocean perch,BS,NA,11861,11861,12,0,Pacific ocean perchBS
+2017,2018,1,Pacific ocean perch,EAI,NA,10021,9000,12,0,Pacific ocean perchEAI
+2017,2018,1,Pacific ocean perch,CAI,NA,7787,7500,12,0,Pacific ocean perchCAI
+2017,2018,1,Pacific ocean perch,WAI,NA,12840,9000,12,0,Pacific ocean perchWAI
+2017,2018,1,Northern rockfish,BSAI,15888,12975,6100,13,1,Northern rockfishBSAI
+2017,2018,1,Blackspotted/Rougheye rockfish,BSAI,749,613,225,14,1,Blackspotted/Rougheye rockfishBSAI
+2017,2018,1,Blackspotted/Rougheye rockfish,EBS/EAI,NA,374,75,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2017,2018,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,239,150,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2017,2018,1,Shortraker rockfish,BSAI,666,499,150,15,1,Shortraker rockfishBSAI
+2017,2018,1,Other rockfish,BSAI,1816,1362,845,16,1,Other rockfishBSAI
+2017,2018,1,Other rockfish,BS,NA,791,275,16,0,Other rockfishBS
+2017,2018,1,Other rockfish,AI,NA,571,570,16,0,Other rockfishAI
+2017,2018,1,Atka mackerel,BSAI,108600,92000,71000,17,1,Atka mackerelBSAI
+2017,2018,1,Atka mackerel,EAI/BS,NA,36820,36500,17,0,Atka mackerelEAI/BS
+2017,2018,1,Atka mackerel,CAI,NA,32000,21000,17,0,Atka mackerelCAI
+2017,2018,1,Atka mackerel,WAI,NA,23180,13500,17,0,Atka mackerelWAI
+2017,2018,1,Skates,BSAI,46668,39082,27000,18,1,SkatesBSAI
+2017,2018,1,Sculpins,BSAI,53201,39995,5000,15,1,SculpinsBSAI
+2017,2018,1,Sharks,BSAI,689,517,180,19,1,SharksBSAI
+2017,2018,1,Squids,BSAI,6912,5184,1200,21,1,SquidsBSAI
+2017,2018,1,Octopuses,BSAI,4769,3576,250,20,1,OctopusesBSAI
+2017,2019,2,Pollock,EBS,4592000,2467000,1383000,1,1,PollockEBS
+2017,2019,2,Pollock,AI,37431,30803,19000,1,1,PollockAI
+2017,2019,2,Pollock,Bogoslof,130428,60800,500,1,1,PollockBogoslof
+2017,2019,2,Pacific cod,BS,201000,170000,159120,2,0,Pacific codBS
+2017,2019,2,Pacific cod,AI,28700,21500,15695,2,0,Pacific codAI
+2017,2019,2,Pacific cod,BSAI,229700,191500,174815,2,1,Pacific codBSAI
+2017,2019,2,Sablefish,BS,4576,2061,2061,3,1,SablefishBS
+2017,2019,2,Sablefish,AI,6209,2798,2798,3,1,SablefishAI
+2017,2019,2,Yellowfin sole,BSAI,295600,267500,156000,4,1,Yellowfin soleBSAI
+2017,2019,2,Greenland turbot,BSAI,13540,11473,5294,5,1,Greenland turbotBSAI
+2017,2019,2,Greenland turbot,BS,NA,10016,5125,5,0,Greenland turbotBS
+2017,2019,2,Greenland turbot,AI,NA,1457,169,5,0,Greenland turbotAI
+2017,2019,2,Arrowtooth flounder,BSAI,75084,64494,14000,6,1,Arrowtooth flounderBSAI
+2017,2019,2,Kamchatka flounder,BSAI,12022,10317,5000,7,1,Kamchatka flounderBSAI
+2017,2019,2,Northern rock sole,BSAI,136000,132000,49100,8,1,Northern rock soleBSAI
+2017,2019,2,Flathead sole,BSAI,78036,65227,16500,9,1,Flathead soleBSAI
+2017,2019,2,Alaska plaice,BSAI,38800,32700,16252,10,1,Alaska plaiceBSAI
+2017,2019,2,Other flatfish,BSAI,17591,13193,4000,11,1,Other flatfishBSAI
+2017,2019,2,Pacific ocean perch,BSAI,50098,41212,37880,12,1,Pacific ocean perchBSAI
+2017,2019,2,Pacific ocean perch,BS,NA,11499,11499,12,0,Pacific ocean perchBS
+2017,2019,2,Pacific ocean perch,EAI,NA,9715,9715,12,0,Pacific ocean perchEAI
+2017,2019,2,Pacific ocean perch,CAI,NA,7549,7549,12,0,Pacific ocean perchCAI
+2017,2019,2,Pacific ocean perch,WAI,NA,12449,9117,12,0,Pacific ocean perchWAI
+2017,2019,2,Northern rockfish,BSAI,15563,12710,6500,13,1,Northern rockfishBSAI
+2017,2019,2,Blackspotted/Rougheye rockfish,BSAI,829,678,225,14,1,Blackspotted/Rougheye rockfishBSAI
+2017,2019,2,Blackspotted/Rougheye rockfish,EBS/EAI,NA,414,75,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2017,2019,2,Blackspotted/Rougheye rockfish,CAI/WAI,NA,264,150,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2017,2019,2,Shortraker rockfish,BSAI,666,499,150,15,1,Shortraker rockfishBSAI
+2017,2019,2,Other rockfish,BSAI,1816,1362,845,16,1,Other rockfishBSAI
+2017,2019,2,Other rockfish,BS,NA,791,275,16,0,Other rockfishBS
+2017,2019,2,Other rockfish,AI,NA,571,570,16,0,Other rockfishAI
+2017,2019,2,Atka mackerel,BSAI,97200,84400,72500,17,1,Atka mackerelBSAI
+2017,2019,2,Atka mackerel,EAI/BS,NA,33780,33780,17,0,Atka mackerelEAI/BS
+2017,2019,2,Atka mackerel,CAI,NA,29350,24895,17,0,Atka mackerelCAI
+2017,2019,2,Atka mackerel,WAI,NA,21270,13825,17,0,Atka mackerelWAI
+2017,2019,2,Skates,BSAI,44202,36957,27000,18,1,SkatesBSAI
+2017,2019,2,Sculpins,BSAI,53201,39995,5000,15,1,SculpinsBSAI
+2017,2019,2,Sharks,BSAI,689,517,180,19,1,SharksBSAI
+2017,2019,2,Squids,BSAI,6912,5184,1200,21,1,SquidsBSAI
+2017,2019,2,Octopuses,BSAI,4769,3576,200,20,1,OctopusesBSAI
+2016,2017,1,Pollock,EBS,3640000,2800000,1345000,1,1,PollockEBS
+2016,2017,1,Pollock,AI,43650,36061,19000,1,1,PollockAI
+2016,2017,1,Pollock,Bogoslof,130428,60800,500,1,1,PollockBogoslof
+2016,2017,1,Pacific cod,BS,284000,239000,223704,2,0,Pacific codBS
+2016,2017,1,Pacific cod,AI,28700,21500,15695,2,0,Pacific codAI
+2016,2017,1,Pacific cod,BSAI,312700,260500,239399,2,1,Pacific codBSAI
+2016,2017,1,Sablefish,BS,1499,1274,1274,3,1,SablefishBS
+2016,2017,1,Sablefish,AI,2044,1735,1735,3,1,SablefishAI
+2016,2017,1,Yellowfin sole,BSAI,287000,260800,154000,4,1,Yellowfin soleBSAI
+2016,2017,1,Greenland turbot,BSAI,11615,6644,4500,5,1,Greenland turbotBSAI
+2016,2017,1,Greenland turbot,BS,NA,5800,4375,5,0,Greenland turbotBS
+2016,2017,1,Greenland turbot,AI,NA,844,125,5,0,Greenland turbotAI
+2016,2017,1,Arrowtooth flounder,BSAI,76100,65371,14000,6,1,Arrowtooth flounderBSAI
+2016,2017,1,Kamchatka flounder,BSAI,10360,8880,5000,7,1,Kamchatka flounderBSAI
+2016,2017,1,Northern rock sole,BSAI,159700,155100,47100,8,1,Northern rock soleBSAI
+2016,2017,1,Flathead sole,BSAI,81654,68278,14500,9,1,Flathead soleBSAI
+2016,2017,1,Alaska plaice,BSAI,42800,36000,13000,10,1,Alaska plaiceBSAI
+2016,2017,1,Other flatfish,BSAI,17591,13193,2500,11,1,Other flatfishBSAI
+2016,2017,1,Pacific ocean perch,BSAI,53152,43723,34900,12,1,Pacific ocean perchBSAI
+2016,2017,1,Pacific ocean perch,BS,NA,12199,11000,12,0,Pacific ocean perchBS
+2016,2017,1,Pacific ocean perch,EAI,NA,10307,7900,12,0,Pacific ocean perchEAI
+2016,2017,1,Pacific ocean perch,CAI,NA,8009,7000,12,0,Pacific ocean perchCAI
+2016,2017,1,Pacific ocean perch,WAI,NA,13208,9000,12,0,Pacific ocean perchWAI
+2016,2017,1,Northern rockfish,BSAI,16242,13264,5000,13,1,Northern rockfishBSAI
+2016,2017,1,Blackspotted/Rougheye rockfish,BSAI,612,501,225,14,1,Blackspotted/Rougheye rockfishBSAI
+2016,2017,1,Blackspotted/Rougheye rockfish,EBS/EAI,NA,306,100,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2016,2017,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,195,125,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2016,2017,1,Shortraker rockfish,BSAI,666,499,125,15,1,Shortraker rockfishBSAI
+2016,2017,1,Other rockfish,BSAI,1816,1362,875,16,1,Other rockfishBSAI
+2016,2017,1,Other rockfish,BS,NA,791,325,16,0,Other rockfishBS
+2016,2017,1,Other rockfish,AI,NA,571,550,16,0,Other rockfishAI
+2016,2017,1,Atka mackerel,BSAI,102700,87200,65000,17,1,Atka mackerelBSAI
+2016,2017,1,Atka mackerel,EAI/BS,NA,34890,34500,17,0,Atka mackerelEAI/BS
+2016,2017,1,Atka mackerel,CAI,NA,30330,18000,17,0,Atka mackerelCAI
+2016,2017,1,Atka mackerel,WAI,NA,21980,12500,17,0,Atka mackerelWAI
+2016,2017,1,Skates,BSAI,49063,41144,26000,18,1,SkatesBSAI
+2016,2017,1,Sculpins,BSAI,56582,42387,4500,15,1,SculpinsBSAI
+2016,2017,1,Sharks,BSAI,689,517,125,19,1,SharksBSAI
+2016,2017,1,Squids,BSAI,6912,5184,1342,21,1,SquidsBSAI
+2016,2017,1,Octopuses,BSAI,4769,3576,400,20,1,OctopusesBSAI
+2016,2018,2,Pollock,EBS,4360000,2979000,1345000,1,1,PollockEBS
+2016,2018,2,Pollock,AI,49291,40788,19000,1,1,PollockAI
+2016,2018,2,Pollock,Bogoslof,130428,97428,500,1,1,PollockBogoslof
+2016,2018,2,Pacific cod,BS,302000,255000,223704,2,0,Pacific codBS
+2016,2018,2,Pacific cod,AI,28700,21500,15695,2,0,Pacific codAI
+2016,2018,2,Pacific cod,BSAI,330700,276500,239399,2,1,Pacific codBSAI
+2016,2018,2,Sablefish,BS,1519,1291,1274,3,1,SablefishBS
+2016,2018,2,Sablefish,AI,2072,1758,1735,3,1,SablefishAI
+2016,2018,2,Yellowfin sole,BSAI,276000,250800,154000,4,1,Yellowfin soleBSAI
+2016,2018,2,Greenland turbot,BSAI,12831,10864,4500,5,1,Greenland turbotBSAI
+2016,2018,2,Greenland turbot,BS,NA,9484,4375,5,0,Greenland turbotBS
+2016,2018,2,Greenland turbot,AI,NA,1380,125,5,0,Greenland turbotAI
+2016,2018,2,Arrowtooth flounder,BSAI,67023,58633,14000,6,1,Arrowtooth flounderBSAI
+2016,2018,2,Kamchatka flounder,BSAI,10700,9200,5000,7,1,Kamchatka flounderBSAI
+2016,2018,2,Northern rock sole,BSAI,147300,143100,47100,8,1,Northern rock soleBSAI
+2016,2018,2,Flathead sole,BSAI,79136,66164,14500,9,1,Flathead soleBSAI
+2016,2018,2,Alaska plaice,BSAI,36900,32100,13000,10,1,Alaska plaiceBSAI
+2016,2018,2,Other flatfish,BSAI,17591,13193,2500,11,1,Other flatfishBSAI
+2016,2018,2,Pacific ocean perch,BSAI,51950,42735,34900,12,1,Pacific ocean perchBSAI
+2016,2018,2,Pacific ocean perch,BS,NA,11924,11000,12,0,Pacific ocean perchBS
+2016,2018,2,Pacific ocean perch,EAI,NA,10074,7900,12,0,Pacific ocean perchEAI
+2016,2018,2,Pacific ocean perch,CAI,NA,7828,7000,12,0,Pacific ocean perchCAI
+2016,2018,2,Pacific ocean perch,WAI,NA,12909,9000,12,0,Pacific ocean perchWAI
+2016,2018,2,Northern rockfish,BSAI,15854,12947,5000,13,1,Northern rockfishBSAI
+2016,2018,2,Blackspotted/Rougheye rockfish,BSAI,750,614,225,14,1,Blackspotted/Rougheye rockfishBSAI
+2016,2018,2,Blackspotted/Rougheye rockfish,EBS/EAI,NA,374,100,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2016,2018,2,Blackspotted/Rougheye rockfish,CAI/WAI,NA,240,125,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2016,2018,2,Shortraker rockfish,BSAI,666,499,125,15,1,Shortraker rockfishBSAI
+2016,2018,2,Other rockfish,BSAI,1816,1362,875,16,1,Other rockfishBSAI
+2016,2018,2,Other rockfish,BS,NA,791,325,16,0,Other rockfishBS
+2016,2018,2,Other rockfish,AI,NA,571,550,16,0,Other rockfishAI
+2016,2018,2,Atka mackerel,BSAI,99900,85000,65000,17,1,Atka mackerelBSAI
+2016,2018,2,Atka mackerel,EAI/BS,NA,34000,34000,17,0,Atka mackerelEAI/BS
+2016,2018,2,Atka mackerel,CAI,NA,29600,18500,17,0,Atka mackerelCAI
+2016,2018,2,Atka mackerel,WAI,NA,21400,12500,17,0,Atka mackerelWAI
+2016,2018,2,Skates,BSAI,46583,39008,26000,18,1,SkatesBSAI
+2016,2018,2,Sculpins,BSAI,56582,42387,4500,15,1,SculpinsBSAI
+2016,2018,2,Sharks,BSAI,689,517,125,19,1,SharksBSAI
+2016,2018,2,Squids,BSAI,6912,5184,1342,21,1,SquidsBSAI
+2016,2018,2,Octopuses,BSAI,4769,3576,400,20,1,OctopusesBSAI
+2015,2016,1,Pollock,EBS,3910000,2090000,1340000,1,1,PollockEBS
+2015,2016,1,Pollock,AI,39075,32227,19000,1,1,PollockAI
+2015,2016,1,Pollock,Bogoslof,31906,23850,500,1,1,PollockBogoslof
+2015,2016,1,Pacific cod,BS,390000,255000,238680,2,0,Pacific codBS
+2015,2016,1,Pacific cod,AI,23400,17600,12839,2,0,Pacific codAI
+2015,2016,1,Pacific cod,BSAI,413400,272600,251519,2,1,Pacific codBSAI
+2015,2016,1,Sablefish,BS,1304,1151,1151,3,1,SablefishBS
+2015,2016,1,Sablefish,AI,1766,1557,1557,3,1,SablefishAI
+2015,2016,1,Yellowfin sole,BSAI,228100,211700,144000,4,1,Yellowfin soleBSAI
+2015,2016,1,Greenland turbot,BSAI,4194,3462,2873,5,1,Greenland turbotBSAI
+2015,2016,1,Greenland turbot,BS,NA,2673,2673,5,0,Greenland turbotBS
+2015,2016,1,Greenland turbot,AI,NA,789,200,5,0,Greenland turbotAI
+2015,2016,1,Arrowtooth flounder,BSAI,94035,80701,14000,6,1,Arrowtooth flounderBSAI
+2015,2016,1,Kamchatka flounder,BSAI,11100,9500,5000,7,1,Kamchatka flounderBSAI
+2015,2016,1,Northern rock sole,BSAI,165900,161000,57100,8,1,Northern rock soleBSAI
+2015,2016,1,Flathead sole,BSAI,79562,66250,21000,9,1,Flathead soleBSAI
+2015,2016,1,Alaska plaice,BSAI,49000,41000,14500,10,1,Alaska plaiceBSAI
+2015,2016,1,Other flatfish,BSAI,17414,13061,2500,11,1,Other flatfishBSAI
+2015,2016,1,Pacific ocean perch,BSAI,40529,33320,31900,12,1,Pacific ocean perchBSAI
+2015,2016,1,Pacific ocean perch,BS,NA,8353,8000,12,0,Pacific ocean perchBS
+2015,2016,1,Pacific ocean perch,EAI,NA,7916,7900,12,0,Pacific ocean perchEAI
+2015,2016,1,Pacific ocean perch,CAI,NA,7355,7000,12,0,Pacific ocean perchCAI
+2015,2016,1,Pacific ocean perch,WAI,NA,9696,9000,12,0,Pacific ocean perchWAI
+2015,2016,1,Northern rockfish,BSAI,14689,11960,4500,13,1,Northern rockfishBSAI
+2015,2016,1,Blackspotted/Rougheye rockfish,BSAI,693,561,300,14,1,Blackspotted/Rougheye rockfishBSAI
+2015,2016,1,Blackspotted/Rougheye rockfish,EBS/EAI,NA,179,100,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2015,2016,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,382,200,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2015,2016,1,Shortraker rockfish,BSAI,690,518,200,15,1,Shortraker rockfishBSAI
+2015,2016,1,Other rockfish,BSAI,1667,1250,875,16,1,Other rockfishBSAI
+2015,2016,1,Other rockfish,BS,NA,695,325,16,0,Other rockfishBS
+2015,2016,1,Other rockfish,AI,NA,555,550,16,0,Other rockfishAI
+2015,2016,1,Atka mackerel,BSAI,104749,90340,55000,17,1,Atka mackerelBSAI
+2015,2016,1,Atka mackerel,EAI/BS,NA,30832,28500,17,0,Atka mackerelEAI/BS
+2015,2016,1,Atka mackerel,CAI,NA,27216,16000,17,0,Atka mackerelCAI
+2015,2016,1,Atka mackerel,WAI,NA,32292,10500,17,0,Atka mackerelWAI
+2015,2016,1,Skates,BSAI,50215,42134,26000,18,1,SkatesBSAI
+2015,2016,1,Sculpins,BSAI,52365,39725,4500,15,1,SculpinsBSAI
+2015,2016,1,Sharks,BSAI,1363,1022,125,19,1,SharksBSAI
+2015,2016,1,Squids,BSAI,6912,5184,1500,21,1,SquidsBSAI
+2015,2016,1,Octopuses,BSAI,3452,2589,400,20,1,OctopusesBSAI
+2015,2017,2,Pollock,EBS,3540000,2019000,1340643,1,1,PollockEBS
+2015,2017,2,Pollock,AI,44455,36664,19000,1,1,PollockAI
+2015,2017,2,Pollock,Bogoslof,31906,23850,500,1,1,PollockBogoslof
+2015,2017,2,Pacific cod,BS,412000,255000,238680,2,0,Pacific codBS
+2015,2017,2,Pacific cod,AI,23400,17600,12839,2,0,Pacific codAI
+2015,2017,2,Pacific cod,BSAI,435400,272600,251519,2,1,Pacific codBSAI
+2015,2017,2,Sablefish,BS,1241,1052,1052,3,1,SablefishBS
+2015,2017,2,Sablefish,AI,1681,1423,1423,3,1,SablefishAI
+2015,2017,2,Yellowfin sole,BSAI,219200,203500,144000,4,1,Yellowfin soleBSAI
+2015,2017,2,Greenland turbot,BSAI,7416,6132,2873,5,1,Greenland turbotBSAI
+2015,2017,2,Greenland turbot,BS,NA,4734,2673,5,0,Greenland turbotBS
+2015,2017,2,Greenland turbot,AI,NA,1398,200,5,0,Greenland turbotAI
+2015,2017,2,Arrowtooth flounder,BSAI,84156,72216,14000,6,1,Arrowtooth flounderBSAI
+2015,2017,2,Kamchatka flounder,BSAI,11700,10000,5000,7,1,Kamchatka flounderBSAI
+2015,2017,2,Northern rock sole,BSAI,149400,145000,57100,8,1,Northern rock soleBSAI
+2015,2017,2,Flathead sole,BSAI,77544,64580,21000,9,1,Flathead soleBSAI
+2015,2017,2,Alaska plaice,BSAI,46800,39100,14500,10,1,Alaska plaiceBSAI
+2015,2017,2,Other flatfish,BSAI,17414,13061,2500,11,1,Other flatfishBSAI
+2015,2017,2,Pacific ocean perch,BSAI,38589,31724,31490,12,1,Pacific ocean perchBSAI
+2015,2017,2,Pacific ocean perch,BS,NA,7953,7953,12,0,Pacific ocean perchBS
+2015,2017,2,Pacific ocean perch,EAI,NA,7537,7537,12,0,Pacific ocean perchEAI
+2015,2017,2,Pacific ocean perch,CAI,NA,7002,7000,12,0,Pacific ocean perchCAI
+2015,2017,2,Pacific ocean perch,WAI,NA,9232,9000,12,0,Pacific ocean perchWAI
+2015,2017,2,Northern rockfish,BSAI,14085,11468,4500,13,1,Northern rockfishBSAI
+2015,2017,2,Blackspotted/Rougheye rockfish,BSAI,855,694,300,14,1,Blackspotted/Rougheye rockfishBSAI
+2015,2017,2,Blackspotted/Rougheye rockfish,EBS/EAI,NA,216,100,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2015,2017,2,Blackspotted/Rougheye rockfish,CAI/WAI,NA,478,200,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2015,2017,2,Shortraker rockfish,BSAI,690,518,200,15,1,Shortraker rockfishBSAI
+2015,2017,2,Other rockfish,BSAI,1667,1250,875,16,1,Other rockfishBSAI
+2015,2017,2,Other rockfish,BS,NA,695,325,16,0,Other rockfishBS
+2015,2017,2,Other rockfish,AI,NA,555,550,16,0,Other rockfishAI
+2015,2017,2,Atka mackerel,BSAI,99490,85840,55000,17,1,Atka mackerelBSAI
+2015,2017,2,Atka mackerel,EAI/BS,NA,29296,28500,17,0,Atka mackerelEAI/BS
+2015,2017,2,Atka mackerel,CAI,NA,25860,16000,17,0,Atka mackerelCAI
+2015,2017,2,Atka mackerel,WAI,NA,30684,10500,17,0,Atka mackerelWAI
+2015,2017,2,Skates,BSAI,47674,39943,26000,18,1,SkatesBSAI
+2015,2017,2,Sculpins,BSAI,52365,39725,4500,15,1,SculpinsBSAI
+2015,2017,2,Sharks,BSAI,1363,1022,125,19,1,SharksBSAI
+2015,2017,2,Squids,BSAI,6912,5184,1500,21,1,SquidsBSAI
+2015,2017,2,Octopuses,BSAI,3452,2589,400,20,1,OctopusesBSAI
+2014,2015,1,Pollock,EBS,3330000,1637000,1310000,1,1,PollockEBS
+2014,2015,1,Pollock,AI,36005,29659,19000,1,1,PollockAI
+2014,2015,1,Pollock,Bogoslof,21200,15900,100,1,1,PollockBogoslof
+2014,2015,1,Pacific cod,BS,346000,255000,240000,2,0,Pacific codBS
+2014,2015,1,Pacific cod,AI,23400,17600,9422,2,0,Pacific codAI
+2014,2015,1,Pacific cod,BSAI,369400,272600,249422,2,1,Pacific codBSAI
+2014,2015,1,Sablefish,BS,1575,1333,1333,3,1,SablefishBS
+2014,2015,1,Sablefish,AI,2128,1802,1802,3,1,SablefishAI
+2014,2015,1,Yellowfin sole,BSAI,266400,248800,149000,4,1,Yellowfin soleBSAI
+2014,2015,1,Greenland turbot,BSAI,3903,3172,2648,5,1,Greenland turbotBSAI
+2014,2015,1,Greenland turbot,BS,NA,2448,2448,5,0,Greenland turbotBS
+2014,2015,1,Greenland turbot,AI,NA,724,200,5,0,Greenland turbotAI
+2014,2015,1,Arrowtooth flounder,BSAI,93856,80547,22000,6,1,Arrowtooth flounderBSAI
+2014,2015,1,Kamchatka flounder,BSAI,10500,9000,6500,7,1,Kamchatka flounderBSAI
+2014,2015,1,Northern rock sole,BSAI,187600,181700,69250,8,1,Northern rock soleBSAI
+2014,2015,1,Flathead sole,BSAI,79419,66130,24250,9,1,Flathead soleBSAI
+2014,2015,1,Alaska plaice,BSAI,54000,44900,18500,10,1,Alaska plaiceBSAI
+2014,2015,1,Other flatfish,BSAI,17700,13250,3620,11,1,Other flatfishBSAI
+2014,2015,1,Pacific ocean perch,BSAI,42558,34988,32021,12,1,Pacific ocean perchBSAI
+2014,2015,1,Pacific ocean perch,BS,NA,8771,8021,12,0,Pacific ocean perchBS
+2014,2015,1,Pacific ocean perch,EAI,NA,8312,8000,12,0,Pacific ocean perchEAI
+2014,2015,1,Pacific ocean perch,CAI,NA,7723,7000,12,0,Pacific ocean perchCAI
+2014,2015,1,Pacific ocean perch,WAI,NA,10182,9000,12,0,Pacific ocean perchWAI
+2014,2015,1,Northern rockfish,BSAI,15337,12488,3250,13,1,Northern rockfishBSAI
+2014,2015,1,Blackspotted/Rougheye rockfish,BSAI,560,453,349,14,1,Blackspotted/Rougheye rockfishBSAI
+2014,2015,1,Blackspotted/Rougheye rockfish,EBS/EAI,NA,149,149,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2014,2015,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,304,200,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2014,2015,1,Shortraker rockfish,BSAI,690,518,250,15,1,Shortraker rockfishBSAI
+2014,2015,1,Other rockfish,BSAI,1667,1250,880,16,1,Other rockfishBSAI
+2014,2015,1,Other rockfish,BS,NA,695,325,16,0,Other rockfishBS
+2014,2015,1,Other rockfish,AI,NA,555,555,16,0,Other rockfishAI
+2014,2015,1,Atka mackerel,BSAI,125297,106000,54500,17,1,Atka mackerelBSAI
+2014,2015,1,Atka mackerel,EAI/BS,NA,38492,27000,17,0,Atka mackerelEAI/BS
+2014,2015,1,Atka mackerel,CAI,NA,33108,17000,17,0,Atka mackerelCAI
+2014,2015,1,Atka mackerel,WAI,NA,34400,10500,17,0,Atka mackerelWAI
+2014,2015,1,Skates,BSAI,49575,41658,25700,18,1,SkatesBSAI
+2014,2015,1,Sculpins,BSAI,52365,39725,4700,15,1,SculpinsBSAI
+2014,2015,1,Sharks,BSAI,1363,1022,125,19,1,SharksBSAI
+2014,2015,1,Squids,BSAI,2624,1970,400,21,1,SquidsBSAI
+2014,2015,1,Octopuses,BSAI,3452,2589,400,20,1,OctopusesBSAI
+2014,2016,2,Pollock,EBS,3490000,1554000,1310000,1,1,PollockEBS
+2014,2016,2,Pollock,AI,38699,31900,19000,1,1,PollockAI
+2014,2016,2,Pollock,Bogoslof,21200,15900,100,1,1,PollockBogoslof
+2014,2016,2,Pacific cod,BS,389000,255000,240000,2,0,Pacific codBS
+2014,2016,2,Pacific cod,AI,23400,17600,9422,2,0,Pacific codAI
+2014,2016,2,Pacific cod,BSAI,412400,272600,249422,2,1,Pacific codBSAI
+2014,2016,2,Sablefish,BS,1431,1211,1211,3,1,SablefishBS
+2014,2016,2,Sablefish,AI,1934,1637,1637,3,1,SablefishAI
+2014,2016,2,Yellowfin sole,BSAI,262900,245500,149000,4,1,Yellowfin soleBSAI
+2014,2016,2,Greenland turbot,BSAI,6453,5248,2648,5,1,Greenland turbotBSAI
+2014,2016,2,Greenland turbot,BS,NA,4050,2448,5,0,Greenland turbotBS
+2014,2016,2,Greenland turbot,AI,NA,1198,200,5,0,Greenland turbotAI
+2014,2016,2,Arrowtooth flounder,BSAI,91663,78661,22000,6,1,Arrowtooth flounderBSAI
+2014,2016,2,Kamchatka flounder,BSAI,11000,9500,6500,7,1,Kamchatka flounderBSAI
+2014,2016,2,Northern rock sole,BSAI,170100,164800,69250,8,1,Northern rock soleBSAI
+2014,2016,2,Flathead sole,BSAI,76504,63711,24250,9,1,Flathead soleBSAI
+2014,2016,2,Alaska plaice,BSAI,51600,42900,18500,10,1,Alaska plaiceBSAI
+2014,2016,2,Other flatfish,BSAI,17700,13250,3620,11,1,Other flatfishBSAI
+2014,2016,2,Pacific ocean perch,BSAI,40809,33550,31991,12,1,Pacific ocean perchBSAI
+2014,2016,2,Pacific ocean perch,BS,NA,8411,8021,12,0,Pacific ocean perchBS
+2014,2016,2,Pacific ocean perch,EAI,NA,7970,7970,12,0,Pacific ocean perchEAI
+2014,2016,2,Pacific ocean perch,CAI,NA,7406,7000,12,0,Pacific ocean perchCAI
+2014,2016,2,Pacific ocean perch,WAI,NA,9763,9000,12,0,Pacific ocean perchWAI
+2014,2016,2,Northern rockfish,BSAI,15100,12295,3250,13,1,Northern rockfishBSAI
+2014,2016,2,Blackspotted/Rougheye rockfish,BSAI,688,555,349,14,1,Blackspotted/Rougheye rockfishBSAI
+2014,2016,2,Blackspotted/Rougheye rockfish,EBS/EAI,NA,178,149,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2014,2016,2,Blackspotted/Rougheye rockfish,CAI/WAI,NA,377,200,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2014,2016,2,Shortraker rockfish,BSAI,690,518,250,15,1,Shortraker rockfishBSAI
+2014,2016,2,Other rockfish,BSAI,1667,1250,880,16,1,Other rockfishBSAI
+2014,2016,2,Other rockfish,BS,NA,695,325,16,0,Other rockfishBS
+2014,2016,2,Other rockfish,AI,NA,555,555,16,0,Other rockfishAI
+2014,2016,2,Atka mackerel,BSAI,115908,98137,54817,17,1,Atka mackerelBSAI
+2014,2016,2,Atka mackerel,EAI/BS,NA,35637,27317,17,0,Atka mackerelEAI/BS
+2014,2016,2,Atka mackerel,CAI,NA,30652,17000,17,0,Atka mackerelCAI
+2014,2016,2,Atka mackerel,WAI,NA,31848,10500,17,0,Atka mackerelWAI
+2014,2016,2,Skates,BSAI,47035,39468,25700,18,1,SkatesBSAI
+2014,2016,2,Sculpins,BSAI,52365,39725,4700,15,1,SculpinsBSAI
+2014,2016,2,Sharks,BSAI,1363,1022,125,19,1,SharksBSAI
+2014,2016,2,Squids,BSAI,2624,1970,400,21,1,SquidsBSAI
+2014,2016,2,Octopuses,BSAI,3452,2589,400,20,1,OctopusesBSAI
+2013,2014,1,Pollock,EBS,2795000,1369000,1267000,1,1,PollockEBS
+2013,2014,1,Pollock,AI,42811,35048,19000,1,1,PollockAI
+2013,2014,1,Pollock,Bogoslof,13413,10059,75,1,1,PollockBogoslof
+2013,2014,1,Pacific cod,BS,299000,255000,246897,2,0,Pacific codBS
+2013,2014,1,Pacific cod,AI,20100,15100,6997,2,0,Pacific codAI
+2013,2014,1,Pacific cod,BSAI,319100,270100,253894,2,1,Pacific codBSAI
+2013,2014,1,Sablefish,BS,1584,1339,1339,3,1,SablefishBS
+2013,2014,1,Sablefish,AI,2141,1811,1811,3,1,SablefishAI
+2013,2014,1,Yellowfin sole,BSAI,259700,239800,184000,4,1,Yellowfin soleBSAI
+2013,2014,1,Greenland turbot,BSAI,2647,2124,2124,5,1,Greenland turbotBSAI
+2013,2014,1,Greenland turbot,BS,NA,1659,1659,5,0,Greenland turbotBS
+2013,2014,1,Greenland turbot,AI,NA,465,465,5,0,Greenland turbotAI
+2013,2014,1,Arrowtooth flounder,BSAI,125642,106599,25000,6,1,Arrowtooth flounderBSAI
+2013,2014,1,Kamchatka flounder,BSAI,8270,7100,7100,7,1,Kamchatka flounderBSAI
+2013,2014,1,Northern rock sole,BSAI,228700,203800,85000,8,1,Northern rock soleBSAI
+2013,2014,1,Flathead sole,BSAI,79633,66293,24500,9,1,Flathead soleBSAI
+2013,2014,1,Alaska plaice,BSAI,66800,55100,24500,10,1,Alaska plaiceBSAI
+2013,2014,1,Other flatfish,BSAI,16700,12400,2650,11,1,Other flatfishBSAI
+2013,2014,1,Pacific ocean perch,BSAI,39585,33122,33122,12,1,Pacific ocean perchBSAI
+2013,2014,1,Pacific ocean perch,BS,NA,7684,7684,12,0,Pacific ocean perchBS
+2013,2014,1,Pacific ocean perch,EAI,NA,9246,9246,12,0,Pacific ocean perchEAI
+2013,2014,1,Pacific ocean perch,CAI,NA,6594,6594,12,0,Pacific ocean perchCAI
+2013,2014,1,Pacific ocean perch,WAI,NA,9598,9598,12,0,Pacific ocean perchWAI
+2013,2014,1,Northern rockfish,BSAI,12077,9761,2594,13,1,Northern rockfishBSAI
+2013,2014,1,Blackspotted/Rougheye rockfish,BSAI,505,416,416,14,1,Blackspotted/Rougheye rockfishBSAI
+2013,2014,1,Blackspotted/Rougheye rockfish,EBS/EAI,NA,177,177,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2013,2014,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,239,239,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2013,2014,1,Shortraker rockfish,BSAI,493,370,370,15,1,Shortraker rockfishBSAI
+2013,2014,1,Other rockfish,BSAI,1550,1163,773,16,1,Other rockfishBSAI
+2013,2014,1,Other rockfish,BS,NA,690,300,16,0,Other rockfishBS
+2013,2014,1,Other rockfish,AI,NA,473,473,16,0,Other rockfishAI
+2013,2014,1,Atka mackerel,BSAI,74492,64131,32322,17,1,Atka mackerelBSAI
+2013,2014,1,Atka mackerel,EAI/BS,NA,21652,21652,17,0,Atka mackerelEAI/BS
+2013,2014,1,Atka mackerel,CAI,NA,20574,9670,17,0,Atka mackerelCAI
+2013,2014,1,Atka mackerel,WAI,NA,21905,1000,17,0,Atka mackerelWAI
+2013,2014,1,Skates,BSAI,41849,35383,26000,18,1,SkatesBSAI
+2013,2014,1,Sculpins,BSAI,56424,42318,5750,15,1,SculpinsBSAI
+2013,2014,1,Sharks,BSAI,1363,1022,125,19,1,SharksBSAI
+2013,2014,1,Squids,BSAI,2624,1970,310,21,1,SquidsBSAI
+2013,2014,1,Octopuses,BSAI,3450,2590,225,20,1,OctopusesBSAI
+2013,2015,2,Pollock,EBS,2693000,1258000,1258000,1,1,PollockEBS
+2013,2015,2,Pollock,AI,47713,39412,19000,1,1,PollockAI
+2013,2015,2,Pollock,Bogoslof,13413,10059,75,1,1,PollockBogoslof
+2013,2015,2,Pacific cod,BS,319000,272000,251712,2,0,Pacific codBS
+2013,2015,2,Pacific cod,AI,20100,15100,6487,2,0,Pacific codAI
+2013,2015,2,Pacific cod,BSAI,339100,287100,258199,2,1,Pacific codBSAI
+2013,2015,2,Sablefish,BS,1432,1210,1210,3,1,SablefishBS
+2013,2015,2,Sablefish,AI,1936,1636,1636,3,1,SablefishAI
+2013,2015,2,Yellowfin sole,BSAI,268900,248300,187000,4,1,Yellowfin soleBSAI
+2013,2015,2,Greenland turbot,BSAI,3864,3173,3173,5,1,Greenland turbotBSAI
+2013,2015,2,Greenland turbot,BS,NA,2478,2478,5,0,Greenland turbotBS
+2013,2015,2,Greenland turbot,AI,NA,695,695,5,0,Greenland turbotAI
+2013,2015,2,Arrowtooth flounder,BSAI,125025,106089,25000,6,1,Arrowtooth flounderBSAI
+2013,2015,2,Kamchatka flounder,BSAI,8500,7300,7300,7,1,Kamchatka flounderBSAI
+2013,2015,2,Northern rock sole,BSAI,213310,190100,85000,8,1,Northern rock soleBSAI
+2013,2015,2,Flathead sole,BSAI,77023,64127,25129,9,1,Flathead soleBSAI
+2013,2015,2,Alaska plaice,BSAI,66300,54700,25000,10,1,Alaska plaiceBSAI
+2013,2015,2,Other flatfish,BSAI,16700,12400,3000,11,1,Other flatfishBSAI
+2013,2015,2,Pacific ocean perch,BSAI,37817,31641,31641,12,1,Pacific ocean perchBSAI
+2013,2015,2,Pacific ocean perch,BS,NA,7340,7340,12,0,Pacific ocean perchBS
+2013,2015,2,Pacific ocean perch,EAI,NA,8833,8833,12,0,Pacific ocean perchEAI
+2013,2015,2,Pacific ocean perch,CAI,NA,6299,6299,12,0,Pacific ocean perchCAI
+2013,2015,2,Pacific ocean perch,WAI,NA,9169,9169,12,0,Pacific ocean perchWAI
+2013,2015,2,Northern rockfish,BSAI,11943,9652,3000,13,1,Northern rockfishBSAI
+2013,2015,2,Blackspotted/Rougheye rockfish,BSAI,580,478,478,14,1,Blackspotted/Rougheye rockfishBSAI
+2013,2015,2,Blackspotted/Rougheye rockfish,EBS/EAI,NA,201,201,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2013,2015,2,Blackspotted/Rougheye rockfish,CAI/WAI,NA,277,277,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2013,2015,2,Shortraker rockfish,BSAI,493,370,370,15,1,Shortraker rockfishBSAI
+2013,2015,2,Other rockfish,BSAI,1550,1163,873,16,1,Other rockfishBSAI
+2013,2015,2,Other rockfish,BS,NA,690,400,16,0,Other rockfishBS
+2013,2015,2,Other rockfish,AI,NA,473,473,16,0,Other rockfishAI
+2013,2015,2,Atka mackerel,BSAI,74898,64477,32491,17,1,Atka mackerelBSAI
+2013,2015,2,Atka mackerel,EAI/BS,NA,21769,21769,17,0,Atka mackerelEAI/BS
+2013,2015,2,Atka mackerel,CAI,NA,20685,9722,17,0,Atka mackerelCAI
+2013,2015,2,Atka mackerel,WAI,NA,22023,1000,17,0,Atka mackerelWAI
+2013,2015,2,Skates,BSAI,39746,33545,26000,18,1,SkatesBSAI
+2013,2015,2,Sculpins,BSAI,56424,42318,5750,15,1,SculpinsBSAI
+2013,2015,2,Sharks,BSAI,1363,1022,125,19,1,SharksBSAI
+2013,2015,2,Squids,BSAI,2624,1970,325,21,1,SquidsBSAI
+2013,2015,2,Octopuses,BSAI,3450,2590,225,20,1,OctopusesBSAI
+2012,2013,1,Pollock,EBS,2550000,1375000,1247000,1,1,PollockEBS
+2012,2013,1,Pollock,AI,45600,37300,19000,1,1,PollockAI
+2012,2013,1,Pollock,Bogoslof,13400,10100,100,1,1,PollockBogoslof
+2012,2013,1,Pacific cod,BSAI,359000,307000,260000,2,1,Pacific codBSAI
+2012,2013,1,Sablefish,BS,1870,1580,1580,3,1,SablefishBS
+2012,2013,1,Sablefish,AI,2530,2140,2140,3,1,SablefishAI
+2012,2013,1,Atka mackerel,BSAI,57700,50000,25920,17,1,Atka mackerelBSAI
+2012,2013,1,Atka mackerel,EAI/BS,NA,16900,16900,17,0,Atka mackerelEAI/BS
+2012,2013,1,Atka mackerel,CAI,NA,16000,7520,17,0,Atka mackerelCAI
+2012,2013,1,Atka mackerel,WAI,NA,17100,1500,17,0,Atka mackerelWAI
+2012,2013,1,Yellowfin sole,BSAI,220000,206000,198000,4,1,Yellowfin soleBSAI
+2012,2013,1,Northern rock sole,BSAI,241000,214000,92380,8,1,Northern rock soleBSAI
+2012,2013,1,Greenland turbot,BSAI,2540,2060,2060,5,1,Greenland turbotBSAI
+2012,2013,1,Greenland turbot,BS,NA,1610,1610,5,0,Greenland turbotBS
+2012,2013,1,Greenland turbot,AI,NA,450,450,5,0,Greenland turbotAI
+2012,2013,1,Arrowtooth flounder,BSAI,186000,152000,25000,6,1,Arrowtooth flounderBSAI
+2012,2013,1,Kamchatka flounder,BSAI,16300,12200,10000,7,1,Kamchatka flounderBSAI
+2012,2013,1,Flathead sole,BSAI,81500,67900,22699,9,1,Flathead soleBSAI
+2012,2013,1,Other flatfish,BSAI,17800,13300,3500,11,1,Other flatfishBSAI
+2012,2013,1,Alaska plaice,BSAI,67000,55200,20000,10,1,Alaska plaiceBSAI
+2012,2013,1,Pacific ocean perch,BSAI,41900,35100,35100,12,1,Pacific ocean perchBSAI
+2012,2013,1,Pacific ocean perch,BS,NA,8130,8130,12,0,Pacific ocean perchBS
+2012,2013,1,Pacific ocean perch,EAI,NA,9790,9790,12,0,Pacific ocean perchEAI
+2012,2013,1,Pacific ocean perch,CAI,NA,6980,6980,12,0,Pacific ocean perchCAI
+2012,2013,1,Pacific ocean perch,WAI,NA,10200,10200,12,0,Pacific ocean perchWAI
+2012,2013,1,Northern rockfish,BSAI,12200,9850,3000,13,1,Northern rockfishBSAI
+2012,2013,1,Blackspotted/Rougheye rockfish,BSAI,493,370,370,14,1,Blackspotted/Rougheye rockfishBSAI
+2012,2013,1,Blackspotted/Rougheye rockfish,EBS/EAI,462,378,378,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2012,2013,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,169,169,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2012,2013,1,Shortraker rockfish,BSAI,NA,209,209,15,1,Shortraker rockfishBSAI
+2012,2013,1,Other rockfish,BSAI,1540,1159,873,16,1,Other rockfishBSAI
+2012,2013,1,Other rockfish,BS,NA,686,400,16,0,Other rockfishBS
+2012,2013,1,Other rockfish,AI,NA,473,473,16,0,Other rockfishAI
+2012,2013,1,Skates,BSAI,45800,38800,24000,18,1,SkatesBSAI
+2012,2013,1,Sculpins,BSAI,56400,42300,5600,15,1,SculpinsBSAI
+2012,2013,1,Sharks,BSAI,1360,1020,100,19,1,SharksBSAI
+2012,2013,1,Squids,BSAI,2620,1970,700,21,1,SquidsBSAI
+2012,2013,1,Octopuses,BSAI,3450,2590,500,20,1,OctopusesBSAI
+2012,2014,2,Pollock,EBS,2730000,1430000,1247000,1,1,PollockEBS
+2012,2014,2,Pollock,AI,48600,39800,19000,1,1,PollockAI
+2012,2014,2,Pollock,Bogoslof,13400,10100,100,1,1,PollockBogoslof
+2012,2014,2,Pacific cod,BSAI,379000,323000,260880,2,1,Pacific codBSAI
+2012,2014,2,Sablefish,BS,1760,1480,1480,3,1,SablefishBS
+2012,2014,2,Sablefish,AI,2370,2010,2010,3,1,SablefishAI
+2012,2014,2,Atka mackerel,BSAI,56500,48900,25379,17,1,Atka mackerelBSAI
+2012,2014,2,Atka mackerel,EAI/BS,NA,16500,16500,17,0,Atka mackerelEAI/BS
+2012,2014,2,Atka mackerel,CAI,NA,15700,7379,17,0,Atka mackerelCAI
+2012,2014,2,Atka mackerel,WAI,NA,16700,1500,17,0,Atka mackerelWAI
+2012,2014,2,Yellowfin sole,BSAI,219000,206000,198000,4,1,Yellowfin soleBSAI
+2012,2014,2,Northern rock sole,BSAI,229000,204000,92000,8,1,Northern rock soleBSAI
+2012,2014,2,Greenland turbot,BSAI,3270,2650,2650,5,1,Greenland turbotBSAI
+2012,2014,2,Greenland turbot,BS,NA,2070,2070,5,0,Greenland turbotBS
+2012,2014,2,Greenland turbot,AI,NA,580,580,5,0,Greenland turbotAI
+2012,2014,2,Arrowtooth flounder,BSAI,186000,152000,25000,6,1,Arrowtooth flounderBSAI
+2012,2014,2,Kamchatka flounder,BSAI,16300,12200,10000,7,1,Kamchatka flounderBSAI
+2012,2014,2,Flathead sole,BSAI,80100,66700,22543,9,1,Flathead soleBSAI
+2012,2014,2,Other flatfish,BSAI,17800,13300,4000,11,1,Other flatfishBSAI
+2012,2014,2,Alaska plaice,BSAI,60200,55800,20000,10,1,Alaska plaiceBSAI
+2012,2014,2,Pacific ocean perch,BSAI,39500,33100,33100,12,1,Pacific ocean perchBSAI
+2012,2014,2,Pacific ocean perch,BS,NA,7680,7680,12,0,Pacific ocean perchBS
+2012,2014,2,Pacific ocean perch,EAI,NA,9240,9240,12,0,Pacific ocean perchEAI
+2012,2014,2,Pacific ocean perch,CAI,NA,6590,6590,12,0,Pacific ocean perchCAI
+2012,2014,2,Pacific ocean perch,WAI,NA,9590,9590,12,0,Pacific ocean perchWAI
+2012,2014,2,Northern rockfish,BSAI,12000,9320,3000,13,1,Northern rockfishBSAI
+2012,2014,2,Blackspotted/Rougheye rockfish,BSAI,493,370,370,14,1,Blackspotted/Rougheye rockfishBSAI
+2012,2014,2,Blackspotted/Rougheye rockfish,EBS/EAI,524,429,429,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2012,2014,2,Blackspotted/Rougheye rockfish,CAI/WAI,NA,189,189,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2012,2014,2,Shortraker rockfish,BSAI,NA,240,240,15,1,Shortraker rockfishBSAI
+2012,2014,2,Other rockfish,BSAI,1540,1159,1159,16,1,Other rockfishBSAI
+2012,2014,2,Other rockfish,BS,NA,686,686,16,0,Other rockfishBS
+2012,2014,2,Other rockfish,AI,NA,473,473,16,0,Other rockfishAI
+2012,2014,2,Skates,BSAI,44100,37300,25000,18,1,SkatesBSAI
+2012,2014,2,Sculpins,BSAI,56400,42300,5600,15,1,SculpinsBSAI
+2012,2014,2,Sharks,BSAI,1360,1020,100,19,1,SharksBSAI
+2012,2014,2,Squids,BSAI,2620,1970,700,21,1,SquidsBSAI
+2012,2014,2,Octopuses,BSAI,3450,2590,500,20,1,OctopusesBSAI
+2011,2012,1,Pollock,EBS,2474000,1220000,1200000,1,1,PollockEBS
+2011,2012,1,Pollock,AI,39600,32500,19000,1,1,PollockAI
+2011,2012,1,Pollock,Bogoslof,22000,16500,500,1,1,PollockBogoslof
+2011,2012,1,Pacific cod,BSAI,369000,314000,261000,2,1,Pacific codBSAI
+2011,2012,1,Sablefish,BS,2640,2230,2230,3,1,SablefishBS
+2011,2012,1,Sablefish,AI,2430,2050,2050,3,1,SablefishAI
+2011,2012,1,Atka mackerel,BSAI,96500,81400,50763,17,1,Atka mackerelBSAI
+2011,2012,1,Atka mackerel,EAI/BS,NA,38500,38500,17,0,Atka mackerelEAI/BS
+2011,2012,1,Atka mackerel,CAI,NA,22900,10763,17,0,Atka mackerelCAI
+2011,2012,1,Atka mackerel,WAI,NA,20000,1500,17,0,Atka mackerelWAI
+2011,2012,1,Yellowfin sole,BSAI,222000,203000,202000,4,1,Yellowfin soleBSAI
+2011,2012,1,Northern rock sole,BSAI,231000,208000,87000,8,1,Northern rock soleBSAI
+2011,2012,1,Greenland turbot,BSAI,11700,9660,8660,5,1,Greenland turbotBSAI
+2011,2012,1,Greenland turbot,BS,NA,7230,6230,5,0,Greenland turbotBS
+2011,2012,1,Greenland turbot,AI,NA,2430,2430,5,0,Greenland turbotAI
+2011,2012,1,Arrowtooth flounder,BSAI,181000,150000,25000,6,1,Arrowtooth flounderBSAI
+2011,2012,1,Kamchatka flounder,BSAI,24800,18600,17700,7,1,Kamchatka flounderBSAI
+2011,2012,1,Flathead sole,BSAI,84500,70400,34134,9,1,Flathead soleBSAI
+2011,2012,1,Other flatfish,BSAI,17100,12700,3200,11,1,Other flatfishBSAI
+2011,2012,1,Alaska plaice,BSAI,64600,53400,24000,10,1,Alaska plaiceBSAI
+2011,2012,1,Pacific ocean perch,BSAI,35000,24700,24700,12,1,Pacific ocean perchBSAI
+2011,2012,1,Pacific ocean perch,BS,NA,5710,5710,12,0,Pacific ocean perchBS
+2011,2012,1,Pacific ocean perch,EAI,NA,5620,5620,12,0,Pacific ocean perchEAI
+2011,2012,1,Pacific ocean perch,CAI,NA,4990,4990,12,0,Pacific ocean perchCAI
+2011,2012,1,Pacific ocean perch,WAI,NA,8380,8380,12,0,Pacific ocean perchWAI
+2011,2012,1,Northern rockfish,BSAI,10500,8610,4700,13,1,Northern rockfishBSAI
+2011,2012,1,Blackspotted/Rougheye rockfish,BSAI,524,393,393,14,1,Blackspotted/Rougheye rockfishBSAI
+2011,2012,1,Blackspotted/Rougheye rockfish,EBS/EAI,576,475,475,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2011,2012,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,231,231,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2011,2012,1,Shortraker rockfish,BSAI,NA,244,244,15,1,Shortraker rockfishBSAI
+2011,2012,1,Other rockfish,BSAI,1700,1280,1070,16,1,Other rockfishBSAI
+2011,2012,1,Other rockfish,BS,NA,710,500,16,0,Other rockfishBS
+2011,2012,1,Other rockfish,AI,NA,570,570,16,0,Other rockfishAI
+2011,2012,1,Skates,BSAI,2620,1970,425,18,1,SkatesBSAI
+2011,2012,1,Sculpins,BSAI,39100,32600,24700,15,1,SculpinsBSAI
+2011,2012,1,Sharks,BSAI,1360,1020,200,19,1,SharksBSAI
+2011,2012,1,Squids,BSAI,3450,2590,900,21,1,SquidsBSAI
+2011,2012,1,Octopuses,BSAI,58300,43700,5200,20,1,OctopusesBSAI
+2011,2013,2,Pollock,EBS,2840000,1360000,1201900,1,1,PollockEBS
+2011,2013,2,Pollock,AI,42900,35200,19000,1,1,PollockAI
+2011,2013,2,Pollock,Bogoslof,22000,16500,500,1,1,PollockBogoslof
+2011,2013,2,Pacific cod,BSAI,374000,319000,262900,2,1,Pacific codBSAI
+2011,2013,2,Sablefish,BS,2610,2200,2200,3,1,SablefishBS
+2011,2013,2,Sablefish,AI,2400,2020,2020,3,1,SablefishAI
+2011,2013,2,Atka mackerel,BSAI,78300,67100,42083,17,1,Atka mackerelBSAI
+2011,2013,2,Atka mackerel,EAI/BS,NA,31700,31700,17,0,Atka mackerelEAI/BS
+2011,2013,2,Atka mackerel,CAI,NA,18900,8883,17,0,Atka mackerelCAI
+2011,2013,2,Atka mackerel,WAI,NA,16500,1500,17,0,Atka mackerelWAI
+2011,2013,2,Yellowfin sole,BSAI,226000,207000,203900,4,1,Yellowfin soleBSAI
+2011,2013,2,Northern rock sole,BSAI,217000,196000,87000,8,1,Northern rock soleBSAI
+2011,2013,2,Greenland turbot,BSAI,9700,8030,8030,5,1,Greenland turbotBSAI
+2011,2013,2,Greenland turbot,BS,NA,6010,6010,5,0,Greenland turbotBS
+2011,2013,2,Greenland turbot,AI,NA,2020,2020,5,0,Greenland turbotAI
+2011,2013,2,Arrowtooth flounder,BSAI,186000,152000,25000,6,1,Arrowtooth flounderBSAI
+2011,2013,2,Kamchatka flounder,BSAI,24800,18600,17700,7,1,Kamchatka flounderBSAI
+2011,2013,2,Flathead sole,BSAI,83100,69200,34134,9,1,Flathead soleBSAI
+2011,2013,2,Other flatfish,BSAI,17100,12700,3200,11,1,Other flatfishBSAI
+2011,2013,2,Alaska plaice,BSAI,65000,54000,24000,10,1,Alaska plaiceBSAI
+2011,2013,2,Pacific ocean perch,BSAI,33700,28300,28300,12,1,Pacific ocean perchBSAI
+2011,2013,2,Pacific ocean perch,BS,NA,6540,6540,12,0,Pacific ocean perchBS
+2011,2013,2,Pacific ocean perch,EAI,NA,6440,6440,12,0,Pacific ocean perchEAI
+2011,2013,2,Pacific ocean perch,CAI,NA,5710,5710,12,0,Pacific ocean perchCAI
+2011,2013,2,Pacific ocean perch,WAI,NA,9610,9610,12,0,Pacific ocean perchWAI
+2011,2013,2,Northern rockfish,BSAI,10400,8490,4700,13,1,Northern rockfishBSAI
+2011,2013,2,Blackspotted/Rougheye rockfish,BSAI,524,393,393,14,1,Blackspotted/Rougheye rockfishBSAI
+2011,2013,2,Blackspotted/Rougheye rockfish,EBS/EAI,605,499,499,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2011,2013,2,Blackspotted/Rougheye rockfish,CAI/WAI,NA,241,241,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2011,2013,2,Shortraker rockfish,BSAI,NA,258,258,15,1,Shortraker rockfishBSAI
+2011,2013,2,Other rockfish,BSAI,1700,1280,1070,16,1,Other rockfishBSAI
+2011,2013,2,Other rockfish,BS,NA,710,500,16,0,Other rockfishBS
+2011,2013,2,Other rockfish,AI,NA,570,570,16,0,Other rockfishAI
+2011,2013,2,Squids,BSAI,2620,1970,425,21,1,SquidsBSAI
+2011,2013,2,Skates,BSAI,38300,32000,24746,18,1,SkatesBSAI
+2011,2013,2,Sharks,BSAI,1360,1020,200,19,1,SharksBSAI
+2011,2013,2,Octopuses,BSAI,3450,2590,900,20,1,OctopusesBSAI
+2011,2013,2,Sculpins,BSAI,58300,43700,5200,15,1,SculpinsBSAI
+2010,2011,1,Pollock,EBS,2450000,1270000,1252000,1,1,PollockEBS
+2010,2011,1,Pollock,AI,44500,36700,19000,1,1,PollockAI
+2010,2011,1,Pollock,Bogoslof,22000,156,150,1,1,PollockBogoslof
+2010,2011,1,Pacific cod,BSAI,272000,235000,227950,2,1,Pacific codBSAI
+2010,2011,1,Sablefish,BS,3360,2850,2850,3,1,SablefishBS
+2010,2011,1,Sablefish,AI,2250,1900,1900,3,1,SablefishAI
+2010,2011,1,Atka mackerel,BSAI,101000,85300,53080,17,1,Atka mackerelBSAI
+2010,2011,1,Atka mackerel,EAI/BS,NA,40300,40300,17,0,Atka mackerelEAI/BS
+2010,2011,1,Atka mackerel,CAI,NA,24000,11280,17,0,Atka mackerelCAI
+2010,2011,1,Atka mackerel,WAI,NA,21000,1500,17,0,Atka mackerelWAI
+2010,2011,1,Yellowfin sole,BSAI,262000,239000,196000,4,1,Yellowfin soleBSAI
+2010,2011,1,Northern rock sole,BSAI,248000,224000,85000,8,1,Northern rock soleBSAI
+2010,2011,1,Greenland turbot,BSAI,7220,6140,5050,5,1,Greenland turbotBSAI
+2010,2011,1,Greenland turbot,BS,NA,4590,3500,5,0,Greenland turbotBS
+2010,2011,1,Greenland turbot,AI,NA,1550,1550,5,0,Greenland turbotAI
+2010,2011,1,Arrowtooth flounder,BSAI,186000,153000,25900,6,1,Arrowtooth flounderBSAI
+2010,2011,1,Kamchatka flounder,BSAI,23600,17700,17700,7,1,Kamchatka flounderBSAI
+2010,2011,1,Flathead sole,BSAI,83300,69300,41548,9,1,Flathead soleBSAI
+2010,2011,1,Other flatfish,BSAI,19500,14500,3000,11,1,Other flatfishBSAI
+2010,2011,1,Alaska plaice,BSAI,79100,65100,16000,10,1,Alaska plaiceBSAI
+2010,2011,1,Pacific ocean perch,BSAI,36300,24700,24700,12,1,Pacific ocean perchBSAI
+2010,2011,1,Pacific ocean perch,BS,NA,5710,5710,12,0,Pacific ocean perchBS
+2010,2011,1,Pacific ocean perch,EAI,NA,5660,5660,12,0,Pacific ocean perchEAI
+2010,2011,1,Pacific ocean perch,CAI,NA,4960,4960,12,0,Pacific ocean perchCAI
+2010,2011,1,Pacific ocean perch,WAI,NA,8370,8370,12,0,Pacific ocean perchWAI
+2010,2011,1,Northern rockfish,BSAI,10600,8670,4000,13,1,Northern rockfishBSAI
+2010,2011,1,Blackspotted/Rougheye rockfish,BSAI,524,393,393,14,1,Blackspotted/Rougheye rockfishBSAI
+2010,2011,1,Blackspotted/Rougheye rockfish,EBS/EAI,549,454,454,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2010,2011,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,234,234,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2010,2011,1,Shortraker rockfish,BSAI,NA,220,220,15,1,Shortraker rockfishBSAI
+2010,2011,1,Other rockfish,BSAI,1700,1280,1000,16,1,Other rockfishBSAI
+2010,2011,1,Other rockfish,BS,NA,710,500,16,0,Other rockfishBS
+2010,2011,1,Other rockfish,AI,NA,570,500,16,0,Other rockfishAI
+2010,2011,1,Squids,BSAI,2620,1970,425,21,1,SquidsBSAI
+2010,2011,1,Skates,BSAI,37800,31500,16500,18,1,SkatesBSAI
+2010,2011,1,Sharks,BSAI,1360,1020,50,19,1,SharksBSAI
+2010,2011,1,Octopuses,BSAI,528,396,150,20,1,OctopusesBSAI
+2010,2011,1,Sculpins,BSAI,58300,43700,5200,15,1,SculpinsBSAI
+2010,2012,2,Pollock,EBS,3170000,1600000,1253658,1,1,PollockEBS
+2010,2012,2,Pollock,AI,50400,41600,19000,1,1,PollockAI
+2010,2012,2,Pollock,Bogoslof,22000,156,150,1,1,PollockBogoslof
+2010,2012,2,Pacific cod,BSAI,329000,281000,229608,2,1,Pacific codBSAI
+2010,2012,2,Sablefish,BS,3080,2610,2610,3,1,SablefishBS
+2010,2012,2,Sablefish,AI,2060,1740,1740,3,1,SablefishAI
+2010,2012,2,Atka mackerel,BSAI,92200,77900,48593,17,1,Atka mackerelBSAI
+2010,2012,2,Atka mackerel,EAI/BS,NA,36800,36800,17,0,Atka mackerelEAI/BS
+2010,2012,2,Atka mackerel,CAI,NA,21900,10293,17,0,Atka mackerelCAI
+2010,2012,2,Atka mackerel,WAI,NA,19200,1500,17,0,Atka mackerelWAI
+2010,2012,2,Yellowfin sole,BSAI,266000,242000,197660,4,1,Yellowfin soleBSAI
+2010,2012,2,Northern rock sole,BSAI,243000,219000,85000,8,1,Northern rock soleBSAI
+2010,2012,2,Greenland turbot,BSAI,6760,5750,4950,5,1,Greenland turbotBSAI
+2010,2012,2,Greenland turbot,BS,NA,4300,3500,5,0,Greenland turbotBS
+2010,2012,2,Greenland turbot,AI,NA,1450,1450,5,0,Greenland turbotAI
+2010,2012,2,Arrowtooth flounder,BSAI,191000,157000,25900,6,1,Arrowtooth flounderBSAI
+2010,2012,2,Kamchatka flounder,BSAI,23600,17700,17700,7,1,Kamchatka flounderBSAI
+2010,2012,2,Flathead sole,BSAI,82100,68300,41548,9,1,Flathead soleBSAI
+2010,2012,2,Other flatfish,BSAI,19500,14500,3000,11,1,Other flatfishBSAI
+2010,2012,2,Alaska plaice,BSAI,83800,69100,16000,10,1,Alaska plaiceBSAI
+2010,2012,2,Pacific ocean perch,BSAI,34300,24700,24700,12,1,Pacific ocean perchBSAI
+2010,2012,2,Pacific ocean perch,BS,NA,5710,5710,12,0,Pacific ocean perchBS
+2010,2012,2,Pacific ocean perch,EAI,NA,5660,5660,12,0,Pacific ocean perchEAI
+2010,2012,2,Pacific ocean perch,CAI,NA,4960,4960,12,0,Pacific ocean perchCAI
+2010,2012,2,Pacific ocean perch,WAI,NA,8370,8370,12,0,Pacific ocean perchWAI
+2010,2012,2,Northern rockfish,BSAI,10400,8330,4000,13,1,Northern rockfishBSAI
+2010,2012,2,Blackspotted/Rougheye rockfish,BSAI,524,393,393,14,1,Blackspotted/Rougheye rockfishBSAI
+2010,2012,2,Blackspotted/Rougheye rockfish,EBS/EAI,563,465,465,14,0,Blackspotted/Rougheye rockfishEBS/EAI
+2010,2012,2,Blackspotted/Rougheye rockfish,CAI/WAI,NA,240,240,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2010,2012,2,Shortraker rockfish,BSAI,NA,225,225,15,1,Shortraker rockfishBSAI
+2010,2012,2,Other rockfish,BSAI,1700,1280,1000,16,1,Other rockfishBSAI
+2010,2012,2,Other rockfish,BS,NA,710,500,16,0,Other rockfishBS
+2010,2012,2,Other rockfish,AI,NA,570,500,16,0,Other rockfishAI
+2010,2012,2,Squids,BSAI,2620,1970,425,21,1,SquidsBSAI
+2010,2012,2,Skates,BSAI,37200,31000,16500,18,1,SkatesBSAI
+2010,2012,2,Sharks,BSAI,1360,1020,50,19,1,SharksBSAI
+2010,2012,2,Octopuses,BSAI,528,396,150,20,1,OctopusesBSAI
+2010,2012,2,Sculpins,BSAI,58300,43700,5200,15,1,SculpinsBSAI
+2009,2010,1,Pollock,EBS,918000,813000,813000,1,1,PollockEBS
+2009,2010,1,Pollock,AI,40000,33100,19000,1,1,PollockAI
+2009,2010,1,Pollock,Bogoslof,22000,156,50,1,1,PollockBogoslof
+2009,2010,1,Pacific cod,BSAI,205000,174000,168780,2,1,Pacific codBSAI
+2009,2010,1,Sablefish,BS,3310,2790,2790,3,1,SablefishBS
+2009,2010,1,Sablefish,AI,2450,2070,2070,3,1,SablefishAI
+2009,2010,1,Atka mackerel,BSAI,88200,74000,74000,17,1,Atka mackerelBSAI
+2009,2010,1,Atka mackerel,EAI/BS,NA,23800,23800,17,0,Atka mackerelEAI/BS
+2009,2010,1,Atka mackerel,CAI,NA,29600,29600,17,0,Atka mackerelCAI
+2009,2010,1,Atka mackerel,WAI,NA,20600,20600,17,0,Atka mackerelWAI
+2009,2010,1,Yellowfin sole,BSAI,234000,219000,219000,4,1,Yellowfin soleBSAI
+2009,2010,1,Northern rock sole,BSAI,243000,240000,90000,8,1,Northern rock soleBSAI
+2009,2010,1,Greenland turbot,BSAI,7460,6120,6120,5,1,Greenland turbotBSAI
+2009,2010,1,Greenland turbot,BS,NA,4220,4220,5,0,Greenland turbotBS
+2009,2010,1,Greenland turbot,AI,NA,1900,1900,5,0,Greenland turbotAI
+2009,2010,1,Arrowtooth flounder,BSAI,191000,156000,75000,6,1,Arrowtooth flounderBSAI
+2009,2010,1,Flathead sole,BSAI,83100,69200,60000,9,1,Flathead soleBSAI
+2009,2010,1,Other flatfish,BSAI,23000,17300,17300,11,1,Other flatfishBSAI
+2009,2010,1,Alaska plaice,BSAI,278000,224000,50000,10,1,Alaska plaiceBSAI
+2009,2010,1,Pacific ocean perch,BSAI,22400,18860,18860,12,1,Pacific ocean perchBSAI
+2009,2010,1,Pacific ocean perch,BS,NA,3830,3830,12,0,Pacific ocean perchBS
+2009,2010,1,Pacific ocean perch,EAI,NA,4220,4220,12,0,Pacific ocean perchEAI
+2009,2010,1,Pacific ocean perch,CAI,NA,4270,4270,12,0,Pacific ocean perchCAI
+2009,2010,1,Pacific ocean perch,WAI,NA,6540,6540,12,0,Pacific ocean perchWAI
+2009,2010,1,Northern rockfish,BSAI,8640,7240,7240,13,1,Northern rockfishBSAI
+2009,2010,1,Shortraker rockfish,BSAI,516,387,387,15,1,Shortraker rockfishBSAI
+2009,2010,1,Blackspotted/Rougheye rockfish,BSAI,669,547,547,14,1,Blackspotted/Rougheye rockfishBSAI
+2009,2010,1,Other rockfish,BSAI,1380,1040,1040,16,1,Other rockfishBSAI
+2009,2010,1,Other rockfish,BS,NA,485,485,16,0,Other rockfishBS
+2009,2010,1,Other rockfish,AI,NA,555,555,16,0,Other rockfishAI
+2009,2010,1,Squids,BSAI,2620,1970,1970,21,1,SquidsBSAI
+2009,2010,1,Other species,BSAI,88200,61100,50000,16,1,Other speciesBSAI
+2009,2011,2,Pollock,EBS,1220000,1110000,1110000,1,1,PollockEBS
+2009,2011,2,Pollock,AI,39100,32200,19000,1,1,PollockAI
+2009,2011,2,Pollock,Bogoslof,22000,156,50,1,1,PollockBogoslof
+2009,2011,2,Pacific cod,BSAI,251000,214000,207580,2,1,Pacific codBSAI
+2009,2011,2,Sablefish,BS,2970,2500,2500,3,1,SablefishBS
+2009,2011,2,Sablefish,AI,2200,1860,1860,3,1,SablefishAI
+2009,2011,2,Atka mackerel,BSAI,76200,65000,65000,17,1,Atka mackerelBSAI
+2009,2011,2,Atka mackerel,EAI/BS,NA,20900,20900,17,0,Atka mackerelEAI/BS
+2009,2011,2,Atka mackerel,CAI,NA,26000,26000,17,0,Atka mackerelCAI
+2009,2011,2,Atka mackerel,WAI,NA,18100,18100,17,0,Atka mackerelWAI
+2009,2011,2,Yellowfin sole,BSAI,227000,213000,213000,4,1,Yellowfin soleBSAI
+2009,2011,2,Northern rock sole,BSAI,245000,242000,90000,8,1,Northern rock soleBSAI
+2009,2011,2,Greenland turbot,BSAI,6860,5370,5370,5,1,Greenland turbotBSAI
+2009,2011,2,Greenland turbot,BS,NA,3700,3700,5,0,Greenland turbotBS
+2009,2011,2,Greenland turbot,AI,NA,1670,1670,5,0,Greenland turbotAI
+2009,2011,2,Arrowtooth flounder,BSAI,191000,157000,75000,6,1,Arrowtooth flounderBSAI
+2009,2011,2,Flathead sole,BSAI,81800,68100,60000,9,1,Flathead soleBSAI
+2009,2011,2,Other flatfish,BSAI,23000,17300,17300,11,1,Other flatfishBSAI
+2009,2011,2,Alaska plaice,BSAI,314000,248000,50000,10,1,Alaska plaiceBSAI
+2009,2011,2,Pacific ocean perch,BSAI,22200,18680,18680,12,1,Pacific ocean perchBSAI
+2009,2011,2,Pacific ocean perch,BS,NA,3790,3790,12,0,Pacific ocean perchBS
+2009,2011,2,Pacific ocean perch,EAI,NA,4180,4180,12,0,Pacific ocean perchEAI
+2009,2011,2,Pacific ocean perch,CAI,NA,4230,4230,12,0,Pacific ocean perchCAI
+2009,2011,2,Pacific ocean perch,WAI,NA,6480,6480,12,0,Pacific ocean perchWAI
+2009,2011,2,Northern rockfish,BSAI,8700,7290,7290,13,1,Northern rockfishBSAI
+2009,2011,2,Shortraker rockfish,BSAI,516,387,387,15,1,Shortraker rockfishBSAI
+2009,2011,2,Blackspotted/Rougheye rockfish,BSAI,650,531,531,14,1,Blackspotted/Rougheye rockfishBSAI
+2009,2011,2,Other rockfish,BSAI,1380,1040,1040,16,1,Other rockfishBSAI
+2009,2011,2,Other rockfish,BS,NA,485,485,16,0,Other rockfishBS
+2009,2011,2,Other rockfish,AI,NA,555,555,16,0,Other rockfishAI
+2009,2011,2,Squids,BSAI,2620,1970,1970,21,1,SquidsBSAI
+2009,2011,2,Other species,BSAI,88200,61100,50000,16,1,Other speciesBSAI
+2008,2009,1,Pollock,EBS,977000,815000,815000,1,1,PollockEBS
+2008,2009,1,Pollock,AI,32600,26900,19000,1,1,PollockAI
+2008,2009,1,Pollock,Bogoslof,58400,7970,50,1,1,PollockBogoslof
+2008,2009,1,Pacific cod,BSAI,212000,182000,176540,2,1,Pacific codBSAI
+2008,2009,1,Sablefish,BS,3210,2720,2720,3,1,SablefishBS
+2008,2009,1,Sablefish,AI,2600,2200,2200,3,1,SablefishAI
+2008,2009,1,Atka mackerel,BSAI,99400,83800,76400,17,1,Atka mackerelBSAI
+2008,2009,1,Atka mackerel,EAI/BS,NA,27000,27000,17,0,Atka mackerelEAI/BS
+2008,2009,1,Atka mackerel,CAI,NA,33500,32500,17,0,Atka mackerelCAI
+2008,2009,1,Atka mackerel,WAI,NA,23300,16900,17,0,Atka mackerelWAI
+2008,2009,1,Yellowfin sole,BSAI,224000,210000,210000,4,1,Yellowfin soleBSAI
+2008,2009,1,Northern rock sole,BSAI,301000,296000,90000,8,1,Northern rock soleBSAI
+2008,2009,1,Greenland turbot,BSAI,14800,7380,7380,5,1,Greenland turbotBSAI
+2008,2009,1,Greenland turbot,BS,NA,5090,5090,5,0,Greenland turbotBS
+2008,2009,1,Greenland turbot,AI,NA,2290,2290,5,0,Greenland turbotAI
+2008,2009,1,Arrowtooth flounder,BSAI,190000,156000,75000,6,1,Arrowtooth flounderBSAI
+2008,2009,1,Flathead sole,BSAI,83800,71400,60000,9,1,Flathead soleBSAI
+2008,2009,1,Other flatfish,BSAI,23100,17400,17400,11,1,Other flatfishBSAI
+2008,2009,1,Alaska plaice,BSAI,298000,232000,50000,10,1,Alaska plaiceBSAI
+2008,2009,1,Pacific ocean perch,BSAI,22300,18800,18800,12,1,Pacific ocean perchBSAI
+2008,2009,1,Pacific ocean perch,BS,NA,3820,3820,12,0,Pacific ocean perchBS
+2008,2009,1,Pacific ocean perch,EAI,NA,4200,4200,12,0,Pacific ocean perchEAI
+2008,2009,1,Pacific ocean perch,CAI,NA,4260,4260,12,0,Pacific ocean perchCAI
+2008,2009,1,Pacific ocean perch,WAI,NA,6520,6520,12,0,Pacific ocean perchWAI
+2008,2009,1,Northern rockfish,BSAI,8540,7160,7160,13,1,Northern rockfishBSAI
+2008,2009,1,Shortraker rockfish,BSAI,516,387,387,15,1,Shortraker rockfishBSAI
+2008,2009,1,Blackspotted/Rougheye rockfish,BSAI,660,539,539,14,1,Blackspotted/Rougheye rockfishBSAI
+2008,2009,1,Other rockfish,BSAI,1380,1040,1040,16,1,Other rockfishBSAI
+2008,2009,1,Other rockfish,BS,NA,485,485,16,0,Other rockfishBS
+2008,2009,1,Other rockfish,AI,NA,555,555,16,0,Other rockfishAI
+2008,2009,1,Squids,BSAI,2620,1970,1970,21,1,SquidsBSAI
+2008,2009,1,Other species,BSAI,80800,63700,50000,16,1,Other speciesBSAI
+2008,2010,2,Pollock,EBS,1430000,1230000,1230000,1,1,PollockEBS
+2008,2010,2,Pollock,AI,36800,30400,19000,1,1,PollockAI
+2008,2010,2,Pollock,Bogoslof,58400,7970,10,1,1,PollockBogoslof
+2008,2010,2,Pacific cod,BSAI,235000,199000,193030,2,1,Pacific codBSAI
+2008,2010,2,Sablefish,BS,2980,2520,2520,3,1,SablefishBS
+2008,2010,2,Sablefish,AI,2410,2040,2040,3,1,SablefishAI
+2008,2010,2,Atka mackerel,BSAI,84400,71100,71100,17,1,Atka mackerelBSAI
+2008,2010,2,Atka mackerel,EAI/BS,NA,22900,22900,17,0,Atka mackerelEAI/BS
+2008,2010,2,Atka mackerel,CAI,NA,28500,28500,17,0,Atka mackerelCAI
+2008,2010,2,Atka mackerel,WAI,NA,19700,19700,17,0,Atka mackerelWAI
+2008,2010,2,Yellowfin sole,BSAI,210000,198000,180000,4,1,Yellowfin soleBSAI
+2008,2010,2,Northern rock sole,BSAI,314000,310000,75000,8,1,Northern rock soleBSAI
+2008,2010,2,Greenland turbot,BSAI,14400,7130,7130,5,1,Greenland turbotBSAI
+2008,2010,2,Greenland turbot,BS,NA,4920,4920,5,0,Greenland turbotBS
+2008,2010,2,Greenland turbot,AI,NA,2210,2210,5,0,Greenland turbotAI
+2008,2010,2,Arrowtooth flounder,BSAI,196000,161000,60000,6,1,Arrowtooth flounderBSAI
+2008,2010,2,Flathead sole,BSAI,81800,69800,50000,9,1,Flathead soleBSAI
+2008,2010,2,Other flatfish,BSAI,23100,17400,17400,11,1,Other flatfishBSAI
+2008,2010,2,Alaska plaice,BSAI,354000,275000,30000,10,1,Alaska plaiceBSAI
+2008,2010,2,Pacific ocean perch,BSAI,22100,18600,18600,12,1,Pacific ocean perchBSAI
+2008,2010,2,Pacific ocean perch,BS,NA,3780,3780,12,0,Pacific ocean perchBS
+2008,2010,2,Pacific ocean perch,EAI,NA,4160,4160,12,0,Pacific ocean perchEAI
+2008,2010,2,Pacific ocean perch,CAI,NA,4210,4210,12,0,Pacific ocean perchCAI
+2008,2010,2,Pacific ocean perch,WAI,NA,6450,6450,12,0,Pacific ocean perchWAI
+2008,2010,2,Northern rockfish,BSAI,8580,7190,6000,13,1,Northern rockfishBSAI
+2008,2010,2,Shortraker rockfish,BSAI,516,387,387,15,1,Shortraker rockfishBSAI
+2008,2010,2,Blackspotted/Rougheye rockfish,BSAI,640,552,552,14,1,Blackspotted/Rougheye rockfishBSAI
+2008,2010,2,Other rockfish,BSAI,1380,1040,1040,16,1,Other rockfishBSAI
+2008,2010,2,Other rockfish,BS,NA,485,485,16,0,Other rockfishBS
+2008,2010,2,Other rockfish,AI,NA,555,555,16,0,Other rockfishAI
+2008,2010,2,Squids,BSAI,2620,1970,1970,21,1,SquidsBSAI
+2008,2010,2,Other species,BSAI,80700,63700,34221,16,1,Other speciesBSAI
+2007,2008,1,Pollock,EBS,1440000,1000000,1000000,1,1,PollockEBS
+2007,2008,1,Pollock,AI,34000,28200,19000,1,1,PollockAI
+2007,2008,1,Pollock,Bogoslof,58400,7970,10,1,1,PollockBogoslof
+2007,2008,1,Pacific cod,BSAI,207000,176000,170720,2,1,Pacific codBSAI
+2007,2008,1,Sablefish,BS,3380,2860,2860,3,1,SablefishBS
+2007,2008,1,Sablefish,AI,2890,2440,2440,3,1,SablefishAI
+2007,2008,1,Atka mackerel,BSAI,71400,60700,60700,17,1,Atka mackerelBSAI
+2007,2008,1,Atka mackerel,EAI/BS,NA,19500,19500,17,0,Atka mackerelEAI/BS
+2007,2008,1,Atka mackerel,CAI,NA,24300,24300,17,0,Atka mackerelCAI
+2007,2008,1,Atka mackerel,WAI,NA,16900,16900,17,0,Atka mackerelWAI
+2007,2008,1,Yellowfin sole,BSAI,265000,248000,225000,4,1,Yellowfin soleBSAI
+2007,2008,1,Northern rock sole,BSAI,304000,301000,75000,8,1,Northern rock soleBSAI
+2007,2008,1,Greenland turbot,BSAI,15600,2540,2540,5,1,Greenland turbotBSAI
+2007,2008,1,Greenland turbot,BS,NA,1750,1750,5,0,Greenland turbotBS
+2007,2008,1,Greenland turbot,AI,NA,790,790,5,0,Greenland turbotAI
+2007,2008,1,Arrowtooth flounder,BSAI,297000,244000,75000,6,1,Arrowtooth flounderBSAI
+2007,2008,1,Flathead sole,BSAI,86000,71700,50000,9,1,Flathead soleBSAI
+2007,2008,1,Other flatfish,BSAI,28800,21600,21600,11,1,Other flatfishBSAI
+2007,2008,1,Alaska plaice,BSAI,248000,194000,50000,10,1,Alaska plaiceBSAI
+2007,2008,1,Pacific ocean perch,BSAI,25700,21700,21700,12,1,Pacific ocean perchBSAI
+2007,2008,1,Pacific ocean perch,BS,NA,4200,4200,12,0,Pacific ocean perchBS
+2007,2008,1,Pacific ocean perch,EAI,NA,4900,4900,12,0,Pacific ocean perchEAI
+2007,2008,1,Pacific ocean perch,CAI,NA,4990,4990,12,0,Pacific ocean perchCAI
+2007,2008,1,Pacific ocean perch,WAI,NA,7610,7610,12,0,Pacific ocean perchWAI
+2007,2008,1,Northern rockfish,BSAI,9740,8180,8180,13,1,Northern rockfishBSAI
+2007,2008,1,Shortraker rockfish,BSAI,564,424,424,15,1,Shortraker rockfishBSAI
+2007,2008,1,Blackspotted/Rougheye rockfish,BSAI,269,202,202,14,1,Blackspotted/Rougheye rockfishBSAI
+2007,2008,1,Other rockfish,BSAI,1330,999,999,16,1,Other rockfishBSAI
+2007,2008,1,Other rockfish,BS,NA,414,414,16,0,Other rockfishBS
+2007,2008,1,Other rockfish,AI,NA,585,585,16,0,Other rockfishAI
+2007,2008,1,Squids,BSAI,2620,1970,1970,21,1,SquidsBSAI
+2007,2008,1,Other species,BSAI,104000,78100,50000,16,1,Other speciesBSAI
+2007,2009,2,Pollock,EBS,1320000,1000000,1000000,1,1,PollockEBS
+2007,2009,2,Pollock,AI,26100,22700,19000,1,1,PollockAI
+2007,2009,2,Pollock,Bogoslof,58400,7970,10,1,1,PollockBogoslof
+2007,2009,2,Pacific cod,BSAI,207000,176000,170720,2,1,Pacific codBSAI
+2007,2009,2,Sablefish,BS,2910,2610,2610,3,1,SablefishBS
+2007,2009,2,Sablefish,AI,2510,2230,2230,3,1,SablefishAI
+2007,2009,2,Atka mackerel,BSAI,50600,47500,47500,17,1,Atka mackerelBSAI
+2007,2009,2,Atka mackerel,EAI/BS,NA,15300,15300,17,0,Atka mackerelEAI/BS
+2007,2009,2,Atka mackerel,CAI,NA,19000,19000,17,0,Atka mackerelCAI
+2007,2009,2,Atka mackerel,WAI,NA,13200,13200,17,0,Atka mackerelWAI
+2007,2009,2,Yellowfin sole,BSAI,296000,276000,205000,4,1,Yellowfin soleBSAI
+2007,2009,2,Northern rock sole,BSAI,379000,375000,75000,8,1,Northern rock soleBSAI
+2007,2009,2,Greenland turbot,BSAI,16000,2540,2540,5,1,Greenland turbotBSAI
+2007,2009,2,Greenland turbot,BS,NA,1750,1750,5,0,Greenland turbotBS
+2007,2009,2,Greenland turbot,AI,NA,790,790,5,0,Greenland turbotAI
+2007,2009,2,Arrowtooth flounder,BSAI,300000,246000,75000,6,1,Arrowtooth flounderBSAI
+2007,2009,2,Flathead sole,BSAI,83700,69700,50000,9,1,Flathead soleBSAI
+2007,2009,2,Other flatfish,BSAI,28800,21600,21600,11,1,Other flatfishBSAI
+2007,2009,2,Alaska plaice,BSAI,277000,217000,50000,10,1,Alaska plaiceBSAI
+2007,2009,2,Pacific ocean perch,BSAI,25400,21300,21300,12,1,Pacific ocean perchBSAI
+2007,2009,2,Pacific ocean perch,BS,NA,4100,4100,12,0,Pacific ocean perchBS
+2007,2009,2,Pacific ocean perch,EAI,NA,4810,4810,12,0,Pacific ocean perchEAI
+2007,2009,2,Pacific ocean perch,CAI,NA,4900,4900,12,0,Pacific ocean perchCAI
+2007,2009,2,Pacific ocean perch,WAI,NA,7490,7490,12,0,Pacific ocean perchWAI
+2007,2009,2,Northern rockfish,BSAI,9680,8130,8130,13,1,Northern rockfishBSAI
+2007,2009,2,Shortraker rockfish,BSAI,564,424,424,15,1,Shortraker rockfishBSAI
+2007,2009,2,Blackspotted/Rougheye rockfish,BSAI,269,202,202,14,1,Blackspotted/Rougheye rockfishBSAI
+2007,2009,2,Other rockfish,BSAI,1290,968,968,16,1,Other rockfishBSAI
+2007,2009,2,Other rockfish,BS,NA,414,414,16,0,Other rockfishBS
+2007,2009,2,Other rockfish,AI,NA,554,554,16,0,Other rockfishAI
+2007,2009,2,Squids,BSAI,2620,1970,1970,21,1,SquidsBSAI
+2007,2009,2,Other species,BSAI,104000,78100,60000,16,1,Other speciesBSAI
+2006,2007,1,Pollock,EBS,1640000,1394000,1394000,1,1,PollockEBS
+2006,2007,1,Pollock,AI,54500,44500,19000,1,1,PollockAI
+2006,2007,1,Pollock,Bogoslof,48000,5220,10,1,1,PollockBogoslof
+2006,2007,1,Pacific cod,BSAI,207000,176000,170720,2,1,Pacific codBSAI
+2006,2007,1,Sablefish,BS,3520,2980,2980,3,1,SablefishBS
+2006,2007,1,Sablefish,AI,3320,2810,2810,3,1,SablefishAI
+2006,2007,1,Atka mackerel,BSAI,86900,74000,63000,17,1,Atka mackerelBSAI
+2006,2007,1,Atka mackerel,EAI/BS,NA,23800,23800,17,0,Atka mackerelEAI/BS
+2006,2007,1,Atka mackerel,CAI,NA,29600,29600,17,0,Atka mackerelCAI
+2006,2007,1,Atka mackerel,WAI,NA,20600,9600,17,0,Atka mackerelWAI
+2006,2007,1,Yellowfin sole,BSAI,240000,225000,136000,4,1,Yellowfin soleBSAI
+2006,2007,1,Northern rock sole,BSAI,200000,198000,55000,8,1,Northern rock soleBSAI
+2006,2007,1,Greenland turbot,BSAI,15600,2440,2440,5,1,Greenland turbotBSAI
+2006,2007,1,Greenland turbot,BS,NA,1680,1680,5,0,Greenland turbotBS
+2006,2007,1,Greenland turbot,AI,NA,760,760,5,0,Greenland turbotAI
+2006,2007,1,Arrowtooth flounder,BSAI,193000,158000,20000,6,1,Arrowtooth flounderBSAI
+2006,2007,1,Flathead sole,BSAI,95300,79200,30000,9,1,Flathead soleBSAI
+2006,2007,1,Other flatfish,BSAI,28500,21400,10000,11,1,Other flatfishBSAI
+2006,2007,1,Alaska plaice,BSAI,241000,190000,25000,10,1,Alaska plaiceBSAI
+2006,2007,1,Pacific ocean perch,BSAI,26100,21900,19900,12,1,Pacific ocean perchBSAI
+2006,2007,1,Pacific ocean perch,BS,NA,4160,2160,12,0,Pacific ocean perchBS
+2006,2007,1,Pacific ocean perch,EAI,NA,4970,4970,12,0,Pacific ocean perchEAI
+2006,2007,1,Pacific ocean perch,CAI,NA,5050,5050,12,0,Pacific ocean perchCAI
+2006,2007,1,Pacific ocean perch,WAI,NA,7720,7720,12,0,Pacific ocean perchWAI
+2006,2007,1,Northern rockfish,BSAI,9750,8190,8190,13,1,Northern rockfishBSAI
+2006,2007,1,Shortraker rockfish,BSAI,564,424,424,15,1,Shortraker rockfishBSAI
+2006,2007,1,Blackspotted/Rougheye rockfish,BSAI,269,202,202,14,1,Blackspotted/Rougheye rockfishBSAI
+2006,2007,1,Other rockfish,BSAI,1330,999,999,16,1,Other rockfishBSAI
+2006,2007,1,Other rockfish,BS,NA,414,414,16,0,Other rockfishBS
+2006,2007,1,Other rockfish,AI,NA,585,585,16,0,Other rockfishAI
+2006,2007,1,Squids,BSAI,2620,1970,1970,21,1,SquidsBSAI
+2006,2007,1,Other species,BSAI,91700,68800,37355,16,1,Other speciesBSAI
+2006,2008,2,Pollock,EBS,1431000,1318000,1318000,1,1,PollockEBS
+2006,2008,2,Pollock,AI,50300,41000,19000,1,1,PollockAI
+2006,2008,2,Pollock,Bogoslof,48000,5220,10,1,1,PollockBogoslof
+2006,2008,2,Pacific cod,BSAI,154000,131000,127070,2,1,Pacific codBSAI
+2006,2008,2,Sablefish,BS,3290,2970,2970,3,1,SablefishBS
+2006,2008,2,Sablefish,AI,3100,2800,2800,3,1,SablefishAI
+2006,2008,2,Atka mackerel,BSAI,64200,54900,54900,17,1,Atka mackerelBSAI
+2006,2008,2,Atka mackerel,EAI/BS,NA,17600,17600,17,0,Atka mackerelEAI/BS
+2006,2008,2,Atka mackerel,CAI,NA,22000,22000,17,0,Atka mackerelCAI
+2006,2008,2,Atka mackerel,WAI,NA,15300,15300,17,0,Atka mackerelWAI
+2006,2008,2,Yellowfin sole,BSAI,261000,245000,150000,4,1,Yellowfin soleBSAI
+2006,2008,2,Northern rock sole,BSAI,271000,268000,75000,8,1,Northern rock soleBSAI
+2006,2008,2,Greenland turbot,BSAI,16000,2490,2490,5,1,Greenland turbotBSAI
+2006,2008,2,Greenland turbot,BS,NA,1720,1720,5,0,Greenland turbotBS
+2006,2008,2,Greenland turbot,AI,NA,770,770,5,0,Greenland turbotAI
+2006,2008,2,Arrowtooth flounder,BSAI,208000,171000,30000,6,1,Arrowtooth flounderBSAI
+2006,2008,2,Flathead sole,BSAI,92800,77200,45000,9,1,Flathead soleBSAI
+2006,2008,2,Other flatfish,BSAI,28500,21400,21400,11,1,Other flatfishBSAI
+2006,2008,2,Alaska plaice,BSAI,252000,199000,60000,10,1,Alaska plaiceBSAI
+2006,2008,2,Pacific ocean perch,BSAI,25600,21600,21600,12,1,Pacific ocean perchBSAI
+2006,2008,2,Pacific ocean perch,BS,NA,4080,4080,12,0,Pacific ocean perchBS
+2006,2008,2,Pacific ocean perch,EAI,NA,4900,4900,12,0,Pacific ocean perchEAI
+2006,2008,2,Pacific ocean perch,CAI,NA,5000,5000,12,0,Pacific ocean perchCAI
+2006,2008,2,Pacific ocean perch,WAI,NA,7620,7620,12,0,Pacific ocean perchWAI
+2006,2008,2,Northern rockfish,BSAI,9700,8150,8150,13,1,Northern rockfishBSAI
+2006,2008,2,Shortraker rockfish,BSAI,564,424,424,15,1,Shortraker rockfishBSAI
+2006,2008,2,Blackspotted/Rougheye rockfish,BSAI,269,202,202,14,1,Blackspotted/Rougheye rockfishBSAI
+2006,2008,2,Other rockfish,BSAI,1330,999,999,16,1,Other rockfishBSAI
+2006,2008,2,Other rockfish,BS,NA,414,414,16,0,Other rockfishBS
+2006,2008,2,Other rockfish,AI,NA,585,585,16,0,Other rockfishAI
+2006,2008,2,Squids,BSAI,2620,1970,1970,21,1,SquidsBSAI
+2006,2008,2,Other species,BSAI,91700,68800,58015,16,1,Other speciesBSAI
+2005,2006,1,Pollock,EBS,2090000,1930000,1485000,1,1,PollockEBS
+2005,2006,1,Pollock,AI,39100,29400,19000,1,1,PollockAI
+2005,2006,1,Pollock,Bogoslof,50600,5500,10,1,1,PollockBogoslof
+2005,2006,1,Pacific cod,BSAI,230000,194000,194000,2,1,Pacific codBSAI
+2005,2006,1,Sablefish,BS,3680,3060,2820,3,1,SablefishBS
+2005,2006,1,Sablefish,AI,3740,3100,3000,3,1,SablefishAI
+2005,2006,1,Atka mackerel,BSAI,130000,110000,63000,17,1,Atka mackerelBSAI
+2005,2006,1,Atka mackerel,EAI/BS,NA,21780,7500,17,0,Atka mackerelEAI/BS
+2005,2006,1,Atka mackerel,CAI,NA,46860,40000,17,0,Atka mackerelCAI
+2005,2006,1,Atka mackerel,WAI,NA,41360,15500,17,0,Atka mackerelWAI
+2005,2006,1,Yellowfin sole,BSAI,144000,121000,95701,4,1,Yellowfin soleBSAI
+2005,2006,1,Northern rock sole,BSAI,150000,126000,41500,8,1,Northern rock soleBSAI
+2005,2006,1,Greenland turbot,BSAI,14200,2740,2740,5,1,Greenland turbotBSAI
+2005,2006,1,Greenland turbot,BS,NA,1890,1890,5,0,Greenland turbotBS
+2005,2006,1,Greenland turbot,AI,NA,850,850,5,0,Greenland turbotAI
+2005,2006,1,Arrowtooth flounder,BSAI,166000,136000,13000,6,1,Arrowtooth flounderBSAI
+2005,2006,1,Flathead sole,BSAI,71800,59800,19500,9,1,Flathead soleBSAI
+2005,2006,1,Other flatfish,BSAI,24200,18100,3500,11,1,Other flatfishBSAI
+2005,2006,1,Alaska plaice,BSAI,237000,188000,8000,10,1,Alaska plaiceBSAI
+2005,2006,1,Pacific ocean perch,BSAI,17600,14800,12600,12,1,Pacific ocean perchBSAI
+2005,2006,1,Pacific ocean perch,BS,NA,2960,1400,12,0,Pacific ocean perchBS
+2005,2006,1,Pacific ocean perch,EAI,NA,3256,3080,12,0,Pacific ocean perchEAI
+2005,2006,1,Pacific ocean perch,CAI,NA,3212,3035,12,0,Pacific ocean perchCAI
+2005,2006,1,Pacific ocean perch,WAI,NA,5372,5085,12,0,Pacific ocean perchWAI
+2005,2006,1,Northern rockfish,BSAI,10100,8530,4500,13,1,Northern rockfishBSAI
+2005,2006,1,Shortraker rockfish,BSAI,774,580,580,15,1,Shortraker rockfishBSAI
+2005,2006,1,Blackspotted/Rougheye rockfish,BSAI,299,224,224,14,1,Blackspotted/Rougheye rockfishBSAI
+2005,2006,1,Other rockfish,BSAI,1870,1400,1050,16,1,Other rockfishBSAI
+2005,2006,1,Other rockfish,BS,NA,810,460,16,0,Other rockfishBS
+2005,2006,1,Other rockfish,AI,NA,590,590,16,0,Other rockfishAI
+2005,2006,1,Squids,BSAI,2620,1970,1275,21,1,SquidsBSAI
+2005,2006,1,Other species,BSAI,89404,58882,29000,16,1,Other speciesBSAI
+2005,2007,2,Pollock,EBS,1930000,1790000,1500000,1,1,PollockEBS
+2005,2007,2,Pollock,AI,39100,29400,19000,1,1,PollockAI
+2005,2007,2,Pollock,Bogoslof,50600,5500,10,1,1,PollockBogoslof
+2005,2007,2,Pacific cod,BSAI,176000,148000,148000,2,1,Pacific codBSAI
+2005,2007,2,Sablefish,BS,3260,2700,2700,3,1,SablefishBS
+2005,2007,2,Sablefish,AI,3300,2740,2740,3,1,SablefishAI
+2005,2007,2,Atka mackerel,BSAI,107000,91000,63000,17,1,Atka mackerelBSAI
+2005,2007,2,Atka mackerel,EAI/BS,NA,18020,7500,17,0,Atka mackerelEAI/BS
+2005,2007,2,Atka mackerel,CAI,NA,38760,38000,17,0,Atka mackerelCAI
+2005,2007,2,Atka mackerel,WAI,NA,34220,17500,17,0,Atka mackerelWAI
+2005,2007,2,Yellowfin sole,BSAI,137000,116000,107641,4,1,Yellowfin soleBSAI
+2005,2007,2,Northern rock sole,BSAI,145000,122000,44000,8,1,Northern rock soleBSAI
+2005,2007,2,Greenland turbot,BSAI,13400,2630,2630,5,1,Greenland turbotBSAI
+2005,2007,2,Greenland turbot,BS,NA,1815,1815,5,0,Greenland turbotBS
+2005,2007,2,Greenland turbot,AI,NA,815,815,5,0,Greenland turbotAI
+2005,2007,2,Arrowtooth flounder,BSAI,174000,142000,18000,6,1,Arrowtooth flounderBSAI
+2005,2007,2,Flathead sole,BSAI,67900,56600,22000,9,1,Flathead soleBSAI
+2005,2007,2,Other flatfish,BSAI,24200,18100,5000,11,1,Other flatfishBSAI
+2005,2007,2,Alaska plaice,BSAI,231000,183000,15000,10,1,Alaska plaiceBSAI
+2005,2007,2,Pacific ocean perch,BSAI,17600,14800,14800,12,1,Pacific ocean perchBSAI
+2005,2007,2,Pacific ocean perch,BS,NA,2960,2960,12,0,Pacific ocean perchBS
+2005,2007,2,Pacific ocean perch,EAI,NA,3256,3256,12,0,Pacific ocean perchEAI
+2005,2007,2,Pacific ocean perch,CAI,NA,3212,3212,12,0,Pacific ocean perchCAI
+2005,2007,2,Pacific ocean perch,WAI,NA,5375,5372,12,0,Pacific ocean perchWAI
+2005,2007,2,Northern rockfish,BSAI,9890,8320,5000,13,1,Northern rockfishBSAI
+2005,2007,2,Shortraker rockfish,BSAI,774,580,580,15,1,Shortraker rockfishBSAI
+2005,2007,2,Blackspotted/Rougheye rockfish,BSAI,299,224,224,14,1,Blackspotted/Rougheye rockfishBSAI
+2005,2007,2,Other rockfish,BSAI,1870,1400,1400,16,1,Other rockfishBSAI
+2005,2007,2,Other rockfish,BS,NA,810,810,16,0,Other rockfishBS
+2005,2007,2,Other rockfish,AI,NA,590,590,16,0,Other rockfishAI
+2005,2007,2,Squids,BSAI,2620,1970,1275,21,1,SquidsBSAI
+2005,2007,2,Other species,BSAI,89404,62950,27000,16,1,Other speciesBSAI
+2004,2005,1,Pollock,EBS,2100000,1960000,1478500,1,1,PollockEBS
+2004,2005,1,Pollock,AI,39100,29400,19000,1,1,PollockAI
+2004,2005,1,Pollock,Bogoslof,39600,2570,10,1,1,PollockBogoslof
+2004,2005,1,Pacific cod,BSAI,265000,206000,206000,2,1,Pacific codBSAI
+2004,2005,1,Sablefish,BS,2950,2440,2440,3,1,SablefishBS
+2004,2005,1,Sablefish,AI,3170,2620,2620,3,1,SablefishAI
+2004,2005,1,Atka mackerel,BSAI,147000,124000,63000,17,1,Atka mackerelBSAI
+2004,2005,1,Atka mackerel,EAI/BS,NA,24550,7500,17,0,Atka mackerelEAI/BS
+2004,2005,1,Atka mackerel,CAI,NA,52830,35500,17,0,Atka mackerelCAI
+2004,2005,1,Atka mackerel,WAI,NA,46620,20000,17,0,Atka mackerelWAI
+2004,2005,1,Yellowfin sole,BSAI,148000,124000,90686,4,1,Yellowfin soleBSAI
+2004,2005,1,Northern rock sole,BSAI,157000,132000,41500,8,1,Northern rock soleBSAI
+2004,2005,1,Greenland turbot,BSAI,19200,3930,3500,5,1,Greenland turbotBSAI
+2004,2005,1,Greenland turbot,BS,NA,2720,2700,5,0,Greenland turbotBS
+2004,2005,1,Greenland turbot,AI,NA,1210,800,5,0,Greenland turbotAI
+2004,2005,1,Arrowtooth flounder,BSAI,132000,108000,12000,6,1,Arrowtooth flounderBSAI
+2004,2005,1,Flathead sole,BSAI,70200,58500,19500,9,1,Flathead soleBSAI
+2004,2005,1,Other flatfish,BSAI,28500,21400,3500,11,1,Other flatfishBSAI
+2004,2005,1,Alaska plaice,BSAI,237000,189000,8000,10,1,Alaska plaiceBSAI
+2004,2005,1,Pacific ocean perch,BSAI,17300,14600,12600,12,1,Pacific ocean perchBSAI
+2004,2005,1,Pacific ocean perch,BS,NA,2920,1400,12,0,Pacific ocean perchBS
+2004,2005,1,Pacific ocean perch,EAI,NA,3210,3080,12,0,Pacific ocean perchEAI
+2004,2005,1,Pacific ocean perch,CAI,NA,3165,3035,12,0,Pacific ocean perchCAI
+2004,2005,1,Pacific ocean perch,WAI,NA,5305,5085,12,0,Pacific ocean perchWAI
+2004,2005,1,Northern rockfish,BSAI,9810,8260,5000,13,1,Northern rockfishBSAI
+2004,2005,1,Shortraker rockfish,BSAI,794,596,596,15,1,Shortraker rockfishBSAI
+2004,2005,1,Blackspotted/Rougheye rockfish,BSAI,298,223,223,14,1,Blackspotted/Rougheye rockfishBSAI
+2004,2005,1,Other rockfish,BSAI,1870,1400,1050,16,1,Other rockfishBSAI
+2004,2005,1,Other rockfish,BS,NA,810,460,16,0,Other rockfishBS
+2004,2005,1,Other rockfish,AI,NA,590,590,16,0,Other rockfishAI
+2004,2005,1,Squids,BSAI,2620,1970,1275,21,1,SquidsBSAI
+2004,2005,1,Other species,BSAI,87920,53860,29000,16,1,Other speciesBSAI
+2004,2006,2,Pollock,EBS,1944000,1617000,1487756,1,1,PollockEBS
+2004,2006,2,Pollock,AI,39100,29400,19000,1,1,PollockAI
+2004,2006,2,Pollock,Bogoslof,39600,2570,10,1,1,PollockBogoslof
+2004,2006,2,Pacific cod,BSAI,226000,195000,195000,2,1,Pacific codBSAI
+2004,2006,2,Sablefish,BS,2690,2310,2310,3,1,SablefishBS
+2004,2006,2,Sablefish,AI,2880,2480,2480,3,1,SablefishAI
+2004,2006,2,Atka mackerel,BSAI,127000,107000,63000,17,1,Atka mackerelBSAI
+2004,2006,2,Atka mackerel,EAI/BS,NA,21190,7500,17,0,Atka mackerelEAI/BS
+2004,2006,2,Atka mackerel,CAI,NA,45580,35500,17,0,Atka mackerelCAI
+2004,2006,2,Atka mackerel,WAI,NA,40230,20000,17,0,Atka mackerelWAI
+2004,2006,2,Yellowfin sole,BSAI,133000,114000,90000,4,1,Yellowfin soleBSAI
+2004,2006,2,Northern rock sole,BSAI,145000,122000,42000,8,1,Northern rock soleBSAI
+2004,2006,2,Greenland turbot,BSAI,11100,3600,3500,5,1,Greenland turbotBSAI
+2004,2006,2,Greenland turbot,BS,NA,2500,2500,5,0,Greenland turbotBS
+2004,2006,2,Greenland turbot,AI,NA,1100,1000,5,0,Greenland turbotAI
+2004,2006,2,Arrowtooth flounder,BSAI,103000,88400,12000,6,1,Arrowtooth flounderBSAI
+2004,2006,2,Flathead sole,BSAI,56100,48400,20000,9,1,Flathead soleBSAI
+2004,2006,2,Other flatfish,BSAI,28500,21400,3000,11,1,Other flatfishBSAI
+2004,2006,2,Alaska plaice,BSAI,115000,109000,10000,10,1,Alaska plaiceBSAI
+2004,2006,2,Pacific ocean perch,BSAI,17408,14600,12600,12,1,Pacific ocean perchBSAI
+2004,2006,2,Pacific ocean perch,BS,NA,2920,1400,12,0,Pacific ocean perchBS
+2004,2006,2,Pacific ocean perch,EAI,NA,3210,3080,12,0,Pacific ocean perchEAI
+2004,2006,2,Pacific ocean perch,CAI,NA,3165,3035,12,0,Pacific ocean perchCAI
+2004,2006,2,Pacific ocean perch,WAI,NA,5305,5085,12,0,Pacific ocean perchWAI
+2004,2006,2,Northern rockfish,BSAI,9480,8040,5000,13,1,Northern rockfishBSAI
+2004,2006,2,Shortraker rockfish,BSAI,794,596,596,15,1,Shortraker rockfishBSAI
+2004,2006,2,Blackspotted/Rougheye rockfish,BSAI,298,223,223,14,1,Blackspotted/Rougheye rockfishBSAI
+2004,2006,2,Other rockfish,BSAI,1870,1400,1050,16,1,Other rockfishBSAI
+2004,2006,2,Other rockfish,BS,NA,810,460,16,0,Other rockfishBS
+2004,2006,2,Other rockfish,AI,NA,590,590,16,0,Other rockfishAI
+2004,2006,2,Squids,BSAI,2620,1970,1275,21,1,SquidsBSAI
+2004,2006,2,Other species,BSAI,87920,57870,29200,16,1,Other speciesBSAI
+2003,2004,1,Pollock,BS,2100000,1960000,1478500,1,1,PollockBS
+2003,2004,1,Pollock,AI,39100,29400,19000,1,1,PollockAI
+2003,2004,1,Pollock,Bogoslof,39600,2570,10,1,1,PollockBogoslof
+2003,2004,1,Pacific cod,BSAI,265000,206000,206000,2,1,Pacific codBSAI
+2003,2004,1,Pacific cod,BS,NA,NA,NA,2,0,Pacific codBS
+2003,2004,1,Pacific cod,AI,NA,NA,NA,2,0,Pacific codAI
+2003,2004,1,Sablefish,BSAI Total,NA,NA,NA,3,1,SablefishBSAI Total
+2003,2004,1,Sablefish,Alaska Total,NA,NA,NA,3,0,SablefishAlaska Total
+2003,2004,1,Sablefish,BS,2950,2440,2440,3,1,SablefishBS
+2003,2004,1,Sablefish,AI,3170,2620,2620,3,1,SablefishAI
+2003,2004,1,Yellowfin sole,BSAI,148000,124000,90686,4,1,Yellowfin soleBSAI
+2003,2004,1,Greenland turbot,BSAI,19200,3930,3500,5,1,Greenland turbotBSAI
+2003,2004,1,Greenland turbot,BS,NA,2720,2700,5,0,Greenland turbotBS
+2003,2004,1,Greenland turbot,AI,NA,1210,800,5,0,Greenland turbotAI
+2003,2004,1,Arrowtooth flounder,BSAI,132000,108000,12000,6,1,Arrowtooth flounderBSAI
+2003,2004,1,Kamchatka flounder,BSAI,NA,NA,NA,7,1,Kamchatka flounderBSAI
+2003,2004,1,Northern rock sole,BSAI,157000,132000,41500,8,1,Northern rock soleBSAI
+2003,2004,1,Flathead sole,BSAI,70200,58500,19500,9,1,Flathead soleBSAI
+2003,2004,1,Alaska plaice,BSAI,237000,189000,8000,10,1,Alaska plaiceBSAI
+2003,2004,1,Other flatfish,BSAI,28500,21400,3500,11,1,Other flatfishBSAI
+2003,2004,1,Pacific ocean perch,BSAI,17300,14600,12600,12,1,Pacific ocean perchBSAI
+2003,2004,1,Pacific ocean perch,BS,NA,2920,1400,12,0,Pacific ocean perchBS
+2003,2004,1,Pacific ocean perch,AI,NA,NA,NA,12,0,Pacific ocean perchAI
+2003,2004,1,Pacific ocean perch,EAI,NA,3210,3080,12,0,Pacific ocean perchEAI
+2003,2004,1,Pacific ocean perch,CAI,NA,3165,3035,12,0,Pacific ocean perchCAI
+2003,2004,1,Pacific ocean perch,WAI,NA,5305,5085,12,0,Pacific ocean perchWAI
+2003,2004,1,Sharpchin/Northern,BSAI,NA,NA,NA,19,1,Sharpchin/NorthernBSAI
+2003,2004,1,Sharpchin/Northern,BS,NA,NA,NA,19,0,Sharpchin/NorthernBS
+2003,2004,1,Sharpchin/Northern,AI,NA,NA,NA,19,0,Sharpchin/NorthernAI
+2003,2004,1,Northern rockfish,BSAI,9810,8260,5000,13,1,Northern rockfishBSAI
+2003,2004,1,Northern rockfish,BS,NA,NA,NA,13,0,Northern rockfishBS
+2003,2004,1,Northern rockfish,AI,NA,NA,NA,13,0,Northern rockfishAI
+2003,2004,1,Blackspotted/Rougheye rockfish,BSAI,298,223,223,14,1,Blackspotted/Rougheye rockfishBSAI
+2003,2004,1,Blackspotted/Rougheye rockfish,BS/EAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishBS/EAI
+2003,2004,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2003,2004,1,Shortraker rockfish,BSAI,794,596,596,15,1,Shortraker rockfishBSAI
+2003,2004,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+2003,2004,1,Shortraker rockfish,BS,NA,NA,NA,15,0,Shortraker rockfishBS
+2003,2004,1,Shortraker rockfish,AI,NA,NA,NA,15,0,Shortraker rockfishAI
+2003,2004,1,Other Red rockfish,BS,NA,NA,NA,11,0,Other Red rockfishBS
+2003,2004,1,Other Red rockfish,AI,NA,NA,NA,11,0,Other Red rockfishAI
+2003,2004,1,Other Red rockfish,BSAI,1870,1400,1050,11,1,Other Red rockfishBSAI
+2003,2004,1,Other Red rockfish,BS,NA,810,460,11,0,Other Red rockfishBS
+2003,2004,1,Other Red rockfish,AI,NA,590,590,11,0,Other Red rockfishAI
+2003,2004,1,Atka mackerel,BSAI,147000,124000,63000,17,1,Atka mackerelBSAI
+2003,2004,1,Atka mackerel,EAI/BS,NA,24550,7500,17,0,Atka mackerelEAI/BS
+2003,2004,1,Atka mackerel,CAI,NA,52830,35500,17,0,Atka mackerelCAI
+2003,2004,1,Atka mackerel,WAI,NA,46620,20000,17,0,Atka mackerelWAI
+2003,2004,1,Skates,BSAI,NA,NA,NA,18,1,SkatesBSAI
+2003,2004,1,Sculpins,BSAI,NA,NA,NA,15,1,SculpinsBSAI
+2003,2004,1,Sharks,BSAI,NA,NA,NA,19,1,SharksBSAI
+2003,2004,1,Squids,BSAI,2620,1970,1275,21,1,SquidsBSAI
+2003,2004,1,Octopuses,BSAI,NA,NA,NA,20,1,OctopusesBSAI
+2003,2004,1,Other species,BSAI,87920,53860,29000,16,1,Other speciesBSAI
+2002,2003,1,Pollock,BS,3530000,2330000,1491760,1,1,PollockBS
+2002,2003,1,Pollock,AI,52600,39400,1000,1,1,PollockAI
+2002,2003,1,Pollock,Bogoslof,45300,4070,50,1,1,PollockBogoslof
+2002,2003,1,Pacific cod,BSAI,324000,223000,207500,2,1,Pacific codBSAI
+2002,2003,1,Pacific cod,BS,NA,NA,NA,2,0,Pacific codBS
+2002,2003,1,Pacific cod,AI,NA,NA,NA,2,0,Pacific codAI
+2002,2003,1,Sablefish,BSAI Total,NA,NA,NA,3,1,SablefishBSAI Total
+2002,2003,1,Sablefish,Alaska Total,NA,NA,NA,3,0,SablefishAlaska Total
+2002,2003,1,Sablefish,BS,4290,2900,2900,3,1,SablefishBS
+2002,2003,1,Sablefish,AI,4590,3100,3100,3,1,SablefishAI
+2002,2003,1,Yellowfin sole,BSAI,136000,114000,83750,4,1,Yellowfin soleBSAI
+2002,2003,1,Greenland turbot,BSAI,17800,5880,4000,5,1,Greenland turbotBSAI
+2002,2003,1,Greenland turbot,BS,NA,3920,2680,5,0,Greenland turbotBS
+2002,2003,1,Greenland turbot,AI,NA,1960,1320,5,0,Greenland turbotAI
+2002,2003,1,Arrowtooth flounder,BSAI,139000,112000,12000,6,1,Arrowtooth flounderBSAI
+2002,2003,1,Kamchatka flounder,BSAI,NA,NA,NA,7,1,Kamchatka flounderBSAI
+2002,2003,1,Northern rock sole,BSAI,132000,110000,44000,8,1,Northern rock soleBSAI
+2002,2003,1,Flathead sole,BSAI,81000,66000,20000,9,1,Flathead soleBSAI
+2002,2003,1,Alaska plaice,BSAI,165000,137000,10000,10,1,Alaska plaiceBSAI
+2002,2003,1,Other flatfish,BSAI,21400,16000,3000,11,1,Other flatfishBSAI
+2002,2003,1,Pacific ocean perch,BSAI,18000,15100,14100,12,1,Pacific ocean perchBSAI
+2002,2003,1,Pacific ocean perch,BS,NA,2410,1410,12,0,Pacific ocean perchBS
+2002,2003,1,Pacific ocean perch,AI,NA,12690,12690,12,0,Pacific ocean perchAI
+2002,2003,1,Pacific ocean perch,EAI,NA,3500,3500,12,0,Pacific ocean perchEAI
+2002,2003,1,Pacific ocean perch,CAI,NA,3340,3340,12,0,Pacific ocean perchCAI
+2002,2003,1,Pacific ocean perch,WAI,NA,5850,5850,12,0,Pacific ocean perchWAI
+2002,2003,1,Sharpchin/Northern,BSAI,NA,NA,NA,19,1,Sharpchin/NorthernBSAI
+2002,2003,1,Sharpchin/Northern,BS,NA,NA,NA,19,0,Sharpchin/NorthernBS
+2002,2003,1,Sharpchin/Northern,AI,NA,NA,NA,19,0,Sharpchin/NorthernAI
+2002,2003,1,Northern rockfish,BSAI,9468,7101,6000,13,1,Northern rockfishBSAI
+2002,2003,1,Northern rockfish,BS,NA,NA,121,13,0,Northern rockfishBS
+2002,2003,1,Northern rockfish,AI,NA,NA,5879,13,0,Northern rockfishAI
+2002,2003,1,Blackspotted/Rougheye rockfish,BSAI,NA,NA,NA,14,1,Blackspotted/Rougheye rockfishBSAI
+2002,2003,1,Blackspotted/Rougheye rockfish,BS/EAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishBS/EAI
+2002,2003,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2002,2003,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+2002,2003,1,Shortraker rockfish,BSAI,1289,967,967,15,1,Shortraker rockfishBSAI
+2002,2003,1,Shortraker rockfish,BS,NA,NA,137,15,0,Shortraker rockfishBS
+2002,2003,1,Shortraker rockfish,AI,NA,NA,830,15,0,Shortraker rockfishAI
+2002,2003,1,Other Red rockfish,BS,NA,NA,NA,11,0,Other Red rockfishBS
+2002,2003,1,Other Red rockfish,AI,NA,NA,NA,11,0,Other Red rockfishAI
+2002,2003,1,Other Red rockfish,BSAI,2126,1594,1594,11,1,Other Red rockfishBSAI
+2002,2003,1,Other Red rockfish,BS,1280,960,960,11,0,Other Red rockfishBS
+2002,2003,1,Other Red rockfish,AI,846,634,634,11,0,Other Red rockfishAI
+2002,2003,1,Atka mackerel,BSAI,99700,63000,60000,17,1,Atka mackerelBSAI
+2002,2003,1,Atka mackerel,EAI/BS,NA,10650,10650,17,0,Atka mackerelEAI/BS
+2002,2003,1,Atka mackerel,CAI,NA,29360,29360,17,0,Atka mackerelCAI
+2002,2003,1,Atka mackerel,WAI,NA,22990,19990,17,0,Atka mackerelWAI
+2002,2003,1,Skates,BSAI,NA,NA,NA,18,1,SkatesBSAI
+2002,2003,1,Sculpins,BSAI,NA,NA,NA,15,1,SculpinsBSAI
+2002,2003,1,Sharks,BSAI,NA,NA,NA,19,1,SharksBSAI
+2002,2003,1,Squids,BSAI,2620,1970,1970,21,1,SquidsBSAI
+2002,2003,1,Octopuses,BSAI,NA,NA,NA,20,1,OctopusesBSAI
+2002,2003,1,Other species,BSAI,81100,43300,32309,16,1,Other speciesBSAI
+2001,2002,1,Pollock,BS,3530000,2110000,1485000,1,1,PollockBS
+2001,2002,1,Pollock,AI,31700,23800,1000,1,1,PollockAI
+2001,2002,1,Pollock,Bogoslof,46400,4310,100,1,1,PollockBogoslof
+2001,2002,1,Pacific cod,BSAI,294000,223000,200000,2,1,Pacific codBSAI
+2001,2002,1,Pacific cod,BS,NA,NA,NA,2,0,Pacific codBS
+2001,2002,1,Pacific cod,AI,NA,NA,NA,2,0,Pacific codAI
+2001,2002,1,Sablefish,BSAI Total,NA,NA,NA,3,1,SablefishBSAI Total
+2001,2002,1,Sablefish,Alaska Total,NA,NA,NA,3,0,SablefishAlaska Total
+2001,2002,1,Sablefish,BS,2900,1930,1930,3,1,SablefishBS
+2001,2002,1,Sablefish,AI,3850,2550,2550,3,1,SablefishAI
+2001,2002,1,Yellowfin sole,BSAI,136000,115000,86000,4,1,Yellowfin soleBSAI
+2001,2002,1,Greenland turbot,BSAI,36500,8100,8000,5,1,Greenland turbotBSAI
+2001,2002,1,Greenland turbot,BS,NA,5427,5360,5,0,Greenland turbotBS
+2001,2002,1,Greenland turbot,AI,NA,2673,2640,5,0,Greenland turbotAI
+2001,2002,1,Arrowtooth flounder,BSAI,137000,113000,16000,6,1,Arrowtooth flounderBSAI
+2001,2002,1,Kamchatka flounder,BSAI,NA,NA,NA,7,1,Kamchatka flounderBSAI
+2001,2002,1,Northern rock sole,BSAI,268000,225000,54000,8,1,Northern rock soleBSAI
+2001,2002,1,Flathead sole,BSAI,101000,82600,25000,9,1,Flathead soleBSAI
+2001,2002,1,Alaska plaice,BSAI,172000,143000,12000,10,1,Alaska plaiceBSAI
+2001,2002,1,Other flatfish,BSAI,21800,18100,3000,11,1,Other flatfishBSAI
+2001,2002,1,Pacific ocean perch,BSAI,17500,14800,14800,12,1,Pacific ocean perchBSAI
+2001,2002,1,Pacific ocean perch,BS,NA,2620,2620,12,0,Pacific ocean perchBS
+2001,2002,1,Pacific ocean perch,AI,NA,12180,12180,12,0,Pacific ocean perchAI
+2001,2002,1,Pacific ocean perch,EAI,NA,3460,3460,12,0,Pacific ocean perchEAI
+2001,2002,1,Pacific ocean perch,CAI,NA,3060,3060,12,0,Pacific ocean perchCAI
+2001,2002,1,Pacific ocean perch,WAI,NA,5660,5660,12,0,Pacific ocean perchWAI
+2001,2002,1,Sharpchin/Northern,BSAI,NA,NA,NA,19,1,Sharpchin/NorthernBSAI
+2001,2002,1,Sharpchin/Northern,BS,NA,NA,NA,19,0,Sharpchin/NorthernBS
+2001,2002,1,Sharpchin/Northern,AI,NA,NA,NA,19,0,Sharpchin/NorthernAI
+2001,2002,1,Northern rockfish,BSAI,9020,6760,6760,13,1,Northern rockfishBSAI
+2001,2002,1,Northern rockfish,BS,NA,NA,19,13,0,Northern rockfishBS
+2001,2002,1,Northern rockfish,AI,NA,NA,6741,13,0,Northern rockfishAI
+2001,2002,1,Blackspotted/Rougheye rockfish,BSAI,NA,NA,NA,14,1,Blackspotted/Rougheye rockfishBSAI
+2001,2002,1,Blackspotted/Rougheye rockfish,BS/EAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishBS/EAI
+2001,2002,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2001,2002,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+2001,2002,1,Shortraker rockfish,BSAI,1369,1028,1028,15,1,Shortraker rockfishBSAI
+2001,2002,1,Shortraker rockfish,BS,NA,NA,116,15,0,Shortraker rockfishBS
+2001,2002,1,Shortraker rockfish,AI,NA,NA,912,15,0,Shortraker rockfishAI
+2001,2002,1,Other Red rockfish,BS,NA,NA,NA,11,0,Other Red rockfishBS
+2001,2002,1,Other Red rockfish,AI,NA,NA,NA,11,0,Other Red rockfishAI
+2001,2002,1,Other Red rockfish,BSAI,1383,1037,1037,11,1,Other Red rockfishBSAI
+2001,2002,1,Other Red rockfish,BS,482,361,361,11,0,Other Red rockfishBS
+2001,2002,1,Other Red rockfish,AI,901,676,676,11,0,Other Red rockfishAI
+2001,2002,1,Atka mackerel,BSAI,82300,49000,49000,17,1,Atka mackerelBSAI
+2001,2002,1,Atka mackerel,EAI/BS,NA,5500,5500,17,0,Atka mackerelEAI/BS
+2001,2002,1,Atka mackerel,CAI,NA,23800,23800,17,0,Atka mackerelCAI
+2001,2002,1,Atka mackerel,WAI,NA,19700,19700,17,0,Atka mackerelWAI
+2001,2002,1,Skates,BSAI,NA,NA,NA,18,1,SkatesBSAI
+2001,2002,1,Sculpins,BSAI,NA,NA,NA,15,1,SculpinsBSAI
+2001,2002,1,Sharks,BSAI,NA,NA,NA,19,1,SharksBSAI
+2001,2002,1,Squids,BSAI,2620,1970,1970,21,1,SquidsBSAI
+2001,2002,1,Octopuses,BSAI,NA,NA,NA,20,1,OctopusesBSAI
+2001,2002,1,Other species,BSAI,78900,39100,30825,16,1,Other speciesBSAI
+2000,2001,1,Pollock,BS,3536000,1842000,1400000,1,1,PollockBS
+2000,2001,1,Pollock,AI,31700,23800,2000,1,1,PollockAI
+2000,2001,1,Pollock,Bogoslof,60200,8470,1000,1,1,PollockBogoslof
+2000,2001,1,Pacific cod,BSAI,248000,188000,188000,2,1,Pacific codBSAI
+2000,2001,1,Pacific cod,BS,NA,NA,NA,2,0,Pacific codBS
+2000,2001,1,Pacific cod,AI,NA,NA,NA,2,0,Pacific codAI
+2000,2001,1,Sablefish,BSAI Total,NA,NA,NA,3,1,SablefishBSAI Total
+2000,2001,1,Sablefish,Alaska Total,NA,NA,NA,3,0,SablefishAlaska Total
+2000,2001,1,Sablefish,BS,1910,1560,1560,3,1,SablefishBS
+2000,2001,1,Sablefish,AI,3070,2500,2500,3,1,SablefishAI
+2000,2001,1,Yellowfin sole,BSAI,209000,176000,113000,4,1,Yellowfin soleBSAI
+2000,2001,1,Greenland turbot,BSAI,31000,8400,8400,5,1,Greenland turbotBSAI
+2000,2001,1,Greenland turbot,BS,NA,5628,5628,5,0,Greenland turbotBS
+2000,2001,1,Greenland turbot,AI,NA,2772,2772,5,0,Greenland turbotAI
+2000,2001,1,Arrowtooth flounder,BSAI,141500,117000,22011,6,1,Arrowtooth flounderBSAI
+2000,2001,1,Kamchatka flounder,BSAI,NA,NA,NA,7,1,Kamchatka flounderBSAI
+2000,2001,1,Northern rock sole,BSAI,271000,228000,75000,8,1,Northern rock soleBSAI
+2000,2001,1,Flathead sole,BSAI,102000,84000,40000,9,1,Flathead soleBSAI
+2000,2001,1,Alaska plaice,BSAI,NA,NA,NA,10,1,Alaska plaiceBSAI
+2000,2001,1,Other flatfish,BSAI,147000,122000,28000,11,1,Other flatfishBSAI
+2000,2001,1,Pacific ocean perch,BSAI,NA,NA,NA,12,1,Pacific ocean perchBSAI
+2000,2001,1,Pacific ocean perch,BS,2040,1730,1730,12,0,Pacific ocean perchBS
+2000,2001,1,Pacific ocean perch,AI,11800,10200,10200,12,0,Pacific ocean perchAI
+2000,2001,1,Pacific ocean perch,EAI,NA,2900,2900,12,0,Pacific ocean perchEAI
+2000,2001,1,Pacific ocean perch,CAI,NA,2560,2560,12,0,Pacific ocean perchCAI
+2000,2001,1,Pacific ocean perch,WAI,NA,4740,4740,12,0,Pacific ocean perchWAI
+2000,2001,1,Sharpchin/Northern,BSAI,9020,6764,6764,19,1,Sharpchin/NorthernBSAI
+2000,2001,1,Sharpchin/Northern,BS,NA,NA,19,19,0,Sharpchin/NorthernBS
+2000,2001,1,Sharpchin/Northern,AI,NA,NA,6745,19,0,Sharpchin/NorthernAI
+2000,2001,1,Northern rockfish,BSAI,NA,NA,NA,13,1,Northern rockfishBSAI
+2000,2001,1,Northern rockfish,BS,NA,NA,NA,13,0,Northern rockfishBS
+2000,2001,1,Northern rockfish,AI,NA,NA,NA,13,0,Northern rockfishAI
+2000,2001,1,Blackspotted/Rougheye rockfish,BSAI,NA,NA,NA,14,1,Blackspotted/Rougheye rockfishBSAI
+2000,2001,1,Blackspotted/Rougheye rockfish,BS/EAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishBS/EAI
+2000,2001,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+2000,2001,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+2000,2001,1,Shortraker rockfish,BSAI,1369,1028,1028,15,1,Shortraker rockfishBSAI
+2000,2001,1,Shortraker rockfish,BS,NA,NA,116,15,0,Shortraker rockfishBS
+2000,2001,1,Shortraker rockfish,AI,NA,NA,912,15,0,Shortraker rockfishAI
+2000,2001,1,Other Red rockfish,BS,NA,NA,NA,11,0,Other Red rockfishBS
+2000,2001,1,Other Red rockfish,AI,NA,NA,NA,11,0,Other Red rockfishAI
+2000,2001,1,Other Red rockfish,BSAI,1383,1037,1037,11,1,Other Red rockfishBSAI
+2000,2001,1,Other Red rockfish,BS,482,361,361,11,0,Other Red rockfishBS
+2000,2001,1,Other Red rockfish,AI,901,676,676,11,0,Other Red rockfishAI
+2000,2001,1,Atka mackerel,BSAI,138000,69300,69300,17,1,Atka mackerelBSAI
+2000,2001,1,Atka mackerel,EAI/BS,NA,7800,7800,17,0,Atka mackerelEAI/BS
+2000,2001,1,Atka mackerel,CAI,NA,33600,33600,17,0,Atka mackerelCAI
+2000,2001,1,Atka mackerel,WAI,NA,27900,27900,17,0,Atka mackerelWAI
+2000,2001,1,Skates,BSAI,NA,NA,NA,18,1,SkatesBSAI
+2000,2001,1,Sculpins,BSAI,NA,NA,NA,15,1,SculpinsBSAI
+2000,2001,1,Sharks,BSAI,NA,NA,NA,19,1,SharksBSAI
+2000,2001,1,Squids,BSAI,2620,1970,1970,21,1,SquidsBSAI
+2000,2001,1,Octopuses,BSAI,NA,NA,NA,20,1,OctopusesBSAI
+2000,2001,1,Other species,BSAI,69000,33600,26500,16,1,Other speciesBSAI
+1999,2000,1,Pollock,BS,1680000,1139000,1139000,1,1,PollockBS
+1999,2000,1,Pollock,AI,31700,23800,2000,1,1,PollockAI
+1999,2000,1,Pollock,Bogoslof,30400,22300,1000,1,1,PollockBogoslof
+1999,2000,1,Pacific cod,BSAI,240000,193000,193000,2,1,Pacific codBSAI
+1999,2000,1,Pacific cod,BS,NA,NA,NA,2,0,Pacific codBS
+1999,2000,1,Pacific cod,AI,NA,NA,NA,2,0,Pacific codAI
+1999,2000,1,Sablefish,BSAI Total,NA,NA,NA,3,1,SablefishBSAI Total
+1999,2000,1,Sablefish,Alaska Total,NA,NA,NA,3,0,SablefishAlaska Total
+1999,2000,1,Sablefish,BS,1750,1470,1470,3,1,SablefishBS
+1999,2000,1,Sablefish,AI,3090,2430,2430,3,1,SablefishAI
+1999,2000,1,Yellowfin sole,BSAI,226000,191000,123262,4,1,Yellowfin soleBSAI
+1999,2000,1,Greenland turbot,BSAI,42000,9300,9300,5,1,Greenland turbotBSAI
+1999,2000,1,Greenland turbot,BS,NA,6231,6231,5,0,Greenland turbotBS
+1999,2000,1,Greenland turbot,AI,NA,3069,3069,5,0,Greenland turbotAI
+1999,2000,1,Arrowtooth flounder,BSAI,160000,131000,131000,6,1,Arrowtooth flounderBSAI
+1999,2000,1,Kamchatka flounder,BSAI,NA,NA,NA,7,1,Kamchatka flounderBSAI
+1999,2000,1,Northern rock sole,BSAI,273000,230000,134760,8,1,Northern rock soleBSAI
+1999,2000,1,Flathead sole,BSAI,90000,73500,52652,9,1,Flathead soleBSAI
+1999,2000,1,Alaska plaice,BSAI,NA,NA,NA,10,1,Alaska plaiceBSAI
+1999,2000,1,Other flatfish,BSAI,141000,117000,83813,11,1,Other flatfishBSAI
+1999,2000,1,Pacific ocean perch,BSAI,NA,NA,NA,12,1,Pacific ocean perchBSAI
+1999,2000,1,Pacific ocean perch,BS,3100,2600,2600,12,0,Pacific ocean perchBS
+1999,2000,1,Pacific ocean perch,AI,14400,12300,12300,12,0,Pacific ocean perchAI
+1999,2000,1,Pacific ocean perch,EAI,NA,3120,3120,12,0,Pacific ocean perchEAI
+1999,2000,1,Pacific ocean perch,CAI,NA,3510,3510,12,0,Pacific ocean perchCAI
+1999,2000,1,Pacific ocean perch,WAI,NA,5670,5670,12,0,Pacific ocean perchWAI
+1999,2000,1,Sharpchin/Northern,BSAI,6870,5150,5150,19,1,Sharpchin/NorthernBSAI
+1999,2000,1,Sharpchin/Northern,BS,NA,NA,NA,19,0,Sharpchin/NorthernBS
+1999,2000,1,Sharpchin/Northern,AI,6870,5150,5150,19,0,Sharpchin/NorthernAI
+1999,2000,1,Northern rockfish,BSAI,NA,NA,NA,13,1,Northern rockfishBSAI
+1999,2000,1,Northern rockfish,BS,NA,NA,NA,13,0,Northern rockfishBS
+1999,2000,1,Northern rockfish,AI,NA,NA,NA,13,0,Northern rockfishAI
+1999,2000,1,Blackspotted/Rougheye rockfish,BSAI,NA,NA,NA,14,1,Blackspotted/Rougheye rockfishBSAI
+1999,2000,1,Blackspotted/Rougheye rockfish,BS/EAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishBS/EAI
+1999,2000,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+1999,2000,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1999,2000,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1999,2000,1,Shortraker rockfish,BS,NA,NA,NA,15,0,Shortraker rockfishBS
+1999,2000,1,Shortraker rockfish,AI,1180,885,885,15,0,Shortraker rockfishAI
+1999,2000,1,Other Red rockfish,BS,259,194,194,11,0,Other Red rockfishBS
+1999,2000,1,Other Red rockfish,AI,NA,NA,NA,11,0,Other Red rockfishAI
+1999,2000,1,Other Red rockfish,BSAI,1405,1054,1054,11,1,Other Red rockfishBSAI
+1999,2000,1,Other Red rockfish,BS,492,369,369,11,0,Other Red rockfishBS
+1999,2000,1,Other Red rockfish,AI,913,685,685,11,0,Other Red rockfishAI
+1999,2000,1,Atka mackerel,BSAI,119000,70800,70800,17,1,Atka mackerelBSAI
+1999,2000,1,Atka mackerel,EAI/BS,NA,16400,16400,17,0,Atka mackerelEAI/BS
+1999,2000,1,Atka mackerel,CAI,NA,24700,24700,17,0,Atka mackerelCAI
+1999,2000,1,Atka mackerel,WAI,NA,29700,29700,17,0,Atka mackerelWAI
+1999,2000,1,Skates,BSAI,NA,NA,NA,18,1,SkatesBSAI
+1999,2000,1,Sculpins,BSAI,NA,NA,NA,15,1,SculpinsBSAI
+1999,2000,1,Sharks,BSAI,NA,NA,NA,19,1,SharksBSAI
+1999,2000,1,Squids,BSAI,2620,1970,1970,21,1,SquidsBSAI
+1999,2000,1,Octopuses,BSAI,NA,NA,NA,20,1,OctopusesBSAI
+1999,2000,1,Other species,BSAI,71500,31360,31360,16,1,Other speciesBSAI
+1998,1999,1,Pollock,BS,1720000,992000,992000,1,1,PollockBS
+1998,1999,1,Pollock,AI,31700,23800,2000,1,1,PollockAI
+1998,1999,1,Pollock,Bogoslof,21000,15300,1000,1,1,PollockBogoslof
+1998,1999,1,Pacific cod,BSAI,264000,177000,177000,2,1,Pacific codBSAI
+1998,1999,1,Pacific cod,BS,NA,NA,NA,2,0,Pacific codBS
+1998,1999,1,Pacific cod,AI,NA,NA,NA,2,0,Pacific codAI
+1998,1999,1,Sablefish,BSAI Total,NA,NA,NA,3,1,SablefishBSAI Total
+1998,1999,1,Sablefish,Alaska Total,NA,NA,NA,3,0,SablefishAlaska Total
+1998,1999,1,Sablefish,BS,2090,1340,1340,3,1,SablefishBS
+1998,1999,1,Sablefish,AI,2890,1860,1380,3,1,SablefishAI
+1998,1999,1,Yellowfin sole,BSAI,308000,212000,207980,4,1,Yellowfin soleBSAI
+1998,1999,1,Greenland turbot,BSAI,29700,14200,9000,5,1,Greenland turbotBSAI
+1998,1999,1,Greenland turbot,BS,NA,9514,6030,5,0,Greenland turbotBS
+1998,1999,1,Greenland turbot,AI,NA,4686,2970,5,0,Greenland turbotAI
+1998,1999,1,Arrowtooth flounder,BSAI,219000,140000,134354,6,1,Arrowtooth flounderBSAI
+1998,1999,1,Kamchatka flounder,BSAI,NA,NA,NA,7,1,Kamchatka flounderBSAI
+1998,1999,1,Northern rock sole,BSAI,444000,309000,120000,8,1,Northern rock soleBSAI
+1998,1999,1,Flathead sole,BSAI,118000,77300,77300,9,1,Flathead soleBSAI
+1998,1999,1,Alaska plaice,BSAI,NA,NA,NA,10,1,Alaska plaiceBSAI
+1998,1999,1,Other flatfish,BSAI,248000,154000,154000,11,1,Other flatfishBSAI
+1998,1999,1,Pacific ocean perch,BSAI,NA,NA,NA,12,1,Pacific ocean perchBSAI
+1998,1999,1,Pacific ocean perch,BS,3600,1900,1400,12,0,Pacific ocean perchBS
+1998,1999,1,Pacific ocean perch,AI,19100,13500,13500,12,0,Pacific ocean perchAI
+1998,1999,1,Pacific ocean perch,EAI,NA,3430,3430,12,0,Pacific ocean perchEAI
+1998,1999,1,Pacific ocean perch,CAI,NA,3850,3850,12,0,Pacific ocean perchCAI
+1998,1999,1,Pacific ocean perch,WAI,NA,6220,6220,12,0,Pacific ocean perchWAI
+1998,1999,1,Sharpchin/Northern,BSAI,5640,4230,4230,19,1,Sharpchin/NorthernBSAI
+1998,1999,1,Sharpchin/Northern,BS,NA,NA,NA,19,0,Sharpchin/NorthernBS
+1998,1999,1,Sharpchin/Northern,AI,5640,4230,4230,19,0,Sharpchin/NorthernAI
+1998,1999,1,Northern rockfish,BSAI,NA,NA,NA,13,1,Northern rockfishBSAI
+1998,1999,1,Northern rockfish,BS,NA,NA,NA,13,0,Northern rockfishBS
+1998,1999,1,Northern rockfish,AI,NA,NA,NA,13,0,Northern rockfishAI
+1998,1999,1,Blackspotted/Rougheye rockfish,BSAI,NA,NA,NA,14,1,Blackspotted/Rougheye rockfishBSAI
+1998,1999,1,Blackspotted/Rougheye rockfish,BS/EAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishBS/EAI
+1998,1999,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+1998,1999,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1998,1999,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1998,1999,1,Shortraker rockfish,BS,NA,NA,NA,15,0,Shortraker rockfishBS
+1998,1999,1,Shortraker rockfish,AI,1290,965,965,15,0,Shortraker rockfishAI
+1998,1999,1,Other Red rockfish,BS,356,267,267,11,0,Other Red rockfishBS
+1998,1999,1,Other Red rockfish,AI,NA,NA,NA,11,0,Other Red rockfishAI
+1998,1999,1,Other Red rockfish,BSAI,1405,1054,1054,11,1,Other Red rockfishBSAI
+1998,1999,1,Other Red rockfish,BS,492,369,369,11,0,Other Red rockfishBS
+1998,1999,1,Other Red rockfish,AI,913,685,685,11,0,Other Red rockfishAI
+1998,1999,1,Atka mackerel,BSAI,148000,73300,66400,17,1,Atka mackerelBSAI
+1998,1999,1,Atka mackerel,EAI/BS,NA,17000,17000,17,0,Atka mackerelEAI/BS
+1998,1999,1,Atka mackerel,CAI,NA,25600,22400,17,0,Atka mackerelCAI
+1998,1999,1,Atka mackerel,WAI,NA,30700,27000,17,0,Atka mackerelWAI
+1998,1999,1,Skates,BSAI,NA,NA,NA,18,1,SkatesBSAI
+1998,1999,1,Sculpins,BSAI,NA,NA,NA,15,1,SculpinsBSAI
+1998,1999,1,Sharks,BSAI,NA,NA,NA,19,1,SharksBSAI
+1998,1999,1,Squids,BSAI,2620,1970,1970,21,1,SquidsBSAI
+1998,1999,1,Octopuses,BSAI,NA,NA,NA,20,1,OctopusesBSAI
+1998,1999,1,Other species,BSAI,129000,32860,32860,16,1,Other speciesBSAI
+1997,1998,1,Pollock,BS,2060000,1110000,1110000,1,1,PollockBS
+1997,1998,1,Pollock,AI,31700,23800,23800,1,1,PollockAI
+1997,1998,1,Pollock,Bogoslof,8750,6410,1000,1,1,PollockBogoslof
+1997,1998,1,Pacific cod,BSAI,336000,210000,210000,2,1,Pacific codBSAI
+1997,1998,1,Pacific cod,BS,NA,NA,NA,2,0,Pacific codBS
+1997,1998,1,Pacific cod,AI,NA,NA,NA,2,0,Pacific codAI
+1997,1998,1,Sablefish,BSAI Total,NA,NA,NA,3,1,SablefishBSAI Total
+1997,1998,1,Sablefish,Alaska Total,NA,NA,NA,3,0,SablefishAlaska Total
+1997,1998,1,Sablefish,BS,2160,1300,1300,3,1,SablefishBS
+1997,1998,1,Sablefish,AI,2230,1380,1380,3,1,SablefishAI
+1997,1998,1,Yellowfin sole,BSAI,314000,220000,220000,4,1,Yellowfin soleBSAI
+1997,1998,1,Greenland turbot,BSAI,22300,15000,15000,5,1,Greenland turbotBSAI
+1997,1998,1,Greenland turbot,BS,NA,NA,10050,5,0,Greenland turbotBS
+1997,1998,1,Greenland turbot,AI,NA,NA,4950,5,0,Greenland turbotAI
+1997,1998,1,Arrowtooth flounder,BSAI,230000,147000,16000,6,1,Arrowtooth flounderBSAI
+1997,1998,1,Kamchatka flounder,BSAI,NA,NA,NA,7,1,Kamchatka flounderBSAI
+1997,1998,1,Northern rock sole,BSAI,449000,312000,100000,8,1,Northern rock soleBSAI
+1997,1998,1,Flathead sole,BSAI,190000,132000,100000,9,1,Flathead soleBSAI
+1997,1998,1,Alaska plaice,BSAI,NA,NA,NA,10,1,Alaska plaiceBSAI
+1997,1998,1,Other flatfish,BSAI,253000,164000,89434,11,1,Other flatfishBSAI
+1997,1998,1,Pacific ocean perch,BSAI,NA,NA,NA,12,1,Pacific ocean perchBSAI
+1997,1998,1,Pacific ocean perch,BS,3300,1400,1400,12,0,Pacific ocean perchBS
+1997,1998,1,Pacific ocean perch,AI,20700,12100,12100,12,0,Pacific ocean perchAI
+1997,1998,1,Pacific ocean perch,EAI,NA,3070,3070,12,0,Pacific ocean perchEAI
+1997,1998,1,Pacific ocean perch,CAI,NA,3450,3450,12,0,Pacific ocean perchCAI
+1997,1998,1,Pacific ocean perch,WAI,NA,5580,5580,12,0,Pacific ocean perchWAI
+1997,1998,1,Sharpchin/Northern,BSAI,5640,4230,4230,19,1,Sharpchin/NorthernBSAI
+1997,1998,1,Sharpchin/Northern,BS,NA,NA,NA,19,0,Sharpchin/NorthernBS
+1997,1998,1,Sharpchin/Northern,AI,5640,4230,4230,19,0,Sharpchin/NorthernAI
+1997,1998,1,Northern rockfish,BSAI,NA,NA,NA,13,1,Northern rockfishBSAI
+1997,1998,1,Northern rockfish,BS,NA,NA,NA,13,0,Northern rockfishBS
+1997,1998,1,Northern rockfish,AI,NA,NA,NA,13,0,Northern rockfishAI
+1997,1998,1,Blackspotted/Rougheye rockfish,BSAI,NA,NA,NA,14,1,Blackspotted/Rougheye rockfishBSAI
+1997,1998,1,Blackspotted/Rougheye rockfish,BS/EAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishBS/EAI
+1997,1998,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+1997,1998,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1997,1998,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1997,1998,1,Shortraker rockfish,BS,NA,NA,NA,15,0,Shortraker rockfishBS
+1997,1998,1,Shortraker rockfish,AI,1290,965,965,15,0,Shortraker rockfishAI
+1997,1998,1,Other Red rockfish,BS,356,267,267,11,0,Other Red rockfishBS
+1997,1998,1,Other Red rockfish,AI,NA,NA,NA,11,0,Other Red rockfishAI
+1997,1998,1,Other Red rockfish,BSAI,1405,1054,1054,11,1,Other Red rockfishBSAI
+1997,1998,1,Other Red rockfish,BS,492,369,369,11,0,Other Red rockfishBS
+1997,1998,1,Other Red rockfish,AI,913,685,685,11,0,Other Red rockfishAI
+1997,1998,1,Atka mackerel,BSAI,134000,64300,64300,17,1,Atka mackerelBSAI
+1997,1998,1,Atka mackerel,EAI/BS,NA,14900,14900,17,0,Atka mackerelEAI/BS
+1997,1998,1,Atka mackerel,CAI,NA,22400,22400,17,0,Atka mackerelCAI
+1997,1998,1,Atka mackerel,WAI,NA,27000,27000,17,0,Atka mackerelWAI
+1997,1998,1,Skates,BSAI,NA,NA,NA,18,1,SkatesBSAI
+1997,1998,1,Sculpins,BSAI,NA,NA,NA,15,1,SculpinsBSAI
+1997,1998,1,Sharks,BSAI,NA,NA,NA,19,1,SharksBSAI
+1997,1998,1,Squids,BSAI,2620,1970,1970,21,1,SquidsBSAI
+1997,1998,1,Octopuses,BSAI,NA,NA,NA,20,1,OctopusesBSAI
+1997,1998,1,Other species,BSAI,134000,25800,25800,16,1,Other speciesBSAI
+1996,1997,1,Pollock,BS,1980000,1130000,1130000,1,1,PollockBS
+1996,1997,1,Pollock,AI,38000,28000,28000,1,1,PollockAI
+1996,1997,1,Pollock,Bogoslof,43800,32100,1000,1,1,PollockBogoslof
+1996,1997,1,Pacific cod,BSAI,418000,306000,270000,2,1,Pacific codBSAI
+1996,1997,1,Pacific cod,BS,NA,NA,NA,2,0,Pacific codBS
+1996,1997,1,Pacific cod,AI,NA,NA,NA,2,0,Pacific codAI
+1996,1997,1,Sablefish,BSAI Total,NA,NA,NA,3,1,SablefishBSAI Total
+1996,1997,1,Sablefish,Alaska Total,NA,NA,NA,3,0,SablefishAlaska Total
+1996,1997,1,Sablefish,BS,2750,1308,1100,3,1,SablefishBS
+1996,1997,1,Sablefish,AI,2860,1367,1200,3,1,SablefishAI
+1996,1997,1,Yellowfin sole,BSAI,339000,233000,230000,4,1,Yellowfin soleBSAI
+1996,1997,1,Greenland turbot,BSAI,22600,12350,9000,5,1,Greenland turbotBSAI
+1996,1997,1,Greenland turbot,BS,NA,8275,6030,5,0,Greenland turbotBS
+1996,1997,1,Greenland turbot,AI,NA,4075,2970,5,0,Greenland turbotAI
+1996,1997,1,Arrowtooth flounder,BSAI,167000,108000,20760,6,1,Arrowtooth flounderBSAI
+1996,1997,1,Kamchatka flounder,BSAI,NA,NA,NA,7,1,Kamchatka flounderBSAI
+1996,1997,1,Northern rock sole,BSAI,427000,296000,97185,8,1,Northern rock soleBSAI
+1996,1997,1,Flathead sole,BSAI,145000,101000,43500,9,1,Flathead soleBSAI
+1996,1997,1,Alaska plaice,BSAI,NA,NA,NA,10,1,Alaska plaiceBSAI
+1996,1997,1,Other flatfish,BSAI,150000,97500,50750,11,1,Other flatfishBSAI
+1996,1997,1,Pacific ocean perch,BSAI,NA,NA,NA,12,1,Pacific ocean perchBSAI
+1996,1997,1,Pacific ocean perch,BS,5400,2800,2800,12,0,Pacific ocean perchBS
+1996,1997,1,Pacific ocean perch,AI,25300,12800,12800,12,0,Pacific ocean perchAI
+1996,1997,1,Pacific ocean perch,EAI,NA,3240,3240,12,0,Pacific ocean perchEAI
+1996,1997,1,Pacific ocean perch,CAI,NA,3170,3170,12,0,Pacific ocean perchCAI
+1996,1997,1,Pacific ocean perch,WAI,NA,6390,6390,12,0,Pacific ocean perchWAI
+1996,1997,1,Sharpchin/Northern,BSAI,5810,4360,4360,19,1,Sharpchin/NorthernBSAI
+1996,1997,1,Sharpchin/Northern,BS,NA,NA,NA,19,0,Sharpchin/NorthernBS
+1996,1997,1,Sharpchin/Northern,AI,5810,4360,4360,19,0,Sharpchin/NorthernAI
+1996,1997,1,Northern rockfish,BSAI,NA,NA,NA,13,1,Northern rockfishBSAI
+1996,1997,1,Northern rockfish,BS,NA,NA,NA,13,0,Northern rockfishBS
+1996,1997,1,Northern rockfish,AI,NA,NA,NA,13,0,Northern rockfishAI
+1996,1997,1,Blackspotted/Rougheye rockfish,BSAI,NA,NA,NA,14,1,Blackspotted/Rougheye rockfishBSAI
+1996,1997,1,Blackspotted/Rougheye rockfish,BS/EAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishBS/EAI
+1996,1997,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+1996,1997,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1996,1997,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1996,1997,1,Shortraker rockfish,BS,NA,NA,NA,15,0,Shortraker rockfishBS
+1996,1997,1,Shortraker rockfish,AI,1250,938,938,15,0,Shortraker rockfishAI
+1996,1997,1,Other Red rockfish,BS,1400,1050,1050,11,0,Other Red rockfishBS
+1996,1997,1,Other Red rockfish,AI,NA,NA,NA,11,0,Other Red rockfishAI
+1996,1997,1,Other Red rockfish,BSAI,1449,1087,1087,11,1,Other Red rockfishBSAI
+1996,1997,1,Other Red rockfish,BS,497,373,373,11,0,Other Red rockfishBS
+1996,1997,1,Other Red rockfish,AI,952,714,714,11,0,Other Red rockfishAI
+1996,1997,1,Atka mackerel,BSAI,81600,66700,66700,17,1,Atka mackerelBSAI
+1996,1997,1,Atka mackerel,EAI/BS,NA,15000,15000,17,0,Atka mackerelEAI/BS
+1996,1997,1,Atka mackerel,CAI,NA,19500,19500,17,0,Atka mackerelCAI
+1996,1997,1,Atka mackerel,WAI,NA,32200,32200,17,0,Atka mackerelWAI
+1996,1997,1,Skates,BSAI,NA,NA,NA,18,1,SkatesBSAI
+1996,1997,1,Sculpins,BSAI,NA,NA,NA,15,1,SculpinsBSAI
+1996,1997,1,Sharks,BSAI,NA,NA,NA,19,1,SharksBSAI
+1996,1997,1,Squids,BSAI,2620,1970,1970,21,1,SquidsBSAI
+1996,1997,1,Octopuses,BSAI,NA,NA,NA,20,1,OctopusesBSAI
+1996,1997,1,Other species,BSAI,138000,25800,25800,16,1,Other speciesBSAI
+1995,1996,1,Pollock,BS,1460000,1190000,1190000,1,1,PollockBS
+1995,1996,1,Pollock,AI,47000,35600,35600,1,1,PollockAI
+1995,1996,1,Pollock,Bogoslof,121000,121000,1000,1,1,PollockBogoslof
+1995,1996,1,Pacific cod,BSAI,420000,305000,270000,2,1,Pacific codBSAI
+1995,1996,1,Pacific cod,BS,NA,NA,NA,2,0,Pacific codBS
+1995,1996,1,Pacific cod,AI,NA,NA,NA,2,0,Pacific codAI
+1995,1996,1,Sablefish,BSAI Total,3300,2500,2300,3,1,SablefishBSAI Total
+1995,1996,1,Sablefish,Alaska Total,NA,NA,NA,3,0,SablefishAlaska Total
+1995,1996,1,Sablefish,BS,NA,1200,1100,3,1,SablefishBS
+1995,1996,1,Sablefish,AI,NA,1300,1200,3,1,SablefishAI
+1995,1996,1,Yellowfin sole,BSAI,342000,278000,200000,4,1,Yellowfin soleBSAI
+1995,1996,1,Greenland turbot,BSAI,25100,10300,7000,5,1,Greenland turbotBSAI
+1995,1996,1,Greenland turbot,BS,NA,6900,4667,5,0,Greenland turbotBS
+1995,1996,1,Greenland turbot,AI,NA,3400,2333,5,0,Greenland turbotAI
+1995,1996,1,Arrowtooth flounder,BSAI,162000,129000,9000,6,1,Arrowtooth flounderBSAI
+1995,1996,1,Kamchatka flounder,BSAI,NA,NA,NA,7,1,Kamchatka flounderBSAI
+1995,1996,1,Northern rock sole,BSAI,420000,361000,70000,8,1,Northern rock soleBSAI
+1995,1996,1,Flathead sole,BSAI,140000,116000,30000,9,1,Flathead soleBSAI
+1995,1996,1,Alaska plaice,BSAI,NA,NA,NA,10,1,Alaska plaiceBSAI
+1995,1996,1,Other flatfish,BSAI,120000,102000,35000,11,1,Other flatfishBSAI
+1995,1996,1,Pacific ocean perch,BSAI,NA,NA,NA,12,1,Pacific ocean perchBSAI
+1995,1996,1,Pacific ocean perch,BS,2860,1800,1800,12,0,Pacific ocean perchBS
+1995,1996,1,Pacific ocean perch,AI,25200,12100,12100,12,0,Pacific ocean perchAI
+1995,1996,1,Pacific ocean perch,EAI,NA,3025,3025,12,0,Pacific ocean perchEAI
+1995,1996,1,Pacific ocean perch,CAI,NA,3025,3025,12,0,Pacific ocean perchCAI
+1995,1996,1,Pacific ocean perch,WAI,NA,6050,6050,12,0,Pacific ocean perchWAI
+1995,1996,1,Sharpchin/Northern,BSAI,5810,5810,5229,19,1,Sharpchin/NorthernBSAI
+1995,1996,1,Sharpchin/Northern,BS,NA,NA,NA,19,0,Sharpchin/NorthernBS
+1995,1996,1,Sharpchin/Northern,AI,5810,5810,5229,19,0,Sharpchin/NorthernAI
+1995,1996,1,Northern rockfish,BSAI,NA,NA,NA,13,1,Northern rockfishBSAI
+1995,1996,1,Northern rockfish,BS,NA,NA,NA,13,0,Northern rockfishBS
+1995,1996,1,Northern rockfish,AI,NA,NA,NA,13,0,Northern rockfishAI
+1995,1996,1,Blackspotted/Rougheye rockfish,BSAI,NA,NA,NA,14,1,Blackspotted/Rougheye rockfishBSAI
+1995,1996,1,Blackspotted/Rougheye rockfish,BS/EAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishBS/EAI
+1995,1996,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+1995,1996,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1995,1996,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1995,1996,1,Shortraker rockfish,BS,NA,NA,NA,15,0,Shortraker rockfishBS
+1995,1996,1,Shortraker rockfish,AI,1250,1250,1125,15,0,Shortraker rockfishAI
+1995,1996,1,Other Red rockfish,BS,1400,1400,1260,11,0,Other Red rockfishBS
+1995,1996,1,Other Red rockfish,AI,NA,NA,NA,11,0,Other Red rockfishAI
+1995,1996,1,Other Red rockfish,BSAI,1449,1449,1304,11,1,Other Red rockfishBSAI
+1995,1996,1,Other Red rockfish,BS,497,497,447,11,0,Other Red rockfishBS
+1995,1996,1,Other Red rockfish,AI,952,952,857,11,0,Other Red rockfishAI
+1995,1996,1,Atka mackerel,BSAI,164000,116000,106157,17,1,Atka mackerelBSAI
+1995,1996,1,Atka mackerel,EAI/BS,NA,26700,26700,17,0,Atka mackerelEAI/BS
+1995,1996,1,Atka mackerel,CAI,NA,33600,33600,17,0,Atka mackerelCAI
+1995,1996,1,Atka mackerel,WAI,NA,55700,45857,17,0,Atka mackerelWAI
+1995,1996,1,Skates,BSAI,NA,NA,NA,18,1,SkatesBSAI
+1995,1996,1,Sculpins,BSAI,NA,NA,NA,15,1,SculpinsBSAI
+1995,1996,1,Sharks,BSAI,NA,NA,NA,19,1,SharksBSAI
+1995,1996,1,Squids,BSAI,3000,3000,1000,21,1,SquidsBSAI
+1995,1996,1,Octopuses,BSAI,NA,NA,NA,20,1,OctopusesBSAI
+1995,1996,1,Other species,BSAI,137000,27600,20125,16,1,Other speciesBSAI
+1994,1995,1,Pollock,BS,1500000,1250000,1250000,1,1,PollockBS
+1994,1995,1,Pollock,AI,60400,56600,56600,1,1,PollockAI
+1994,1995,1,Pollock,Bogoslof,22100,22100,1000,1,1,PollockBogoslof
+1994,1995,1,Pacific cod,BSAI,390000,328000,250000,2,1,Pacific codBSAI
+1994,1995,1,Pacific cod,BS,NA,NA,NA,2,0,Pacific codBS
+1994,1995,1,Pacific cod,AI,NA,NA,NA,2,0,Pacific codAI
+1994,1995,1,Sablefish,BSAI Total,4900,3800,3800,3,1,SablefishBSAI Total
+1994,1995,1,Sablefish,Alaska Total,NA,NA,NA,3,0,SablefishAlaska Total
+1994,1995,1,Sablefish,BS,NA,1600,1600,3,1,SablefishBS
+1994,1995,1,Sablefish,AI,NA,2200,2200,3,1,SablefishAI
+1994,1995,1,Yellowfin sole,BSAI,319000,277000,190000,4,1,Yellowfin soleBSAI
+1994,1995,1,Greenland turbot,BSAI,27200,7000,7000,5,1,Greenland turbotBSAI
+1994,1995,1,Greenland turbot,BS,NA,4669,4669,5,0,Greenland turbotBS
+1994,1995,1,Greenland turbot,AI,NA,2331,2331,5,0,Greenland turbotAI
+1994,1995,1,Arrowtooth flounder,BSAI,138000,113000,10227,6,1,Arrowtooth flounderBSAI
+1994,1995,1,Kamchatka flounder,BSAI,NA,NA,NA,7,1,Kamchatka flounderBSAI
+1994,1995,1,Northern rock sole,BSAI,388000,347000,60000,8,1,Northern rock soleBSAI
+1994,1995,1,Flathead sole,BSAI,167000,138000,30000,9,1,Flathead soleBSAI
+1994,1995,1,Alaska plaice,BSAI,NA,NA,NA,10,1,Alaska plaiceBSAI
+1994,1995,1,Other flatfish,BSAI,137000,117000,19540,11,1,Other flatfishBSAI
+1994,1995,1,Pacific ocean perch,BSAI,NA,NA,NA,12,1,Pacific ocean perchBSAI
+1994,1995,1,Pacific ocean perch,BS,2910,1850,1850,12,0,Pacific ocean perchBS
+1994,1995,1,Pacific ocean perch,AI,15900,10500,10500,12,0,Pacific ocean perchAI
+1994,1995,1,Pacific ocean perch,EAI,NA,NA,NA,12,0,Pacific ocean perchEAI
+1994,1995,1,Pacific ocean perch,CAI,NA,NA,NA,12,0,Pacific ocean perchCAI
+1994,1995,1,Pacific ocean perch,WAI,NA,NA,NA,12,0,Pacific ocean perchWAI
+1994,1995,1,Sharpchin/Northern,BSAI,5670,5670,5103,19,1,Sharpchin/NorthernBSAI
+1994,1995,1,Sharpchin/Northern,BS,NA,NA,NA,19,0,Sharpchin/NorthernBS
+1994,1995,1,Sharpchin/Northern,AI,5670,5670,5103,19,0,Sharpchin/NorthernAI
+1994,1995,1,Northern rockfish,BSAI,NA,NA,NA,13,1,Northern rockfishBSAI
+1994,1995,1,Northern rockfish,BS,NA,NA,NA,13,0,Northern rockfishBS
+1994,1995,1,Northern rockfish,AI,NA,NA,NA,13,0,Northern rockfishAI
+1994,1995,1,Blackspotted/Rougheye rockfish,BSAI,NA,NA,NA,14,1,Blackspotted/Rougheye rockfishBSAI
+1994,1995,1,Blackspotted/Rougheye rockfish,BS/EAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishBS/EAI
+1994,1995,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+1994,1995,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1994,1995,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1994,1995,1,Shortraker rockfish,BS,NA,NA,NA,15,0,Shortraker rockfishBS
+1994,1995,1,Shortraker rockfish,AI,1220,1220,1098,15,0,Shortraker rockfishAI
+1994,1995,1,Other Red rockfish,BS,1400,1400,1260,11,0,Other Red rockfishBS
+1994,1995,1,Other Red rockfish,AI,NA,NA,NA,11,0,Other Red rockfishAI
+1994,1995,1,Other Red rockfish,BSAI,1135,1135,1022,11,1,Other Red rockfishBSAI
+1994,1995,1,Other Red rockfish,BS,365,365,329,11,0,Other Red rockfishBS
+1994,1995,1,Other Red rockfish,AI,770,770,693,11,0,Other Red rockfishAI
+1994,1995,1,Atka mackerel,BSAI,335000,125000,80000,17,1,Atka mackerelBSAI
+1994,1995,1,Atka mackerel,EAI/BS,NA,13500,13500,17,0,Atka mackerelEAI/BS
+1994,1995,1,Atka mackerel,CAI,NA,55900,50000,17,0,Atka mackerelCAI
+1994,1995,1,Atka mackerel,WAI,NA,55600,16500,17,0,Atka mackerelWAI
+1994,1995,1,Skates,BSAI,NA,NA,NA,18,1,SkatesBSAI
+1994,1995,1,Sculpins,BSAI,NA,NA,NA,15,1,SculpinsBSAI
+1994,1995,1,Sharks,BSAI,NA,NA,NA,19,1,SharksBSAI
+1994,1995,1,Squids,BSAI,3110,3110,1000,21,1,SquidsBSAI
+1994,1995,1,Octopuses,BSAI,NA,NA,NA,20,1,OctopusesBSAI
+1994,1995,1,Other species,BSAI,136000,27600,20000,16,1,Other speciesBSAI
+1993,1994,1,Pollock,BS,1590000,1330000,1330000,1,1,PollockBS
+1993,1994,1,Pollock,AI,60400,56600,56600,1,1,PollockAI
+1993,1994,1,Pollock,Bogoslof,31750,31750,1000,1,1,PollockBogoslof
+1993,1994,1,Pacific cod,BSAI,228000,191000,191000,2,1,Pacific codBSAI
+1993,1994,1,Pacific cod,BS,NA,NA,NA,2,0,Pacific codBS
+1993,1994,1,Pacific cod,AI,NA,NA,NA,2,0,Pacific codAI
+1993,1994,1,Sablefish,BSAI Total,NA,NA,NA,3,1,SablefishBSAI Total
+1993,1994,1,Sablefish,Alaska Total,NA,NA,NA,3,0,SablefishAlaska Total
+1993,1994,1,Sablefish,BS,670,540,540,3,1,SablefishBS
+1993,1994,1,Sablefish,AI,3490,2800,2800,3,1,SablefishAI
+1993,1994,1,Yellowfin sole,BSAI,269000,230000,150325,4,1,Yellowfin soleBSAI
+1993,1994,1,Greenland turbot,BSAI,24800,7000,7000,5,1,Greenland turbotBSAI
+1993,1994,1,Greenland turbot,BS,NA,NA,4667,5,0,Greenland turbotBS
+1993,1994,1,Greenland turbot,AI,NA,NA,2333,5,0,Greenland turbotAI
+1993,1994,1,Arrowtooth flounder,BSAI,130000,93400,10000,6,1,Arrowtooth flounderBSAI
+1993,1994,1,Kamchatka flounder,BSAI,NA,NA,NA,7,1,Kamchatka flounderBSAI
+1993,1994,1,Northern rock sole,BSAI,363000,313000,75000,8,1,Northern rock soleBSAI
+1993,1994,1,Flathead sole,BSAI,NA,NA,NA,9,1,Flathead soleBSAI
+1993,1994,1,Alaska plaice,BSAI,NA,NA,NA,10,1,Alaska plaiceBSAI
+1993,1994,1,Other flatfish,BSAI,270000,225000,56000,11,1,Other flatfishBSAI
+1993,1994,1,Pacific ocean perch,BSAI,NA,NA,NA,12,1,Pacific ocean perchBSAI
+1993,1994,1,Pacific ocean perch,BS,2920,1910,1910,12,0,Pacific ocean perchBS
+1993,1994,1,Pacific ocean perch,AI,16600,10900,10900,12,0,Pacific ocean perchAI
+1993,1994,1,Pacific ocean perch,EAI,NA,NA,NA,12,0,Pacific ocean perchEAI
+1993,1994,1,Pacific ocean perch,CAI,NA,NA,NA,12,0,Pacific ocean perchCAI
+1993,1994,1,Pacific ocean perch,WAI,NA,NA,NA,12,0,Pacific ocean perchWAI
+1993,1994,1,Sharpchin/Northern,BSAI,5670,5670,5670,19,1,Sharpchin/NorthernBSAI
+1993,1994,1,Sharpchin/Northern,BS,NA,NA,NA,19,0,Sharpchin/NorthernBS
+1993,1994,1,Sharpchin/Northern,AI,5670,5670,5670,19,0,Sharpchin/NorthernAI
+1993,1994,1,Northern rockfish,BSAI,NA,NA,NA,13,1,Northern rockfishBSAI
+1993,1994,1,Northern rockfish,BS,NA,NA,NA,13,0,Northern rockfishBS
+1993,1994,1,Northern rockfish,AI,NA,NA,NA,13,0,Northern rockfishAI
+1993,1994,1,Blackspotted/Rougheye rockfish,BSAI,NA,NA,NA,14,1,Blackspotted/Rougheye rockfishBSAI
+1993,1994,1,Blackspotted/Rougheye rockfish,BS/EAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishBS/EAI
+1993,1994,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+1993,1994,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1993,1994,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1993,1994,1,Shortraker rockfish,BS,NA,NA,NA,15,0,Shortraker rockfishBS
+1993,1994,1,Shortraker rockfish,AI,1220,1220,1220,15,0,Shortraker rockfishAI
+1993,1994,1,Other Red rockfish,BS,1400,1400,1400,11,0,Other Red rockfishBS
+1993,1994,1,Other Red rockfish,AI,NA,NA,NA,11,0,Other Red rockfishAI
+1993,1994,1,Other Red rockfish,BSAI,1135,1135,1135,11,1,Other Red rockfishBSAI
+1993,1994,1,Other Red rockfish,BS,365,365,365,11,0,Other Red rockfishBS
+1993,1994,1,Other Red rockfish,AI,770,770,770,11,0,Other Red rockfishAI
+1993,1994,1,Atka mackerel,BSAI,484000,122500,68000,17,1,Atka mackerelBSAI
+1993,1994,1,Atka mackerel,EAI/BS,NA,13475,13475,17,0,Atka mackerelEAI/BS
+1993,1994,1,Atka mackerel,CAI,NA,55125,44525,17,0,Atka mackerelCAI
+1993,1994,1,Atka mackerel,WAI,NA,53900,10000,17,0,Atka mackerelWAI
+1993,1994,1,Skates,BSAI,NA,NA,NA,18,1,SkatesBSAI
+1993,1994,1,Sculpins,BSAI,NA,NA,NA,15,1,SculpinsBSAI
+1993,1994,1,Sharks,BSAI,NA,NA,NA,19,1,SharksBSAI
+1993,1994,1,Squids,BSAI,3110,3110,3110,21,1,SquidsBSAI
+1993,1994,1,Octopuses,BSAI,NA,NA,NA,20,1,OctopusesBSAI
+1993,1994,1,Other species,BSAI,141000,27500,26390,16,1,Other speciesBSAI
+1992,1993,1,Pollock,BS,1340000,1340000,1300000,1,1,PollockBS
+1992,1993,1,Pollock,AI,62600,58700,51600,1,1,PollockAI
+1992,1993,1,Pollock,Bogoslof,42000,42000,1000,1,1,PollockBogoslof
+1992,1993,1,Pacific cod,BSAI,192000,164500,164500,2,1,Pacific codBSAI
+1992,1993,1,Pacific cod,BS,NA,NA,NA,2,0,Pacific codBS
+1992,1993,1,Pacific cod,AI,NA,NA,NA,2,0,Pacific codAI
+1992,1993,1,Sablefish,BSAI Total,NA,NA,NA,3,1,SablefishBSAI Total
+1992,1993,1,Sablefish,Alaska Total,NA,NA,NA,3,0,SablefishAlaska Total
+1992,1993,1,Sablefish,BS,2000,1500,1500,3,1,SablefishBS
+1992,1993,1,Sablefish,AI,3500,2600,2600,3,1,SablefishAI
+1992,1993,1,Yellowfin sole,BSAI,275000,238000,220000,4,1,Yellowfin soleBSAI
+1992,1993,1,Greenland turbot,BSAI,10500,7000,7000,5,1,Greenland turbotBSAI
+1992,1993,1,Greenland turbot,BS,NA,NA,NA,5,0,Greenland turbotBS
+1992,1993,1,Greenland turbot,AI,NA,NA,NA,5,0,Greenland turbotAI
+1992,1993,1,Arrowtooth flounder,BSAI,96000,72000,10000,6,1,Arrowtooth flounderBSAI
+1992,1993,1,Kamchatka flounder,BSAI,NA,NA,NA,7,1,Kamchatka flounderBSAI
+1992,1993,1,Northern rock sole,BSAI,270000,185000,75000,8,1,Northern rock soleBSAI
+1992,1993,1,Flathead sole,BSAI,NA,NA,NA,9,1,Flathead soleBSAI
+1992,1993,1,Alaska plaice,BSAI,NA,NA,NA,10,1,Alaska plaiceBSAI
+1992,1993,1,Other flatfish,BSAI,228000,191000,79000,11,1,Other flatfishBSAI
+1992,1993,1,Pacific ocean perch,BSAI,NA,NA,NA,12,1,Pacific ocean perchBSAI
+1992,1993,1,Pacific ocean perch,BS,3750,3330,3330,12,0,Pacific ocean perchBS
+1992,1993,1,Pacific ocean perch,AI,16800,13900,13900,12,0,Pacific ocean perchAI
+1992,1993,1,Pacific ocean perch,EAI,NA,NA,NA,12,0,Pacific ocean perchEAI
+1992,1993,1,Pacific ocean perch,CAI,NA,NA,NA,12,0,Pacific ocean perchCAI
+1992,1993,1,Pacific ocean perch,WAI,NA,NA,NA,12,0,Pacific ocean perchWAI
+1992,1993,1,Sharpchin/Northern,BSAI,5670,5670,5100,19,1,Sharpchin/NorthernBSAI
+1992,1993,1,Sharpchin/Northern,BS,NA,NA,NA,19,0,Sharpchin/NorthernBS
+1992,1993,1,Sharpchin/Northern,AI,5670,5670,5100,19,0,Sharpchin/NorthernAI
+1992,1993,1,Northern rockfish,BSAI,NA,NA,NA,13,1,Northern rockfishBSAI
+1992,1993,1,Northern rockfish,BS,NA,NA,NA,13,0,Northern rockfishBS
+1992,1993,1,Northern rockfish,AI,NA,NA,NA,13,0,Northern rockfishAI
+1992,1993,1,Blackspotted/Rougheye rockfish,BSAI,NA,NA,NA,14,1,Blackspotted/Rougheye rockfishBSAI
+1992,1993,1,Blackspotted/Rougheye rockfish,BS/EAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishBS/EAI
+1992,1993,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+1992,1993,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1992,1993,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1992,1993,1,Shortraker rockfish,BS,NA,NA,NA,15,0,Shortraker rockfishBS
+1992,1993,1,Shortraker rockfish,AI,1220,1220,1100,15,0,Shortraker rockfishAI
+1992,1993,1,Other Red rockfish,BS,1400,1400,1200,11,0,Other Red rockfishBS
+1992,1993,1,Other Red rockfish,AI,NA,NA,NA,11,0,Other Red rockfishAI
+1992,1993,1,Other Red rockfish,BSAI,1325,1325,1190,11,1,Other Red rockfishBSAI
+1992,1993,1,Other Red rockfish,BS,400,400,360,11,0,Other Red rockfishBS
+1992,1993,1,Other Red rockfish,AI,925,925,830,11,0,Other Red rockfishAI
+1992,1993,1,Atka mackerel,BSAI,771000,117100,32000,17,1,Atka mackerelBSAI
+1992,1993,1,Atka mackerel,EAI/BS,NA,NA,NA,17,0,Atka mackerelEAI/BS
+1992,1993,1,Atka mackerel,CAI,NA,NA,NA,17,0,Atka mackerelCAI
+1992,1993,1,Atka mackerel,WAI,NA,NA,NA,17,0,Atka mackerelWAI
+1992,1993,1,Skates,BSAI,NA,NA,NA,18,1,SkatesBSAI
+1992,1993,1,Sculpins,BSAI,NA,NA,NA,15,1,SculpinsBSAI
+1992,1993,1,Sharks,BSAI,NA,NA,NA,19,1,SharksBSAI
+1992,1993,1,Squids,BSAI,3400,3400,2000,21,1,SquidsBSAI
+1992,1993,1,Octopuses,BSAI,NA,NA,NA,20,1,OctopusesBSAI
+1992,1993,1,Other species,BSAI,26600,26600,26600,16,1,Other speciesBSAI
+1991,1992,1,Pollock,BS,1770000,1490000,1300000,1,1,PollockBS
+1991,1992,1,Pollock,AI,62400,51600,51600,1,1,PollockAI
+1991,1992,1,Pollock,Bogoslof,25000,25000,1000,1,1,PollockBogoslof
+1991,1992,1,Pacific cod,BSAI,188000,182000,182000,2,1,Pacific codBSAI
+1991,1992,1,Pacific cod,BS,NA,NA,NA,2,0,Pacific codBS
+1991,1992,1,Pacific cod,AI,NA,NA,NA,2,0,Pacific codAI
+1991,1992,1,Sablefish,BSAI Total,NA,NA,NA,3,1,SablefishBSAI Total
+1991,1992,1,Sablefish,Alaska Total,NA,NA,NA,3,0,SablefishAlaska Total
+1991,1992,1,Sablefish,BS,1840,1400,1400,3,1,SablefishBS
+1991,1992,1,Sablefish,AI,4030,3000,3000,3,1,SablefishAI
+1991,1992,1,Yellowfin sole,BSAI,452000,372000,235000,4,1,Yellowfin soleBSAI
+1991,1992,1,Greenland turbot,BSAI,34600,7000,7000,5,1,Greenland turbotBSAI
+1991,1992,1,Greenland turbot,BS,NA,NA,NA,5,0,Greenland turbotBS
+1991,1992,1,Greenland turbot,AI,NA,NA,NA,5,0,Greenland turbotAI
+1991,1992,1,Arrowtooth flounder,BSAI,114000,82300,10000,6,1,Arrowtooth flounderBSAI
+1991,1992,1,Kamchatka flounder,BSAI,NA,NA,NA,7,1,Kamchatka flounderBSAI
+1991,1992,1,Northern rock sole,BSAI,260800,260800,40000,8,1,Northern rock soleBSAI
+1991,1992,1,Flathead sole,BSAI,NA,NA,NA,9,1,Flathead soleBSAI
+1991,1992,1,Alaska plaice,BSAI,NA,NA,NA,10,1,Alaska plaiceBSAI
+1991,1992,1,Other flatfish,BSAI,289000,199600,79000,11,1,Other flatfishBSAI
+1991,1992,1,Pacific ocean perch,BSAI,NA,NA,NA,12,1,Pacific ocean perchBSAI
+1991,1992,1,Pacific ocean perch,BS,3540,3540,3540,12,0,Pacific ocean perchBS
+1991,1992,1,Pacific ocean perch,AI,11700,11700,11700,12,0,Pacific ocean perchAI
+1991,1992,1,Pacific ocean perch,EAI,NA,NA,NA,12,0,Pacific ocean perchEAI
+1991,1992,1,Pacific ocean perch,CAI,NA,NA,NA,12,0,Pacific ocean perchCAI
+1991,1992,1,Pacific ocean perch,WAI,NA,NA,NA,12,0,Pacific ocean perchWAI
+1991,1992,1,Sharpchin/Northern,BSAI,5670,5670,5670,19,1,Sharpchin/NorthernBSAI
+1991,1992,1,Sharpchin/Northern,BS,NA,NA,NA,19,0,Sharpchin/NorthernBS
+1991,1992,1,Sharpchin/Northern,AI,5670,5670,5670,19,0,Sharpchin/NorthernAI
+1991,1992,1,Northern rockfish,BSAI,NA,NA,NA,13,1,Northern rockfishBSAI
+1991,1992,1,Northern rockfish,BS,NA,NA,NA,13,0,Northern rockfishBS
+1991,1992,1,Northern rockfish,AI,NA,NA,NA,13,0,Northern rockfishAI
+1991,1992,1,Blackspotted/Rougheye rockfish,BSAI,NA,NA,NA,14,1,Blackspotted/Rougheye rockfishBSAI
+1991,1992,1,Blackspotted/Rougheye rockfish,BS/EAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishBS/EAI
+1991,1992,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+1991,1992,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1991,1992,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1991,1992,1,Shortraker rockfish,BS,NA,NA,NA,15,0,Shortraker rockfishBS
+1991,1992,1,Shortraker rockfish,AI,1220,1220,1220,15,0,Shortraker rockfishAI
+1991,1992,1,Other Red rockfish,BS,1400,1400,1400,11,0,Other Red rockfishBS
+1991,1992,1,Other Red rockfish,AI,NA,NA,NA,11,0,Other Red rockfishAI
+1991,1992,1,Other Red rockfish,BSAI,1325,1325,1325,11,1,Other Red rockfishBSAI
+1991,1992,1,Other Red rockfish,BS,400,400,400,11,0,Other Red rockfishBS
+1991,1992,1,Other Red rockfish,AI,925,925,925,11,0,Other Red rockfishAI
+1991,1992,1,Atka mackerel,BSAI,435000,43000,43000,17,1,Atka mackerelBSAI
+1991,1992,1,Atka mackerel,EAI/BS,NA,NA,NA,17,0,Atka mackerelEAI/BS
+1991,1992,1,Atka mackerel,CAI,NA,NA,NA,17,0,Atka mackerelCAI
+1991,1992,1,Atka mackerel,WAI,NA,NA,NA,17,0,Atka mackerelWAI
+1991,1992,1,Skates,BSAI,NA,NA,NA,18,1,SkatesBSAI
+1991,1992,1,Sculpins,BSAI,NA,NA,NA,15,1,SculpinsBSAI
+1991,1992,1,Sharks,BSAI,NA,NA,NA,19,1,SharksBSAI
+1991,1992,1,Squids,BSAI,3600,3600,2000,21,1,SquidsBSAI
+1991,1992,1,Octopuses,BSAI,NA,NA,NA,20,1,OctopusesBSAI
+1991,1992,1,Other species,BSAI,27200,27200,20000,16,1,Other speciesBSAI
+1990,1991,1,Pollock,BS,NA,1676000,1300000,1,1,PollockBS
+1990,1991,1,Pollock,AI,NA,101460,85000,1,1,PollockAI
+1990,1991,1,Pollock,Bogoslof,NA,NA,NA,1,1,PollockBogoslof
+1990,1991,1,Pacific cod,BSAI,NA,229000,229000,2,1,Pacific codBSAI
+1990,1991,1,Pacific cod,BS,NA,NA,NA,2,0,Pacific codBS
+1990,1991,1,Pacific cod,AI,NA,NA,NA,2,0,Pacific codAI
+1990,1991,1,Sablefish,BSAI Total,NA,NA,NA,3,1,SablefishBSAI Total
+1990,1991,1,Sablefish,Alaska Total,NA,NA,NA,3,0,SablefishAlaska Total
+1990,1991,1,Sablefish,BS,NA,3100,3100,3,1,SablefishBS
+1990,1991,1,Sablefish,AI,NA,3200,3200,3,1,SablefishAI
+1990,1991,1,Yellowfin sole,BSAI,NA,250600,135000,4,1,Yellowfin soleBSAI
+1990,1991,1,Greenland turbot,BSAI,NA,7000,7000,5,1,Greenland turbotBSAI
+1990,1991,1,Greenland turbot,BS,NA,NA,NA,5,0,Greenland turbotBS
+1990,1991,1,Greenland turbot,AI,NA,NA,NA,5,0,Greenland turbotAI
+1990,1991,1,Arrowtooth flounder,BSAI,NA,116400,20000,6,1,Arrowtooth flounderBSAI
+1990,1991,1,Kamchatka flounder,BSAI,NA,NA,NA,7,1,Kamchatka flounderBSAI
+1990,1991,1,Northern rock sole,BSAI,NA,246500,90000,8,1,Northern rock soleBSAI
+1990,1991,1,Flathead sole,BSAI,NA,NA,NA,9,1,Flathead soleBSAI
+1990,1991,1,Alaska plaice,BSAI,NA,NA,NA,10,1,Alaska plaiceBSAI
+1990,1991,1,Other flatfish,BSAI,NA,219700,64675,11,1,Other flatfishBSAI
+1990,1991,1,Pacific ocean perch,BSAI,NA,NA,NA,12,1,Pacific ocean perchBSAI
+1990,1991,1,Pacific ocean perch,BS,NA,4570,4570,12,0,Pacific ocean perchBS
+1990,1991,1,Pacific ocean perch,AI,NA,10775,10775,12,0,Pacific ocean perchAI
+1990,1991,1,Pacific ocean perch,EAI,NA,NA,NA,12,0,Pacific ocean perchEAI
+1990,1991,1,Pacific ocean perch,CAI,NA,NA,NA,12,0,Pacific ocean perchCAI
+1990,1991,1,Pacific ocean perch,WAI,NA,NA,NA,12,0,Pacific ocean perchWAI
+1990,1991,1,Sharpchin/Northern,BSAI,0,0,0,19,1,Sharpchin/NorthernBSAI
+1990,1991,1,Sharpchin/Northern,BS,NA,NA,NA,19,0,Sharpchin/NorthernBS
+1990,1991,1,Sharpchin/Northern,AI,NA,NA,NA,19,0,Sharpchin/NorthernAI
+1990,1991,1,Northern rockfish,BSAI,NA,NA,NA,13,1,Northern rockfishBSAI
+1990,1991,1,Northern rockfish,BS,NA,NA,NA,13,0,Northern rockfishBS
+1990,1991,1,Northern rockfish,AI,NA,NA,NA,13,0,Northern rockfishAI
+1990,1991,1,Blackspotted/Rougheye rockfish,BSAI,NA,NA,NA,14,1,Blackspotted/Rougheye rockfishBSAI
+1990,1991,1,Blackspotted/Rougheye rockfish,BS/EAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishBS/EAI
+1990,1991,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+1990,1991,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1990,1991,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1990,1991,1,Shortraker rockfish,BS,NA,NA,NA,15,0,Shortraker rockfishBS
+1990,1991,1,Shortraker rockfish,AI,NA,NA,NA,15,0,Shortraker rockfishAI
+1990,1991,1,Other Red rockfish,BS,NA,1670,1670,11,0,Other Red rockfishBS
+1990,1991,1,Other Red rockfish,AI,NA,4685,4685,11,0,Other Red rockfishAI
+1990,1991,1,Other Red rockfish,BSAI,NA,1325,1325,11,1,Other Red rockfishBSAI
+1990,1991,1,Other Red rockfish,BS,NA,400,400,11,0,Other Red rockfishBS
+1990,1991,1,Other Red rockfish,AI,NA,925,925,11,0,Other Red rockfishAI
+1990,1991,1,Atka mackerel,BSAI,NA,24000,24000,17,1,Atka mackerelBSAI
+1990,1991,1,Atka mackerel,EAI/BS,NA,NA,NA,17,0,Atka mackerelEAI/BS
+1990,1991,1,Atka mackerel,CAI,NA,NA,NA,17,0,Atka mackerelCAI
+1990,1991,1,Atka mackerel,WAI,NA,NA,NA,17,0,Atka mackerelWAI
+1990,1991,1,Skates,BSAI,NA,NA,NA,18,1,SkatesBSAI
+1990,1991,1,Sculpins,BSAI,NA,NA,NA,15,1,SculpinsBSAI
+1990,1991,1,Sharks,BSAI,NA,NA,NA,19,1,SharksBSAI
+1990,1991,1,Squids,BSAI,NA,3800,1000,21,1,SquidsBSAI
+1990,1991,1,Octopuses,BSAI,NA,NA,NA,20,1,OctopusesBSAI
+1990,1991,1,Other species,BSAI,NA,28700,15000,16,1,Other speciesBSAI
+1989,1990,1,Pollock,BS,NA,1450000,1280000,1,1,PollockBS
+1989,1990,1,Pollock,AI,NA,153600,100000,1,1,PollockAI
+1989,1990,1,Pollock,Bogoslof,NA,NA,NA,1,1,PollockBogoslof
+1989,1990,1,Pacific cod,BSAI,NA,417000,227000,2,1,Pacific codBSAI
+1989,1990,1,Pacific cod,BS,NA,NA,NA,2,0,Pacific codBS
+1989,1990,1,Pacific cod,AI,NA,NA,NA,2,0,Pacific codAI
+1989,1990,1,Sablefish,BSAI Total,NA,NA,NA,3,1,SablefishBSAI Total
+1989,1990,1,Sablefish,Alaska Total,NA,NA,NA,3,0,SablefishAlaska Total
+1989,1990,1,Sablefish,BS,NA,2700,2700,3,1,SablefishBS
+1989,1990,1,Sablefish,AI,NA,4500,4500,3,1,SablefishAI
+1989,1990,1,Yellowfin sole,BSAI,NA,278900,207650,4,1,Yellowfin soleBSAI
+1989,1990,1,Greenland turbot,BSAI,NA,7000,7000,5,1,Greenland turbotBSAI
+1989,1990,1,Greenland turbot,BS,NA,NA,NA,5,0,Greenland turbotBS
+1989,1990,1,Greenland turbot,AI,NA,NA,NA,5,0,Greenland turbotAI
+1989,1990,1,Arrowtooth flounder,BSAI,NA,106500,10000,6,1,Arrowtooth flounderBSAI
+1989,1990,1,Kamchatka flounder,BSAI,NA,NA,NA,7,1,Kamchatka flounderBSAI
+1989,1990,1,Northern rock sole,BSAI,NA,216300,60000,8,1,Northern rock soleBSAI
+1989,1990,1,Flathead sole,BSAI,NA,NA,NA,9,1,Flathead soleBSAI
+1989,1990,1,Alaska plaice,BSAI,NA,NA,NA,10,1,Alaska plaiceBSAI
+1989,1990,1,Other flatfish,BSAI,NA,188000,60150,11,1,Other flatfishBSAI
+1989,1990,1,Pacific ocean perch,BSAI,NA,NA,NA,12,1,Pacific ocean perchBSAI
+1989,1990,1,Pacific ocean perch,BS,NA,6300,6300,12,0,Pacific ocean perchBS
+1989,1990,1,Pacific ocean perch,AI,NA,16600,6600,12,0,Pacific ocean perchAI
+1989,1990,1,Pacific ocean perch,EAI,NA,NA,NA,12,0,Pacific ocean perchEAI
+1989,1990,1,Pacific ocean perch,CAI,NA,NA,NA,12,0,Pacific ocean perchCAI
+1989,1990,1,Pacific ocean perch,WAI,NA,NA,NA,12,0,Pacific ocean perchWAI
+1989,1990,1,Sharpchin/Northern,BSAI,NA,NA,NA,19,1,Sharpchin/NorthernBSAI
+1989,1990,1,Sharpchin/Northern,BS,NA,NA,NA,19,0,Sharpchin/NorthernBS
+1989,1990,1,Sharpchin/Northern,AI,NA,NA,NA,19,0,Sharpchin/NorthernAI
+1989,1990,1,Northern rockfish,BSAI,NA,NA,NA,13,1,Northern rockfishBSAI
+1989,1990,1,Northern rockfish,BS,NA,NA,NA,13,0,Northern rockfishBS
+1989,1990,1,Northern rockfish,AI,NA,NA,NA,13,0,Northern rockfishAI
+1989,1990,1,Blackspotted/Rougheye rockfish,BSAI,NA,NA,NA,14,1,Blackspotted/Rougheye rockfishBSAI
+1989,1990,1,Blackspotted/Rougheye rockfish,BS/EAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishBS/EAI
+1989,1990,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+1989,1990,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1989,1990,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1989,1990,1,Shortraker rockfish,BS,NA,NA,NA,15,0,Shortraker rockfishBS
+1989,1990,1,Shortraker rockfish,AI,NA,NA,NA,15,0,Shortraker rockfishAI
+1989,1990,1,Other Red rockfish,BS,NA,NA,NA,11,0,Other Red rockfishBS
+1989,1990,1,Other Red rockfish,AI,NA,NA,NA,11,0,Other Red rockfishAI
+1989,1990,1,Other Red rockfish,BSAI,NA,1600,1600,11,1,Other Red rockfishBSAI
+1989,1990,1,Other Red rockfish,BS,NA,500,500,11,0,Other Red rockfishBS
+1989,1990,1,Other Red rockfish,AI,NA,1100,1100,11,0,Other Red rockfishAI
+1989,1990,1,Atka mackerel,BSAI,NA,24000,21000,17,1,Atka mackerelBSAI
+1989,1990,1,Atka mackerel,EAI/BS,NA,NA,NA,17,0,Atka mackerelEAI/BS
+1989,1990,1,Atka mackerel,CAI,NA,NA,NA,17,0,Atka mackerelCAI
+1989,1990,1,Atka mackerel,WAI,NA,NA,NA,17,0,Atka mackerelWAI
+1989,1990,1,Skates,BSAI,NA,NA,NA,18,1,SkatesBSAI
+1989,1990,1,Sculpins,BSAI,NA,NA,NA,15,1,SculpinsBSAI
+1989,1990,1,Sharks,BSAI,NA,NA,NA,19,1,SharksBSAI
+1989,1990,1,Squids,BSAI,NA,10000,500,21,1,SquidsBSAI
+1989,1990,1,Octopuses,BSAI,NA,NA,NA,20,1,OctopusesBSAI
+1989,1990,1,Other species,BSAI,NA,55500,5000,16,1,Other speciesBSAI
+1988,1989,1,Pollock,BS,NA,1340000,1340000,1,1,PollockBS
+1988,1989,1,Pollock,AI,NA,117900,13450,1,1,PollockAI
+1988,1989,1,Pollock,Bogoslof,NA,NA,NA,1,1,PollockBogoslof
+1988,1989,1,Pacific cod,BSAI,NA,370600,230681,2,1,Pacific codBSAI
+1988,1989,1,Pacific cod,BS,NA,NA,NA,2,0,Pacific codBS
+1988,1989,1,Pacific cod,AI,NA,NA,NA,2,0,Pacific codAI
+1988,1989,1,Sablefish,BSAI Total,NA,NA,NA,3,1,SablefishBSAI Total
+1988,1989,1,Sablefish,Alaska Total,NA,NA,NA,3,0,SablefishAlaska Total
+1988,1989,1,Sablefish,BS,NA,2800,2800,3,1,SablefishBS
+1988,1989,1,Sablefish,AI,NA,3400,3400,3,1,SablefishAI
+1988,1989,1,Yellowfin sole,BSAI,NA,241000,182675,4,1,Yellowfin soleBSAI
+1988,1989,1,Greenland turbot,BSAI,NA,20300,8000,5,1,Greenland turbotBSAI
+1988,1989,1,Greenland turbot,BS,NA,NA,NA,5,0,Greenland turbotBS
+1988,1989,1,Greenland turbot,AI,NA,NA,NA,5,0,Greenland turbotAI
+1988,1989,1,Arrowtooth flounder,BSAI,NA,163700,6000,6,1,Arrowtooth flounderBSAI
+1988,1989,1,Kamchatka flounder,BSAI,NA,NA,NA,7,1,Kamchatka flounderBSAI
+1988,1989,1,Northern rock sole,BSAI,NA,171000,90762,8,1,Northern rock soleBSAI
+1988,1989,1,Flathead sole,BSAI,NA,NA,NA,9,1,Flathead soleBSAI
+1988,1989,1,Alaska plaice,BSAI,NA,NA,NA,10,1,Alaska plaiceBSAI
+1988,1989,1,Other flatfish,BSAI,NA,155900,75183,11,1,Other flatfishBSAI
+1988,1989,1,Pacific ocean perch,BSAI,NA,NA,NA,12,1,Pacific ocean perchBSAI
+1988,1989,1,Pacific ocean perch,BS,NA,6000,5000,12,0,Pacific ocean perchBS
+1988,1989,1,Pacific ocean perch,AI,NA,16600,6000,12,0,Pacific ocean perchAI
+1988,1989,1,Pacific ocean perch,EAI,NA,NA,NA,12,0,Pacific ocean perchEAI
+1988,1989,1,Pacific ocean perch,CAI,NA,NA,NA,12,0,Pacific ocean perchCAI
+1988,1989,1,Pacific ocean perch,WAI,NA,NA,NA,12,0,Pacific ocean perchWAI
+1988,1989,1,Sharpchin/Northern,BSAI,NA,NA,NA,19,1,Sharpchin/NorthernBSAI
+1988,1989,1,Sharpchin/Northern,BS,NA,NA,NA,19,0,Sharpchin/NorthernBS
+1988,1989,1,Sharpchin/Northern,AI,NA,NA,NA,19,0,Sharpchin/NorthernAI
+1988,1989,1,Northern rockfish,BSAI,NA,NA,NA,13,1,Northern rockfishBSAI
+1988,1989,1,Northern rockfish,BS,NA,NA,NA,13,0,Northern rockfishBS
+1988,1989,1,Northern rockfish,AI,NA,NA,NA,13,0,Northern rockfishAI
+1988,1989,1,Blackspotted/Rougheye rockfish,BSAI,NA,NA,NA,14,1,Blackspotted/Rougheye rockfishBSAI
+1988,1989,1,Blackspotted/Rougheye rockfish,BS/EAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishBS/EAI
+1988,1989,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+1988,1989,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1988,1989,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1988,1989,1,Shortraker rockfish,BS,NA,NA,NA,15,0,Shortraker rockfishBS
+1988,1989,1,Shortraker rockfish,AI,NA,NA,NA,15,0,Shortraker rockfishAI
+1988,1989,1,Other Red rockfish,BS,NA,NA,NA,11,0,Other Red rockfishBS
+1988,1989,1,Other Red rockfish,AI,NA,NA,NA,11,0,Other Red rockfishAI
+1988,1989,1,Other Red rockfish,BSAI,NA,1500,1500,11,1,Other Red rockfishBSAI
+1988,1989,1,Other Red rockfish,BS,NA,400,400,11,0,Other Red rockfishBS
+1988,1989,1,Other Red rockfish,AI,NA,1100,1100,11,0,Other Red rockfishAI
+1988,1989,1,Atka mackerel,BSAI,NA,21000,20285,17,1,Atka mackerelBSAI
+1988,1989,1,Atka mackerel,EAI/BS,NA,NA,NA,17,0,Atka mackerelEAI/BS
+1988,1989,1,Atka mackerel,CAI,NA,NA,NA,17,0,Atka mackerelCAI
+1988,1989,1,Atka mackerel,WAI,NA,NA,NA,17,0,Atka mackerelWAI
+1988,1989,1,Skates,BSAI,NA,NA,NA,18,1,SkatesBSAI
+1988,1989,1,Sculpins,BSAI,NA,NA,NA,15,1,SculpinsBSAI
+1988,1989,1,Sharks,BSAI,NA,NA,NA,19,1,SharksBSAI
+1988,1989,1,Squids,BSAI,NA,10000,1000,21,1,SquidsBSAI
+1988,1989,1,Octopuses,BSAI,NA,NA,NA,20,1,OctopusesBSAI
+1988,1989,1,Other species,BSAI,NA,59000,13264,16,1,Other speciesBSAI
+1987,1988,1,Pollock,BS,NA,1500000,1300000,1,1,PollockBS
+1987,1988,1,Pollock,AI,NA,160000,45000,1,1,PollockAI
+1987,1988,1,Pollock,Bogoslof,NA,NA,NA,1,1,PollockBogoslof
+1987,1988,1,Pacific cod,BSAI,NA,385300,200000,2,1,Pacific codBSAI
+1987,1988,1,Pacific cod,BS,NA,NA,NA,2,0,Pacific codBS
+1987,1988,1,Pacific cod,AI,NA,NA,NA,2,0,Pacific codAI
+1987,1988,1,Sablefish,BSAI Total,NA,NA,NA,3,1,SablefishBSAI Total
+1987,1988,1,Sablefish,Alaska Total,NA,NA,NA,3,0,SablefishAlaska Total
+1987,1988,1,Sablefish,BS,NA,3400,3400,3,1,SablefishBS
+1987,1988,1,Sablefish,AI,NA,5800,5000,3,1,SablefishAI
+1987,1988,1,Yellowfin sole,BSAI,NA,254000,254000,4,1,Yellowfin soleBSAI
+1987,1988,1,Greenland turbot,BSAI,NA,14100,11200,5,1,Greenland turbotBSAI
+1987,1988,1,Greenland turbot,BS,NA,NA,NA,5,0,Greenland turbotBS
+1987,1988,1,Greenland turbot,AI,NA,NA,NA,5,0,Greenland turbotAI
+1987,1988,1,Arrowtooth flounder,BSAI,NA,99500,5531,6,1,Arrowtooth flounderBSAI
+1987,1988,1,Kamchatka flounder,BSAI,NA,NA,NA,7,1,Kamchatka flounderBSAI
+1987,1988,1,Northern rock sole,BSAI,NA,NA,NA,8,1,Northern rock soleBSAI
+1987,1988,1,Flathead sole,BSAI,NA,NA,NA,9,1,Flathead soleBSAI
+1987,1988,1,Alaska plaice,BSAI,NA,NA,NA,10,1,Alaska plaiceBSAI
+1987,1988,1,Other flatfish,BSAI,NA,331900,131369,11,1,Other flatfishBSAI
+1987,1988,1,Pacific ocean perch,BSAI,NA,NA,NA,12,1,Pacific ocean perchBSAI
+1987,1988,1,Pacific ocean perch,BS,NA,6000,5000,12,0,Pacific ocean perchBS
+1987,1988,1,Pacific ocean perch,AI,NA,16600,6000,12,0,Pacific ocean perchAI
+1987,1988,1,Pacific ocean perch,EAI,NA,NA,NA,12,0,Pacific ocean perchEAI
+1987,1988,1,Pacific ocean perch,CAI,NA,NA,NA,12,0,Pacific ocean perchCAI
+1987,1988,1,Pacific ocean perch,WAI,NA,NA,NA,12,0,Pacific ocean perchWAI
+1987,1988,1,Sharpchin/Northern,BSAI,NA,NA,NA,19,1,Sharpchin/NorthernBSAI
+1987,1988,1,Sharpchin/Northern,BS,NA,NA,NA,19,0,Sharpchin/NorthernBS
+1987,1988,1,Sharpchin/Northern,AI,NA,NA,NA,19,0,Sharpchin/NorthernAI
+1987,1988,1,Northern rockfish,BSAI,NA,NA,NA,13,1,Northern rockfishBSAI
+1987,1988,1,Northern rockfish,BS,NA,NA,NA,13,0,Northern rockfishBS
+1987,1988,1,Northern rockfish,AI,NA,NA,NA,13,0,Northern rockfishAI
+1987,1988,1,Blackspotted/Rougheye rockfish,BSAI,NA,NA,NA,14,1,Blackspotted/Rougheye rockfishBSAI
+1987,1988,1,Blackspotted/Rougheye rockfish,BS/EAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishBS/EAI
+1987,1988,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+1987,1988,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1987,1988,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1987,1988,1,Shortraker rockfish,BS,NA,NA,NA,15,0,Shortraker rockfishBS
+1987,1988,1,Shortraker rockfish,AI,NA,NA,NA,15,0,Shortraker rockfishAI
+1987,1988,1,Other Red rockfish,BS,NA,NA,NA,11,0,Other Red rockfishBS
+1987,1988,1,Other Red rockfish,AI,NA,NA,NA,11,0,Other Red rockfishAI
+1987,1988,1,Other Red rockfish,BSAI,NA,1500,1500,11,1,Other Red rockfishBSAI
+1987,1988,1,Other Red rockfish,BS,NA,400,400,11,0,Other Red rockfishBS
+1987,1988,1,Other Red rockfish,AI,NA,1100,1100,11,0,Other Red rockfishAI
+1987,1988,1,Atka mackerel,BSAI,NA,21000,21000,17,1,Atka mackerelBSAI
+1987,1988,1,Atka mackerel,EAI/BS,NA,NA,NA,17,0,Atka mackerelEAI/BS
+1987,1988,1,Atka mackerel,CAI,NA,NA,NA,17,0,Atka mackerelCAI
+1987,1988,1,Atka mackerel,WAI,NA,NA,NA,17,0,Atka mackerelWAI
+1987,1988,1,Skates,BSAI,NA,NA,NA,18,1,SkatesBSAI
+1987,1988,1,Sculpins,BSAI,NA,NA,NA,15,1,SculpinsBSAI
+1987,1988,1,Sharks,BSAI,NA,NA,NA,19,1,SharksBSAI
+1987,1988,1,Squids,BSAI,NA,10000,1000,21,1,SquidsBSAI
+1987,1988,1,Octopuses,BSAI,NA,NA,NA,20,1,OctopusesBSAI
+1987,1988,1,Other species,BSAI,NA,54000,10000,16,1,Other speciesBSAI
+1986,1987,1,Pollock,BS,NA,NA,1200000,1,1,PollockBS
+1986,1987,1,Pollock,AI,NA,NA,88000,1,1,PollockAI
+1986,1987,1,Pollock,Bogoslof,NA,NA,NA,1,1,PollockBogoslof
+1986,1987,1,Pacific cod,BSAI,NA,NA,280000,2,1,Pacific codBSAI
+1986,1987,1,Pacific cod,BS,NA,NA,NA,2,0,Pacific codBS
+1986,1987,1,Pacific cod,AI,NA,NA,NA,2,0,Pacific codAI
+1986,1987,1,Sablefish,BSAI Total,NA,NA,NA,3,1,SablefishBSAI Total
+1986,1987,1,Sablefish,Alaska Total,NA,NA,NA,3,0,SablefishAlaska Total
+1986,1987,1,Sablefish,BS,NA,NA,3700,3,1,SablefishBS
+1986,1987,1,Sablefish,AI,NA,NA,4000,3,1,SablefishAI
+1986,1987,1,Yellowfin sole,BSAI,NA,NA,187000,4,1,Yellowfin soleBSAI
+1986,1987,1,Greenland turbot,BSAI,NA,NA,20000,5,1,Greenland turbotBSAI
+1986,1987,1,Greenland turbot,BS,NA,NA,NA,5,0,Greenland turbotBS
+1986,1987,1,Greenland turbot,AI,NA,NA,NA,5,0,Greenland turbotAI
+1986,1987,1,Arrowtooth flounder,BSAI,NA,NA,9795,6,1,Arrowtooth flounderBSAI
+1986,1987,1,Kamchatka flounder,BSAI,NA,NA,NA,7,1,Kamchatka flounderBSAI
+1986,1987,1,Northern rock sole,BSAI,NA,NA,NA,8,1,Northern rock soleBSAI
+1986,1987,1,Flathead sole,BSAI,NA,NA,NA,9,1,Flathead soleBSAI
+1986,1987,1,Alaska plaice,BSAI,NA,NA,NA,10,1,Alaska plaiceBSAI
+1986,1987,1,Other flatfish,BSAI,NA,NA,148300,11,1,Other flatfishBSAI
+1986,1987,1,Pacific ocean perch,BSAI,NA,NA,NA,12,1,Pacific ocean perchBSAI
+1986,1987,1,Pacific ocean perch,BS,NA,NA,2850,12,0,Pacific ocean perchBS
+1986,1987,1,Pacific ocean perch,AI,NA,NA,8175,12,0,Pacific ocean perchAI
+1986,1987,1,Pacific ocean perch,EAI,NA,NA,NA,12,0,Pacific ocean perchEAI
+1986,1987,1,Pacific ocean perch,CAI,NA,NA,NA,12,0,Pacific ocean perchCAI
+1986,1987,1,Pacific ocean perch,WAI,NA,NA,NA,12,0,Pacific ocean perchWAI
+1986,1987,1,Sharpchin/Northern,BSAI,NA,NA,NA,19,1,Sharpchin/NorthernBSAI
+1986,1987,1,Sharpchin/Northern,BS,NA,NA,NA,19,0,Sharpchin/NorthernBS
+1986,1987,1,Sharpchin/Northern,AI,NA,NA,NA,19,0,Sharpchin/NorthernAI
+1986,1987,1,Northern rockfish,BSAI,NA,NA,NA,13,1,Northern rockfishBSAI
+1986,1987,1,Northern rockfish,BS,NA,NA,NA,13,0,Northern rockfishBS
+1986,1987,1,Northern rockfish,AI,NA,NA,NA,13,0,Northern rockfishAI
+1986,1987,1,Blackspotted/Rougheye rockfish,BSAI,NA,NA,NA,14,1,Blackspotted/Rougheye rockfishBSAI
+1986,1987,1,Blackspotted/Rougheye rockfish,BS/EAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishBS/EAI
+1986,1987,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+1986,1987,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1986,1987,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1986,1987,1,Shortraker rockfish,BS,NA,NA,NA,15,0,Shortraker rockfishBS
+1986,1987,1,Shortraker rockfish,AI,NA,NA,NA,15,0,Shortraker rockfishAI
+1986,1987,1,Other Red rockfish,BS,NA,NA,NA,11,0,Other Red rockfishBS
+1986,1987,1,Other Red rockfish,AI,NA,NA,NA,11,0,Other Red rockfishAI
+1986,1987,1,Other Red rockfish,BSAI,NA,NA,1880,11,1,Other Red rockfishBSAI
+1986,1987,1,Other Red rockfish,BS,NA,NA,450,11,0,Other Red rockfishBS
+1986,1987,1,Other Red rockfish,AI,NA,NA,1430,11,0,Other Red rockfishAI
+1986,1987,1,Atka mackerel,BSAI,NA,NA,30800,17,1,Atka mackerelBSAI
+1986,1987,1,Atka mackerel,EAI/BS,NA,NA,NA,17,0,Atka mackerelEAI/BS
+1986,1987,1,Atka mackerel,CAI,NA,NA,NA,17,0,Atka mackerelCAI
+1986,1987,1,Atka mackerel,WAI,NA,NA,NA,17,0,Atka mackerelWAI
+1986,1987,1,Skates,BSAI,NA,NA,NA,18,1,SkatesBSAI
+1986,1987,1,Sculpins,BSAI,NA,NA,NA,15,1,SculpinsBSAI
+1986,1987,1,Sharks,BSAI,NA,NA,NA,19,1,SharksBSAI
+1986,1987,1,Squids,BSAI,NA,NA,500,21,1,SquidsBSAI
+1986,1987,1,Octopuses,BSAI,NA,NA,NA,20,1,OctopusesBSAI
+1986,1987,1,Other species,BSAI,NA,NA,15000,16,1,Other speciesBSAI
+1985,1986,1,Pollock,BS,NA,NA,1200000,1,1,PollockBS
+1985,1986,1,Pollock,AI,NA,NA,100000,1,1,PollockAI
+1985,1986,1,Pollock,Bogoslof,NA,NA,NA,1,1,PollockBogoslof
+1985,1986,1,Pacific cod,BSAI,NA,NA,229000,2,1,Pacific codBSAI
+1985,1986,1,Pacific cod,BS,NA,NA,NA,2,0,Pacific codBS
+1985,1986,1,Pacific cod,AI,NA,NA,NA,2,0,Pacific codAI
+1985,1986,1,Sablefish,BSAI Total,NA,NA,NA,3,1,SablefishBSAI Total
+1985,1986,1,Sablefish,Alaska Total,NA,NA,NA,3,0,SablefishAlaska Total
+1985,1986,1,Sablefish,BS,NA,NA,2250,3,1,SablefishBS
+1985,1986,1,Sablefish,AI,NA,NA,4200,3,1,SablefishAI
+1985,1986,1,Yellowfin sole,BSAI,NA,NA,209500,4,1,Yellowfin soleBSAI
+1985,1986,1,Greenland turbot,BSAI,NA,NA,33000,5,1,Greenland turbotBSAI
+1985,1986,1,Greenland turbot,BS,NA,NA,NA,5,0,Greenland turbotBS
+1985,1986,1,Greenland turbot,AI,NA,NA,NA,5,0,Greenland turbotAI
+1985,1986,1,Arrowtooth flounder,BSAI,NA,NA,20000,6,1,Arrowtooth flounderBSAI
+1985,1986,1,Kamchatka flounder,BSAI,NA,NA,NA,7,1,Kamchatka flounderBSAI
+1985,1986,1,Northern rock sole,BSAI,NA,NA,NA,8,1,Northern rock soleBSAI
+1985,1986,1,Flathead sole,BSAI,NA,NA,NA,9,1,Flathead soleBSAI
+1985,1986,1,Alaska plaice,BSAI,NA,NA,NA,10,1,Alaska plaiceBSAI
+1985,1986,1,Other flatfish,BSAI,NA,NA,124200,11,1,Other flatfishBSAI
+1985,1986,1,Pacific ocean perch,BSAI,NA,NA,NA,12,1,Pacific ocean perchBSAI
+1985,1986,1,Pacific ocean perch,BS,NA,NA,825,12,0,Pacific ocean perchBS
+1985,1986,1,Pacific ocean perch,AI,NA,NA,6800,12,0,Pacific ocean perchAI
+1985,1986,1,Pacific ocean perch,EAI,NA,NA,NA,12,0,Pacific ocean perchEAI
+1985,1986,1,Pacific ocean perch,CAI,NA,NA,NA,12,0,Pacific ocean perchCAI
+1985,1986,1,Pacific ocean perch,WAI,NA,NA,NA,12,0,Pacific ocean perchWAI
+1985,1986,1,Sharpchin/Northern,BSAI,NA,NA,NA,19,1,Sharpchin/NorthernBSAI
+1985,1986,1,Sharpchin/Northern,BS,NA,NA,NA,19,0,Sharpchin/NorthernBS
+1985,1986,1,Sharpchin/Northern,AI,NA,NA,NA,19,0,Sharpchin/NorthernAI
+1985,1986,1,Northern rockfish,BSAI,NA,NA,NA,13,1,Northern rockfishBSAI
+1985,1986,1,Northern rockfish,BS,NA,NA,NA,13,0,Northern rockfishBS
+1985,1986,1,Northern rockfish,AI,NA,NA,NA,13,0,Northern rockfishAI
+1985,1986,1,Blackspotted/Rougheye rockfish,BSAI,NA,NA,NA,14,1,Blackspotted/Rougheye rockfishBSAI
+1985,1986,1,Blackspotted/Rougheye rockfish,BS/EAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishBS/EAI
+1985,1986,1,Blackspotted/Rougheye rockfish,CAI/WAI,NA,NA,NA,14,0,Blackspotted/Rougheye rockfishCAI/WAI
+1985,1986,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1985,1986,1,Shortraker rockfish,BSAI,NA,NA,NA,15,1,Shortraker rockfishBSAI
+1985,1986,1,Shortraker rockfish,BS,NA,NA,NA,15,0,Shortraker rockfishBS
+1985,1986,1,Shortraker rockfish,AI,NA,NA,NA,15,0,Shortraker rockfishAI
+1985,1986,1,Other Red rockfish,BS,NA,NA,NA,11,0,Other Red rockfishBS
+1985,1986,1,Other Red rockfish,AI,NA,NA,NA,11,0,Other Red rockfishAI
+1985,1986,1,Other Red rockfish,BSAI,NA,NA,6625,11,1,Other Red rockfishBSAI
+1985,1986,1,Other Red rockfish,BS,NA,NA,825,11,0,Other Red rockfishBS
+1985,1986,1,Other Red rockfish,AI,NA,NA,5800,11,0,Other Red rockfishAI
+1985,1986,1,Atka mackerel,BSAI,NA,NA,30800,17,1,Atka mackerelBSAI
+1985,1986,1,Atka mackerel,EAI/BS,NA,NA,NA,17,0,Atka mackerelEAI/BS
+1985,1986,1,Atka mackerel,CAI,NA,NA,NA,17,0,Atka mackerelCAI
+1985,1986,1,Atka mackerel,WAI,NA,NA,NA,17,0,Atka mackerelWAI
+1985,1986,1,Skates,BSAI,NA,NA,NA,18,1,SkatesBSAI
+1985,1986,1,Sculpins,BSAI,NA,NA,NA,15,1,SculpinsBSAI
+1985,1986,1,Sharks,BSAI,NA,NA,NA,19,1,SharksBSAI
+1985,1986,1,Squids,BSAI,NA,NA,5000,21,1,SquidsBSAI
+1985,1986,1,Octopuses,BSAI,NA,NA,NA,20,1,OctopusesBSAI
+1985,1986,1,Other species,BSAI,NA,NA,27800,16,1,Other speciesBSAI
