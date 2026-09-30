@@ -1,0 +1,61 @@
+.council-explorer {
+  --ce-ink: #243649;
+  --ce-muted: #526273;
+  --ce-border: #c8d4df;
+  --ce-blue: #155e86;
+  box-sizing: border-box;
+  width: 100%;
+  color: var(--ce-ink);
+  background: #fff;
+  font: 15px/1.5 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+.council-explorer *, .council-explorer *::before, .council-explorer *::after { box-sizing: border-box; }
+.council-explorer [hidden] { display: none !important; }
+.council-explorer .ce-controls { padding: 18px; border: 1px solid var(--ce-border); border-radius: 8px; background: #f5f8fa; }
+.council-explorer .ce-control-grid { display: grid; grid-template-columns: minmax(0, 1.6fr) minmax(100px, .7fr) minmax(0, 1.4fr); gap: 14px; }
+.council-explorer .ce-control { min-width: 0; }
+.council-explorer .ce-control > label { display: block; margin-bottom: 5px; font-weight: 650; }
+.council-explorer input[type="search"], .council-explorer input[type="number"], .council-explorer select {
+  width: 100%; min-height: 42px; padding: 8px 10px; border: 1px solid #8d9fae; border-radius: 4px; color: var(--ce-ink); background: #fff; font: inherit;
+}
+.council-explorer button { min-height: 40px; padding: 8px 12px; border: 1px solid var(--ce-blue); border-radius: 4px; color: var(--ce-blue); background: #fff; font: inherit; font-weight: 600; cursor: pointer; }
+.council-explorer button:hover { background: #e8f1f7; }
+.council-explorer button:disabled { opacity: .55; cursor: default; }
+.council-explorer :is(input, select, button, summary, [tabindex]):focus-visible { outline: 3px solid #e19813; outline-offset: 3px; }
+.council-explorer fieldset { min-width: 0; margin: 15px 0 0; padding: 10px 12px 12px; border: 1px solid var(--ce-border); border-radius: 4px; }
+.council-explorer legend { padding: 0 6px; color: var(--ce-ink); font-weight: 650; }
+.council-explorer .ce-metrics .ce-check { display: inline-flex; margin-right: 22px; }
+.council-explorer .ce-check { display: flex; align-items: flex-start; gap: 8px; padding: 5px 2px; cursor: pointer; overflow-wrap: anywhere; }
+.council-explorer .ce-check input { flex: 0 0 auto; width: 17px; height: 17px; margin: 3px 0 0; accent-color: var(--ce-blue); }
+.council-explorer .ce-species .ce-help { margin-top: 0; }
+.council-explorer .ce-species-actions { display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0; }
+.council-explorer .ce-species-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 0 12px; max-height: 230px; overflow-y: auto; padding: 3px 6px; border-top: 1px solid var(--ce-border); }
+.council-explorer .ce-year-grid { display: grid; grid-template-columns: minmax(95px, 1fr) minmax(95px, 1fr) auto auto; gap: 12px; align-items: end; margin-top: 16px; }
+.council-explorer .ce-year-grid button { min-height: 42px; }
+.council-explorer .ce-definition { margin: 16px 0 0; color: var(--ce-muted); font-size: .92em; }
+.council-explorer .ce-status { margin: 10px 0 0; font-weight: 600; }
+.council-explorer .ce-plot { width: 100%; height: 500px; min-height: 500px; }
+.council-explorer .ce-footer { padding: 0 4px 12px; }
+.council-explorer #explorer-download { color: #fff; background: var(--ce-blue); }
+.council-explorer #explorer-download:hover { background: #104b6c; }
+.council-explorer .ce-help { color: var(--ce-muted); font-size: .9em; }
+.council-explorer .ce-table-details { padding: 12px; border: 1px solid var(--ce-border); border-radius: 6px; margin: 4px 0 12px; }
+.council-explorer summary { cursor: pointer; font-weight: 650; }
+.council-explorer .ce-table-scroll { width: 100%; max-height: 480px; overflow: auto; }
+.council-explorer table { width: 100%; border-collapse: collapse; background: #fff; font-size: .87em; }
+.council-explorer th, .council-explorer td { padding: 7px 9px; border-bottom: 1px solid #d8e0e7; text-align: left; vertical-align: top; }
+.council-explorer thead th { position: sticky; top: 0; background: #eaf0f4; z-index: 1; white-space: nowrap; }
+.council-explorer tbody th { font-weight: 500; }
+.council-explorer .ce-number { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.council-explorer .ce-visually-hidden { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+@media (max-width: 640px) {
+  .council-explorer .ce-controls { padding: 12px; }
+  .council-explorer .ce-control-grid { grid-template-columns: 1fr 1fr; }
+  .council-explorer .ce-control-grid > :first-child { grid-column: 1 / -1; }
+  .council-explorer .ce-year-grid { grid-template-columns: 1fr 1fr; }
+  .council-explorer .ce-species-list { grid-template-columns: 1fr; }
+  .council-explorer button { font-size: .92em; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .council-explorer * { scroll-behavior: auto !important; }
+}

@@ -1,0 +1,826 @@
+{
+  "generated_at_utc": "2026-09-30T05:11:16Z",
+  "passed": true,
+  "rows": 6101,
+  "unique_selection_keys": true,
+  "units": "metric tons",
+  "no_interpolation_or_missing_year_fill": true,
+  "region_year_species_selection_counts": [
+    {
+      "Dataset": "AKFIN catch",
+      "Region": "BSAI",
+      "plotting_rows": 184
+    },
+    {
+      "Dataset": "AKFIN catch",
+      "Region": "GOA",
+      "plotting_rows": 184
+    },
+    {
+      "Dataset": "Harvest specifications",
+      "Region": "BSAI",
+      "plotting_rows": 2829
+    },
+    {
+      "Dataset": "Harvest specifications",
+      "Region": "GOA",
+      "plotting_rows": 2304
+    },
+    {
+      "Dataset": "NOAA quota-account catch",
+      "Region": "BSAI",
+      "plotting_rows": 287
+    },
+    {
+      "Dataset": "NOAA quota-account catch",
+      "Region": "GOA",
+      "plotting_rows": 313
+    }
+  ],
+  "coverage": [
+    {
+      "Dataset": "AKFIN catch",
+      "Region": "BSAI",
+      "first_year": 2003,
+      "last_year": 2025,
+      "species_options": 8
+    },
+    {
+      "Dataset": "AKFIN catch",
+      "Region": "GOA",
+      "first_year": 2003,
+      "last_year": 2025,
+      "species_options": 8
+    },
+    {
+      "Dataset": "Harvest specifications",
+      "Region": "BSAI",
+      "first_year": 1986,
+      "last_year": 2026,
+      "species_options": 26
+    },
+    {
+      "Dataset": "Harvest specifications",
+      "Region": "GOA",
+      "first_year": 1986,
+      "last_year": 2024,
+      "species_options": 29
+    },
+    {
+      "Dataset": "NOAA quota-account catch",
+      "Region": "BSAI",
+      "first_year": 2013,
+      "last_year": 2025,
+      "species_options": 23
+    },
+    {
+      "Dataset": "NOAA quota-account catch",
+      "Region": "GOA",
+      "first_year": 2013,
+      "last_year": 2025,
+      "species_options": 25
+    }
+  ],
+  "akfin_species_rounding_max_t": 2,
+  "akfin_published_totals_match_raw_all_groundfish": true,
+  "akfin_rounding_checks": [
+    {
+      "Region": "BSAI",
+      "Year": 2003,
+      "Species_sum_t": 1969729,
+      "Published_total_t": 1969730,
+      "Difference_t": -1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2004,
+      "Species_sum_t": 1979754,
+      "Published_total_t": 1979754,
+      "Difference_t": 0
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2005,
+      "Species_sum_t": 1981117,
+      "Published_total_t": 1981117,
+      "Difference_t": 0
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2006,
+      "Species_sum_t": 1982556,
+      "Published_total_t": 1982557,
+      "Difference_t": -1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2007,
+      "Species_sum_t": 1860420,
+      "Published_total_t": 1860419,
+      "Difference_t": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2008,
+      "Species_sum_t": 1545686,
+      "Published_total_t": 1545687,
+      "Difference_t": -1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2009,
+      "Species_sum_t": 1337117,
+      "Published_total_t": 1337116,
+      "Difference_t": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2010,
+      "Species_sum_t": 1354486,
+      "Published_total_t": 1354486,
+      "Difference_t": 0
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2011,
+      "Species_sum_t": 1818901,
+      "Published_total_t": 1818902,
+      "Difference_t": -1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2012,
+      "Species_sum_t": 1858061,
+      "Published_total_t": 1858060,
+      "Difference_t": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2013,
+      "Species_sum_t": 1915141,
+      "Published_total_t": 1915142,
+      "Difference_t": -1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2014,
+      "Species_sum_t": 1928983,
+      "Published_total_t": 1928984,
+      "Difference_t": -1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2015,
+      "Species_sum_t": 1914729,
+      "Published_total_t": 1914729,
+      "Difference_t": 0
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2016,
+      "Species_sum_t": 1969380,
+      "Published_total_t": 1969380,
+      "Difference_t": 0
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2017,
+      "Species_sum_t": 1968943,
+      "Published_total_t": 1968943,
+      "Difference_t": 0
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2018,
+      "Species_sum_t": 1966174,
+      "Published_total_t": 1966175,
+      "Difference_t": -1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2019,
+      "Species_sum_t": 1959523,
+      "Published_total_t": 1959523,
+      "Difference_t": 0
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2020,
+      "Species_sum_t": 1895966,
+      "Published_total_t": 1895965,
+      "Difference_t": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2021,
+      "Species_sum_t": 1814311,
+      "Published_total_t": 1814311,
+      "Difference_t": 0
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2022,
+      "Species_sum_t": 1628446,
+      "Published_total_t": 1628446,
+      "Difference_t": 0
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2023,
+      "Species_sum_t": 1798977,
+      "Published_total_t": 1798977,
+      "Difference_t": 0
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2024,
+      "Species_sum_t": 1781826,
+      "Published_total_t": 1781824,
+      "Difference_t": 2
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2025,
+      "Species_sum_t": 1794250,
+      "Published_total_t": 1794251,
+      "Difference_t": -1
+    },
+    {
+      "Region": "GOA",
+      "Year": 2003,
+      "Species_sum_t": 191192,
+      "Published_total_t": 191192,
+      "Difference_t": 0
+    },
+    {
+      "Region": "GOA",
+      "Year": 2004,
+      "Species_sum_t": 188509,
+      "Published_total_t": 188508,
+      "Difference_t": 1
+    },
+    {
+      "Region": "GOA",
+      "Year": 2005,
+      "Species_sum_t": 200259,
+      "Published_total_t": 200259,
+      "Difference_t": 0
+    },
+    {
+      "Region": "GOA",
+      "Year": 2006,
+      "Species_sum_t": 210339,
+      "Published_total_t": 210339,
+      "Difference_t": 0
+    },
+    {
+      "Region": "GOA",
+      "Year": 2007,
+      "Species_sum_t": 192395,
+      "Published_total_t": 192395,
+      "Difference_t": 0
+    },
+    {
+      "Region": "GOA",
+      "Year": 2008,
+      "Species_sum_t": 202607,
+      "Published_total_t": 202605,
+      "Difference_t": 2
+    },
+    {
+      "Region": "GOA",
+      "Year": 2009,
+      "Species_sum_t": 185583,
+      "Published_total_t": 185582,
+      "Difference_t": 1
+    },
+    {
+      "Region": "GOA",
+      "Year": 2010,
+      "Species_sum_t": 239948,
+      "Published_total_t": 239948,
+      "Difference_t": 0
+    },
+    {
+      "Region": "GOA",
+      "Year": 2011,
+      "Species_sum_t": 252391,
+      "Published_total_t": 252389,
+      "Difference_t": 2
+    },
+    {
+      "Region": "GOA",
+      "Year": 2012,
+      "Species_sum_t": 259330,
+      "Published_total_t": 259330,
+      "Difference_t": 0
+    },
+    {
+      "Region": "GOA",
+      "Year": 2013,
+      "Species_sum_t": 250640,
+      "Published_total_t": 250640,
+      "Difference_t": 0
+    },
+    {
+      "Region": "GOA",
+      "Year": 2014,
+      "Species_sum_t": 326826,
+      "Published_total_t": 326826,
+      "Difference_t": 0
+    },
+    {
+      "Region": "GOA",
+      "Year": 2015,
+      "Species_sum_t": 324898,
+      "Published_total_t": 324898,
+      "Difference_t": 0
+    },
+    {
+      "Region": "GOA",
+      "Year": 2016,
+      "Species_sum_t": 324438,
+      "Published_total_t": 324437,
+      "Difference_t": 1
+    },
+    {
+      "Region": "GOA",
+      "Year": 2017,
+      "Species_sum_t": 321513,
+      "Published_total_t": 321514,
+      "Difference_t": -1
+    },
+    {
+      "Region": "GOA",
+      "Year": 2018,
+      "Species_sum_t": 255734,
+      "Published_total_t": 255734,
+      "Difference_t": 0
+    },
+    {
+      "Region": "GOA",
+      "Year": 2019,
+      "Species_sum_t": 224173,
+      "Published_total_t": 224173,
+      "Difference_t": 0
+    },
+    {
+      "Region": "GOA",
+      "Year": 2020,
+      "Species_sum_t": 194414,
+      "Published_total_t": 194414,
+      "Difference_t": 0
+    },
+    {
+      "Region": "GOA",
+      "Year": 2021,
+      "Species_sum_t": 192781,
+      "Published_total_t": 192781,
+      "Difference_t": 0
+    },
+    {
+      "Region": "GOA",
+      "Year": 2022,
+      "Species_sum_t": 237540,
+      "Published_total_t": 237540,
+      "Difference_t": 0
+    },
+    {
+      "Region": "GOA",
+      "Year": 2023,
+      "Species_sum_t": 229342,
+      "Published_total_t": 229342,
+      "Difference_t": 0
+    },
+    {
+      "Region": "GOA",
+      "Year": 2024,
+      "Species_sum_t": 233336,
+      "Published_total_t": 233337,
+      "Difference_t": -1
+    },
+    {
+      "Region": "GOA",
+      "Year": 2025,
+      "Species_sum_t": 245151,
+      "Published_total_t": 245152,
+      "Difference_t": -1
+    }
+  ],
+  "specification_annual_measures_checked": 240,
+  "specification_exact_annual_sums_match": true,
+  "specification_species_sums_match": true,
+  "specification_all_missing_annual_measures": 15,
+  "specification_repeated_label_groups": [
+    {
+      "Region": "BSAI",
+      "Year": 1986,
+      "Species": "Shortraker rockfish",
+      "RepeatedLabels": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 1987,
+      "Species": "Shortraker rockfish",
+      "RepeatedLabels": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 1988,
+      "Species": "Shortraker rockfish",
+      "RepeatedLabels": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 1989,
+      "Species": "Shortraker rockfish",
+      "RepeatedLabels": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 1990,
+      "Species": "Shortraker rockfish",
+      "RepeatedLabels": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 1991,
+      "Species": "Shortraker rockfish",
+      "RepeatedLabels": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 1992,
+      "Species": "Shortraker rockfish",
+      "RepeatedLabels": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 1993,
+      "Species": "Shortraker rockfish",
+      "RepeatedLabels": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 1994,
+      "Species": "Shortraker rockfish",
+      "RepeatedLabels": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 1995,
+      "Species": "Shortraker rockfish",
+      "RepeatedLabels": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 1996,
+      "Species": "Shortraker rockfish",
+      "RepeatedLabels": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 1997,
+      "Species": "Shortraker rockfish",
+      "RepeatedLabels": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 1998,
+      "Species": "Shortraker rockfish",
+      "RepeatedLabels": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 1999,
+      "Species": "Shortraker rockfish",
+      "RepeatedLabels": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2000,
+      "Species": "Shortraker rockfish",
+      "RepeatedLabels": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2001,
+      "Species": "Shortraker rockfish",
+      "RepeatedLabels": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2002,
+      "Species": "Shortraker rockfish",
+      "RepeatedLabels": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2003,
+      "Species": "Shortraker rockfish",
+      "RepeatedLabels": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2004,
+      "Species": "Shortraker rockfish",
+      "RepeatedLabels": 1
+    },
+    {
+      "Region": "GOA",
+      "Year": 1986,
+      "Species": "Other Rockfish",
+      "RepeatedLabels": 1
+    },
+    {
+      "Region": "GOA",
+      "Year": 1987,
+      "Species": "Other Rockfish",
+      "RepeatedLabels": 1
+    }
+  ],
+  "specification_overlapping_subtotals_preserved_and_flagged": [
+    {
+      "Region": "BSAI",
+      "Year": 1995,
+      "Species": "Sablefish",
+      "Measure": "ABC",
+      "Overlap_t": 3800,
+      "NumericSubtotalRows": 1,
+      "NumericComponentRows": 2
+    },
+    {
+      "Region": "BSAI",
+      "Year": 1995,
+      "Species": "Sablefish",
+      "Measure": "TAC",
+      "Overlap_t": 3800,
+      "NumericSubtotalRows": 1,
+      "NumericComponentRows": 2
+    },
+    {
+      "Region": "BSAI",
+      "Year": 1996,
+      "Species": "Sablefish",
+      "Measure": "ABC",
+      "Overlap_t": 2500,
+      "NumericSubtotalRows": 1,
+      "NumericComponentRows": 2
+    },
+    {
+      "Region": "BSAI",
+      "Year": 1996,
+      "Species": "Sablefish",
+      "Measure": "TAC",
+      "Overlap_t": 2300,
+      "NumericSubtotalRows": 1,
+      "NumericComponentRows": 2
+    }
+  ],
+  "specification_overlapping_subtotal_measures": 4,
+  "specification_repeated_numeric_labels": [
+    {
+      "Region": "GOA",
+      "Year": 1986,
+      "Species": "Other Rockfish",
+      "Area": "Total",
+      "Measure": "TAC",
+      "NumericRows": 2
+    },
+    {
+      "Region": "GOA",
+      "Year": 1987,
+      "Species": "Other Rockfish",
+      "Area": "Total",
+      "Measure": "TAC",
+      "NumericRows": 2
+    }
+  ],
+  "specification_overlap_audit_scope": "Every species-year-measure in selected input: numeric Area BSAI, BSAI Total or Total plus numeric area components; all repeated numeric species-area-year-measure labels also checked",
+  "specification_both_source_row_counts_and_missing_counts_match": true,
+  "car110_source_accounts": 1808,
+  "car110_mapped_accounts": 1808,
+  "car110_mapping_labels": 93,
+  "car110_species_options": 31,
+  "car110_each_source_account_counted_once": true,
+  "car110_species_rounding_max_t": 6,
+  "car110_rounding_checks": [
+    {
+      "Region": "BSAI",
+      "Year": 2013,
+      "Species_sum_t": 1910349,
+      "SourceRows": 70,
+      "Published_total_t": 1910348,
+      "Difference_t": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2014,
+      "Species_sum_t": 1916516,
+      "SourceRows": 71,
+      "Published_total_t": 1916518,
+      "Difference_t": -2
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2015,
+      "Species_sum_t": 1906559,
+      "SourceRows": 71,
+      "Published_total_t": 1906559,
+      "Difference_t": 0
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2016,
+      "Species_sum_t": 1952404,
+      "SourceRows": 71,
+      "Published_total_t": 1952403,
+      "Difference_t": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2017,
+      "Species_sum_t": 1950955,
+      "SourceRows": 71,
+      "Published_total_t": 1950953,
+      "Difference_t": 2
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2018,
+      "Species_sum_t": 1947301,
+      "SourceRows": 71,
+      "Published_total_t": 1947301,
+      "Difference_t": 0
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2019,
+      "Species_sum_t": 1938629,
+      "SourceRows": 70,
+      "Published_total_t": 1938631,
+      "Difference_t": -2
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2020,
+      "Species_sum_t": 1875086,
+      "SourceRows": 70,
+      "Published_total_t": 1875089,
+      "Difference_t": -3
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2021,
+      "Species_sum_t": 1795326,
+      "SourceRows": 69,
+      "Published_total_t": 1795322,
+      "Difference_t": 4
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2022,
+      "Species_sum_t": 1606803,
+      "SourceRows": 69,
+      "Published_total_t": 1606802,
+      "Difference_t": 1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2023,
+      "Species_sum_t": 1776450,
+      "SourceRows": 69,
+      "Published_total_t": 1776452,
+      "Difference_t": -2
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2024,
+      "Species_sum_t": 1762674,
+      "SourceRows": 69,
+      "Published_total_t": 1762675,
+      "Difference_t": -1
+    },
+    {
+      "Region": "BSAI",
+      "Year": 2025,
+      "Species_sum_t": 1774232,
+      "SourceRows": 69,
+      "Published_total_t": 1774231,
+      "Difference_t": 1
+    },
+    {
+      "Region": "GOA",
+      "Year": 2013,
+      "Species_sum_t": 229048,
+      "SourceRows": 71,
+      "Published_total_t": 229047,
+      "Difference_t": 1
+    },
+    {
+      "Region": "GOA",
+      "Year": 2014,
+      "Species_sum_t": 300308,
+      "SourceRows": 70,
+      "Published_total_t": 300312,
+      "Difference_t": -4
+    },
+    {
+      "Region": "GOA",
+      "Year": 2015,
+      "Species_sum_t": 295533,
+      "SourceRows": 70,
+      "Published_total_t": 295534,
+      "Difference_t": -1
+    },
+    {
+      "Region": "GOA",
+      "Year": 2016,
+      "Species_sum_t": 297749,
+      "SourceRows": 70,
+      "Published_total_t": 297747,
+      "Difference_t": 2
+    },
+    {
+      "Region": "GOA",
+      "Year": 2017,
+      "Species_sum_t": 304658,
+      "SourceRows": 70,
+      "Published_total_t": 304659,
+      "Difference_t": -1
+    },
+    {
+      "Region": "GOA",
+      "Year": 2018,
+      "Species_sum_t": 246648,
+      "SourceRows": 70,
+      "Published_total_t": 246647,
+      "Difference_t": 1
+    },
+    {
+      "Region": "GOA",
+      "Year": 2019,
+      "Species_sum_t": 214775,
+      "SourceRows": 69,
+      "Published_total_t": 214777,
+      "Difference_t": -2
+    },
+    {
+      "Region": "GOA",
+      "Year": 2020,
+      "Species_sum_t": 187433,
+      "SourceRows": 69,
+      "Published_total_t": 187433,
+      "Difference_t": 0
+    },
+    {
+      "Region": "GOA",
+      "Year": 2021,
+      "Species_sum_t": 182949,
+      "SourceRows": 68,
+      "Published_total_t": 182950,
+      "Difference_t": -1
+    },
+    {
+      "Region": "GOA",
+      "Year": 2022,
+      "Species_sum_t": 225165,
+      "SourceRows": 68,
+      "Published_total_t": 225166,
+      "Difference_t": -1
+    },
+    {
+      "Region": "GOA",
+      "Year": 2023,
+      "Species_sum_t": 218448,
+      "SourceRows": 68,
+      "Published_total_t": 218449,
+      "Difference_t": -1
+    },
+    {
+      "Region": "GOA",
+      "Year": 2024,
+      "Species_sum_t": 220048,
+      "SourceRows": 67,
+      "Published_total_t": 220050,
+      "Difference_t": -2
+    },
+    {
+      "Region": "GOA",
+      "Year": 2025,
+      "Species_sum_t": 231539,
+      "SourceRows": 68,
+      "Published_total_t": 231545,
+      "Difference_t": -6
+    }
+  ],
+  "edge_cases": ["1986 BSAI OFL remains unavailable", "1991 BSAI partial OFL zero retained with 28 missing source entries", "Squid and sculpin omitted after their CAR110 categories ended", "AKFIN Alaska combined rows excluded", "Regional totals kept separate from rounded species sums"],
+  "package_versions": {
+    "dplyr": "1.2.1",
+    "tidyr": "1.3.2",
+    "readr": "2.2.0",
+    "stringr": "1.6.0",
+    "jsonlite": "2.0.0"
+  },
+  "R_version": "R version 4.6.1 (2026-06-24)"
+}

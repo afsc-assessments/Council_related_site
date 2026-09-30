@@ -235,6 +235,17 @@
     ]
   },
   {
+    "objectID": "abc-tac.html#time-series-explorer",
+    "href": "abc-tac.html#time-series-explorer",
+    "title": "GOA and BSAI catch and harvest specifications",
+    "section": "Explore the time series",
+    "text": "Explore the time series\nChoose a source, region, and year range. Use Choose species or groups to select one or more species, and choose ABC, TAC, or OFL for harvest specifications. Each selected species is drawn separately. Hover over a point for its value and coverage; drag across the plot to zoom.\nAKFIN provides broad species groups and labels catch preliminary. NOAA species totals combine their area, gear, sector, and CDQ accounts. Harvest specifications retain the source’s species labels and partial-value flags. Species and management group definitions vary over time and between sources; the explorer keeps the sources separate. Open circles identify sums with missing source entries, and gaps identify missing values.\nThe BSAI source compilation includes overlapping sablefish regional subtotals and area components for ABC and TAC in 1995–1996. The plot retains those source sums and flags the affected sablefish and all-groundfish values; use the source-row notes when interpreting them.\nOpen the plot in a full window · Download all plot records\n\nThe plot includes a table and CSV download for the selected records. The fixed figures and source notes below provide the regional overview.",
+    "crumbs": [
+      "Catch & management",
+      "ABC / TAC & catches"
+    ]
+  },
+  {
     "objectID": "abc-tac.html#coverage-and-downloads",
     "href": "abc-tac.html#coverage-and-downloads",
     "title": "GOA and BSAI catch and harvest specifications",

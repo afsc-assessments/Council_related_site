@@ -1,0 +1,94 @@
+Region,Account,Species
+BSAI,Alaska Plaice (includes CDQ),Alaska Plaice
+BSAI,Arrowtooth Flounder,Arrowtooth Flounder
+BSAI,Arrowtooth Flounder CDQ,Arrowtooth Flounder
+BSAI,"Atka Mackerel, Central (Trawl)",Atka Mackerel
+BSAI,"Atka Mackerel, Central CDQ",Atka Mackerel
+BSAI,"Atka Mackerel, Central ICA",Atka Mackerel
+BSAI,"Atka Mackerel, Eastern (Jig)",Atka Mackerel
+BSAI,"Atka Mackerel, Eastern (Trawl)",Atka Mackerel
+BSAI,"Atka Mackerel, Eastern CDQ",Atka Mackerel
+BSAI,"Atka Mackerel, Eastern ICA",Atka Mackerel
+BSAI,"Atka Mackerel, Western (Trawl)",Atka Mackerel
+BSAI,"Atka Mackerel, Western CDQ",Atka Mackerel
+BSAI,"Atka Mackerel, Western ICA",Atka Mackerel
+BSAI,Flathead Sole,Flathead Sole
+BSAI,Flathead Sole CDQ,Flathead Sole
+BSAI,Greenland Turbot,Greenland Turbot
+BSAI,Greenland Turbot (includes CDQ),Greenland Turbot
+BSAI,Greenland Turbot CDQ,Greenland Turbot
+BSAI,Kamchatka Flounder (includes CDQ),Kamchatka Flounder
+BSAI,Northern Rockfish (includes CDQ),Northern Rockfish
+BSAI,Octopus (includes CDQ),Octopus
+BSAI,Other Flatfish (includes CDQ),Other Flatfish
+BSAI,Other Rockfish (includes CDQ),Other Rockfish
+BSAI,Pacific Cod (Hook-and-Line and Pot < 60 ft),Pacific Cod
+BSAI,Pacific Cod (Jig),Pacific Cod
+BSAI,Pacific Cod CDQ,Pacific Cod
+BSAI,"Pacific Cod, Catcher Processor (AFA)",Pacific Cod
+BSAI,"Pacific Cod, Catcher Processor (Amendment 80)",Pacific Cod
+BSAI,"Pacific Cod, Catcher Processor (Hook-and-Line)",Pacific Cod
+BSAI,"Pacific Cod, Catcher Processor (Pot)",Pacific Cod
+BSAI,"Pacific Cod, Catcher Vessel (Hook-and-Line >= 60 ft)",Pacific Cod
+BSAI,"Pacific Cod, Catcher Vessel (Pot >= 60 ft)",Pacific Cod
+BSAI,"Pacific Cod, Catcher Vessel (Trawl)",Pacific Cod
+BSAI,"Pacific Cod, Incidental Catch (Hook-and-Line and Pot)",Pacific Cod
+BSAI,Pacific Ocean Perch (includes CDQ),Pacific Ocean Perch
+BSAI,"Pacific Ocean Perch, Central",Pacific Ocean Perch
+BSAI,"Pacific Ocean Perch, Central CDQ",Pacific Ocean Perch
+BSAI,"Pacific Ocean Perch, Eastern",Pacific Ocean Perch
+BSAI,"Pacific Ocean Perch, Eastern CDQ",Pacific Ocean Perch
+BSAI,"Pacific Ocean Perch, Western",Pacific Ocean Perch
+BSAI,"Pacific Ocean Perch, Western CDQ",Pacific Ocean Perch
+BSAI,Pollock,Pollock
+BSAI,Pollock CDQ,Pollock
+BSAI,"Pollock, AFA Catcher Processor",Pollock
+BSAI,"Pollock, AFA Inshore",Pollock
+BSAI,"Pollock, AFA Mothership",Pollock
+BSAI,"Pollock, Incidental Catch (includes CDQ)",Pollock
+BSAI,"Pollock, Incidental Catch, Bogoslof (includes CDQ)",Pollock
+BSAI,"Pollock, Incidental Catch, non-Bogoslof (includes CDQ)",Pollock
+BSAI,Rock Sole,Rock Sole
+BSAI,Rock Sole CDQ,Rock Sole
+BSAI,Rougheye Rockfish (includes CDQ) - BS + Eastern,Rougheye Rockfish
+BSAI,Rougheye Rockfish (includes CDQ) - Central + Western,Rougheye Rockfish
+BSAI,Sablefish (Hook-and-Line and Pot),Sablefish
+BSAI,Sablefish (Trawl),Sablefish
+BSAI,Sablefish CDQ (Hook-and-Line and Pot),Sablefish
+BSAI,Sablefish CDQ (Trawl),Sablefish
+BSAI,Sculpin (includes CDQ),Sculpin
+BSAI,Shark (includes CDQ),Shark
+BSAI,Shortraker Rockfish (includes CDQ),Shortraker Rockfish
+BSAI,Skate (includes CDQ),Skate
+BSAI,Squid (includes CDQ),Squid
+BSAI,Yellowfin Sole,Yellowfin Sole
+BSAI,Yellowfin Sole CDQ,Yellowfin Sole
+GOA,Arrowtooth Flounder,Arrowtooth Flounder
+GOA,Atka Mackerel,Atka Mackerel
+GOA,Big Skate,Big Skate
+GOA,Deep Water Flatfish,Deep Water Flatfish
+GOA,Demersal Shelf Rockfish,Demersal Shelf Rockfish
+GOA,Dusky Rockfish,Dusky Rockfish
+GOA,Flathead Sole,Flathead Sole
+GOA,Longnose Skate,Longnose Skate
+GOA,Northern Rockfish,Northern Rockfish
+GOA,Octopus,Octopus
+GOA,Other Rockfish,Other Rockfish
+GOA,Other Skates,Other Skates
+GOA,Pacific Cod,Pacific Cod
+GOA,Pacific Ocean Perch,Pacific Ocean Perch
+GOA,Pollock,Pollock
+GOA,"Pollock, 610 Shumagin",Pollock
+GOA,"Pollock, 620 Chirikof",Pollock
+GOA,"Pollock, 630 Kodiak",Pollock
+GOA,Rex Sole,Rex Sole
+GOA,Rougheye Rockfish,Rougheye Rockfish
+GOA,Sablefish (Fixed Gear),Sablefish
+GOA,Sablefish (Hook-and-Line),Sablefish
+GOA,Sablefish (Trawl),Sablefish
+GOA,Sculpin,Sculpin
+GOA,Shallow Water Flatfish,Shallow Water Flatfish
+GOA,Shark,Shark
+GOA,Shortraker Rockfish,Shortraker Rockfish
+GOA,Squid,Squid
+GOA,Thornyhead Rockfish,Thornyhead Rockfish
