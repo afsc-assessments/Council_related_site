@@ -195,7 +195,7 @@
       ["x", "y", "text", "hovertext", "customdata", "ids"].forEach(key => { if (Array.isArray(original[key]) && original[key].length === original.x.length) trace[key] = keep.map(index => original[key][index]); });
       if (!Array.isArray(trace.y) || !trace.y.some(value => number(value) !== null)) return null;
       if (trace.marker) ["size", "color", "symbol", "opacity"].forEach(key => { if (Array.isArray(original.marker[key]) && original.marker[key].length === original.x.length) trace.marker[key] = keep.map(index => original.marker[key][index]); });
-      trace.name = meta.Species + " — " + meta.Measure;
+      trace.name = meta.Species === TOTAL ? meta.Measure : meta.Species + " — " + meta.Measure;
       trace.legendgroup = [meta.Dataset, meta.Region, meta.Species, meta.Measure].join("|");
       trace.visible = true;
       trace.showlegend = true;
@@ -228,8 +228,8 @@
       if (state.from !== null && state.to !== null) { layout.xaxis.range = state.from === state.to ? [state.from - 0.5, state.to + 0.5] : [state.from, state.to]; layout.xaxis.autorange = false; }
       if (state.from !== null && state.to !== null && state.to - state.from < 6) { layout.xaxis.tickmode = "linear"; layout.xaxis.dtick = 1; layout.xaxis.tick0 = state.from; }
       layout.yaxis = Object.assign({}, layout.yaxis, {title: {text: "Metric tons"}, rangemode: "tozero", autorange: true, fixedrange: false});
-      layout.margin = Object.assign({}, layout.margin, {t: 55, l: 76, r: 24, b: 75});
-      layout.legend = Object.assign({}, layout.legend, {orientation: "h", x: 0, y: -0.18, xanchor: "left", yanchor: "top", title: {text: ""}});
+      layout.margin = Object.assign({}, layout.margin, {t: 55, l: 76, r: 24, b: 110});
+      layout.legend = Object.assign({}, layout.legend, {orientation: "h", x: 0, y: -0.27, xanchor: "left", yanchor: "top", title: {text: ""}});
       layout.annotations = [];
       if (!hasData) layout.annotations.push({text: "No values for this selection.<br>Choose a series, species, and valid year range.", xref: "paper", yref: "paper", x: 0.5, y: 0.5, showarrow: false, font: {size: 15, color: "#495361"}, align: "center"});
       return layout;
