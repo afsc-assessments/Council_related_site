@@ -316,7 +316,7 @@
     "href": "ssc-minutes.html",
     "title": "SSC minutes",
     "section": "",
-    "text": "The SSC comments app links each extracted paragraph to its original report page. The public app snapshot checked for this portal contains 4,214 stock-comment records, 43 stock labels, and 30 distinct reports, covering 2000 to 2024.",
+    "text": "The SSC comments app now covers all 133 SSC reports available in the NPFMC Council Records archive from 2000 through June 2026, checked on 30 September 2026. It contains 8,114 stock-comment records across 45 stock labels and links each extracted paragraph to its original report page.",
     "crumbs": [
       "Council records",
       "SSC minutes"
@@ -327,7 +327,7 @@
     "href": "ssc-minutes.html#search-and-check-the-source",
     "title": "SSC minutes",
     "section": "Search and check the source",
-    "text": "Search and check the source\nSearch by stock, fishery management plan (FMP), year, comment type, or text. Expand a record to read the full paragraph, then use Open page to read the source PDF.\nThe software matches words in the reports to assign stocks, FMPs, comment types, and model-choice labels. Some model-choice results need review. Check the original paragraph before concluding that the SSC selected a different model.\nCoverage follows the reports supplied to the public app. Check each original report’s date and status when interpreting its comments.",
+    "text": "Search and check the source\nSearch by stock, fishery management plan (FMP), year, comment type, or text. Expand a record to read the full paragraph, then use Open page to read the source PDF.\nThe software matches words in the reports to assign stocks, FMPs, comment types, and model-choice labels. Some model-choice results need review. Check the original paragraph before concluding that the SSC selected a different model.\nThe archive includes scanned reports with machine-recognized text. Check that text against the source PDF and check each report’s date and status when interpreting its comments.",
     "crumbs": [
       "Council records",
       "SSC minutes"
@@ -338,7 +338,7 @@
     "href": "ssc-minutes.html#data-and-maintenance",
     "title": "SSC minutes",
     "section": "Data and maintenance",
-    "text": "Data and maintenance\n\n\n\nResource\nPurpose\n\n\n\n\nComment data with report pages\nRecords used by this app\n\n\nStock summary\nStock/FMP counts\n\n\nReviewed model-choice labels\nHuman-reviewed labels that replace automatic labels\n\n\nData preparation script\nCreate the comment data and report-page links\n\n\nApp instructions\nHow to use the app, interpret its data, and update it\n\n\n\nThe counts above refer to the public search app and its linked comment data file as checked on 28 September 2026.",
+    "text": "Data and maintenance\n\n\n\nResource\nPurpose\n\n\n\n\nComment data with report pages\nRecords used by this app\n\n\nStock summary\nStock/FMP counts\n\n\nReviewed model-choice labels\nHuman-reviewed labels that replace automatic labels\n\n\nReport inventory and official source links\nAll 133 reports, dates, source links, and file checksums\n\n\nData preparation script\nCreate the comment data and report-page links\n\n\nApp instructions\nHow to use the app, interpret its data, and update it\n\n\n\nThe counts above refer to the public search app and its linked comment data, checked on 1 October 2026. All 133 reports are available as source PDFs; 131 contain paragraphs matched to the app’s stock labels.",
     "crumbs": [
       "Council records",
       "SSC minutes"

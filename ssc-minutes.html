@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Search stock comments and follow them to source PDF pages.">
+<meta name="description" content="Full SSC report coverage from 2000 through June 2026, with searchable stock comments and source PDF pages.">
 
 <title>SSC minutes – Council wiki</title>
 <style>
@@ -232,7 +232,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div>
   <div class="description">
-    Search stock comments and follow them to source PDF pages.
+    Full SSC report coverage from 2000 through June 2026, with searchable stock comments and source PDF pages.
   </div>
 </div>
 
@@ -249,7 +249,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>The SSC comments app links each extracted paragraph to its original report page. The public app snapshot checked for this portal contains <strong>4,214 stock-comment records</strong>, <strong>43 stock labels</strong>, and <strong>30 distinct reports</strong>, covering <strong>2000 to 2024</strong>.</p>
+<p>The SSC comments app now covers <strong>all 133 SSC reports available in the NPFMC Council Records archive from 2000 through June 2026</strong>, checked on <strong>30 September 2026</strong>. It contains <strong>8,114 stock-comment records</strong> across <strong>45 stock labels</strong> and links each extracted paragraph to its original report page.</p>
 <div class="resource-links">
 <p><a href="https://afsc-assessments.github.io/ssc-stock-comments/">Open SSC search app</a> <a href="https://afsc-assessments.github.io/ssc-stock-comments/?abc_buffer=1">Find ABC buffer and reduction language</a> <a href="https://afsc-assessments.github.io/ssc-stock-comments/?different_model=1">Find model-choice comments, including cases needing review</a> <a href="https://github.com/afsc-assessments/ssc-stock-comments">Public source repository</a></p>
 </div>
@@ -257,7 +257,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="search-and-check-the-source">Search and check the source</h2>
 <p>Search by stock, fishery management plan (FMP), year, comment type, or text. Expand a record to read the full paragraph, then use <strong>Open page</strong> to read the source PDF.</p>
 <p>The software matches words in the reports to assign stocks, FMPs, comment types, and model-choice labels. Some model-choice results need review. Check the original paragraph before concluding that the SSC selected a different model.</p>
-<p>Coverage follows the reports supplied to the public app. Check each original report’s date and status when interpreting its comments.</p>
+<p>The archive includes scanned reports with machine-recognized text. Check that text against the source PDF and check each report’s date and status when interpreting its comments.</p>
 </section>
 <section id="data-and-maintenance" class="level2">
 <h2 class="anchored" data-anchor-id="data-and-maintenance">Data and maintenance</h2>
@@ -282,16 +282,20 @@ ul.task-list li input[type="checkbox"] {
 <td>Human-reviewed labels that replace automatic labels</td>
 </tr>
 <tr class="even">
+<td><a href="https://github.com/afsc-assessments/ssc-stock-comments/blob/main/data/report_sources.json">Report inventory and official source links</a></td>
+<td>All 133 reports, dates, source links, and file checksums</td>
+</tr>
+<tr class="odd">
 <td><a href="https://github.com/afsc-assessments/ssc-stock-comments/blob/main/scripts/build_data.py">Data preparation script</a></td>
 <td>Create the comment data and report-page links</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><a href="https://github.com/afsc-assessments/ssc-stock-comments/blob/main/README.md">App instructions</a></td>
 <td>How to use the app, interpret its data, and update it</td>
 </tr>
 </tbody>
 </table>
-<p>The counts above refer to the public search app and its linked comment data file as checked on 28 September 2026.</p>
+<p>The counts above refer to the public search app and its linked comment data, checked on 1 October 2026. All 133 reports are available as source PDFs; 131 contain paragraphs matched to the app’s stock labels.</p>
 </section>
 <section id="related-analyses" class="level2">
 <h2 class="anchored" data-anchor-id="related-analyses">Related analyses</h2>
